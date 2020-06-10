@@ -1,2 +1,22 @@
-# data
-Regularly updated data series for external use.
+# Indeed Hiring Lab Data
+
+The [Indeed Hiring Lab](http://hiringlab.org) is an international team of economists and researchers dedicated to delivering insights that help drive the global labor market conversation.
+
+This GitHub repo is intended to serve as a space to host various regularly updated data series to help economists, journalists, and other interested parties better understand the labor market conditions in their countries.
+
+The data here will be updated after the Hiring Lab posts their tracker for the given country. Typically, the tracker is posted every Tuesday for Canada and the United States, and every other Tuesday for Australia, France, Germany, Ireland and the United Kingdom.
+
+Indeed has websites in over 60 markets and 28 languages.  The full list of markets is here: https://www.indeed.com/worldwide.  We have economists in Australia, Canada, France, Germany, UK/Ireland, and the US. If you are interested in data about other markets, please don't hesitate to contact us at hiringlabinfo@indeed.com.
+
+For Frequently Asked Questions regarding Indeed's data, click [here](https://www.hiringlab.org/indeed-data-faq/).
+
+# Data Schema
+
+There are three types of data series published in this repo:
+
+* **Postings trend (i.e. postings_trend_US.csv)**: To measure the trends in job postings, we calculated the 7-day moving average of the number of US job postings on Indeed. We index each day’s 7-day moving average to February 1 of that yearthe start of that year (Feb 1, 2020 = 100 for 2020 data, and so on), or another date if specified on the chart. We report how the trend in job postings this year differs from last year, in order to focus on the recent changes in labor market conditions due to COVID-19. For example: if job postings for a country increased 30% from February 1, 2019, to May 8, 2019, but only 20% from February 1, 2020, to May 8, 2020, then the index would have risen from 100 to 130 in 2019 and 100 to 120 in 2020. The year-to-date trend in job postings would therefore be down 7.7% on May 8 (120 is 7.7% below 130) in 2020 relative to 2019. 
+
+* **New postings trend (i.e. new_postings_trend_US.csv)**: For new postings, we calculate a similar metric but the underlying measure is the number of postings that have been on Indeed for seven days or less.
+
+* **Postings category trend (i.e. postings_category_trend_US.csv)**: For selected occupational categories, we calculate the same metric as postings trend, but grouped by category. The selected categories will vary slightly across countries.
+
