@@ -18,5 +18,3 @@ There are three types of data series published in this repo:
 
 * **New postings trend (i.e. new_postings_trend_US.csv)**: For new postings, we calculate a similar metric but the underlying measure is the number of postings that have been on Indeed for seven days or less.
 
-* **Postings category trend (i.e. postings_category_trend_US.csv)**: For selected occupational categories, we calculate the same metric as postings trend, but grouped by category. The selected categories will vary slightly across countries.
-
