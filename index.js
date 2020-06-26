@@ -15,7 +15,7 @@ var state = {
 };
 var directoryIdMap = {
     AU: "Australia",
-    CA: "California",
+    CA: "Canada",
     DE: "Germany",
     FR: "France",
     GB: "Great Britain",
