@@ -15,20 +15,116 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min.js"></script>
 
+    <style>
+        #attribution-container {
+            align-items: center;
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+        }
+
+        body {
+            width: 650px;
+            font-family: "Helvetica Neue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+        }
+
+        .form {
+            text-align: center;
+            width: 250px
+        }
+
+        #industry-form {
+            visibility: hidden;
+        }
+
+        #key {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            font-size: 0.75em;
+            margin: 5px 0px;
+        }
+
+        #logo {
+            width: 80px;
+        }
+
+        #selections-container {
+            align-items: center;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+
+        #source {
+            font-size: 0.7em;
+        }
+
+        #title-container {
+            justify-content: center;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 10px 0px;
+        }
+
+        #chart-dates {
+            font-weight: 600;
+        }
+
+        #chart-title {
+            font-size: 1.5em;
+            font-weight: 300;
+        }
+
+    </style>
 </head>
 
 <body>
-    <!-- Dataset selection -->
-    <form>
-        <label for="datasets">Choose a dataset:</label>
-        <select name="datasets" id="datasets"></select>
-    </form>
+
+    
+
+    <!-- Selections -->
+    <div id="selections-container">
+        <!-- Dataset selection -->
+        <form id="datasets-form" class="form">
+            <label for="datasets">Choose a dataset:</label>
+            <select name="datasets" id="datasets"></select>
+        </form>
+
+        <!-- Industry selection -->
+        <form id="industry-form" class="form">
+            <label for="industry">Choose an Industry:</label>
+            <select name="industry" id="industry"></select>
+        </form>
+
+    </div>
+
+    <!-- Title -->
+    <div id="title-container">
+        <div id="chart-title"></div>
+        <div id="chart-dates"></div>
+    </div>
 
     <!-- Chart contiainer -->
     <div class="chart-container" style="position: relative; max-width:640px">
         <canvas id="myChart"></canvas>
     </div>
-    
+
+    <!-- Footer -->
+    <div id="footer">
+        <div id="key">
+            <div style="color: #2164F3" class="color">&#9724;&#xFE0E;</div>
+            <div class='year'>2020</div>
+        </div>
+
+        <div id="attribution-container">
+            <div id="source">Source: Indeed</div>
+            <img id="logo" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Indeed_logo.png"/>
+        </div>
+    </div>
+
     <script src="index.js"></script>
 </body>
 </html>

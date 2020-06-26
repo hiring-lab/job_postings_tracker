@@ -1,9 +1,39 @@
 // Selections
 var datasetsSelection = document.querySelector("#datasets");
 var ctx = document.getElementById('myChart');
+var industryForm = document.querySelector("#industry-form");
+var industrySelection = document.querySelector("#industry");
+var chartTitle = document.querySelector("#chart-title");
+var chartDates = document.querySelector("#chart-dates");
 
 // Global vars.
+var directory;
 var myChart;
+var state = {
+    dataset: "New Postings Trend",
+    category: null
+};
+var directoryIdMap = {
+    AU: "Australia",
+    CA: "California",
+    DE: "Germany",
+    FR: "France",
+    GB: "Great Britain",
+    IE: "Ireland",
+    US: "United States"
+};
+var colors = [
+    "#2164F3"
+];
+
+function shortDate(date) {
+    var months = [
+        'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+        'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'
+    ];
+    return months[date.getMonth()] + " " + date.getDate();
+}
+
 
 /**
  * Init Chart stuff.
@@ -58,13 +88,11 @@ function initChartJS() {
                 borderWidth: 0.5,
                 itemSort: function (item1, item2) { return item2.yLabel - item1.yLabel },
                 callbacks: {
-                // title: tooltipItems => {
-                //     const date = new Date(tooltipItems[0].xLabel);
-                //     return monthNames[date.getMonth()] + ' ' + date.getFullYear();
-                // },
-                label: (tooltipItem, data) => {
-                    const label = data.datasets[tooltipItem.datasetIndex].label || '';
-                    return "  " + label + " " + "(" + tooltipItem.yLabel.toFixed(1) + "%)";
+                title: function(tooltipItems) {
+                    return shortDate(new Date(tooltipItems[0].xLabel));
+                },
+                label: function (tooltipItem, data) {
+                    return "(" + tooltipItem.yLabel.toFixed(1) + "%)";
                 }
             }
           },
@@ -80,20 +108,41 @@ function initChartJS() {
                 yAxes: [{
                     ticks: {
                         beginAtZero: false,
-                        ticks: { fontFamily: "Helvetica Neue Light" },
+                        autoSkip: false,
+
+                        callback: function(value, index, values) {
+                            console.log(value + 100);
+                            return value + 100                          
+                        }
+
                     },
                     gridLines: {
-                        display: false
+                        display: true
                     }
                 }],
                 xAxes: [{
-                    ticks: { beginAtZero: false, fontFamily: "Helvetica Neue Light" },
+                    ticks: {
+                        beginAtZero: false,
+                        autoSkip: false,
+                        maxTicksLimit: 200,
+                        callback: function(value, index, values) {
+                            console.log(["1", "15"].includes(value.split(" ")[1]) ? value : "");
+                            return ["1", "15"].includes(value.split(" ")[1]) ? value : undefined;
+                        
+                        }
+                    },
                     type: 'time',
                     time: {
-                        unit: 'day'
+                        unit: 'day',
+                        stepSize: 1
                     },
                     gridLines: {
-                        display: false
+                        display: true,
+                        callback: function(value, index, values) {
+                            console.log(["1", "15"].includes(value.split(" ")[1]) ? value : "");
+                            return ["1", "15"].includes(value.split(" ")[1]) ? true : false;
+                        
+                        }
                     }
                 }]
             }
@@ -103,7 +152,37 @@ function initChartJS() {
 
 
 // Adds data to the chart.
-const updateChart = (dataset) => {
+function updateApp ({ dataset, category }) {
+    // Update UI.
+    if (category) {
+        // Chart data.
+        var data = dataset.data.filter(function(d) {
+            return d.category === category;
+        }).map(function (d,i) {
+            return { x: new Date(d.date), y: d[dataset.yLabel] }
+        });
+
+        // UI
+        industryForm.style.visibility = "visible";
+        chartTitle.innerHTML =
+            dataset.title + " in " + category + ", " + directoryIdMap[directory];
+    } else {
+        // Chart data.
+        var data = dataset.data.map(function (d,i) {
+            return { x: new Date(d.date), y: d[dataset.yLabel] }
+        });
+
+        // UI
+        industryForm.style.visibility = "hidden";
+        chartTitle.innerHTML =
+            dataset.title + ", " + directoryIdMap[directory];
+        chartDates.innerHTML = 
+            "7 day moving avg through "
+            + shortDate(new Date(dataset.data[dataset.data.length - 1].date))
+            + ", indexed to "
+            + shortDate(new Date(dataset.data[0].date))
+    };
+
     // Remove old datasets.
     myChart.data.labels.pop();
     while (myChart.data.datasets.length) {
@@ -114,15 +193,13 @@ const updateChart = (dataset) => {
     // Init the new dataset.    
     const newDataset = {
       label: dataset.name,
-      data: dataset.data.map(function (d,i) {
-          return { x: new Date(d.date), y: d[dataset.yLabel] }
-      }),
+      data: data,
       fill: false,
-      borderColor: "#2164F3",
+      borderColor: colors[0],
       borderWidth: 3.0,
       pointRadius: 0,
       pointHoverRadius: 5,
-      pointHoverBackgroundColor: "#2164F3",
+      pointHoverBackgroundColor: colors[0],
       pointHoverBorderColor: "#000000"
     };
 
@@ -139,19 +216,22 @@ const updateChart = (dataset) => {
 function getPossibleDatasets(directory) {
     return [
         {
-            name: "newPostingsTrend",
+            name: "New Postings Trend",
+            title: "New Job Postings on Indeed",
             filepath:  "./" + directory + "/" + "new_postings_trend_" + directory + ".csv",
             data: null,
             yLabel: "YoY_pct_change_in_new_postings_trend_from_feb1"
         },
         {
-            name: "postingsTrend",
+            name: "Postings Trend",
+            title: "Job Postings on Indeed",
             filepath: "./" + directory + "/" + "postings_trend_" + directory + ".csv",
             data: null,
             yLabel: "YoY_pct_change_in_postings_trend_from_feb1"
         },
         {
-            name: "postingsCategoryTrend",
+            name: "Postings Category Trend",
+            title: "Job Postings",
             filepath: "./" + directory + "/" + "postings_category_trend_" + directory + ".csv",
             data: null,
             yLabel: "YoY_pct_change_in_postings_trend_from_feb1"
@@ -164,6 +244,9 @@ function getPossibleDatasets(directory) {
  * Populate UI.
  */
 function populateUI(datasets) {
+    // Delete existing options.
+    datasetsSelection.innerHTML = "";
+
     // Populate dataset selector.
     datasets.forEach(function(dataset) {
         if (dataset.data !== null) {
@@ -171,6 +254,9 @@ function populateUI(datasets) {
             option.value = dataset.name;
             option.innerHTML = dataset.name;
             datasetsSelection.appendChild(option);
+            if (dataset.name === "Postings Category Trend") {
+                populateIndustryForm(dataset.data);
+            };
         };
     });
 
@@ -178,12 +264,53 @@ function populateUI(datasets) {
     datasetsSelection.addEventListener("change", function() {
         for (var i = 0; i < datasets.length; i++) {
             if (datasets[i].name === this.value) {
-                updateChart(datasets[i]);
+                if (datasets[i].name === "Postings Category Trend") {
+                    state = {
+                        dataset: datasets[i],
+                        category: "Accounting"
+                    }
+                    updateApp(state);
+                } else {
+                    state = {
+                        dataset: datasets[i],
+                        category: null
+                    }
+                    updateApp(state);
+                }
                 break;
             };
         };
     });
 };
+
+
+function populateIndustryForm(data) {
+    // Populate dataset selector.
+    var categoriesSet = new Set(data.map(function(d) {
+        return d.category 
+    }));
+
+    var rtn;
+
+    Array(...categoriesSet).sort().forEach(function(category, i) {
+        if (i === 0) { rtn = i }
+        var option = document.createElement("option");
+        option.value = category;
+        option.innerHTML = category;
+        industrySelection.appendChild(option);
+    });
+
+    // Add event listener to data selector.
+    industrySelection.addEventListener("change", function() {
+        state = {
+            ...state,
+            category: this.value
+        }
+        updateApp(state);
+    });
+
+    return rtn;
+}
 
 
 /**
@@ -194,7 +321,7 @@ function main () {
     var hash = window.location.hash;
 
     // Convert to directory.
-    var directory = hash.replace("#", "");
+    directory = hash.replace("#", "");
 
     // Init datasets.
     var datasets = getPossibleDatasets(directory);
@@ -207,12 +334,35 @@ function main () {
     ).then(
         function(data) {
             data.forEach(function(d, i) { datasets[i].data = d });
+            datasets = datasets.map(function(dataset) {
+                return {
+                    ...dataset,
+                    data: dataset.data === null ? null : dataset.data.map(function(data) {
+                        var newDate = new Date(data.date);
+                        return {
+                            ...data,
+                            date: new Date(
+                                newDate.getTime()
+                                + Math.abs(newDate.getTimezoneOffset()*60000)
+                            )
+                        }
+                    })
+                }
+            })
             console.log(datasets);
             populateUI(datasets);
-            updateChart(datasets[0]);
+            state = {
+                dataset: datasets[0],
+                category: null
+            };
+            updateApp(state);
         }
     );
 };
 
 initChartJS();
 main();
+
+window.addEventListener("hashchange", function () {
+    main();
+});
