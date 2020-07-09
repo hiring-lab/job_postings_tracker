@@ -18,7 +18,7 @@ var directoryIdMap = {
     CA: "Canada",
     DE: "Germany",
     FR: "France",
-    GB: "Great Britain",
+    GB: "UK",
     IE: "Ireland",
     US: "United States"
 };
