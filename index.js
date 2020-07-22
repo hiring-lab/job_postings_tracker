@@ -5,6 +5,7 @@ var industryForm = document.querySelector("#industry-form");
 var industrySelection = document.querySelector("#industry");
 var chartTitle = document.querySelector("#chart-title");
 var chartDates = document.querySelector("#chart-dates");
+var key = document.querySelector("#key");
 
 // Global vars.
 var directory;
@@ -23,7 +24,9 @@ var directoryIdMap = {
     US: "United States"
 };
 var colors = [
-    "#2164F3"
+    "#2164F3",
+    "#ff670b",
+    "#ffb20d"
 ];
 
 function shortDate(date) {
@@ -46,12 +49,15 @@ function initChartJS() {
         draw: function(ease) {
             Chart.controllers.line.prototype.draw.call(this, ease);
 
-            if (this.chart.tooltip._active && this.chart.tooltip._active.length) {
-                var activePoint = this.chart.tooltip._active[0],
-                    ctx = this.chart.ctx,
-                    x = activePoint.tooltipPosition().x,
-                    topY = this.chart.scales['y-axis-0'].top,
-                    bottomY = this.chart.scales['y-axis-0'].bottom;
+            if (
+                this.chart.tooltip._active
+                && this.chart.tooltip._active.length
+            ) {
+                var activePoint = this.chart.tooltip._active[0];
+                var ctx = this.chart.ctx;
+                var x = activePoint.tooltipPosition().x;
+                var topY = this.chart.scales['y-axis-0'].top;
+                var bottomY = this.chart.scales['y-axis-0'].bottom;
 
                 // draw line
                 ctx.save();
@@ -109,9 +115,7 @@ function initChartJS() {
                     ticks: {
                         beginAtZero: false,
                         autoSkip: false,
-
                         callback: function(value, index, values) {
-                            console.log(value + 100);
                             return value + 100                          
                         }
 
@@ -126,9 +130,8 @@ function initChartJS() {
                         autoSkip: false,
                         maxTicksLimit: 200,
                         callback: function(value, index, values) {
-                            console.log(["1", "15"].includes(value.split(" ")[1]) ? value : "");
-                            return ["1", "15"].includes(value.split(" ")[1]) ? value : undefined;
-                        
+                            return ["1", "15"].includes(value.split(" ")[1])
+                                ? value : undefined;
                         }
                     },
                     type: 'time',
@@ -139,9 +142,8 @@ function initChartJS() {
                     gridLines: {
                         display: true,
                         callback: function(value, index, values) {
-                            console.log(["1", "15"].includes(value.split(" ")[1]) ? value : "");
-                            return ["1", "15"].includes(value.split(" ")[1]) ? true : false;
-                        
+                            return ["1", "15"].includes(value.split(" ")[1])
+                                ? true : false;
                         }
                     }
                 }]
@@ -168,9 +170,48 @@ function updateApp ({ dataset, category }) {
             dataset.title + " in " + category + ", " + directoryIdMap[directory];
     } else {
         // Chart data.
-        var data = dataset.data.map(function (d,i) {
-            return { x: new Date(d.date), y: d[dataset.yLabel] }
-        });
+        if (dataset.name === "Postings Index") {
+            const lastDate = dataset.data[dataset.data.length - 1].date;
+            var data = dataset.data.reduce(function(a,c) {
+                const year = c.date.getFullYear();
+                const dateCopy = new Date(c.date);
+                dateCopy.setFullYear(2020);
+                if (
+                    dateCopy > lastDate
+                    || (
+                        dateCopy.getMonth() === 1
+                        && dateCopy.getDate() === 29
+                    )
+                ) {
+                    return a
+                } else if (year in a) {
+                    return {
+                        ...a,
+                        [year]: a[year].concat({
+                            x: dateCopy,
+                            y: parseFloat(c[dataset.yLabel])
+                        })
+                    }
+                } else {
+                    return {
+                        ...a,
+                        [year]: [{
+                            x: dateCopy,
+                            y: parseFloat(c[dataset.yLabel])
+                        }]
+                    }
+                }
+            }, {});
+        } else {
+            var data = {
+                "2020": dataset.data.map(function (d) {
+                    return {
+                        x: new Date(d.date),
+                        y: parseFloat(d[dataset.yLabel])
+                    }
+                })
+            };
+        };
 
         // UI
         industryForm.style.visibility = "hidden";
@@ -190,21 +231,39 @@ function updateApp ({ dataset, category }) {
     }
     myChart.update();
 
-    // Init the new dataset.    
-    const newDataset = {
-      label: dataset.name,
-      data: data,
-      fill: false,
-      borderColor: colors[0],
-      borderWidth: 3.0,
-      pointRadius: 0,
-      pointHoverRadius: 5,
-      pointHoverBackgroundColor: colors[0],
-      pointHoverBorderColor: "#000000"
-    };
+    // Delete key.
+    key.innerHTML= "";
 
-    // Update chart.
-    myChart.data.datasets.push(newDataset);
+    // Init the new dataset.
+    Object.keys(data).sort((a,b) => a-b).forEach((year, i) => {
+        // Update chart.
+        myChart.data.datasets.push({
+            label: dataset.name,
+            data: data[year],
+            fill: false,
+            borderColor: colors[i],
+            borderWidth: 3.0,
+            pointRadius: 0,
+            pointHoverRadius: 5,
+            pointHoverBackgroundColor: colors[i],
+            pointHoverBorderColor: "#000000"
+        });
+        
+        // Update key.
+        var keyItem = document.createElement("div");
+        keyItem.style.display = "flex";
+        keyItem.style.margin = "0px 5px";
+        var keyColor = document.createElement("div");
+        keyColor.classList.add("color");
+        keyColor.style.color = colors[i];
+        keyColor.innerHTML = "&#9724;&#xFE0E;";
+        var keyYear = document.createElement("div");
+        keyYear.classList.add("year");
+        keyYear.innerText = year;
+        keyItem.appendChild(keyColor);
+        keyItem.appendChild(keyYear);
+        key.appendChild(keyItem);
+    })
     myChart.update();
 };
 
@@ -218,23 +277,23 @@ function getPossibleDatasets(directory) {
         {
             name: "New Postings Trend",
             title: "New Job Postings on Indeed",
-            filepath:  "./" + directory + "/" + "new_postings_trend_" + directory + ".csv",
+            filepath:  "./" + directory + "/" + "YoY_new_postings_trend_ratio_" + directory + ".csv",
             data: null,
             yLabel: "YoY_pct_change_in_new_postings_trend_from_feb1"
         },
         {
             name: "Postings Trend",
             title: "Job Postings on Indeed",
-            filepath: "./" + directory + "/" + "postings_trend_" + directory + ".csv",
+            filepath: "./" + directory + "/" + "YoY_postings_trend_ratio_" + directory + ".csv",
             data: null,
             yLabel: "YoY_pct_change_in_postings_trend_from_feb1"
         },
         {
-            name: "Postings Category Trend",
-            title: "Job Postings",
-            filepath: "./" + directory + "/" + "postings_category_trend_" + directory + ".csv",
+            name: "Postings Index",
+            title: "Job Postings on Indeed",
+            filepath: "./" + directory + "/" + "postings_category_index_" + directory + ".csv",
             data: null,
-            yLabel: "YoY_pct_change_in_postings_trend_from_feb1"
+            yLabel: "index_to_feb01"
         }
     ];
 };
@@ -317,6 +376,9 @@ function populateIndustryForm(data) {
  * Main
  */
 function main () {
+    // Init chart.
+    initChartJS();
+
     // Get the hash.
     var hash = window.location.hash;
 
@@ -349,7 +411,6 @@ function main () {
                     })
                 }
             })
-            console.log(datasets);
             populateUI(datasets);
             state = {
                 dataset: datasets[0],
@@ -360,7 +421,6 @@ function main () {
     );
 };
 
-initChartJS();
 main();
 
 window.addEventListener("hashchange", function () {
