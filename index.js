@@ -1,5 +1,6 @@
 // Selections
 var datasetsSelection = document.querySelector("#datasets");
+var selectionsContainer = document.querySelector("#selections-container");
 var ctx = document.getElementById('myChart');
 var industryForm = document.querySelector("#industry-form");
 var industrySelection = document.querySelector("#industry");
@@ -11,7 +12,7 @@ var key = document.querySelector("#key");
 var directory;
 var myChart;
 var state = {
-    dataset: "New Postings Trend",
+    dataset: "Postings Trend",
     category: null
 };
 var directoryIdMap = {
@@ -56,16 +57,48 @@ function initChartJS() {
                 var activePoint = this.chart.tooltip._active[0];
                 var ctx = this.chart.ctx;
                 var x = activePoint.tooltipPosition().x;
-                var topY = this.chart.scales['y-axis-0'].top;
-                var bottomY = this.chart.scales['y-axis-0'].bottom;
 
+                const chartWidth = this.chart.scales['x-axis-0'].width;
+                const minXValue = this.chart.scales['x-axis-0'].min;
+                const maxXValue = this.chart.scales['x-axis-0'].max;
+                const chartX = (
+                    ((x - this.chart.chartArea.left) / chartWidth)
+                    * (maxXValue - minXValue)
+                ) + minXValue;
+
+                const lookupDate = new Date(chartX);
+                const y2019 = this.chart.data.datasets
+                    .find(d => d.label === "2019").data
+                    .find(p => p.x.getTime() === lookupDate.getTime())
+                    .y;
+                const y2020 = this.chart.data.datasets
+                    .find(d => d.label === "2020").data
+                    .find(p => p.x.getTime() === lookupDate.getTime())
+                    .y;
+
+                var topYpixel = this.chart.scales['y-axis-0'].top;
+                var bottomYpixel = this.chart.scales['y-axis-0'].bottom;
+                const minYValue = this.chart.scales['y-axis-0'].min;
+                const maxYValue = this.chart.scales['y-axis-0'].max;
+
+                const y0 = topYpixel + (
+                    (maxYValue - y2019)
+                    / (maxYValue - minYValue)
+                    * (bottomYpixel - topYpixel)
+                );
+                const y1 = topYpixel + (
+                    (maxYValue- y2020)
+                    / (maxYValue - minYValue)
+                    * (bottomYpixel - topYpixel)
+                );
+    
                 // draw line
                 ctx.save();
                 ctx.beginPath();
-                ctx.moveTo(x, topY);
-                ctx.lineTo(x, bottomY);
-                ctx.lineWidth = .5;
-                ctx.strokeStyle = '#808080';
+                ctx.moveTo(x, y0);
+                ctx.lineTo(x, y1);
+                ctx.lineWidth = 1.5;
+                ctx.strokeStyle = '#000000';
                 ctx.stroke();
                 ctx.restore();
             }
@@ -92,33 +125,40 @@ function initChartJS() {
                 titleFontColor: "#000000",
                 borderColor: "#000000",
                 borderWidth: 0.5,
-                itemSort: function (item1, item2) { return item2.yLabel - item1.yLabel },
-                callbacks: {
-                title: function(tooltipItems) {
-                    return shortDate(new Date(tooltipItems[0].xLabel));
+                filter: function (x) { return x.datasetIndex !== 0 },
+                itemSort: function (item1, item2) {
+                    return item2.yLabel - item1.yLabel
                 },
-                label: function (tooltipItem, data) {
-                    return "(" + tooltipItem.yLabel.toFixed(1) + "%)";
+                callbacks: {
+                    title: function(tooltipItems) {
+                        const diff = 
+                            parseFloat(tooltipItems.find(x => x.datasetIndex === 2).value)
+                            - parseFloat(tooltipItems.find(x => x.datasetIndex === 1).value);
+                        return shortDate(new Date(tooltipItems[0].xLabel))
+                            + ": " + diff.toFixed(1) + "%";
+                    },
+                    label: function (tooltipItem, data) {
+                        return (tooltipItem.datasetIndex === 1 ? " 2019 " : " 2020 ")
+                            + "(" + tooltipItem.yLabel.toFixed(1) + "%)" ;
+                    }
                 }
-            }
-          },
-          hover: {
-                animationDuration: 0,
-                mode: 'index',
-                intersect: false
-          },
-          legend: {
-                display: false
-          },
-          scales: {
+            },
+            hover: {
+                    animationDuration: 0,
+                    mode: 'index',
+                    intersect: false
+            },
+            legend: {
+                    display: false
+            },
+            scales: {
                 yAxes: [{
                     ticks: {
                         beginAtZero: false,
                         autoSkip: false,
                         callback: function(value, index, values) {
-                            return value + 100                          
+                            return value                          
                         }
-
                     },
                     gridLines: {
                         display: true
@@ -170,7 +210,7 @@ function updateApp ({ dataset, category }) {
             dataset.title + " in " + category + ", " + directoryIdMap[directory];
     } else {
         // Chart data.
-        if (dataset.name === "Postings Index") {
+        if (dataset.name === "Postings Trend") {
             const lastDate = dataset.data[dataset.data.length - 1].date;
             var data = dataset.data.reduce(function(a,c) {
                 const year = c.date.getFullYear();
@@ -238,17 +278,17 @@ function updateApp ({ dataset, category }) {
     Object.keys(data).sort((a,b) => a-b).forEach((year, i) => {
         // Update chart.
         myChart.data.datasets.push({
-            label: dataset.name,
+            label: year,
             data: data[year],
             fill: false,
             borderColor: colors[i],
             borderWidth: 3.0,
             pointRadius: 0,
-            pointHoverRadius: 5,
+            pointHoverRadius: ["2020", "2019"].includes(year) ? 5 : 0,
             pointHoverBackgroundColor: colors[i],
             pointHoverBorderColor: "#000000"
         });
-        
+
         // Update key.
         var keyItem = document.createElement("div");
         keyItem.style.display = "flex";
@@ -281,15 +321,15 @@ function getPossibleDatasets(directory) {
             data: null,
             yLabel: "YoY_pct_change_in_new_postings_trend_from_feb1"
         },
+        // {
+        //     name: "Postings Trend",
+        //     title: "Job Postings on Indeed",
+        //     filepath: "./" + directory + "/" + "YoY_postings_trend_ratio_" + directory + ".csv",
+        //     data: null,
+        //     yLabel: "YoY_pct_change_in_postings_trend_from_feb1"
+        // },
         {
             name: "Postings Trend",
-            title: "Job Postings on Indeed",
-            filepath: "./" + directory + "/" + "YoY_postings_trend_ratio_" + directory + ".csv",
-            data: null,
-            yLabel: "YoY_pct_change_in_postings_trend_from_feb1"
-        },
-        {
-            name: "Postings Index",
             title: "Job Postings on Indeed",
             filepath: "./" + directory + "/" + "postings_category_index_" + directory + ".csv",
             data: null,
@@ -302,7 +342,7 @@ function getPossibleDatasets(directory) {
 /**
  * Populate UI.
  */
-function populateUI(datasets) {
+function populateUI(datasets, chartName) {
     // Delete existing options.
     datasetsSelection.innerHTML = "";
 
@@ -340,6 +380,9 @@ function populateUI(datasets) {
             };
         };
     });
+
+    // Hide datasetsSelection if chartName is passed in hash.
+    selectionsContainer.style.display = chartName ? "none" : "block";
 };
 
 
@@ -383,7 +426,13 @@ function main () {
     var hash = window.location.hash;
 
     // Convert to directory.
-    directory = hash.replace("#", "");
+    directory = hash.replace("#", "").split("-")[0];
+
+    // Chart
+    const chartName =
+        hash.split("-").length > 1 ?
+        hash.replace("#", "").split("-")[1] :
+        null;
 
     // Init datasets.
     var datasets = getPossibleDatasets(directory);
@@ -411,12 +460,13 @@ function main () {
                     })
                 }
             })
-            populateUI(datasets);
+            populateUI(datasets, chartName);
             state = {
-                dataset: datasets[0],
+                dataset: datasets.find(d => d.name === "Postings Trend"),
                 category: null
             };
             updateApp(state);
+            console.log(datasets);
         }
     );
 };
