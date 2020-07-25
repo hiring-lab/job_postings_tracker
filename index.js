@@ -97,7 +97,7 @@ function initChartJS() {
                 ctx.beginPath();
                 ctx.moveTo(x, y0);
                 ctx.lineTo(x, y1);
-                ctx.lineWidth = 1.5;
+                ctx.lineWidth = 2.0;
                 ctx.strokeStyle = '#000000';
                 ctx.stroke();
                 ctx.restore();
@@ -125,10 +125,11 @@ function initChartJS() {
                 titleFontColor: "#000000",
                 borderColor: "#000000",
                 borderWidth: 0.5,
+                position: "average",
                 filter: function (x) { return x.datasetIndex !== 0 },
-                itemSort: function (item1, item2) {
-                    return item2.yLabel - item1.yLabel
-                },
+                // itemSort: function (item1, item2) {
+                //     return item2.yLabel - item1.yLabel
+                // },
                 callbacks: {
                     title: function(tooltipItems) {
                         const diff = 
@@ -140,7 +141,13 @@ function initChartJS() {
                     label: function (tooltipItem, data) {
                         return (tooltipItem.datasetIndex === 1 ? " 2019 " : " 2020 ")
                             + "(" + tooltipItem.yLabel.toFixed(1) + "%)" ;
-                    }
+                    },
+                    labelColor: function(tooltipItem, chart) {
+                        return {
+                            borderColor: chart.data.datasets[tooltipItem.datasetIndex].borderColor,
+                            backgroundColor: chart.data.datasets[tooltipItem.datasetIndex].borderColor
+                        };
+                    },
                 }
             },
             hover: {
