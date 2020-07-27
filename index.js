@@ -132,11 +132,12 @@ function initChartJS() {
                 // },
                 callbacks: {
                     title: function(tooltipItems) {
-                        const diff = 
+                        const diff = (
                             parseFloat(tooltipItems.find(x => x.datasetIndex === 2).value)
-                            - parseFloat(tooltipItems.find(x => x.datasetIndex === 1).value);
+                            / parseFloat(tooltipItems.find(x => x.datasetIndex === 1).value)
+                        ) - 1.0;
                         return shortDate(new Date(tooltipItems[0].xLabel))
-                            + ": " + diff.toFixed(1) + "%";
+                            + ": " + (diff*100).toFixed(1) + "%";
                     },
                     label: function (tooltipItem, data) {
                         return (tooltipItem.datasetIndex === 1 ? " 2019 " : " 2020 ")
