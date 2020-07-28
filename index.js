@@ -474,7 +474,6 @@ function main () {
                 category: null
             };
             updateApp(state);
-            console.log(datasets);
         }
     );
 };
