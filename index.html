@@ -1,0 +1,128 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>Indeed HiringLab Data</title>
+    <meta name="description" content="Indeed HiringLab Data">
+    <meta name="author" content="Justin Fung">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/promise-polyfill@8/dist/polyfill.min.js"></script>
+
+    <style>
+        #attribution-container {
+            align-items: center;
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+        }
+
+        body {
+            font-family: "Helvetica Neue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+        }
+
+        body > div {
+            max-width: 640px;
+            width: 100%;
+        }
+
+        .form {
+            text-align: center;
+            width: 250px
+        }
+
+        #industry-form {
+            visibility: hidden;
+        }
+
+        #key {
+            display: flex;
+            font-size: 0.75em;
+            justify-content: center;
+            margin: 5px 0px;
+            width: 100%;
+        }
+
+        #logo {
+            width: 80px;
+        }
+
+        #selections-container {
+            align-items: center;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+
+        #source {
+            font-size: 0.7em;
+        }
+
+        #title-container {
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            margin: 10px 0px;
+            width: 100%;
+        }
+
+        #chart-dates {
+            font-weight: 600;
+        }
+
+        #chart-title {
+            font-size: 1.5em;
+            font-weight: 300;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <!-- Selections -->
+    <div id="selections-container">
+        <!-- Dataset selection -->
+        <form id="datasets-form" class="form">
+            <label for="datasets">Choose a dataset:</label>
+            <select name="datasets" id="datasets"></select>
+        </form>
+
+        <!-- Industry selection -->
+        <form id="industry-form" class="form">
+            <label for="industry">Choose an Industry:</label>
+            <select name="industry" id="industry"></select>
+        </form>
+
+    </div>
+
+    <!-- Title -->
+    <div id="title-container">
+        <div id="chart-title"></div>
+        <div id="chart-dates"></div>
+    </div>
+
+    <!-- Chart contiainer -->
+    <div class="chart-container" style="position: relative; max-width:640px">
+        <canvas id="myChart"></canvas>
+    </div>
+
+    <!-- Footer -->
+    <div id="footer">
+        <div id="key"></div>
+
+        <div id="attribution-container">
+            <div id="source">Source: Indeed</div>
+            <img id="logo" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Indeed_logo.png"/>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
