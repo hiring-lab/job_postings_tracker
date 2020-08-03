@@ -5,7 +5,11 @@ var ctx = document.getElementById('myChart');
 var industryForm = document.querySelector("#industry-form");
 var industrySelection = document.querySelector("#industry");
 var chartTitle = document.querySelector("#chart-title");
+var chartTitleDataset = document.querySelector("#chart-title-dataset");
+var chartTitleLocale = document.querySelector("#chart-title-locale");
 var chartDates = document.querySelector("#chart-dates");
+var chartDatesP1 = document.querySelector("#chart-dates-p1");
+var chartDatesP2 = document.querySelector("#chart-dates-p2");
 var key = document.querySelector("#key");
 
 // Global vars.
@@ -263,13 +267,16 @@ function updateApp ({ dataset, category }) {
 
         // UI
         industryForm.style.visibility = "hidden";
-        chartTitle.innerHTML =
-            dataset.title + ", " + directoryIdMap[directory];
-        chartDates.innerHTML = 
+        chartTitleDataset.innerHTML = dataset.title.split(" ").join("&nbsp;") + ", ";
+        chartTitleLocale.innerHTML = directoryIdMap[directory].split(" ").join("&nbsp;");
+        chartDatesP1.innerHTML = (
             "7 day moving avg through "
             + shortDate(new Date(dataset.data[dataset.data.length - 1].date))
-            + ", indexed to "
+        ).split(" ").join("&nbsp;") + ", ";
+        chartDatesP2.innerHTML = (
+            "indexed to "
             + shortDate(new Date(dataset.data[0].date))
+        ).split(" ").join("&nbsp;")
     };
 
     // Remove old datasets.
