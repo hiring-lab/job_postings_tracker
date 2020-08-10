@@ -37,7 +37,6 @@
         }
 
         #industry-form {
-            visibility: hidden;
         }
 
         #key {
@@ -70,6 +69,7 @@
             justify-content: center;
             margin: 10px 0px;
             width: 100%;
+            text-align: center;
         }
 
         #chart-dates {
@@ -99,13 +99,25 @@
             <label for="industry">Choose an Industry:</label>
             <select name="industry" id="industry"></select>
         </form>
+    
+        <!-- Metros selection -->
+        <form id="metros-form" class="form">
+            <label for="metros">Choose a Metro:</label>
+            <select name="metros" id="metros"></select>
+        </form>
 
     </div>
 
     <!-- Title -->
     <div id="title-container">
-        <div id="chart-title"></div>
-        <div id="chart-dates"></div>
+        <div id="chart-title">
+            <span id="chart-title-dataset"></span>
+            <span id="chart-title-locale"></span>
+        </div>
+        <div id="chart-dates">
+            <span id="chart-dates-p1"></span>
+            <span id="chart-dates-p2"></span>
+        </div>
     </div>
 
     <!-- Chart contiainer -->

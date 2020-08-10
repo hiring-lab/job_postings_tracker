@@ -1,19 +1,27 @@
 // Selections
 var datasetsSelection = document.querySelector("#datasets");
+var datasetsForm = document.querySelector("#datasets-form");
 var selectionsContainer = document.querySelector("#selections-container");
 var ctx = document.getElementById('myChart');
 var industryForm = document.querySelector("#industry-form");
 var industrySelection = document.querySelector("#industry");
+var metrosSelection = document.querySelector("#metros");
+var metrosForm = document.querySelector("#metros-form");
 var chartTitle = document.querySelector("#chart-title");
+var chartTitleDataset = document.querySelector("#chart-title-dataset");
+var chartTitleLocale = document.querySelector("#chart-title-locale");
 var chartDates = document.querySelector("#chart-dates");
+var chartDatesP1 = document.querySelector("#chart-dates-p1");
+var chartDatesP2 = document.querySelector("#chart-dates-p2");
 var key = document.querySelector("#key");
 
 // Global vars.
 var directory;
 var myChart;
 var state = {
-    dataset: "Postings Trend",
-    category: null
+    dataset: "postingstrend",
+    category: null,
+    metro: null,
 };
 var directoryIdMap = {
     AU: "Australia",
@@ -202,25 +210,30 @@ function initChartJS() {
 
 
 // Adds data to the chart.
-function updateApp ({ dataset, category }) {
+function updateApp ({ dataset, category, metro }) {
     // Update UI.
-    if (category) {
-        // Chart data.
-        var data = dataset.data.filter(function(d) {
-            return d.category === category;
-        }).map(function (d,i) {
-            return { x: new Date(d.date), y: d[dataset.yLabel] }
-        });
+    var data;
 
-        // UI
-        industryForm.style.visibility = "visible";
-        chartTitle.innerHTML =
-            dataset.title + " in " + category + ", " + directoryIdMap[directory];
-    } else {
-        // Chart data.
-        if (dataset.name === "Postings Trend") {
-            const lastDate = dataset.data[dataset.data.length - 1].date;
-            var data = dataset.data.reduce(function(a,c) {
+    switch (dataset.name) {
+
+        case "postingstrendbycategory": 
+            // Chart data.
+            data = dataset.data.filter(function(d) {
+                return d.category === category;
+            }).map(function (d,i) {
+                return { x: new Date(d.date), y: d[dataset.yLabel] }
+            });
+
+            // UI
+            industryForm.style.visibility = "visible";
+            chartTitle.innerHTML =
+                dataset.title + " in " + category + ", " + directoryIdMap[directory];
+            break;
+
+        case "postingstrend":
+            // Chart Data.
+            var lastDate = dataset.data[dataset.data.length - 1].date;
+            data = dataset.data.reduce(function(a,c) {
                 const year = c.date.getFullYear();
                 const dateCopy = new Date(c.date);
                 dateCopy.setFullYear(2020);
@@ -250,27 +263,66 @@ function updateApp ({ dataset, category }) {
                     }
                 }
             }, {});
-        } else {
-            var data = {
-                "2020": dataset.data.map(function (d) {
-                    return {
-                        x: new Date(d.date),
-                        y: parseFloat(d[dataset.yLabel])
-                    }
-                })
-            };
-        };
 
-        // UI
-        industryForm.style.visibility = "hidden";
-        chartTitle.innerHTML =
-            dataset.title + ", " + directoryIdMap[directory];
-        chartDates.innerHTML = 
-            "7 day moving avg through "
-            + shortDate(new Date(dataset.data[dataset.data.length - 1].date))
-            + ", indexed to "
-            + shortDate(new Date(dataset.data[0].date))
+            // UI
+            industryForm.style.visibility = "hidden";
+
+            break;
+
+        case "postingstrendbymetro":
+
+            // Chart Data.
+            var lastDate = dataset.data[dataset.data.length - 1].date;
+            data = dataset.data.filter(element => element.CBSA_Title === metro).reduce(function(a,c) {
+                const year = c.date.getFullYear();
+                const dateCopy = new Date(c.date);
+                dateCopy.setFullYear(2020);
+                if (
+                    dateCopy > lastDate
+                    || (
+                        dateCopy.getMonth() === 1
+                        && dateCopy.getDate() === 29
+                    )
+                ) {
+                    return a
+                } else if (year in a) {
+                    return {
+                        ...a,
+                        [year]: a[year].concat({
+                            x: dateCopy,
+                            y: parseFloat(c[dataset.yLabel])
+                        })
+                    }
+                } else {
+                    return {
+                        ...a,
+                        [year]: [{
+                            x: dateCopy,
+                            y: parseFloat(c[dataset.yLabel])
+                        }]
+                    }
+                }
+            }, {});
+
+            // UI
+            industryForm.style.visibility = "hidden";
+            break;
     };
+
+    // UI
+    chartTitleDataset.innerHTML =
+        dataset.title.split(" ").join("&nbsp;") + ", ";
+    chartTitleLocale.innerHTML = metro !== null ?
+        metro.split(" ").join("&nbsp;") :
+        directoryIdMap[directory].split(" ").join("&nbsp;");
+    chartDatesP1.innerHTML = (
+        "7 day moving avg through "
+        + shortDate(new Date(dataset.data[dataset.data.length - 1].date))
+    ).split(" ").join("&nbsp;") + ", ";
+    chartDatesP2.innerHTML = (
+        "indexed to "
+        + shortDate(new Date(dataset.data[0].date))
+    ).split(" ").join("&nbsp;");
 
     // Remove old datasets.
     myChart.data.labels.pop();
@@ -322,13 +374,13 @@ function updateApp ({ dataset, category }) {
  */
 function getPossibleDatasets(directory) {
     return [
-        {
-            name: "New Postings Trend",
-            title: "New Job Postings on Indeed",
-            filepath:  "./" + directory + "/" + "YoY_new_postings_trend_ratio_" + directory + ".csv",
-            data: null,
-            yLabel: "YoY_pct_change_in_new_postings_trend_from_feb1"
-        },
+        // {
+        //     name: "New Postings Trend",
+        //     title: "New Job Postings on Indeed",
+        //     filepath:  "./" + directory + "/" + "YoY_new_postings_trend_ratio_" + directory + ".csv",
+        //     data: null,
+        //     yLabel: "YoY_pct_change_in_new_postings_trend_from_feb1"
+        // },
         // {
         //     name: "Postings Trend",
         //     title: "Job Postings on Indeed",
@@ -337,11 +389,18 @@ function getPossibleDatasets(directory) {
         //     yLabel: "YoY_pct_change_in_postings_trend_from_feb1"
         // },
         {
-            name: "Postings Trend",
+            name: "postingstrend",
             title: "Job Postings on Indeed",
             filepath: "./" + directory + "/" + "postings_category_index_" + directory + ".csv",
             data: null,
             yLabel: "index_to_feb01"
+        },
+        {
+            name: "postingstrendbymetro",
+            title: "Job Postings on Indeed by Metro",
+            filepath: "./" + directory + "/" + "metro_indexed.csv",
+            data: null,
+            yLabel: "feb1_index"
         }
     ];
 };
@@ -364,36 +423,55 @@ function populateUI(datasets, chartName) {
             if (dataset.name === "Postings Category Trend") {
                 populateIndustryForm(dataset.data);
             };
-        };
-    });
-
-    // Add event listener to data selector.
-    datasetsSelection.addEventListener("change", function() {
-        for (var i = 0; i < datasets.length; i++) {
-            if (datasets[i].name === this.value) {
-                if (datasets[i].name === "Postings Category Trend") {
-                    state = {
-                        dataset: datasets[i],
-                        category: "Accounting"
-                    }
-                    updateApp(state);
-                } else {
-                    state = {
-                        dataset: datasets[i],
-                        category: null
-                    }
-                    updateApp(state);
-                }
-                break;
+            if (dataset.name === "postingstrendbymetro") {
+                populateMetrosForm(dataset.data, metrosSelection);
             };
         };
     });
 
+    // Add event listener to data selector.
+    // datasetsSelection.addEventListener("change", function() {
+    //     for (var i = 0; i < datasets.length; i++) {
+    //         if (datasets[i].name === this.value) {
+    //             if (datasets[i].name === "Postings Category Trend") {
+    //                 state = {
+    //                     dataset: datasets[i],
+    //                     category: "Accounting"
+    //                 }
+    //                 updateApp(state);
+    //             } else {
+    //                 state = {
+    //                     dataset: datasets[i],
+    //                     category: null
+    //                 }
+    //                 updateApp(state);
+    //             }
+    //             break;
+    //         };
+    //     };
+    // });
+
     // Hide datasetsSelection if chartName is passed in hash.
-    selectionsContainer.style.display = chartName ? "none" : "block";
+    switch (chartName) {
+        case undefined:
+            selectionsContainer.style.display = "none";
+            break;
+        case "postingstrend":
+            selectionsContainer.style.display = "none";
+            break;
+        case "postingstrendbymetro":
+            selectionsContainer.style.display = "flex";
+            industryForm.style.display = "none";
+            metrosForm.style.display = "block";
+            datasetsForm.style.display = "none";
+            break;
+    }
 };
 
-
+/**
+ * 
+ * @param {*} data 
+ */
 function populateIndustryForm(data) {
     // Populate dataset selector.
     var categoriesSet = new Set(data.map(function(d) {
@@ -415,6 +493,40 @@ function populateIndustryForm(data) {
         state = {
             ...state,
             category: this.value
+        }
+        updateApp(state);
+    });
+
+    return rtn;
+}
+
+/**
+ * Populate dataset selector.
+ * @param {*} data 
+ */
+function populateMetrosForm(data, form) {
+    // Get all unique metros into a set of strings.
+    var metrosSet = new Set(data.map(function(d) {
+        return d['CBSA_Title'] 
+    })); 
+
+    var rtn;
+
+    Array(...metrosSet).sort().forEach(function(metro, i) {
+        if (i === 0) { rtn = i }
+        var option = document.createElement("option");
+        option.value = metro;
+        option.innerHTML = metro;
+        option.selected = metro === "Austin-Round Rock, TX";
+        form.appendChild(option);
+    });
+
+    // Add event listener to data selector.
+    form.addEventListener("change", function() {
+        state = {
+            ...state,
+            category: null,
+            metro: this.value
         }
         updateApp(state);
     });
@@ -451,8 +563,11 @@ function main () {
             return d3.csv(d.filepath).catch(function(err) { return null });
         })
     ).then(
-        function(data) {
+        function(data) { 
+            // Read the data in.
             data.forEach(function(d, i) { datasets[i].data = d });
+
+            // Create a Date object for the date column (labels).
             datasets = datasets.map(function(dataset) {
                 return {
                     ...dataset,
@@ -468,11 +583,19 @@ function main () {
                     })
                 }
             })
-            populateUI(datasets, chartName);
+
+
+            // Update the state of the app.
             state = {
-                dataset: datasets.find(d => d.name === "Postings Trend"),
-                category: null
+                dataset: datasets.find(d => d.name === chartName),
+                category: null,
+                metro: chartName === "postingstrendbymetro" ? "Austin-Round Rock, TX" : null
             };
+
+            // Update the UI based on the datasets.
+            populateUI(datasets, chartName);
+
+            // Update the app.
             updateApp(state);
         }
     );
