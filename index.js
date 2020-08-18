@@ -303,7 +303,6 @@ function updateApp ({ dataset, category, metro }) {
                     }
                 }
             }, {});
-            console.log(dataset.data.filter(element => element.CBSA_Title === metro))
             // UI
             industryForm.style.visibility = "hidden";
             break;
@@ -333,7 +332,7 @@ function updateApp ({ dataset, category, metro }) {
 
     // Delete key.
     key.innerHTML= "";
-    console.log(data)
+
     // Init the new dataset.
     Object.keys(data).sort((a,b) => a-b).forEach((year, i) => {
         // Update chart.
