@@ -6,7 +6,9 @@ var ctx = document.getElementById('myChart');
 var industryForm = document.querySelector("#industry-form");
 var industrySelection = document.querySelector("#industry");
 var metrosSelection = document.querySelector("#metros");
+var statesSelection = document.querySelector("#states");
 var metrosForm = document.querySelector("#metros-form");
+var statesForm = document.querySelector("#states-form");
 var chartTitle = document.querySelector("#chart-title");
 var chartTitleDataset = document.querySelector("#chart-title-dataset");
 var chartTitleLocale = document.querySelector("#chart-title-locale");
@@ -37,6 +39,70 @@ var colors = [
     "#ff670b",
     "#ffb20d"
 ];
+var statenames = {
+    "AL": "Alabama",
+    "AK": "Alaska",
+    "AS": "American Samoa",
+    "AZ": "Arizona",
+    "AR": "Arkansas",
+    "CA": "California",
+    "CO": "Colorado",
+    "CT": "Connecticut",
+    "DE": "Delaware",
+    "DC": "District Of Columbia",
+    "FM": "Federated States Of Micronesia",
+    "FL": "Florida",
+    "GA": "Georgia",
+    "GU": "Guam",
+    "HI": "Hawaii",
+    "ID": "Idaho",
+    "IL": "Illinois",
+    "IN": "Indiana",
+    "IA": "Iowa",
+    "KS": "Kansas",
+    "KY": "Kentucky",
+    "LA": "Louisiana",
+    "ME": "Maine",
+    "MH": "Marshall Islands",
+    "MD": "Maryland",
+    "MA": "Massachusetts",
+    "MI": "Michigan",
+    "MN": "Minnesota",
+    "MS": "Mississippi",
+    "MO": "Missouri",
+    "MT": "Montana",
+    "NE": "Nebraska",
+    "NV": "Nevada",
+    "NH": "New Hampshire",
+    "NJ": "New Jersey",
+    "NM": "New Mexico",
+    "NY": "New York",
+    "NC": "North Carolina",
+    "ND": "North Dakota",
+    "MP": "Northern Mariana Islands",
+    "OH": "Ohio",
+    "OK": "Oklahoma",
+    "OR": "Oregon",
+    "PW": "Palau",
+    "PA": "Pennsylvania",
+    "PR": "Puerto Rico",
+    "RI": "Rhode Island",
+    "SC": "South Carolina",
+    "SD": "South Dakota",
+    "TN": "Tennessee",
+    "TX": "Texas",
+    "UT": "Utah",
+    "VT": "Vermont",
+    "VI": "Virgin Islands",
+    "VA": "Virginia",
+    "WA": "Washington",
+    "WV": "West Virginia",
+    "WI": "Wisconsin",
+    "WY": "Wyoming"
+}
+
+
+
 
 function shortDate(date) {
     var months = [
@@ -210,7 +276,7 @@ function initChartJS() {
 
 
 // Adds data to the chart.
-function updateApp ({ dataset, category, metro }) {
+function updateApp({ dataset, category, metro }) {
     // Update UI.
     var data;
 
@@ -270,7 +336,6 @@ function updateApp ({ dataset, category, metro }) {
             break;
 
         case "postingstrendbymetro":
-
             // Chart Data.
             var lastDate = dataset.data.map(e => e.date).sort((a,b) => b - a)[0]
             data = dataset.data.filter(element => element.CBSA_Title === metro).reduce(function(a,c) {
@@ -305,15 +370,56 @@ function updateApp ({ dataset, category, metro }) {
             }, {});
             // UI
             industryForm.style.visibility = "hidden";
+            chartTitleLocale.innerHTML = metro !== null ?
+                metro.split(" ").join("&nbsp;") :
+                directoryIdMap[directory].split(" ").join("&nbsp;");
             break;
-    };
+
+        case "postingstrendbystate":
+            // Chart Data.
+            var lastDate = dataset.data.map(e => e.date).sort((a,b) => b - a)[0]
+            data = dataset.data.filter(element => element.state === metro).reduce(function(a,c) {
+                const year = c.date.getFullYear();
+                const dateCopy = new Date(c.date);
+                dateCopy.setFullYear(2020);
+                if (
+                    dateCopy > lastDate
+                    || (
+                        dateCopy.getMonth() === 1
+                        && dateCopy.getDate() === 29
+                    )
+                ) {
+                    return a
+                } else if (year in a) {
+                    return {
+                        ...a,
+                        [year]: a[year].concat({
+                            x: dateCopy,
+                            y: parseFloat(c[dataset.yLabel])
+                        })
+                    }
+                } else {
+                    return {
+                        ...a,
+                        [year]: [{
+                            x: dateCopy,
+                            y: parseFloat(c[dataset.yLabel])
+                        }]
+                    }
+                }
+            }, {});
+            // UI
+            industryForm.style.visibility = "hidden";
+            chartTitleLocale.innerHTML = metro !== null ?
+                statenames[metro.toUpperCase()] :
+                directoryIdMap[directory].split(" ").join("&nbsp;");
+            break;
+        };
 
     // UI
     chartTitleDataset.innerHTML =
         dataset.title.split(" ").join("&nbsp;") + ", ";
-    chartTitleLocale.innerHTML = metro !== null ?
-        metro.split(" ").join("&nbsp;") :
-        directoryIdMap[directory].split(" ").join("&nbsp;");
+
     chartDatesP1.innerHTML = (
         "7 day moving avg through "
         + shortDate(new Date(dataset.data[dataset.data.length - 1].date))
@@ -373,20 +479,6 @@ function updateApp ({ dataset, category, metro }) {
  */
 function getPossibleDatasets(directory) {
     return [
-        // {
-        //     name: "New Postings Trend",
-        //     title: "New Job Postings on Indeed",
-        //     filepath:  "./" + directory + "/" + "YoY_new_postings_trend_ratio_" + directory + ".csv",
-        //     data: null,
-        //     yLabel: "YoY_pct_change_in_new_postings_trend_from_feb1"
-        // },
-        // {
-        //     name: "Postings Trend",
-        //     title: "Job Postings on Indeed",
-        //     filepath: "./" + directory + "/" + "YoY_postings_trend_ratio_" + directory + ".csv",
-        //     data: null,
-        //     yLabel: "YoY_pct_change_in_postings_trend_from_feb1"
-        // },
         {
             name: "postingstrend",
             title: "Job Postings on Indeed",
@@ -400,6 +492,13 @@ function getPossibleDatasets(directory) {
             filepath: "./" + directory + "/" + "metro_indexed.csv",
             data: null,
             yLabel: "feb1_index"
+        },
+        {
+            name: "postingstrendbystate",
+            title: "Job Postings on Indeed by State",
+            filepath: "./" + directory + "/" + "state_indexed.csv",
+            data: null,
+            yLabel: "US job postings, 2020 vs. 2019, % gap in trend"
         }
     ];
 };
@@ -419,36 +518,22 @@ function populateUI(datasets, chartName) {
             option.value = dataset.name;
             option.innerHTML = dataset.name;
             datasetsSelection.appendChild(option);
-            if (dataset.name === "Postings Category Trend") {
-                populateIndustryForm(dataset.data);
-            };
-            if (dataset.name === "postingstrendbymetro") {
-                populateMetrosForm(dataset.data, metrosSelection);
-            };
+            switch (dataset.name) {
+                case "Postings Category Trend":
+                    populateIndustryForm(dataset.data);
+                    break;
+                case "postingstrendbymetro":
+                    populateMetrosForm(dataset.data, metrosSelection);
+                    break;
+                case "postingstrendbystate":
+                    populateStatesForm(dataset.data, statesSelection);
+                    break;
+                default:
+                    null
+                    break;
+            }
         };
     });
-
-    // Add event listener to data selector.
-    // datasetsSelection.addEventListener("change", function() {
-    //     for (var i = 0; i < datasets.length; i++) {
-    //         if (datasets[i].name === this.value) {
-    //             if (datasets[i].name === "Postings Category Trend") {
-    //                 state = {
-    //                     dataset: datasets[i],
-    //                     category: "Accounting"
-    //                 }
-    //                 updateApp(state);
-    //             } else {
-    //                 state = {
-    //                     dataset: datasets[i],
-    //                     category: null
-    //                 }
-    //                 updateApp(state);
-    //             }
-    //             break;
-    //         };
-    //     };
-    // });
 
     // Hide datasetsSelection if chartName is passed in hash.
     switch (chartName) {
@@ -457,15 +542,26 @@ function populateUI(datasets, chartName) {
             break;
         case "postingstrend":
             selectionsContainer.style.display = "none";
+            statesForm.style.display = "none";
+            metrosForm.style.display = "block";
             break;
         case "postingstrendbymetro":
             selectionsContainer.style.display = "flex";
             industryForm.style.display = "none";
             metrosForm.style.display = "block";
+            statesForm.style.display = "none";
+            datasetsForm.style.display = "none";
+            break;
+        case "postingstrendbystate":
+            selectionsContainer.style.display = "flex";
+            industryForm.style.display = "none";
+            statesForm.style.display = "block";
+            metrosForm.style.display = "none";
             datasetsForm.style.display = "none";
             break;
     }
 };
+
 
 /**
  * 
@@ -498,6 +594,7 @@ function populateIndustryForm(data) {
 
     return rtn;
 }
+
 
 /**
  * Populate dataset selector.
@@ -533,6 +630,39 @@ function populateMetrosForm(data, form) {
     return rtn;
 }
 
+/**
+ * Populate dataset selector.
+ * @param {*} data 
+ */
+function populateStatesForm(data, form) {
+    // Get all unique metros into a set of strings.
+    var statesSet = new Set(data.map(function(d) {
+        return d['state'] 
+    })); 
+
+    var rtn;
+
+    Array(...statesSet).sort().forEach(function(state, i) {
+        if (i === 0) { rtn = i }
+        var option = document.createElement("option");
+        option.value = state;
+        option.innerHTML = statenames[state.toUpperCase()];
+        option.selected = state === "tx";
+        form.appendChild(option);
+    });
+
+    // Add event listener to data selector.
+    form.addEventListener("change", function() {
+        state = {
+            ...state,
+            category: null,
+            metro: this.value
+        }
+        updateApp(state);
+    });
+
+    return rtn;
+}
 
 /**
  * Main
@@ -588,7 +718,16 @@ function main () {
             state = {
                 dataset: datasets.find(d => d.name === chartName),
                 category: null,
-                metro: chartName === "postingstrendbymetro" ? "Austin-Round Rock, TX" : null
+                metro:  (() => {
+                    switch (chartName) {
+                        case "postingstrendbymetro":
+                            return "Austin-Round Rock, TX"
+                        case "postingstrendbystate":
+                            return "tx"
+                        default:
+                            return null
+                    }
+                })()
             };
 
             // Update the UI based on the datasets.
