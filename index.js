@@ -272,7 +272,7 @@ function updateApp ({ dataset, category, metro }) {
         case "postingstrendbymetro":
 
             // Chart Data.
-            var lastDate = dataset.data[dataset.data.length - 1].date;
+            var lastDate = dataset.data.map(e => e.date).sort((a,b) => b - a)[0]
             data = dataset.data.filter(element => element.CBSA_Title === metro).reduce(function(a,c) {
                 const year = c.date.getFullYear();
                 const dateCopy = new Date(c.date);
@@ -303,7 +303,7 @@ function updateApp ({ dataset, category, metro }) {
                     }
                 }
             }, {});
-
+            console.log(dataset.data.filter(element => element.CBSA_Title === metro))
             // UI
             industryForm.style.visibility = "hidden";
             break;
@@ -333,7 +333,7 @@ function updateApp ({ dataset, category, metro }) {
 
     // Delete key.
     key.innerHTML= "";
-
+    console.log(data)
     // Init the new dataset.
     Object.keys(data).sort((a,b) => a-b).forEach((year, i) => {
         // Update chart.
