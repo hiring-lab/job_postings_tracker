@@ -250,7 +250,7 @@ function initChartJS() {
                     ticks: {
                         beginAtZero: false,
                         autoSkip: false,
-                        maxTicksLimit: 200,
+                        maxTicksLimit: 1000,
                         callback: function(value, index, values) {
                             return ["1", "15"].includes(value.split(" ")[1])
                                 ? value : undefined;
@@ -486,13 +486,13 @@ function getPossibleDatasets(directory) {
             data: null,
             yLabel: "index_to_feb01"
         },
-        {
-            name: "postingstrendbymetro",
-            title: "Job Postings on Indeed by Metro",
-            filepath: "./" + directory + "/" + "metro_indexed.csv",
-            data: null,
-            yLabel: "feb1_index"
-        },
+        // {
+        //     name: "postingstrendbymetro",
+        //     title: "Job Postings on Indeed by Metro",
+        //     filepath: "./" + directory + "/" + "metro_indexed.csv",
+        //     data: null,
+        //     yLabel: "feb1_index"
+        // },
         {
             name: "postingstrendbystate",
             title: "Job Postings on Indeed by State",
