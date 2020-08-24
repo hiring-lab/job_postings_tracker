@@ -24,5 +24,5 @@ There are three types of data series published in this repo:
 
 * **Feb 01 indexed trend (i.e. postings_category_index_US.csv)**: This is a series of the data before the year over year ratio from the above is calculated. It allows for a visualization that shows (instead of tells) the difference between 2020 and the previous years.
 
-* **metro_indexed.csv**: This is a series that replicates the Feb 01 indexed trend from above, but broken out by US metro area. The top 52 metro areas by population are included.
+* **metro_pct_gap_in_trend.csv**: This is a series that replicates the % change in postings trend from above, but broken out by US metro area. The top 52 metro areas by population are included.
 
