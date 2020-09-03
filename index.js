@@ -486,13 +486,13 @@ function getPossibleDatasets(directory) {
             data: null,
             yLabel: "index_to_feb01"
         },
-        // {
-        //     name: "postingstrendbymetro",
-        //     title: "Job Postings on Indeed by Metro",
-        //     filepath: "./" + directory + "/" + "metro_indexed.csv",
-        //     data: null,
-        //     yLabel: "feb1_index"
-        // },
+        {
+            name: "postingstrendbymetro",
+            title: "Job Postings on Indeed by Metro",
+            filepath: "./" + directory + "/" + "metro_pct_gap_in_trend 2.csv",
+            data: null,
+            yLabel: "% gap in trend over last year"
+        },
         {
             name: "postingstrendbystate",
             title: "Job Postings on Indeed by State",
