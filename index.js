@@ -489,7 +489,7 @@ function getPossibleDatasets(directory) {
         {
             name: "postingstrendbymetro",
             title: "Job Postings on Indeed by Metro",
-            filepath: "./" + directory + "/" + "metro_pct_gap_in_trend 2.csv",
+            filepath: "./" + directory + "/" + "metro_pct_gap_in_trend.csv",
             data: null,
             yLabel: "% gap in trend over last year"
         },
