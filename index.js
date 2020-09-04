@@ -9,8 +9,6 @@ var chartDatesP2 = document.querySelector("#chart-dates-p2");
 var key = document.querySelector("#key");
 
 // Global vars.
-var directory;
-var myChart;
 var defaultMetros = [
     "Austin-Round Rock--TX",
     "San Francisco-Oakland-Hayward--CA",
@@ -205,7 +203,7 @@ function initChart() {
     });
 
     // Init a chart.
-    myChart = new Chart(ctx, {
+    return new Chart(ctx, {
         type: 'LineWithLine',
         data: {
             labels: [],
@@ -301,7 +299,7 @@ function initChart() {
 
 function handlePostingsTrend(data, metaData, country) {
     // Chart
-    initChart();
+    var chart = initChart();
 
     // Data
     data = data.sort((a,b) => a.data - b.data);
@@ -355,7 +353,7 @@ function handlePostingsTrend(data, metaData, country) {
     // Update chart data.
     Object.keys(data).sort((a,b) => a-b).forEach((year, i) => {
         // Update chart.
-        myChart.data.datasets.push({
+        chart.data.datasets.push({
             label: year,
             data: data[year],
             fill: false,
@@ -382,7 +380,7 @@ function handlePostingsTrend(data, metaData, country) {
         keyItem.appendChild(keyYear);
         key.appendChild(keyItem);
     })
-    myChart.update();
+    chart.update();
 };
 
 
@@ -419,7 +417,7 @@ function initChartMetros() {
     });
 
     // Init a chart.
-    myChart = new Chart(ctx, {
+    return new Chart(ctx, {
         type: 'LineWithLine',
         data: {
             labels: [],
@@ -506,28 +504,28 @@ function initChartMetros() {
     });
 };
 
-function updateAppMetro(data, metaData, metros) {
+function updateAppMetro(data, metaData, metros, chart) {
     // Styling for the state.
     chartTitleLocale.innerHTML = metros.length === 1 ? metros[0] : "Selected Metros";
     chartTitleDataset.innerHTML = metaData.title.split(" ").join("&nbsp;") + ", ";
     if (metros.length) {
         chartDatesP1.innerHTML = (
             "7 day moving avg through "
-            + shortDate(new Date(data[metros[0]][data[metros[0]].length - 1].date))
+            + shortDate(new Date(data[metros[0]][data[metros[0]].length - 1].x))
         ).split(" ").join("&nbsp;") + ", ";
         chartDatesP2.innerHTML = (
             "indexed to "
-            + shortDate(new Date(data[metros[0]][0].date))
+            + shortDate(new Date(data[metros[0]][0].x))
         ).split(" ").join("&nbsp;");    
     };
 
     // Swap old with new datasets.
-    myChart.data.labels.pop();
-    while (myChart.data.datasets.length) { myChart.data.datasets.pop() };
+    chart.data.labels.pop();
+    while (chart.data.datasets.length) { chart.data.datasets.pop() };
     for (var i = 0; i < metros.length; i++) {
-        myChart.data.datasets.push({
+        chart.data.datasets.push({
             label: metros[i],
-            data: data[metros[i]].map(e => ({ x: e.date, y: e[metaData.yLabel]})),
+            data: data[metros[i]],
             fill: false,
             borderColor: availableColors[i][0],
             borderWidth: 3.0,
@@ -542,12 +540,12 @@ function updateAppMetro(data, metaData, metros) {
             .filter(function() { return this.innerText == metros[i]; })
             .css('background-color', availableColors[i][0]);
     };
-    myChart.update();
+    chart.update();
 };
 
 function handlePostingsTrendByMetro(data, metaData, defaultMetros) {
     // Chart.
-    initChartMetros();
+    var chart = initChartMetros();
 
     // Style.
     $(".postingsTrendByMetro").css('display','block');
@@ -569,8 +567,8 @@ function handlePostingsTrendByMetro(data, metaData, defaultMetros) {
     var dataByMetro = {};
     for (var row of data) {
         row["CBSA_Title"].replace(", ", "--") in dataByMetro ? 
-            dataByMetro[row["CBSA_Title"].replace(", ", "--")].push(row) :
-            dataByMetro[row["CBSA_Title"].replace(", ", "--")] = [row];
+            dataByMetro[row["CBSA_Title"].replace(", ", "--")].push({ x: row.date, y: row[metaData.yLabel]}):
+            dataByMetro[row["CBSA_Title"].replace(", ", "--")] = [{ x: row.date, y: row[metaData.yLabel]}];
     };
 
     // Sets the options for the typeahead input.
@@ -584,19 +582,22 @@ function handlePostingsTrendByMetro(data, metaData, defaultMetros) {
         }
     });
 
-    // Update and listen for updates.
-    updateAppMetro(dataByMetro, metaData, defaultMetros);
+    // Seed the options.
     defaultMetros.forEach((m,i) => {
         $('.tagsinput-typeahead').tagsinput('add', m);
         $(".tag")
             .filter(function() { return this.innerText == m; })
             .css('background-color', availableColors[i][0]);
     });
+    updateAppMetro(dataByMetro, metaData, defaultMetros, chart);
+
+    // Listen for updates.
     $('.tagsinput-typeahead').change(function() {    
         updateAppMetro(
             dataByMetro,
             metaData,
             $('.tagsinput-typeahead').tagsinput('items'),
+            chart
         );
     });
 };
@@ -634,7 +635,7 @@ function initChartState() {
     });
 
     // Init a chart.
-    myChart = new Chart(ctx, {
+    return new Chart(ctx, {
         type: 'LineWithLine',
         data: {
             labels: [],
@@ -718,28 +719,28 @@ function initChartState() {
     });
 };
 
-function updateAppState(data, metaData, state) {
+function updateAppState(data, metaData, state, chart) {
+    // Chart data.
+    var chartData = data[state].sort((a,b) => a.x - b.x);
+
     // Styling for the state.
     chartTitleLocale.innerHTML = statenames[state.toUpperCase()];
     chartTitleDataset.innerHTML = metaData.title.split(" ").join("&nbsp;") + ", ";
     chartDatesP1.innerHTML = (
         "7 day moving avg through "
-        + shortDate(new Date(data[data.length - 1].date))
+        + shortDate(new Date(chartData[chartData.length - 1].x))
     ).split(" ").join("&nbsp;") + ", ";
     chartDatesP2.innerHTML = (
         "indexed to "
-        + shortDate(new Date(data[0].date))
+        + shortDate(new Date(chartData[0].x))
     ).split(" ").join("&nbsp;");
 
     // Swap old with new datasets.
-    myChart.data.labels.pop();
-    while (myChart.data.datasets.length) { myChart.data.datasets.pop() };
-    myChart.data.datasets.push({
+    chart.data.labels.pop();
+    while (chart.data.datasets.length) { chart.data.datasets.pop() };
+    chart.data.datasets.push({
         label: "2020",
-        data: data
-            .filter(e => e.state === state)
-            .sort((a,b) => a.date - b.date)
-            .map(e => ({ x: e.date, y: e[metaData.yLabel]})),
+        data: chartData,
         fill: false,
         borderColor: availableColors[0][0],
         borderWidth: 3.0,
@@ -748,12 +749,20 @@ function updateAppState(data, metaData, state) {
         pointHoverBackgroundColor: availableColors[0][0],
         pointHoverBorderColor: "#000000"
     });
-    myChart.update();
+    chart.update();
 };
 
 function handlePostingsTrendByState(data, metaData, defaultState) {
     // Chart.
-    initChartState();
+    var chart = initChartState();
+
+    // Data.
+    data = data.reduce((a,c) => ({
+        ...a,
+        [c['state']]: c['state'] in a ?
+             a[c['state']].concat({ x: c.date, y: c[metaData.yLabel]}) :
+             [{ x: c.date, y: c[metaData.yLabel]}]
+    }), {});
 
     // Styling.
     $(".postingsTrendByState").css("display", "block");
@@ -773,8 +782,8 @@ function handlePostingsTrendByState(data, metaData, defaultState) {
     key.appendChild(keyItem);
 
     // Get all unique metros into a set of strings, init selections.
-    var statesSet = new Set(data.map(function(d) { return d['state'] })); 
-    Array(...statesSet).sort().forEach(function(state, i) {
+    var statesSet = Object.keys(data);
+    statesSet.sort().forEach(function(state) {
         var option = document.createElement("option");
         option.value = state;
         option.innerHTML = statenames[state.toUpperCase()];
@@ -783,9 +792,9 @@ function handlePostingsTrendByState(data, metaData, defaultState) {
     });
 
     // Update and listen for updates.
-    updateAppState(data, metaData, defaultState);
+    updateAppState(data, metaData, defaultState, chart);
     statesSelection.addEventListener("change", function() {
-        updateAppState(data, metaData, this.value);
+        updateAppState(data, metaData, this.value, chart);
     });
 };
 
@@ -796,7 +805,7 @@ function handlePostingsTrendByState(data, metaData, defaultState) {
 function main () {
     // Get directory and chart names from hash.
     var hash = window.location.hash;
-    directory = hash.replace("#", "").split("-")[0];
+    var directory = hash.replace("#", "").split("-")[0];
     const chartName =
         hash.split("-").length > 1 ?
         hash.replace("#", "").split("-")[1] :
@@ -807,7 +816,7 @@ function main () {
 
     // Try reading in the data.
     d3.csv(metaData.filepath)
-        .catch(function(err) { console.log(err); return null })
+        .catch(function(err) { return console.log(err) })
         .then(function(data) { 
             // Create a Date object for the date column (labels).
             dataset = data.map(function(data) {
@@ -835,9 +844,13 @@ function main () {
                 default:
                     break;
             };
+
+            // Pull off the loader.
+            document.querySelector("#loader").style.display = "none";
+            document.querySelector("#cover").style.display = "none";
         }
     );
 };
 
 main();
-window.addEventListener("hashchange", function () { main() });
+window.addEventListener("hashchange", function() { main() });
