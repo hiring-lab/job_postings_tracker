@@ -1,7 +1,4 @@
 // Selections
-var datasetsSelection = document.querySelector("#datasets");
-var datasetsForm = document.querySelector("#datasets-form");
-var selectionsContainer = document.querySelector("#selections-container");
 var ctx = document.getElementById('myChart');
 var chartTitle = document.querySelector("#chart-title");
 var chartTitleDataset = document.querySelector("#chart-title-dataset");
@@ -11,17 +8,15 @@ var chartDatesP1 = document.querySelector("#chart-dates-p1");
 var chartDatesP2 = document.querySelector("#chart-dates-p2");
 var key = document.querySelector("#key");
 
-//
+// Global vars.
+var directory;
+var myChart;
 var defaultMetros = [
     "Austin-Round Rock--TX",
     "San Francisco-Oakland-Hayward--CA",
     "New York-Newark-Jersey City--NY-NJ-PA"
 ];
 var defaultState = "tx";
-
-// Global vars.
-var directory;
-var myChart;
 var directoryIdMap = {
     AU: "Australia",
     CA: "Canada",
@@ -112,208 +107,6 @@ function shortDate(date) {
     return months[date.getMonth()] + " " + date.getDate();
 }
 
-
-
-
-
-// Adds data to the chart.
-function updateApp({ dataset, category, metro }) {
-    // Update UI.
-    var data;
-
-    switch (dataset.name) {
-
-        case "postingstrendbycategory": 
-            // Chart data.
-            data = dataset.data.filter(function(d) {
-                return d.category === category;
-            }).map(function (d,i) {
-                return { x: new Date(d.date), y: d[dataset.yLabel] }
-            });
-
-            // UI
-            industryForm.style.visibility = "visible";
-            chartTitle.innerHTML =
-                dataset.title + " in " + category + ", " + directoryIdMap[directory];
-            break;
-
-        case "postingstrend":
-            // Chart Data.
-            var lastDate = dataset.data[dataset.data.length - 1].date;
-            data = dataset.data.reduce(function(a,c) {
-                const year = c.date.getFullYear();
-                const dateCopy = new Date(c.date);
-                dateCopy.setFullYear(2020);
-                if (
-                    dateCopy > lastDate
-                    || (
-                        dateCopy.getMonth() === 1
-                        && dateCopy.getDate() === 29
-                    )
-                ) {
-                    return a
-                } else if (year in a) {
-                    return {
-                        ...a,
-                        [year]: a[year].concat({
-                            x: dateCopy,
-                            y: parseFloat(c[dataset.yLabel])
-                        })
-                    }
-                } else {
-                    return {
-                        ...a,
-                        [year]: [{
-                            x: dateCopy,
-                            y: parseFloat(c[dataset.yLabel])
-                        }]
-                    }
-                }
-            }, {});
-
-            // UI
-            industryForm.style.visibility = "hidden";
-
-            break;
-
-        case "postingstrendbymetro":
-            // Chart Data.
-            var lastDate = dataset.data.map(e => e.date).sort((a,b) => b - a)[0]
-            data = dataset.data.filter(element => element.CBSA_Title === metro).reduce(function(a,c) {
-                const year = c.date.getFullYear();
-                const dateCopy = new Date(c.date);
-                dateCopy.setFullYear(2020);
-                if (
-                    dateCopy > lastDate
-                    || (
-                        dateCopy.getMonth() === 1
-                        && dateCopy.getDate() === 29
-                    )
-                ) {
-                    return a
-                } else if (year in a) {
-                    return {
-                        ...a,
-                        [year]: a[year].concat({
-                            x: dateCopy,
-                            y: parseFloat(c[dataset.yLabel])
-                        })
-                    }
-                } else {
-                    return {
-                        ...a,
-                        [year]: [{
-                            x: dateCopy,
-                            y: parseFloat(c[dataset.yLabel])
-                        }]
-                    }
-                }
-            }, {});
-            // UI
-            industryForm.style.visibility = "hidden";
-            chartTitleLocale.innerHTML = metro !== null ?
-                metro.split(" ").join("&nbsp;") :
-                directoryIdMap[directory].split(" ").join("&nbsp;");
-            break;
-
-        case "postingstrendbystate":
-            // Chart Data.
-            var lastDate = dataset.data.map(e => e.date).sort((a,b) => b - a)[0]
-            data = dataset.data.filter(element => element.state === metro).reduce(function(a,c) {
-                const year = c.date.getFullYear();
-                const dateCopy = new Date(c.date);
-                dateCopy.setFullYear(2020);
-                if (
-                    dateCopy > lastDate
-                    || (
-                        dateCopy.getMonth() === 1
-                        && dateCopy.getDate() === 29
-                    )
-                ) {
-                    return a
-                } else if (year in a) {
-                    return {
-                        ...a,
-                        [year]: a[year].concat({
-                            x: dateCopy,
-                            y: parseFloat(c[dataset.yLabel])
-                        })
-                    }
-                } else {
-                    return {
-                        ...a,
-                        [year]: [{
-                            x: dateCopy,
-                            y: parseFloat(c[dataset.yLabel])
-                        }]
-                    }
-                }
-            }, {});
-            // UI
-            industryForm.style.visibility = "hidden";
-            chartTitleLocale.innerHTML = metro !== null ?
-                statenames[metro.toUpperCase()] :
-                directoryIdMap[directory].split(" ").join("&nbsp;");
-            break;
-        };
-
-    // UI
-    chartTitleDataset.innerHTML =
-        dataset.title.split(" ").join("&nbsp;") + ", ";
-
-    chartDatesP1.innerHTML = (
-        "7 day moving avg through "
-        + shortDate(new Date(dataset.data[dataset.data.length - 1].date))
-    ).split(" ").join("&nbsp;") + ", ";
-    chartDatesP2.innerHTML = (
-        "indexed to "
-        + shortDate(new Date(dataset.data[0].date))
-    ).split(" ").join("&nbsp;");
-
-    // Remove old datasets.
-    myChart.data.labels.pop();
-    while (myChart.data.datasets.length) {
-        myChart.data.datasets.pop();
-    }
-    myChart.update();
-
-    // Delete key.
-    key.innerHTML= "";
-
-    // Init the new dataset.
-    Object.keys(data).sort((a,b) => a-b).forEach((year, i) => {
-        // Update chart.
-        myChart.data.datasets.push({
-            label: year,
-            data: data[year],
-            fill: false,
-            borderColor: colors[i],
-            borderWidth: 3.0,
-            pointRadius: 0,
-            pointHoverRadius: ["2020", "2019"].includes(year) ? 5 : 0,
-            pointHoverBackgroundColor: colors[i],
-            pointHoverBorderColor: "#000000"
-        });
-
-        // Update key.
-        var keyItem = document.createElement("div");
-        keyItem.style.display = "flex";
-        keyItem.style.margin = "0px 5px";
-        var keyColor = document.createElement("div");
-        keyColor.classList.add("color");
-        keyColor.style.color = colors[i];
-        keyColor.innerHTML = "&#9724;&#xFE0E;";
-        var keyYear = document.createElement("div");
-        keyYear.classList.add("year");
-        keyYear.innerText = year;
-        keyItem.appendChild(keyColor);
-        keyItem.appendChild(keyYear);
-        key.appendChild(keyItem);
-    })
-    myChart.update();
-};
-
-
 function getDatasetsMeta(chartType, directory) {
     switch (chartType) {
         case "postingstrend": 
@@ -341,65 +134,6 @@ function getDatasetsMeta(chartType, directory) {
                 yLabel: "US job postings, 2020 vs. 2019, % gap in trend"
             };
     };
-};
-
-
-/**
- * Populate UI.
- */
-function populateUI(datasets, chartName) {
-    // Delete existing options.
-    datasetsSelection.innerHTML = "";
-
-    // Populate dataset selector.
-    datasets.forEach(function(dataset) {
-        if (dataset.data !== null) {
-            var option = document.createElement("option");
-            option.value = dataset.name;
-            option.innerHTML = dataset.name;
-            datasetsSelection.appendChild(option);
-            switch (dataset.name) {
-                case "Postings Category Trend":
-                    populateIndustryForm(dataset.data);
-                    break;
-                case "postingstrendbymetro":
-                    populateMetrosForm(dataset.data, metrosSelection);
-                    break;
-                case "postingstrendbystate":
-                    populateStatesForm(dataset.data, statesSelection);
-                    break;
-                default:
-                    null
-                    break;
-            }
-        };
-    });
-
-    // Hide datasetsSelection if chartName is passed in hash.
-    switch (chartName) {
-        case undefined:
-            selectionsContainer.style.display = "none";
-            break;
-        case "postingstrend":
-            selectionsContainer.style.display = "none";
-            statesForm.style.display = "none";
-            metrosForm.style.display = "block";
-            break;
-        case "postingstrendbymetro":
-            selectionsContainer.style.display = "flex";
-            industryForm.style.display = "none";
-            metrosForm.style.display = "block";
-            statesForm.style.display = "none";
-            datasetsForm.style.display = "none";
-            break;
-        case "postingstrendbystate":
-            selectionsContainer.style.display = "flex";
-            industryForm.style.display = "none";
-            statesForm.style.display = "block";
-            metrosForm.style.display = "none";
-            datasetsForm.style.display = "none";
-            break;
-    }
 };
 
 
@@ -564,6 +298,94 @@ function initChart() {
         }
     });
 };
+
+function handlePostingsTrend(data, metaData, country) {
+    // Chart
+    initChart();
+
+    // Data
+    data = data.sort((a,b) => a.data - b.data);
+    var lastDate = data[data.length - 1].date;
+
+    // Styling
+    chartTitleDataset.innerHTML =
+        metaData.title.split(" ").join("&nbsp;") + ", " + directoryIdMap[country];
+
+    chartDatesP1.innerHTML = (
+        "7 day moving avg through "
+        + shortDate(new Date(lastDate))
+    ).split(" ").join("&nbsp;") + ", ";
+    chartDatesP2.innerHTML = (
+        "indexed to "
+        + shortDate(new Date(data[0].date))
+    ).split(" ").join("&nbsp;");
+
+    // Data again.
+    data = data.reduce(function(a,c) {
+        const year = c.date.getFullYear();
+        const dateCopy = new Date(c.date);
+        dateCopy.setFullYear(2020);
+        if (
+            dateCopy > lastDate
+            || (
+                dateCopy.getMonth() === 1
+                && dateCopy.getDate() === 29
+            )
+        ) {
+            return a
+        } else if (year in a) {
+            return {
+                ...a,
+                [year]: a[year].concat({
+                    x: dateCopy,
+                    y: parseFloat(c[metaData.yLabel])
+                })
+            }
+        } else {
+            return {
+                ...a,
+                [year]: [{
+                    x: dateCopy,
+                    y: parseFloat(c[metaData.yLabel])
+                }]
+            }
+        }
+    }, {});
+
+    // Update chart data.
+    Object.keys(data).sort((a,b) => a-b).forEach((year, i) => {
+        // Update chart.
+        myChart.data.datasets.push({
+            label: year,
+            data: data[year],
+            fill: false,
+            borderColor: availableColors[i][0],
+            borderWidth: 3.0,
+            pointRadius: 0,
+            pointHoverRadius: ["2020", "2019"].includes(year) ? 5 : 0,
+            pointHoverBackgroundColor: availableColors[i][0],
+            pointHoverBorderColor: "#000000"
+        });
+
+        // Update key.
+        var keyItem = document.createElement("div");
+        keyItem.style.display = "flex";
+        keyItem.style.margin = "0px 5px";
+        var keyColor = document.createElement("div");
+        keyColor.classList.add("color");
+        keyColor.style.color = availableColors[i][0];
+        keyColor.innerHTML = "&#9724;&#xFE0E;";
+        var keyYear = document.createElement("div");
+        keyYear.classList.add("year");
+        keyYear.innerText = year;
+        keyItem.appendChild(keyColor);
+        keyItem.appendChild(keyYear);
+        key.appendChild(keyItem);
+    })
+    myChart.update();
+};
+
+
 
 /**
  * METROS CHART
@@ -1008,65 +830,13 @@ function main () {
                     handlePostingsTrendByState(dataset, metaData, defaultState);
                     break;
                 case "postingstrend":
-                    handlePostingsTrend(dataset, metaData);
+                    handlePostingsTrend(dataset, metaData, directory);
                     break;
                 default:
                     break;
             };
         }
     );
-
-
-    // Promise.all(
-    //     datasets.map(function(d) {
-    //         return d3.csv(d.filepath).catch(function(err) { return null });
-    //     })
-    // ).then(
-    //     function(data) { 
-    //         // Read the data in.
-    //         data.forEach(function(d, i) { datasets[i].data = d });
-
-    //         // Create a Date object for the date column (labels).
-    //         datasets = datasets.map(function(dataset) {
-    //             return {
-    //                 ...dataset,
-    //                 data: dataset.data === null ? null : dataset.data.map(function(data) {
-    //                     var newDate = new Date(data.date);
-    //                     return {
-    //                         ...data,
-    //                         date: new Date(
-    //                             newDate.getTime()
-    //                             + Math.abs(newDate.getTimezoneOffset()*60000)
-    //                         )
-    //                     }
-    //                 })
-    //             }
-    //         })
-
-
-    //         // Update the state of the app.
-    //         state = {
-    //             dataset: datasets.find(d => d.name === chartName),
-    //             category: null,
-    //             metro:  (() => {
-    //                 switch (chartName) {
-    //                     case "postingstrendbymetro":
-    //                         return "Austin-Round Rock, TX"
-    //                     case "postingstrendbystate":
-    //                         return "tx"
-    //                     default:
-    //                         return null
-    //                 }
-    //             })()
-    //         };
-
-    //         // Update the UI based on the datasets.
-    //         populateUI(datasets, chartName);
-
-    //         // Update the app.
-    //         updateApp(state);
-    //     }
-    // );
 };
 
 main();
