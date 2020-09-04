@@ -6,3 +6,6 @@
 *.Rproj
 *.png
 *.jpg
+**.DS_Store
+dashboard/*
+**.icloud
