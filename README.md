@@ -26,5 +26,5 @@ There are several types of data series published in this repo:
 
 * **metro_pct_gap_in_trend.csv**: This is a series that replicates the % change in postings trend from above, but broken out by US metro area. The top 52 metro areas by population are included.
 
-* **state_indexed.csv** Same as above, but for U.S. states.
+* **state_indexed.csv** Same as above, but for U.S. states. 
 
