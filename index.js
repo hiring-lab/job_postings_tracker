@@ -1,20 +1,9 @@
 // Selections
-var ctx = document.getElementById('myChart');
 var chartTitle = document.querySelector("#chart-title");
-var chartTitleDataset = document.querySelector("#chart-title-dataset");
-var chartTitleLocale = document.querySelector("#chart-title-locale");
-var chartDates = document.querySelector("#chart-dates");
 var chartDatesP1 = document.querySelector("#chart-dates-p1");
 var chartDatesP2 = document.querySelector("#chart-dates-p2");
-var key = document.querySelector("#key");
 
-// Global vars.
-var defaultMetros = [
-    "Austin-Round Rock--TX",
-    "San Francisco-Oakland-Hayward--CA",
-    "New York-Newark-Jersey City--NY-NJ-PA"
-];
-var defaultState = "tx";
+
 var directoryIdMap = {
     AU: "Australia",
     CA: "Canada",
@@ -24,77 +13,110 @@ var directoryIdMap = {
     IE: "Ireland",
     US: "United States"
 };
-var availableColors = [
-    ["#2164F3", 'notInUse'], // indeed blue
-    ["#FF6600", 'notInUse'], // Orange
-    ["#FFB100", 'notInUse'], // Yellow:
-    ["#008040", 'notInUse'], // Green
-    ["#CD29C0", 'notInUse'], // Magenta
-    ["#551A8B", 'notInUse'],  // Purple: 
-    ["#0000CC", 'notInUse'], // Light blue
-    ["#99CCFF", 'notInUse']
-  ];
-var statenames = {
-    "AL": "Alabama",
-    "AK": "Alaska",
-    "AS": "American Samoa",
-    "AZ": "Arizona",
-    "AR": "Arkansas",
-    "CA": "California",
-    "CO": "Colorado",
-    "CT": "Connecticut",
-    "DE": "Delaware",
-    "DC": "District Of Columbia",
-    "FM": "Federated States Of Micronesia",
-    "FL": "Florida",
-    "GA": "Georgia",
-    "GU": "Guam",
-    "HI": "Hawaii",
-    "ID": "Idaho",
-    "IL": "Illinois",
-    "IN": "Indiana",
-    "IA": "Iowa",
-    "KS": "Kansas",
-    "KY": "Kentucky",
-    "LA": "Louisiana",
-    "ME": "Maine",
-    "MH": "Marshall Islands",
-    "MD": "Maryland",
-    "MA": "Massachusetts",
-    "MI": "Michigan",
-    "MN": "Minnesota",
-    "MS": "Mississippi",
-    "MO": "Missouri",
-    "MT": "Montana",
-    "NE": "Nebraska",
-    "NV": "Nevada",
-    "NH": "New Hampshire",
-    "NJ": "New Jersey",
-    "NM": "New Mexico",
-    "NY": "New York",
-    "NC": "North Carolina",
-    "ND": "North Dakota",
-    "MP": "Northern Mariana Islands",
-    "OH": "Ohio",
-    "OK": "Oklahoma",
-    "OR": "Oregon",
-    "PW": "Palau",
-    "PA": "Pennsylvania",
-    "PR": "Puerto Rico",
-    "RI": "Rhode Island",
-    "SC": "South Carolina",
-    "SD": "South Dakota",
-    "TN": "Tennessee",
-    "TX": "Texas",
-    "UT": "Utah",
-    "VT": "Vermont",
-    "VI": "Virgin Islands",
-    "VA": "Virginia",
-    "WA": "Washington",
-    "WV": "West Virginia",
-    "WI": "Wisconsin",
-    "WY": "Wyoming"
+
+var stateAbvMap = {
+    "al": "Alabama",
+    "ak": "Alaska",
+    "as": "American Samoa",
+    "az": "Arizona",
+    "ar": "Arkansas",
+    "ca": "California",
+    "co": "Colorado",
+    "ct": "Connecticut",
+    "de": "Delaware",
+    "dc": "District Of Columbia",
+    "fm": "Federated States Of Micronesia",
+    "fl": "Florida",
+    "ga": "Georgia",
+    "gu": "Guam",
+    "hi": "Hawaii",
+    "id": "Idaho",
+    "il": "Illinois",
+    "in": "Indiana",
+    "ia": "Iowa",
+    "ks": "Kansas",
+    "ky": "Kentucky",
+    "la": "Louisiana",
+    "me": "Maine",
+    "mh": "Marshall Islands",
+    "md": "Maryland",
+    "ma": "Massachusetts",
+    "mi": "Michigan",
+    "mn": "Minnesota",
+    "ms": "Mississippi",
+    "mo": "Missouri",
+    "mt": "Montana",
+    "ne": "Nebraska",
+    "nv": "Nevada",
+    "nh": "New Hampshire",
+    "nj": "New Jersey",
+    "nm": "New Mexico",
+    "ny": "New York",
+    "nc": "North Carolina",
+    "nd": "North Dakota",
+    "mp": "Northern Mariana Islands",
+    "oh": "Ohio",
+    "ok": "Oklahoma",
+    "or": "Oregon",
+    "pw": "Palau",
+    "pa": "Pennsylvania",
+    "pr": "Puerto Rico",
+    "ri": "Rhode Island",
+    "sc": "South Carolina",
+    "sd": "South Dakota",
+    "tn": "Tennessee",
+    "tx": "Texas",
+    "ut": "Utah",
+    "vt": "Vermont",
+    "vi": "Virgin Islands",
+    "va": "Virginia",
+    "wa": "Washington",
+    "wv": "West Virginia",
+    "wi": "Wisconsin",
+    "wy": "Wyoming"
 };
+
+var stateNameMap = Object.keys(stateAbvMap).reduce((a,c) => {
+    a[stateAbvMap[c]] = c;
+    return a;
+}, {});
+
+var settings = {
+    defaults: {
+        "country": [
+            "United States",
+            "Canada"
+        ],
+        "state": [
+            "Texas",
+            "California",
+            "New York",
+        ],
+        "metro": [
+            "Austin-Round Rock--TX",
+            "San Francisco-Oakland-Hayward--CA",
+            "New York-Newark-Jersey City--NY-NJ-PA"
+        ]
+    },
+    initialRegion: "country",
+    yLabels: {
+        "country": "index_to_feb01",
+        "state": "US job postings, 2020 vs. 2019, % gap in trend",
+        "metro": "% gap in trend over last year"
+    },
+    availableColors: [
+        ["#2164F3", 'notInUse'], // indeed blue
+        ["#FF6600", 'notInUse'], // Orange
+        ["#FFB100", 'notInUse'], // Yellow:
+        ["#008040", 'notInUse'], // Green
+        ["#CD29C0", 'notInUse'], // Magenta
+        ["#551A8B", 'notInUse'],  // Purple: 
+        ["#0000CC", 'notInUse'], // Light blue
+        ["#99CCFF", 'notInUse']
+    ]
+}
+
+var currentRegion;
 
 
 function shortDate(date) {
@@ -105,409 +127,9 @@ function shortDate(date) {
     return months[date.getMonth()] + " " + date.getDate();
 }
 
-function getDatasetsMeta(chartType, directory) {
-    switch (chartType) {
-        case "postingstrend": 
-            return {
-                name: "postingstrend",
-                title: "Job Postings on Indeed",
-                filepath: "./" + directory + "/" + "postings_category_index_" + directory + ".csv",
-                data: null,
-                yLabel: "index_to_feb01"
-            };
-        case "postingstrendbymetro":
-            return {
-                name: "postingstrendbymetro",
-                title: "Job Postings on Indeed by Metro",
-                filepath: "./" + directory + "/" + "metro_pct_gap_in_trend.csv",
-                data: null,
-                yLabel: "% gap in trend over last year"
-            };
-        case "postingstrendbystate":
-            return {
-                name: "postingstrendbystate",
-                title: "Job Postings on Indeed by State",
-                filepath: "./" + directory + "/" + "state_indexed.csv",
-                data: null,
-                yLabel: "US job postings, 2020 vs. 2019, % gap in trend"
-            };
-    };
-};
 
-
-/**
- * STATE CHART
- */
-function initChart() {
-
-    // Extend chart.
-    Chart.defaults.LineWithLine = Chart.defaults.line;
-    Chart.defaults.global.animation.duration = 0;
-    Chart.controllers.LineWithLine = Chart.controllers.line.extend({
-        draw: function(ease) {
-            Chart.controllers.line.prototype.draw.call(this, ease);
-
-            if (
-                this.chart.tooltip._active
-                && this.chart.tooltip._active.length
-            ) {
-                var activePoint = this.chart.tooltip._active[0];
-                var ctx = this.chart.ctx;
-                var x = activePoint.tooltipPosition().x;
-
-                const chartWidth = this.chart.scales['x-axis-0'].width;
-                const minXValue = this.chart.scales['x-axis-0'].min;
-                const maxXValue = this.chart.scales['x-axis-0'].max;
-                const chartX = (
-                    ((x - this.chart.chartArea.left) / chartWidth)
-                    * (maxXValue - minXValue)
-                ) + minXValue;
-
-                const lookupDate = new Date(chartX);
-                const y2019 = this.chart.data.datasets
-                    .find(d => d.label === "2019").data
-                    .find(p => p.x.getTime() === lookupDate.getTime())
-                    .y;
-                const y2020 = this.chart.data.datasets
-                    .find(d => d.label === "2020").data
-                    .find(p => p.x.getTime() === lookupDate.getTime())
-                    .y;
-
-                var topYpixel = this.chart.scales['y-axis-0'].top;
-                var bottomYpixel = this.chart.scales['y-axis-0'].bottom;
-                const minYValue = this.chart.scales['y-axis-0'].min;
-                const maxYValue = this.chart.scales['y-axis-0'].max;
-
-                const y0 = topYpixel + (
-                    (maxYValue - y2019)
-                    / (maxYValue - minYValue)
-                    * (bottomYpixel - topYpixel)
-                );
-                const y1 = topYpixel + (
-                    (maxYValue- y2020)
-                    / (maxYValue - minYValue)
-                    * (bottomYpixel - topYpixel)
-                );
-    
-                // draw line
-                ctx.save();
-                ctx.beginPath();
-                ctx.moveTo(x, y0);
-                ctx.lineTo(x, y1);
-                ctx.lineWidth = 2.0;
-                ctx.strokeStyle = '#000000';
-                ctx.stroke();
-                ctx.restore();
-            }
-        }
-    });
-
-    // Init a chart.
-    return new Chart(ctx, {
-        type: 'LineWithLine',
-        data: {
-            labels: [],
-            datasets: [],
-        },
-        options: {
-            tooltips : {
-                mode: 'index',
-                intersect: false,
-                backgroundColor: "	rgb(153,204,255, 0.9)",
-                titleFontSize: 14,
-                titleSpacing: 4,
-                bodyFontSize: 14,
-                bodySpacing: 4,
-                bodyFontColor: "#000000",
-                titleFontColor: "#000000",
-                borderColor: "#000000",
-                borderWidth: 0.5,
-                position: "average",
-                filter: function (x) { return x.datasetIndex !== 0 },
-                // itemSort: function (item1, item2) {
-                //     return item2.yLabel - item1.yLabel
-                // },
-                callbacks: {
-                    title: function(tooltipItems) {
-                        const diff = (
-                            parseFloat(tooltipItems.find(x => x.datasetIndex === 2).value)
-                            / parseFloat(tooltipItems.find(x => x.datasetIndex === 1).value)
-                        ) - 1.0;
-                        return shortDate(new Date(tooltipItems[0].xLabel))
-                            + ": " + (diff*100).toFixed(1) + "%";
-                    },
-                    label: function (tooltipItem, data) {
-                        return (tooltipItem.datasetIndex === 1 ? " 2019 " : " 2020 ")
-                            + "(" + tooltipItem.yLabel.toFixed(1) + "%)" ;
-                    },
-                    labelColor: function(tooltipItem, chart) {
-                        return {
-                            borderColor: chart.data.datasets[tooltipItem.datasetIndex].borderColor,
-                            backgroundColor: chart.data.datasets[tooltipItem.datasetIndex].borderColor
-                        };
-                    },
-                }
-            },
-            hover: {
-                    animationDuration: 0,
-                    mode: 'index',
-                    intersect: false
-            },
-            legend: {
-                    display: false
-            },
-            scales: {
-                yAxes: [{
-                    ticks: {
-                        beginAtZero: false,
-                        autoSkip: false,
-                        callback: function(value, index, values) {
-                            return value                          
-                        }
-                    },
-                    gridLines: {
-                        display: true
-                    }
-                }],
-                xAxes: [{
-                    ticks: {
-                        beginAtZero: false,
-                        autoSkip: false,
-                        maxTicksLimit: 1000,
-                        callback: function(value, index, values) {
-                            return ["1", "15"].includes(value.split(" ")[1])
-                                ? value : undefined;
-                        }
-                    },
-                    type: 'time',
-                    time: {
-                        unit: 'day',
-                        stepSize: 1
-                    },
-                    gridLines: {
-                        display: true,
-                        callback: function(value, index, values) {
-                            return ["1", "15"].includes(value.split(" ")[1])
-                                ? true : false;
-                        }
-                    }
-                }]
-            }
-        }
-    });
-};
-
-function handlePostingsTrend(data, metaData, country) {
-    // Chart
-    var chart = initChart();
-
-    // Data
-    data = data.sort((a,b) => a.data - b.data);
-    var lastDate = data[data.length - 1].date;
-
-    // Styling
-    chartTitleDataset.innerHTML =
-        metaData.title.split(" ").join("&nbsp;") + ", " + directoryIdMap[country];
-
-    chartDatesP1.innerHTML = (
-        "7 day moving avg through "
-        + shortDate(new Date(lastDate))
-    ).split(" ").join("&nbsp;") + ", ";
-    chartDatesP2.innerHTML = (
-        "indexed to "
-        + shortDate(new Date(data[0].date))
-    ).split(" ").join("&nbsp;");
-
-    // Data again.
-    data = data.reduce(function(a,c) {
-        const year = c.date.getFullYear();
-        const dateCopy = new Date(c.date);
-        dateCopy.setFullYear(2020);
-        if (
-            dateCopy > lastDate
-            || (
-                dateCopy.getMonth() === 1
-                && dateCopy.getDate() === 29
-            )
-        ) {
-            return a
-        } else if (year in a) {
-            return {
-                ...a,
-                [year]: a[year].concat({
-                    x: dateCopy,
-                    y: parseFloat(c[metaData.yLabel])
-                })
-            }
-        } else {
-            return {
-                ...a,
-                [year]: [{
-                    x: dateCopy,
-                    y: parseFloat(c[metaData.yLabel])
-                }]
-            }
-        }
-    }, {});
-
-    // Update chart data.
-    Object.keys(data).sort((a,b) => a-b).forEach((year, i) => {
-        // Update chart.
-        chart.data.datasets.push({
-            label: year,
-            data: data[year],
-            fill: false,
-            borderColor: availableColors[i][0],
-            borderWidth: 3.0,
-            pointRadius: 0,
-            pointHoverRadius: ["2020", "2019"].includes(year) ? 5 : 0,
-            pointHoverBackgroundColor: availableColors[i][0],
-            pointHoverBorderColor: "#000000"
-        });
-
-        // Update key.
-        var keyItem = document.createElement("div");
-        keyItem.style.display = "flex";
-        keyItem.style.margin = "0px 5px";
-        var keyColor = document.createElement("div");
-        keyColor.classList.add("color");
-        keyColor.style.color = availableColors[i][0];
-        keyColor.innerHTML = "&#9724;&#xFE0E;";
-        var keyYear = document.createElement("div");
-        keyYear.classList.add("year");
-        keyYear.innerText = year;
-        keyItem.appendChild(keyColor);
-        keyItem.appendChild(keyYear);
-        key.appendChild(keyItem);
-    })
-    chart.update();
-};
-
-
-
-/**
- * METROS CHART
- */
-function initChartMetros() {
-    // Extend chart.
-    Chart.defaults.LineWithLine = Chart.defaults.line;
-    Chart.defaults.global.animation.duration = 0;
-    Chart.controllers.LineWithLine = Chart.controllers.line.extend({
-        draw: function(ease) {
-            Chart.controllers.line.prototype.draw.call(this, ease);
-    
-            if (this.chart.tooltip._active && this.chart.tooltip._active.length) {
-              var activePoint = this.chart.tooltip._active[0],
-                ctx = this.chart.ctx,
-                x = activePoint.tooltipPosition().x,
-                topY = this.chart.scales['y-axis-0'].top,
-                bottomY = this.chart.scales['y-axis-0'].bottom;
-    
-              // draw line
-              ctx.save();
-              ctx.beginPath();
-              ctx.moveTo(x, topY);
-              ctx.lineTo(x, bottomY);
-              ctx.lineWidth = .5;
-              ctx.strokeStyle = '#808080';
-              ctx.stroke();
-              ctx.restore();
-            }
-        }
-    });
-
-    // Init a chart.
-    return new Chart(ctx, {
-        type: 'LineWithLine',
-        data: {
-            labels: [],
-            datasets: [],
-        },
-        options: {
-            tooltips : {
-                mode: 'index',
-                intersect: false,
-                backgroundColor: "	rgb(153,204,255, 0.9)",
-                titleFontSize: 14,
-                titleSpacing: 4,
-                bodyFontSize: 14,
-                bodySpacing: 4,
-                bodyFontColor: "#000000",
-                titleFontColor: "#000000",
-                borderColor: "#000000",
-                borderWidth: 0.5,
-                position: "average",
-                itemSort: (item1, item2) => { return item2.yLabel - item1.yLabel },
-                callbacks: {
-                    title: function(tooltipItems) {
-                        return shortDate(new Date(tooltipItems[0].xLabel));;
-                    },
-                    label: function (tooltipItem, data) {
-                        var label = data.datasets[tooltipItem.datasetIndex].label;
-                        label =  label.length > 15 ? label.substring(0,12) + "..." : label;
-                        return label + " (" + tooltipItem.yLabel.toFixed(1) + "%)" ;
-                    },
-                    labelColor: function(tooltipItem, chart) {
-                        return {
-                            borderColor: chart.data.datasets[tooltipItem.datasetIndex].borderColor,
-                            backgroundColor: chart.data.datasets[tooltipItem.datasetIndex].borderColor
-                        };
-                    },
-                }
-            },
-            hover: {
-                    animationDuration: 0,
-                    mode: 'index',
-                    intersect: false
-            },
-            legend: {
-                    display: false
-            },
-            scales: {
-                yAxes: [{
-                    ticks: {
-                        beginAtZero: false,
-                        autoSkip: false,
-                        callback: function(value, index, values) {
-                            return value                          
-                        }
-                    },
-                    gridLines: {
-                        display: true
-                    }
-                }],
-                xAxes: [{
-                    ticks: {
-                        beginAtZero: false,
-                        autoSkip: false,
-                        maxTicksLimit: 1000,
-                        callback: function(value, index, values) {
-                            return ["1", "15"].includes(value.split(" ")[1])
-                                ? value : undefined;
-                        }
-                    },
-                    type: 'time',
-                    time: {
-                        unit: 'day',
-                        stepSize: 1
-                    },
-                    gridLines: {
-                        display: true,
-                        callback: function(value, index, values) {
-                            return ["1", "15"].includes(value.split(" ")[1])
-                                ? true : false;
-                        }
-                    }
-                }]
-            }
-        }
-    });
-};
-
-function updateAppMetro(data, metaData, metros, chart) {
-    // Styling for the state.
-    chartTitleLocale.innerHTML = metros.length === 1 ? metros[0] : "Selected Metros";
-    chartTitleDataset.innerHTML = metaData.title.split(" ").join("&nbsp;") + ", ";
+function updateAppMetro(data, metros, chart) {
+    // Update dates.
     if (metros.length) {
         chartDatesP1.innerHTML = (
             "7 day moving avg through "
@@ -527,54 +149,47 @@ function updateAppMetro(data, metaData, metros, chart) {
             label: metros[i],
             data: data[metros[i]],
             fill: false,
-            borderColor: availableColors[i][0],
+            borderColor: settings["availableColors"][i][0],
             borderWidth: 3.0,
             pointRadius: 0,
             pointHoverRadius: 5,
-            pointHoverBackgroundColor: availableColors[i][0],
+            pointHoverBackgroundColor: settings["availableColors"][i][0],
             pointHoverBorderColor: "#000000"
         });
 
         // Update colors.
         $(".tag")
             .filter(function() { return this.innerText == metros[i]; })
-            .css('background-color', availableColors[i][0]);
+            .css('background-color', settings["availableColors"][i][0]);
     };
     chart.update();
 };
 
-function handlePostingsTrendByMetro(data, metaData, defaultMetros) {
+function initializeTabMetro(processedData) {
     // Chart.
-    var chart = initChartMetros();
+    var chart = initChartMetro();
+
+    // Style.
+    chartTitle.innerText = "Job Postings on Indeed by US Metro";
+    chartDatesP1.innerHTML = "";
 
     // Style.
     $(".postingsTrendByMetro").css('display','block');
-    var keyItem = document.createElement("div");
-    keyItem.style.display = "flex";
-    keyItem.style.margin = "0px 5px";
-    var keyColor = document.createElement("div");
-    keyColor.classList.add("color");
-    keyColor.style.color = availableColors[0][0];
-    keyColor.innerHTML = "&#9724;&#xFE0E;";
-    var keyYear = document.createElement("div");
-    keyYear.classList.add("year");
-    keyYear.innerText = "2020";
-    keyItem.appendChild(keyColor);
-    keyItem.appendChild(keyYear);
-    key.appendChild(keyItem);
 
-    // Hash the data by metro.
-    var dataByMetro = {};
-    for (var row of data) {
-        row["CBSA_Title"].replace(", ", "--") in dataByMetro ? 
-            dataByMetro[row["CBSA_Title"].replace(", ", "--")].push({ x: row.date, y: row[metaData.yLabel]}):
-            dataByMetro[row["CBSA_Title"].replace(", ", "--")] = [{ x: row.date, y: row[metaData.yLabel]}];
+    // Sets the options for the typeahead input.
+    if (document.querySelector(".bootstrap-tagsinput")) {
+        document.querySelector(".tagsinput-typeahead").remove();
+        document.querySelector(".bootstrap-tagsinput").remove();
+        var tagsTA = document.createElement("input");
+        tagsTA.classList.add("tagsinput-typeahead");
+        tagsTA.setAttribute("type", "text");
+        document.querySelector("#search-container").appendChild(tagsTA);
     };
 
     // Sets the options for the typeahead input.
     $('.tagsinput-typeahead').tagsinput({
         typeahead: {
-            source: Object.keys(dataByMetro),
+            source: Object.keys(processedData),
             limit: 3,
             afterSelect: function() {
                 this.$element[0].value = '';
@@ -583,263 +198,353 @@ function handlePostingsTrendByMetro(data, metaData, defaultMetros) {
     });
 
     // Seed the options.
-    defaultMetros.forEach((m,i) => {
+    settings["defaults"]['metro'].forEach((m,i) => {
         $('.tagsinput-typeahead').tagsinput('add', m);
         $(".tag")
             .filter(function() { return this.innerText == m; })
-            .css('background-color', availableColors[i][0]);
+            .css('background-color', settings["availableColors"][i][0]);
     });
-    updateAppMetro(dataByMetro, metaData, defaultMetros, chart);
+    updateAppMetro(processedData, settings["defaults"]['metro'], chart);
 
     // Listen for updates.
     $('.tagsinput-typeahead').change(function() {    
         updateAppMetro(
-            dataByMetro,
-            metaData,
+            processedData,
             $('.tagsinput-typeahead').tagsinput('items'),
             chart
         );
     });
 };
 
+function updateAppState(data, states, chart) {
 
-/**
- * STATE CHART
- */
-function initChartState() {
-    // Extend chart.
-    Chart.defaults.LineWithLine = Chart.defaults.line;
-    Chart.defaults.global.animation.duration = 0;
-    Chart.controllers.LineWithLine = Chart.controllers.line.extend({
-        draw: function(ease) {
-            Chart.controllers.line.prototype.draw.call(this, ease);
-    
-            if (this.chart.tooltip._active && this.chart.tooltip._active.length) {
-              var activePoint = this.chart.tooltip._active[0],
-                ctx = this.chart.ctx,
-                x = activePoint.tooltipPosition().x,
-                topY = this.chart.scales['y-axis-0'].top,
-                bottomY = this.chart.scales['y-axis-0'].bottom;
-    
-              // draw line
-              ctx.save();
-              ctx.beginPath();
-              ctx.moveTo(x, topY);
-              ctx.lineTo(x, bottomY);
-              ctx.lineWidth = .5;
-              ctx.strokeStyle = '#808080';
-              ctx.stroke();
-              ctx.restore();
+    var statesAbvs = states.map(s => stateNameMap[s]);
+
+    // Update dates.
+    if (states.length) {
+        chartDatesP1.innerHTML = (
+            "7 day moving avg through "
+            + shortDate(new Date(data[statesAbvs[0]][data[statesAbvs[0]].length - 1].x))
+        ).split(" ").join("&nbsp;") + ", ";
+        chartDatesP2.innerHTML = (
+            "indexed to "
+            + shortDate(new Date(data[statesAbvs[0]][0].x))
+        ).split(" ").join("&nbsp;");    
+    };
+
+    chart.data.labels.pop();
+    while (chart.data.datasets.length) { chart.data.datasets.pop() };
+    for (var i = 0; i < statesAbvs.length; i++) {
+        chart.data.datasets.push({
+            label: statesAbvs[i],
+            data: data[statesAbvs[i]],
+            fill: false,
+            borderColor: settings["availableColors"][i][0],
+            borderWidth: 3.0,
+            pointRadius: 0,
+            pointHoverRadius: 5,
+            pointHoverBackgroundColor: settings["availableColors"][i][0],
+            pointHoverBorderColor: "#000000"
+        });
+
+        // Update colors.
+        $(".tag")
+            .filter(function() { return this.innerText == states[i]; })
+            .css('background-color', settings["availableColors"][i][0]);
+    };
+    chart.update();
+};
+
+function initializeTabState(processedData) {
+    // Chart.
+    var chart = initChartState();
+
+    // Style.
+    chartTitle.innerText = "Job Postings on Indeed by US State";
+    chartDatesP1.innerHTML = "";
+
+    // Styling.
+    $(".postingsTrendByState").css("display", "block");
+
+    // Sets the options for the typeahead input.
+    if (document.querySelector(".bootstrap-tagsinput")) {
+        document.querySelector(".tagsinput-typeahead").remove();
+        document.querySelector(".bootstrap-tagsinput").remove();
+        var tagsTA = document.createElement("input");
+        tagsTA.classList.add("tagsinput-typeahead");
+        tagsTA.setAttribute("type", "text");
+        document.querySelector("#search-container").appendChild(tagsTA);
+    };
+
+    console.log( Object.keys(processedData).map(stateAbv => stateAbvMap[stateAbv]))
+    $('.tagsinput-typeahead').tagsinput({
+        typeahead: {
+            source: Object.keys(processedData).map(stateAbv => stateAbvMap[stateAbv]),
+            limit: 3,
+            afterSelect: function() {
+                this.$element[0].value = '';
             }
         }
     });
 
-    // Init a chart.
-    return new Chart(ctx, {
-        type: 'LineWithLine',
-        data: {
-            labels: [],
-            datasets: [],
-        },
-        options: {
-            tooltips : {
-                mode: 'index',
-                intersect: false,
-                backgroundColor: "	rgb(153,204,255, 0.9)",
-                titleFontSize: 14,
-                titleSpacing: 4,
-                bodyFontSize: 14,
-                bodySpacing: 4,
-                bodyFontColor: "#000000",
-                titleFontColor: "#000000",
-                borderColor: "#000000",
-                borderWidth: 0.5,
-                position: "average",
-                callbacks: {
-                    title: function(tooltipItems) {
-                        return shortDate(new Date(tooltipItems[0].xLabel));
-                    },
-                    label: function (tooltipItem, data) {
-                        return"(" + tooltipItem.yLabel.toFixed(1) + "%)" ;
-                    },
-                    labelColor: function(tooltipItem, chart) {
-                        return {
-                            borderColor: chart.data.datasets[tooltipItem.datasetIndex].borderColor,
-                            backgroundColor: chart.data.datasets[tooltipItem.datasetIndex].borderColor
-                        };
-                    },
-                }
-            },
-            hover: {
-                    animationDuration: 0,
-                    mode: 'index',
-                    intersect: false
-            },
-            legend: {
-                    display: false
-            },
-            scales: {
-                yAxes: [{
-                    ticks: {
-                        beginAtZero: false,
-                        autoSkip: false,
-                        callback: function(value, index, values) {
-                            return value                          
-                        }
-                    },
-                    gridLines: {
-                        display: true
-                    }
-                }],
-                xAxes: [{
-                    ticks: {
-                        beginAtZero: false,
-                        autoSkip: false,
-                        maxTicksLimit: 1000,
-                        callback: function(value, index, values) {
-                            return ["1", "15"].includes(value.split(" ")[1])
-                                ? value : undefined;
-                        }
-                    },
-                    type: 'time',
-                    time: {
-                        unit: 'day',
-                        stepSize: 1
-                    },
-                    gridLines: {
-                        display: true,
-                        callback: function(value, index, values) {
-                            return ["1", "15"].includes(value.split(" ")[1])
-                                ? true : false;
-                        }
-                    }
-                }]
-            }
-        }
+    // Seed the options.
+    settings["defaults"]["state"].forEach((m,i) => {
+        $('.tagsinput-typeahead').tagsinput('add', m);
+        $(".tag")
+            .filter(function() { return this.innerText == m; })
+            .css('background-color', settings["availableColors"][i][0]);
+    });
+    updateAppState(processedData, settings["defaults"]["state"], chart);
+
+    // Listen for updates.
+    $('.tagsinput-typeahead').change(function() {    
+        updateAppState(
+            processedData,
+            $('.tagsinput-typeahead').tagsinput('items'),
+            chart
+        );
     });
 };
 
-function updateAppState(data, metaData, state, chart) {
-    // Chart data.
-    var chartData = data[state].sort((a,b) => a.x - b.x);
-
-    // Styling for the state.
-    chartTitleLocale.innerHTML = statenames[state.toUpperCase()];
-    chartTitleDataset.innerHTML = metaData.title.split(" ").join("&nbsp;") + ", ";
-    chartDatesP1.innerHTML = (
-        "7 day moving avg through "
-        + shortDate(new Date(chartData[chartData.length - 1].x))
-    ).split(" ").join("&nbsp;") + ", ";
-    chartDatesP2.innerHTML = (
-        "indexed to "
-        + shortDate(new Date(chartData[0].x))
-    ).split(" ").join("&nbsp;");
+function updateAppCountry(data, countries, chart) {
+    // Update dates.
+    if (countries.length) {
+        chartDatesP1.innerHTML = (
+            "7 day moving avg through "
+            + shortDate(new Date(data[countries[0]][data[countries[0]].length - 1].x))
+        ).split(" ").join("&nbsp;") + ", ";
+        chartDatesP2.innerHTML = (
+            "indexed to "
+            + shortDate(new Date(data[countries[0]][0].x))
+        ).split(" ").join("&nbsp;");    
+    };
 
     // Swap old with new datasets.
     chart.data.labels.pop();
     while (chart.data.datasets.length) { chart.data.datasets.pop() };
-    chart.data.datasets.push({
-        label: "2020",
-        data: chartData,
-        fill: false,
-        borderColor: availableColors[0][0],
-        borderWidth: 3.0,
-        pointRadius: 0,
-        pointHoverRadius: 5,
-        pointHoverBackgroundColor: availableColors[0][0],
-        pointHoverBorderColor: "#000000"
-    });
+    for (var i = 0; i < countries.length; i++) {
+        chart.data.datasets.push({
+            label: countries[i],
+            data: data[countries[i]],
+            fill: false,
+            borderColor: settings["availableColors"][i][0],
+            borderWidth: 3.0,
+            pointRadius: 0,
+            pointHoverRadius: 5,
+            pointHoverBackgroundColor: settings["availableColors"][i][0],
+            pointHoverBorderColor: "#000000"
+        });
+
+        // Update colors.
+        $(".tag")
+            .filter(function() { return this.innerText == countries[i]; })
+            .css('background-color', settings["availableColors"][i][0]);
+    };
     chart.update();
 };
 
-function handlePostingsTrendByState(data, metaData, defaultState) {
+function initializeTabCountry(processedData) {
     // Chart.
-    var chart = initChartState();
+    var chart = initChartCountry();
 
-    // Data.
-    data = data.reduce((a,c) => ({
-        ...a,
-        [c['state']]: c['state'] in a ?
-             a[c['state']].concat({ x: c.date, y: c[metaData.yLabel]}) :
-             [{ x: c.date, y: c[metaData.yLabel]}]
-    }), {});
+    // Style.
+    chartTitle.innerText = "Job Postings on Indeed by Country";
+    chartDatesP1.innerHTML = "";
 
-    // Styling.
-    $(".postingsTrendByState").css("display", "block");
-    var statesSelection = document.querySelector("#states");
-    var keyItem = document.createElement("div");
-    keyItem.style.display = "flex";
-    keyItem.style.margin = "0px 5px";
-    var keyColor = document.createElement("div");
-    keyColor.classList.add("color");
-    keyColor.style.color = availableColors[0][0];
-    keyColor.innerHTML = "&#9724;&#xFE0E;";
-    var keyYear = document.createElement("div");
-    keyYear.classList.add("year");
-    keyYear.innerText = "2020";
-    keyItem.appendChild(keyColor);
-    keyItem.appendChild(keyYear);
-    key.appendChild(keyItem);
+    $(".postingsTrendByMetro").css('display','block');
 
-    // Get all unique metros into a set of strings, init selections.
-    var statesSet = Object.keys(data);
-    statesSet.sort().forEach(function(state) {
-        var option = document.createElement("option");
-        option.value = state;
-        option.innerHTML = statenames[state.toUpperCase()];
-        option.selected = state === defaultState;
-        statesSelection.appendChild(option);
+    // Sets the options for the typeahead input.
+    if (document.querySelector(".bootstrap-tagsinput")) {
+        document.querySelector(".tagsinput-typeahead").remove();
+        document.querySelector(".bootstrap-tagsinput").remove();
+        var tagsTA = document.createElement("input");
+        tagsTA.classList.add("tagsinput-typeahead");
+        tagsTA.setAttribute("type", "text");
+        document.querySelector("#search-container").appendChild(tagsTA);
+    };
+
+    $('.tagsinput-typeahead').tagsinput({
+        typeahead: {
+            source: Object.keys(processedData),
+            limit: 3,
+            afterSelect: function() {
+                this.$element[0].value = '';
+            }
+        }
     });
 
-    // Update and listen for updates.
-    updateAppState(data, metaData, defaultState, chart);
-    statesSelection.addEventListener("change", function() {
-        updateAppState(data, metaData, this.value, chart);
+    // Seed the options.
+    settings["defaults"]["country"].forEach((m,i) => {
+        $('.tagsinput-typeahead').tagsinput('add', m);
+        $(".tag")
+            .filter(function() { return this.innerText == m; })
+            .css('background-color', settings["availableColors"][i][0]);
+    });
+    updateAppCountry(processedData, settings["defaults"]["country"], chart);
+
+    // Listen for updates.
+    $('.tagsinput-typeahead').change(function() {    
+        updateAppCountry(
+            processedData,
+            $('.tagsinput-typeahead').tagsinput('items'),
+            chart
+        );
     });
 };
 
+function processData(metaData, region) {
+    switch (region) {
+        case "country":
+            var processedData = {};
+            for (var dataset of metaData) {
+                processedData[dataset.name] = dataset.data.map(row => {
+                    return {
+                        x: row.date,
+                        y: row[settings["yLabels"]["country"]]
+                    }
+                }).filter(row => {
+                    var newDate = new Date("2020-02-01");
+                    return row.x >= new Date(
+                        newDate.getTime()
+                        + Math.abs(newDate.getTimezoneOffset()*60000)
+                    )
+                })
+            }
+            return processedData;
+        case "state":
+            var processedData = metaData[0].data.reduce((a,c) => ({
+                ...a,
+                [c['state']]: c['state'] in a ?
+                    a[c['state']].concat({ x: c.date, y: c[settings["yLabels"]["state"]]}) :
+                    [{ x: c.date, y: c[settings["yLabels"]["state"]]}]
+            }), {});
+            return processedData;
+        case "metro":            
+            var processedData = {};
+            for (var row of metaData[0].data) {
+                var cleanName = row["CBSA_Title"].replace(", ", "--");
+                if (cleanName in processedData) {
+                    processedData[cleanName].push({ x: row.date, y: row[settings["yLabels"]["metro"]] }) 
+                } else {
+                    processedData[cleanName] = [{ x: row.date, y: row[settings["yLabels"]["metro"]] }];
+                };
+            };
+            return processedData;
+        default:
+            break;
+    };
+};
+
+function getDatasetsMeta(region) {
+    switch (region) {
+        case "country":
+            return [
+                {
+                    name: "Australia",
+                    filepath: "./AU/postings_category_index_AU.csv",
+                    data: null
+                },
+                {
+                    name: "Canada",
+                    filepath: "./CA/postings_category_index_CA.csv",
+                    data: null
+                },
+                {
+                    name: "Germany",
+                    filepath: "./DE/postings_category_index_DE.csv",
+                    data: null
+                },
+                {
+                    name: "France",
+                    filepath: "./FR/postings_category_index_FR.csv",
+                    data: null
+                },
+                {
+                    name: "Great Britain",
+                    filepath: "./GB/postings_category_index_GB.csv",
+                    data: null
+                },
+                {
+                    name: "Ireland",
+                    filepath: "./IE/postings_category_index_IE.csv",
+                    data: null
+                },
+                {
+                    name: "United States",
+                    filepath: "./US/postings_category_index_US.csv",
+                    data: null
+                }
+            ];
+        case "national":
+            return [
+                {
+                    filpath: null,
+                    data: null
+                }
+            ];
+        case "state":
+            return [
+                {
+                    filepath: "./US/state_indexed.csv",
+                    data: null
+                }
+            ];
+        case "metro":
+            return [
+                {
+                    filepath: "./US/metro_pct_gap_in_trend.csv",
+                    data: null
+                }
+            ];
+        default:
+            break;
+    };
+};
 
 /**
  * Main
  */
-function main () {
-    // Get directory and chart names from hash.
-    var hash = window.location.hash;
-    var directory = hash.replace("#", "").split("-")[0];
-    const chartName =
-        hash.split("-").length > 1 ?
-        hash.replace("#", "").split("-")[1] :
-        null;
+function loadapp(region) {
+    // Turn on loader.
+    document.querySelector("#loader").style.display = "block";
+    document.querySelector("#cover").style.display = "block";
 
     // Get meta data.
-    var metaData = getDatasetsMeta(chartName, directory);
+    var metaData = getDatasetsMeta(region);
 
-    // Try reading in the data.
-    d3.csv(metaData.filepath)
-        .catch(function(err) { return console.log(err) })
-        .then(function(data) { 
-            // Create a Date object for the date column (labels).
-            dataset = data.map(function(data) {
-                var newDate = new Date(data.date);
-                return {
-                    ...data,
-                    date: new Date(
-                        newDate.getTime()
-                        + Math.abs(newDate.getTimezoneOffset()*60000)
-                    )
-                };
-            });
+    // Read in all the required data.
+    Promise.all(metaData.map(d => d3.csv(d.filepath)))
+        .catch(function(err) { return console.log(err); })
+        .then(function(files) {
+            console.log("All data loaded successfully.");
+            for (var i = 0; i < files.length; i++) {
+                metaData[i].data = files[i].map(function(data) {
+                    var newDate = new Date(data.date);
+                    return {
+                        ...data,
+                        date: new Date(
+                            newDate.getTime()
+                            + Math.abs(newDate.getTimezoneOffset()*60000)
+                        )
+                    };
+                });
+            };
+
+            var processedData = processData(metaData, region);
 
             // Handle the data by chart type.
-            switch(chartName) {
-                case "postingstrendbymetro":
-                    handlePostingsTrendByMetro(dataset, metaData, defaultMetros);
+            switch(region) {
+                case "country":
+                    initializeTabCountry(processedData);
                     break;
-                case "postingstrendbystate":
-                    handlePostingsTrendByState(dataset, metaData, defaultState);
+                case "national":
+                    initializeTabNational(processedData);
                     break;
-                case "postingstrend":
-                    handlePostingsTrend(dataset, metaData, directory);
+                case "state":
+                    initializeTabState(processedData);
+                    break;
+                case "metro":
+                    initializeTabMetro(processedData);
                     break;
                 default:
                     break;
@@ -848,9 +553,20 @@ function main () {
             // Pull off the loader.
             document.querySelector("#loader").style.display = "none";
             document.querySelector("#cover").style.display = "none";
-        }
-    );
+        });
 };
 
-main();
-window.addEventListener("hashchange", function() { main() });
+
+// Initialize App.
+loadapp(settings["initialRegion"]);
+
+// Listen for navigation change.
+$('#myTabs a').click(function (e) {
+    e.preventDefault();
+    if ($(this)[0].attributes.region.value != currentRegion) {
+        currentRegion = $(this)[0].attributes.region.value;
+        $(this).tab('show')
+        console.log("Loading", currentRegion)
+        loadapp(currentRegion);
+    };
+});

@@ -92,6 +92,7 @@
             line-height: 35px;
             text-align: left;
             border-radius: 10px;
+            width: 100%;
         }
 
         .tag {
@@ -102,13 +103,9 @@
             display: none;
         }
 
-        .postingsTrendByState {
-            display: none;
-        }
-
         #cover {
             height: 100%;
-            width: 100%;
+            width: 640px;
             position: absolute;
             background-color: #fff;
             z-index: 2000;
@@ -132,6 +129,10 @@
             z-index: 20001;
         }
 
+        #search-container {
+            width: 90%;
+        }
+
         @-webkit-keyframes spin {
         0% { -webkit-transform: rotate(0deg); }
         100% { -webkit-transform: rotate(360deg); }
@@ -145,47 +146,75 @@
 </head>
 
 <body>
-    <!--Loader-->
-    <div id="cover">
-        <div id="loader"></div>
-    </div>
+
     
+    <!-- Navigation -->
+    <div>
 
-    <!-- Title -->
-    <div id="title-container">
-        <div id="chart-title">
-            <span id="chart-title-dataset"></span>
-            <span id="chart-title-locale"></span>
+        <!-- Nav tabs -->
+        <ul id="myTabs"class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active">
+                <a href="#home" region="country" aria-controls="home" role="tab" data-toggle="tab">Countries</a>
+            </li>
+            <li role="presentation">
+                <a href="#home" region="national" aria-controls="home" role="tab" data-toggle="tab">US National</a>
+            </li>
+            <li role="presentation">
+                <a href="#home" region="state" aria-controls="home" role="tab" data-toggle="tab">US States</a>
+            </li>
+            <li role="presentation">
+                <a href="#home" region="metro" aria-controls="home" role="tab" data-toggle="tab">US Metros</a>
+            </li>
+        </ul>
+
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="home" style>
+                <!--Loader-->
+                <div id="cover">
+                    <div id="loader"></div>
+                </div>
+
+                <!-- Title -->
+                <div id="title-container">
+                    <div id="chart-title">
+                        <span id="chart-title-dataset"></span>
+                        <span id="chart-title-locale"></span>
+                    </div>
+                    <div id="chart-dates">
+                        <span id="chart-dates-p1"></span>
+                        <span id="chart-dates-p2"></span>
+                    </div>
+                </div>
+
+                <!-- Selections -->
+                <i id="selections-prompt" style="margin-left: 5%;">
+                    Search for locations in the box below:
+                </i>
+                <div id="selections-container" style="margin: 5px 0px 15px 0px;">
+
+                    <!--Bootstrap Tags Input w/ Typeahead-->
+                    <div id='search-container' class="postingsTrendByMetro">
+                        <input class="tagsinput-typeahead" type="text" />
+                    </div>
+
+                </div>
+
+                <!-- Chart contiainer -->
+                <div class="chart-container" style="position: relative; max-width:640px">
+                    <canvas id="myChart"></canvas>
+                </div>
+
+            </div>
+
+            <div role="tabpanel" class="tab-pane" id="profile">profile</div>
+            <div role="tabpanel" class="tab-pane" id="messages">messages</div>
+            <div role="tabpanel" class="tab-pane" id="settings">settings</div>
         </div>
-        <div id="chart-dates">
-            <span id="chart-dates-p1"></span>
-            <span id="chart-dates-p2"></span>
-        </div>
+      
     </div>
 
-    <!-- Selections -->
-    <div id="selections-container" style="margin: 15px 0px;">
 
-        <!-- State selection -->
-        <form id="states-form" class="form postingsTrendByState">
-            <label for="states">Choose a State:</label>
-            <select name="states" id="states"></select>
-        </form>
-
-        <!--Bootstrap Tags Input w/ Typeahead-->
-        <div id='search-container' class="postingsTrendByMetro">
-            <input
-                class="tagsinput-typeahead"
-                type="text"
-            />
-        </div>
-
-    </div>
-
-    <!-- Chart contiainer -->
-    <div class="chart-container" style="position: relative; max-width:640px">
-        <canvas id="myChart"></canvas>
-    </div>
 
     <!-- Footer -->
     <div id="footer">
@@ -200,6 +229,8 @@
         </div>
     </div>
 
+    <script src="charts.js"></script>
     <script src="index.js"></script>
+
 </body>
 </html>
