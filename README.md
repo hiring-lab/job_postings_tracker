@@ -28,3 +28,4 @@ There are several types of data series published in this repo:
 
 * **state_indexed.csv** Same as above, but for U.S. states. 
 
+* **wage_tier_postings_trend.csv** Same as above, but for job occupation wage tier. Wage tiers are calculated using the 2019 average reported salaries of job titles on Indeed.
