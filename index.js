@@ -101,7 +101,7 @@ var settings = {
     },
     initialRegion: "country",
     yLabels: {
-        "country": "index_to_feb01",
+        "country": "YoY_pct_change_in_postings_trend_from_feb1",
         "state": "US job postings, 2020 vs. 2019, % gap in trend",
         "nation": "% gap in trend over last year",
         "metro": "% gap in trend over last year"
@@ -550,32 +550,32 @@ function getDatasetsMeta(region) {
             return [
                 {
                     name: "Australia",
-                    filepath: "./AU/postings_category_index_AU.csv",
+                    filepath: "./AU/YoY_postings_trend_ratio_AU.csv",
                     data: null
                 },
                 {
                     name: "Canada",
-                    filepath: "./CA/postings_category_index_CA.csv",
+                    filepath: "./CA/YoY_postings_trend_ratio_CA.csv",
                     data: null
                 },
                 {
                     name: "Germany",
-                    filepath: "./DE/postings_category_index_DE.csv",
+                    filepath: "./DE/YoY_postings_trend_ratio_DE.csv",
                     data: null
                 },
                 {
                     name: "Great Britain",
-                    filepath: "./GB/postings_category_index_GB.csv",
+                    filepath: "./GB/YoY_postings_trend_ratio_GB.csv",
                     data: null
                 },
                 {
                     name: "Ireland",
-                    filepath: "./IE/postings_category_index_IE.csv",
+                    filepath: "./IE/YoY_postings_trend_ratio_IE.csv",
                     data: null
                 },
                 {
                     name: "United States",
-                    filepath: "./US/postings_category_index_US.csv",
+                    filepath: "./US/YoY_postings_trend_ratio_US.csv",
                     data: null
                 }
             ];
