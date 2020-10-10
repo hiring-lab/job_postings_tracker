@@ -2,7 +2,8 @@
 var chartTitle = document.querySelector("#chart-title");
 var chartDatesP1 = document.querySelector("#chart-dates-p1");
 var chartDatesP2 = document.querySelector("#chart-dates-p2");
-
+var selectionsContainer = document.querySelector("#selections-container");
+var selectionsPrompt = document.querySelector("#selections-prompt");
 
 var directoryIdMap = {
     AU: "Australia",
@@ -102,6 +103,7 @@ var settings = {
     yLabels: {
         "country": "index_to_feb01",
         "state": "US job postings, 2020 vs. 2019, % gap in trend",
+        "nation": "% gap in trend over last year",
         "metro": "% gap in trend over last year"
     },
     availableColors: [
@@ -175,6 +177,8 @@ function initializeTabMetro(processedData) {
 
     // Style.
     $(".postingsTrendByMetro").css('display','block');
+    selectionsContainer.style.display = "block";
+    selectionsPrompt.style.display = "block";
 
     // Sets the options for the typeahead input.
     if (document.querySelector(".bootstrap-tagsinput")) {
@@ -265,6 +269,8 @@ function initializeTabState(processedData) {
 
     // Styling.
     $(".postingsTrendByState").css("display", "block");
+    selectionsContainer.style.display = "block";
+    selectionsPrompt.style.display = "block";
 
     // Sets the options for the typeahead input.
     if (document.querySelector(".bootstrap-tagsinput")) {
@@ -299,6 +305,96 @@ function initializeTabState(processedData) {
     // Listen for updates.
     $('.tagsinput-typeahead').change(function() {    
         updateAppState(
+            processedData,
+            $('.tagsinput-typeahead').tagsinput('items'),
+            chart
+        );
+    });
+};
+
+function updateAppNational(data, metros, chart) {
+    // Update dates.
+    if (metros.length) {
+        chartDatesP1.innerHTML = (
+            "7 day moving avg through "
+            + shortDate(new Date(data[metros[0]][data[metros[0]].length - 1].x))
+        ).split(" ").join("&nbsp;") + ", ";
+        chartDatesP2.innerHTML = (
+            "indexed to "
+            + shortDate(new Date(data[metros[0]][0].x))
+        ).split(" ").join("&nbsp;");    
+    };
+
+    // Swap old with new datasets.
+    chart.data.labels.pop();
+    while (chart.data.datasets.length) { chart.data.datasets.pop() };
+    for (var i = 0; i < metros.length; i++) {
+        chart.data.datasets.push({
+            label: metros[i],
+            data: data[metros[i]],
+            fill: false,
+            borderColor: settings["availableColors"][i][0],
+            borderWidth: 3.0,
+            pointRadius: 0,
+            pointHoverRadius: 5,
+            pointHoverBackgroundColor: settings["availableColors"][i][0],
+            pointHoverBorderColor: "#000000"
+        });
+
+        // Update colors.
+        $(".tag")
+            .filter(function() { return this.innerText == metros[i]; })
+            .css('background-color', settings["availableColors"][i][0]);
+    };
+    chart.update();
+};
+
+function initializeTabNational(processedData) {
+    // Chart.
+    var chart = initChartNational();
+
+    // Style.
+    chartTitle.innerText = "Job Postings on Indeed by Wage Tier in the US";
+    chartDatesP1.innerHTML = "";
+
+    // Style.
+    $(".postingsTrendByMetro").css('display','block');
+    selectionsContainer.style.display = "none";
+    selectionsPrompt.style.display = "none";
+
+    // Sets the options for the typeahead input.
+    if (document.querySelector(".bootstrap-tagsinput")) {
+        document.querySelector(".tagsinput-typeahead").remove();
+        document.querySelector(".bootstrap-tagsinput").remove();
+        var tagsTA = document.createElement("input");
+        tagsTA.classList.add("tagsinput-typeahead");
+        tagsTA.setAttribute("type", "text");
+        document.querySelector("#search-container").appendChild(tagsTA);
+    };
+
+    // Sets the options for the typeahead input.
+    $('.tagsinput-typeahead').tagsinput({
+        typeahead: {
+            source: Object.keys(processedData),
+            limit: 3,
+            afterSelect: function() {
+                this.$element[0].value = '';
+            }
+        }
+    });
+
+    // Seed the options.
+    Object.keys(processedData).forEach((m,i) => {
+        $('.tagsinput-typeahead').tagsinput('add', m);
+        $(".tag")
+            .filter(function() { return this.innerText == m; })
+            .css('background-color', settings["availableColors"][i][0]);
+    });
+    updateAppNational(processedData, Object.keys(processedData), chart);
+
+    // Listen for updates.
+    $('.tagsinput-typeahead').change(function() {    
+        updateAppNational(
             processedData,
             $('.tagsinput-typeahead').tagsinput('items'),
             chart
@@ -352,6 +448,8 @@ function initializeTabCountry(processedData) {
     chartDatesP1.innerHTML = "";
 
     $(".postingsTrendByMetro").css('display','block');
+    selectionsContainer.style.display = "block";
+    selectionsPrompt.style.display = "block";
 
     // Sets the options for the typeahead input.
     if (document.querySelector(".bootstrap-tagsinput")) {
@@ -411,6 +509,17 @@ function processData(metaData, region) {
                 })
             }
             return processedData;
+        case "national":
+            var processedData = {};
+            for (var row of metaData[0].data) {
+                var tier = row["wage_terile"];
+                if (tier in processedData) {
+                    processedData[tier].push({ x: row.date, y: row[settings["yLabels"]["nation"]] }) 
+                } else {
+                    processedData[tier] = [{ x: row.date, y: row[settings["yLabels"]["nation"]] }];
+                };
+            };
+            return processedData;
         case "state":
             var processedData = metaData[0].data.reduce((a,c) => ({
                 ...a,
@@ -455,11 +564,6 @@ function getDatasetsMeta(region) {
                     data: null
                 },
                 {
-                    name: "France",
-                    filepath: "./FR/postings_category_index_FR.csv",
-                    data: null
-                },
-                {
                     name: "Great Britain",
                     filepath: "./GB/postings_category_index_GB.csv",
                     data: null
@@ -478,7 +582,7 @@ function getDatasetsMeta(region) {
         case "national":
             return [
                 {
-                    filpath: null,
+                    filepath: "./US/wage_tier_postings_trend.csv",
                     data: null
                 }
             ];
