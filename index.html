@@ -9,6 +9,8 @@
     <meta name="author" content="Justin Fung">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
     <script src="https://d3js.org/d3.v5.min.js"></script>
@@ -23,6 +25,13 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
     <style>
+        .nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+            font-weight: bold;
+        }
+        a {
+            color: #337ab7;
+        }
+
         #attribution-container {
             align-items: center;
             display: flex;
@@ -31,8 +40,9 @@
         }
 
         body {
-            font-family: "Helvetica Neue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+            font-family: 'Noto Sans', sans-serif;
             max-width: 640px;
+            color: #2D2D2D;
         }
 
         body > div {
@@ -81,11 +91,12 @@
 
         #chart-dates {
             font-weight: 600;
+            font-size: 1.125em;
         }
 
         #chart-title {
             font-size: 1.5em;
-            font-weight: 300;
+            font-weight: bold;
         }
 
         .bootstrap-tagsinput {

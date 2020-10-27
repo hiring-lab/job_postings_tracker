@@ -107,14 +107,14 @@ var settings = {
         "metro": "% gap in trend over last year"
     },
     availableColors: [
-        ["#2164F3", 'notInUse'], // indeed blue
-        ["#FF6600", 'notInUse'], // Orange
-        ["#FFB100", 'notInUse'], // Yellow:
-        ["#008040", 'notInUse'], // Green
-        ["#CD29C0", 'notInUse'], // Magenta
-        ["#551A8B", 'notInUse'],  // Purple: 
-        ["#0000CC", 'notInUse'], // Light blue
-        ["#99CCFF", 'notInUse']
+        ["#2557A7", 'notInUse'], // indeed blue
+        ["#C74289", 'notInUse'], // Orange
+        ["#358271", 'notInUse'], // Yellow:
+        ["#C08A38", 'notInUse'], // Green
+        ["#6792F0", 'notInUse'], // Magenta
+        ["#EE99BF", 'notInUse'],  // Purple: 
+        ["#7BC0AE", 'notInUse'], // Light blue
+        ["#DF7838", 'notInUse']
     ]
 }
 
@@ -177,7 +177,7 @@ function initializeTabMetro(processedData) {
 
     // Style.
     $(".postingsTrendByMetro").css('display','block');
-    selectionsContainer.style.display = "block";
+    selectionsContainer.style.display = "flex";
     selectionsPrompt.style.display = "block";
 
     // Sets the options for the typeahead input.
@@ -269,7 +269,7 @@ function initializeTabState(processedData) {
 
     // Styling.
     $(".postingsTrendByState").css("display", "block");
-    selectionsContainer.style.display = "block";
+    selectionsContainer.style.display = "flex";
     selectionsPrompt.style.display = "block";
 
     // Sets the options for the typeahead input.
@@ -448,7 +448,7 @@ function initializeTabCountry(processedData) {
     chartDatesP1.innerHTML = "";
 
     $(".postingsTrendByMetro").css('display','block');
-    selectionsContainer.style.display = "block";
+    selectionsContainer.style.display = "flex";
     selectionsPrompt.style.display = "block";
 
     // Sets the options for the typeahead input.

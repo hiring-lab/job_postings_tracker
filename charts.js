@@ -98,10 +98,11 @@ function initChartMetro() {
             scales: {
                 yAxes: [{
                     ticks: {
+                        padding: 5,
                         beginAtZero: false,
                         autoSkip: false,
                         callback: function(value, index, values) {
-                            return value                          
+                            return value.toString() + "%";
                         }
                     },
                     gridLines: {
@@ -110,6 +111,8 @@ function initChartMetro() {
                 }],
                 xAxes: [{
                     ticks: {
+                        padding: 10,
+                        fontStyle: "bold",
                         beginAtZero: false,
                         autoSkip: false,
                         maxTicksLimit: 1000,
@@ -124,6 +127,7 @@ function initChartMetro() {
                         stepSize: 1
                     },
                     gridLines: {
+                        zeroLineColor: 'rgba(0, 0, 0, 0.1)',
                         display: true,
                         callback: function(value, index, values) {
                             return ["1", "15"].includes(value.split(" ")[1])
@@ -225,10 +229,11 @@ function initChartState() {
             scales: {
                 yAxes: [{
                     ticks: {
+                        padding: 5,
                         beginAtZero: false,
                         autoSkip: false,
                         callback: function(value, index, values) {
-                            return value                          
+                            return value.toString() + "%";
                         }
                     },
                     gridLines: {
@@ -237,6 +242,8 @@ function initChartState() {
                 }],
                 xAxes: [{
                     ticks: {
+                        padding: 10,
+                        fontStyle: "bold",
                         beginAtZero: false,
                         autoSkip: false,
                         maxTicksLimit: 1000,
@@ -251,6 +258,7 @@ function initChartState() {
                         stepSize: 1
                     },
                     gridLines: {
+                        zeroLineColor: 'rgba(0, 0, 0, 0.1)',
                         display: true,
                         callback: function(value, index, values) {
                             return ["1", "15"].includes(value.split(" ")[1])
@@ -352,10 +360,11 @@ function initChartNational() {
             scales: {
                 yAxes: [{
                     ticks: {
+                        padding: 5,
                         beginAtZero: false,
                         autoSkip: false,
                         callback: function(value, index, values) {
-                            return value                          
+                            return value.toString() + "%";
                         }
                     },
                     gridLines: {
@@ -364,6 +373,8 @@ function initChartNational() {
                 }],
                 xAxes: [{
                     ticks: {
+                        padding: 10,
+                        fontStyle: "bold",
                         beginAtZero: false,
                         autoSkip: false,
                         maxTicksLimit: 1000,
@@ -378,6 +389,7 @@ function initChartNational() {
                         stepSize: 1
                     },
                     gridLines: {
+                        zeroLineColor: 'rgba(0, 0, 0, 0.1)',
                         display: true,
                         callback: function(value, index, values) {
                             return ["1", "15"].includes(value.split(" ")[1])
@@ -479,10 +491,11 @@ function initChartCountry() {
             scales: {
                 yAxes: [{
                     ticks: {
+                        padding: 5,
                         beginAtZero: false,
                         autoSkip: false,
                         callback: function(value, index, values) {
-                            return value                          
+                            return value.toString() + "%";
                         }
                     },
                     gridLines: {
@@ -491,6 +504,8 @@ function initChartCountry() {
                 }],
                 xAxes: [{
                     ticks: {
+                        padding: 10,
+                        fontStyle: "bold",
                         beginAtZero: false,
                         autoSkip: false,
                         maxTicksLimit: 1000,
@@ -505,6 +520,7 @@ function initChartCountry() {
                         stepSize: 1
                     },
                     gridLines: {
+                        zeroLineColor: 'rgba(0, 0, 0, 0.1)',
                         display: true,
                         callback: function(value, index, values) {
                             return ["1", "15"].includes(value.split(" ")[1])
