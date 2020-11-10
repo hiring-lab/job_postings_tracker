@@ -22,6 +22,7 @@ function initChartMetro() {
     var ctx = document.getElementById('myChart');
 
     // Extend chart.
+    Chart.defaults.global.defaultFontFamily = 'Noto Sans';
     Chart.defaults.LineWithLine = Chart.defaults.line;
     Chart.defaults.global.animation.duration = 0;
     Chart.controllers.LineWithLine = Chart.controllers.line.extend({
@@ -153,6 +154,7 @@ function initChartState() {
     var ctx = document.getElementById('myChart');
 
     // Extend chart.
+    Chart.defaults.global.defaultFontFamily = 'Noto Sans';
     Chart.defaults.LineWithLine = Chart.defaults.line;
     Chart.defaults.global.animation.duration = 0;
     Chart.controllers.LineWithLine = Chart.controllers.line.extend({
@@ -271,6 +273,7 @@ function initChartState() {
     });
 };
 
+
 /**
  * STATE CHART
  */
@@ -283,6 +286,7 @@ function initChartNational() {
     var ctx = document.getElementById('myChart');
 
     // Extend chart.
+    Chart.defaults.global.defaultFontFamily = 'Noto Sans';
     Chart.defaults.LineWithLine = Chart.defaults.line;
     Chart.defaults.global.animation.duration = 0;
     Chart.controllers.LineWithLine = Chart.controllers.line.extend({
@@ -415,6 +419,7 @@ function initChartCountry() {
     var ctx = document.getElementById('myChart');
 
     // Extend chart.
+    Chart.defaults.global.defaultFontFamily = 'Noto Sans';
     Chart.defaults.LineWithLine = Chart.defaults.line;
     Chart.defaults.global.animation.duration = 0;
     Chart.controllers.LineWithLine = Chart.controllers.line.extend({

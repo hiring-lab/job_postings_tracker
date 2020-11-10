@@ -129,7 +129,6 @@ function shortDate(date) {
     return months[date.getMonth()] + " " + date.getDate();
 }
 
-
 function updateAppMetro(data, metros, chart) {
     // Update dates.
     if (metros.length) {
@@ -179,6 +178,7 @@ function initializeTabMetro(processedData) {
     $(".postingsTrendByMetro").css('display','block');
     selectionsContainer.style.display = "flex";
     selectionsPrompt.style.display = "block";
+    selectionsPrompt.innerText = "Search for metros in the box below (limit 8):";
 
     // Sets the options for the typeahead input.
     if (document.querySelector(".bootstrap-tagsinput")) {
@@ -192,6 +192,7 @@ function initializeTabMetro(processedData) {
 
     // Sets the options for the typeahead input.
     $('.tagsinput-typeahead').tagsinput({
+        maxTags: 8,
         typeahead: {
             source: Object.keys(processedData),
             limit: 3,
@@ -271,6 +272,7 @@ function initializeTabState(processedData) {
     $(".postingsTrendByState").css("display", "block");
     selectionsContainer.style.display = "flex";
     selectionsPrompt.style.display = "block";
+    selectionsPrompt.innerText = "Search for states in the box below (limit 8):";
 
     // Sets the options for the typeahead input.
     if (document.querySelector(".bootstrap-tagsinput")) {
@@ -282,14 +284,15 @@ function initializeTabState(processedData) {
         document.querySelector("#search-container").appendChild(tagsTA);
     };
 
-    console.log( Object.keys(processedData).map(stateAbv => stateAbvMap[stateAbv]))
     $('.tagsinput-typeahead').tagsinput({
+        maxTags: 8,
         typeahead: {
             source: Object.keys(processedData).map(stateAbv => stateAbvMap[stateAbv]),
             limit: 3,
             afterSelect: function() {
                 this.$element[0].value = '';
-            }
+            },
+           
         }
     });
 
@@ -303,7 +306,7 @@ function initializeTabState(processedData) {
     updateAppState(processedData, settings["defaults"]["state"], chart);
 
     // Listen for updates.
-    $('.tagsinput-typeahead').change(function() {    
+    $('.tagsinput-typeahead').change(function() {
         updateAppState(
             processedData,
             $('.tagsinput-typeahead').tagsinput('items'),
@@ -450,6 +453,7 @@ function initializeTabCountry(processedData) {
     $(".postingsTrendByMetro").css('display','block');
     selectionsContainer.style.display = "flex";
     selectionsPrompt.style.display = "block";
+    selectionsPrompt.innerText = "Search for countries in the box below (limit 8):";
 
     // Sets the options for the typeahead input.
     if (document.querySelector(".bootstrap-tagsinput")) {
@@ -559,12 +563,17 @@ function getDatasetsMeta(region) {
                     data: null
                 },
                 {
+                    name: "France",
+                    filepath: "./FR/YoY_postings_trend_ratio_FR.csv",
+                    data: null
+                },
+                {
                     name: "Germany",
                     filepath: "./DE/YoY_postings_trend_ratio_DE.csv",
                     data: null
                 },
                 {
-                    name: "Great Britain",
+                    name: "United Kingdom",
                     filepath: "./GB/YoY_postings_trend_ratio_GB.csv",
                     data: null
                 },
