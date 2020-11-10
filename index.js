@@ -453,7 +453,7 @@ function initializeTabCountry(processedData) {
     $(".postingsTrendByMetro").css('display','block');
     selectionsContainer.style.display = "flex";
     selectionsPrompt.style.display = "block";
-    selectionsPrompt.innerText = "Search for countries in the box below (limit 8):";
+    selectionsPrompt.innerText = "Select Australia, Canada, France, Germany, Ireland, United Kingdom, and/or United States below:";
 
     // Sets the options for the typeahead input.
     if (document.querySelector(".bootstrap-tagsinput")) {
@@ -573,20 +573,20 @@ function getDatasetsMeta(region) {
                     data: null
                 },
                 {
-                    name: "United Kingdom",
-                    filepath: "./GB/YoY_postings_trend_ratio_GB.csv",
+                    name: "Ireland",
+                    filepath: "./IE/YoY_postings_trend_ratio_IE.csv",
                     data: null
                 },
                 {
-                    name: "Ireland",
-                    filepath: "./IE/YoY_postings_trend_ratio_IE.csv",
+                    name: "United Kingdom",
+                    filepath: "./GB/YoY_postings_trend_ratio_GB.csv",
                     data: null
                 },
                 {
                     name: "United States",
                     filepath: "./US/YoY_postings_trend_ratio_US.csv",
                     data: null
-                }
+                },
             ];
         case "national":
             return [
