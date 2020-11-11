@@ -210,7 +210,7 @@ function initChartState() {
                     label: function (tooltipItem, data) {
                         var label = data.datasets[tooltipItem.datasetIndex].label;
                         label =  label.length > 15 ? label.substring(0,12) + "..." : label;
-                        return label + " (" + tooltipItem.yLabel.toFixed(1) + "%)" ;
+                        return label.toUpperCase() + " (" + tooltipItem.yLabel.toFixed(1) + "%)" ;
                     },
                     labelColor: function(tooltipItem, chart) {
                         return {
