@@ -6,5 +6,8 @@
 *.Rproj
 *.png
 *.jpg
+**.DS_Store
+dashboard/*
+**.icloud
 normcat_vetting
 normcat_vetting/*
