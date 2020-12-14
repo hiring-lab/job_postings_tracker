@@ -102,7 +102,7 @@ var settings = {
     initialRegion: "country",
     yLabels: {
         "country": "YoY_pct_change_in_postings_trend_from_feb1",
-        "state": "US job postings, 2020 vs. 2019, % gap in trend",
+        "state": "% gap in trend over last year",
         "nation": "% gap in trend over last year",
         "metro": "% gap in trend over last year"
     },
@@ -527,8 +527,8 @@ function processData(metaData, region) {
         case "state":
             var processedData = metaData[0].data.reduce((a,c) => ({
                 ...a,
-                [c['state']]: c['state'] in a ?
-                    a[c['state']].concat({ x: c.date, y: c[settings["yLabels"]["state"]]}) :
+                [c['state'].toLowerCase()]: c['state'].toLowerCase() in a ?
+                    a[c['state'].toLowerCase()].concat({ x: c.date, y: c[settings["yLabels"]["state"]]}) :
                     [{ x: c.date, y: c[settings["yLabels"]["state"]]}]
             }), {});
             return processedData;
@@ -598,7 +598,7 @@ function getDatasetsMeta(region) {
         case "state":
             return [
                 {
-                    filepath: "./US/state_indexed.csv",
+                    filepath: "./US/state_pct_gap_in_trend.csv",
                     data: null
                 }
             ];
