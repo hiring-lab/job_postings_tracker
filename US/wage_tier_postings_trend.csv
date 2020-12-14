@@ -306,6 +306,13 @@ date,wage_terile,% gap in trend over last year
 2020-12-02,high_wage,-14.64
 2020-12-03,high_wage,-14.5
 2020-12-04,high_wage,-14.28
+2020-12-05,high_wage,-14.07
+2020-12-06,high_wage,-13.88
+2020-12-07,high_wage,-13.72
+2020-12-08,high_wage,-13.53
+2020-12-09,high_wage,-13.4
+2020-12-10,high_wage,-13.36
+2020-12-11,high_wage,-13.23
 2020-02-01,low_wage,0
 2020-02-02,low_wage,0.34
 2020-02-03,low_wage,0.75
@@ -613,6 +620,13 @@ date,wage_terile,% gap in trend over last year
 2020-12-02,low_wage,-7.8
 2020-12-03,low_wage,-7.81
 2020-12-04,low_wage,-7.81
+2020-12-05,low_wage,-7.74
+2020-12-06,low_wage,-7.83
+2020-12-07,low_wage,-7.82
+2020-12-08,low_wage,-7.82
+2020-12-09,low_wage,-7.89
+2020-12-10,low_wage,-8.01
+2020-12-11,low_wage,-7.97
 2020-02-01,middle_wage,0
 2020-02-02,middle_wage,-0.03
 2020-02-03,middle_wage,0.14
@@ -864,7 +878,7 @@ date,wage_terile,% gap in trend over last year
 2020-10-07,middle_wage,-17.01
 2020-10-08,middle_wage,-17.03
 2020-10-09,middle_wage,-16.96
-2020-10-10,middle_wage,-16.79
+2020-10-10,middle_wage,-16.78
 2020-10-11,middle_wage,-16.55
 2020-10-12,middle_wage,-16.4
 2020-10-13,middle_wage,-16.2
@@ -920,3 +934,10 @@ date,wage_terile,% gap in trend over last year
 2020-12-02,middle_wage,-11.66
 2020-12-03,middle_wage,-11.35
 2020-12-04,middle_wage,-11.02
+2020-12-05,middle_wage,-10.69
+2020-12-06,middle_wage,-10.45
+2020-12-07,middle_wage,-10.31
+2020-12-08,middle_wage,-10.31
+2020-12-09,middle_wage,-10.36
+2020-12-10,middle_wage,-10.86
+2020-12-11,middle_wage,-11.21
