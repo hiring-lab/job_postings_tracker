@@ -10,7 +10,8 @@ The job postings data will be updated after Hiring Lab posts the tracker for the
 
 For Frequently Asked Questions regarding Indeed's data, click [here](https://www.hiringlab.org/indeed-data-faq/).
 
-## Job Postings Methodology
+## Job Postings
+### Methodology
 
 All figures in this repository are the percentage change in seasonally-adjusted job postings since February 1, 2020, using a 7-day trailing average. February 1, 2020, is our pre-pandemic baseline. We seasonally adjust each series based on historical patterns in 2017, 2018, and 2019. Each series, including the national trend, occupational sectors, and sub-national geographies, is seasonally adjusted separately.
 
