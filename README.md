@@ -2,11 +2,11 @@
 
 The [Indeed Hiring Lab](http://hiringlab.org) is an international team of economists and researchers dedicated to delivering insights that help drive the global labor market conversation.
 
-This GitHub repo is intended to serve as a space to host various regularly updated data series to help economists, journalists, and other interested parties better understand the labor market conditions in their countries.
+This GitHub repo is intended to serve as a space to host various regularly-updated data series to help economists, journalists, and other interested parties better understand the labor market conditions in their countries.
 
-Indeed has websites in over 60 markets and 28 languages.  The full list of markets is here: https://www.indeed.com/worldwide.  We have economists in Australia, Canada, France, Germany, UK/Ireland, and the US. If you are interested in data about other markets, please don't hesitate to contact us at hiringlabinfo@indeed.com.
+Indeed has websites in over 60 markets and 28 languages.  The full list of markets is here: https://www.indeed.com/worldwide.  We have economists in Australia, Canada, France, Germany, UK/Ireland, and the US. If you are interested in data about other markets, please contact us at hiringlabinfo@indeed.com.
 
-The job postings data will be updated after Hiring Lab posts the tracker for the given country. Our plan is to publish the trackers in all markets every other week.
+The job postings data will be updated weekly, with the exact timing during the week depending upon Hiring Lab’s publication schedule. Our plan is to publish the trackers in all markets every other week, though that is subject to change.
 
 For Frequently Asked Questions regarding Indeed's data, click [here](https://www.hiringlab.org/indeed-data-faq/).
 
@@ -23,6 +23,7 @@ For nearly all series, job postings trended upward in 2019. The new methodology 
 
 Each market covered by a Hiring Lab economist has a folder in this repo. Each folder contains the following files:
 
-* **total_job_postings_{country_code}.csv**: This file contains the % change in seasonally-adjusted total job postings since February 1, 2020 for that market.
+* **aggregate_job_postings_{country_code}.csv**
+This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings and new jobs postings (on Indeed for 7 days or fewer) for that market.
 
 *Note: We will be adding more files to these folders in the weeks ahead*
