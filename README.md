@@ -26,4 +26,12 @@ Each market covered by a Hiring Lab economist has a folder in this repo. Each fo
 * **aggregate_job_postings_{country_code}.csv**
 This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings and new jobs postings (on Indeed for 7 days or fewer) for that market.
 
+For certain markets, we also share subnational job postings trends. In the United States, we provide:
+
+* **metro_job_postings_us.csv**
+This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in US metropolitan areas with a population of at least 500,000 people.
+
+* **state_job_postings_us.csv**
+This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in the US states and the District of Columbia.
+
 *Note: We will be adding more files to these folders in the weeks ahead*
