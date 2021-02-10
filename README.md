@@ -32,6 +32,6 @@ For certain markets, we also share subnational job postings trends. In the Unite
 This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in US metropolitan areas with a population of at least 500,000 people.
 
 * **state_job_postings_us.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in US states and the District of Columbia.
+This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in the US states and the District of Columbia.
 
 *Note: We will be adding more files to these folders in the weeks ahead*
