@@ -13,11 +13,11 @@ For Frequently Asked Questions regarding Indeed's data, click [here](https://www
 ## Job Postings
 ### Methodology
 
-All figures in this repository are the percentage change in seasonally-adjusted job postings since February 1, 2020, using a 7-day trailing average. February 1, 2020, is our pre-pandemic baseline. We seasonally adjust each series based on historical patterns in 2017, 2018, and 2019. Each series, including the national trend, occupational sectors, and sub-national geographies, is seasonally adjusted separately.
+All data in this repository are the percentage change in seasonally-adjusted job postings since February 1, 2020, using a seven-day trailing average. February 1, 2020, is our pre-pandemic baseline. We seasonally adjust each series based on historical patterns in 2017, 2018, and 2019. Each series, including the national trend, occupational sectors, and sub-national geographies, is seasonally adjusted separately. We adopted this new methodology in January 2021. Historical numbers have been revised and may differ from originally reported values.
 
-We switched to this new methodology in January 2021 and now report all historical data using this new methodology. Historical numbers have been revised and may differ significantly from originally reported values. The new methodology applies a detrended seasonal adjustment factor to the percentage change in job postings. In contrast, our previous methodology used the 2019 change between February 1 and the reported date as the adjustment factor, which implicitly included both a seasonality component and the underlying trend.
+Indeed no longer allows Colorado jobs that ask the candidate to disclose their previous salaries. This has a meaningful effect on our postings in the state of Colorado and its metros, though not on our national totals.
 
-For nearly all series, job postings trended upward in 2019. The new methodology no longer subtracts out the underlying 2019 trend, so most historical figures are higher (i.e. less negative relative to the February 1, 2020 baseline) with the new methodology than originally reported.
+This blog post is based on publicly available information on the Indeed websites and is not a projection of future events, and includes both paid and unpaid job solicitations. US Armed Forces job postings are excluded for US postings.
 
 ### Data Schema
 
@@ -26,6 +26,9 @@ Each market covered by a Hiring Lab economist has a folder in this repo. Each fo
 * **aggregate_job_postings_{country_code}.csv**
 This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings and new jobs postings (on Indeed for 7 days or fewer) for that market.
 
+* **job_postings_by_sector_{country_code}.csv**
+This file contains the % change in seasonally-adjusted postings since February 1, 2020 for occupational sectors for that market.
+
 For certain markets, we also share subnational job postings trends. In the United States, we provide:
 
 * **metro_job_postings_us.csv**
@@ -33,5 +36,3 @@ This file contains the % change in seasonally-adjusted postings since February 1
 
 * **state_job_postings_us.csv**
 This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in the US states and the District of Columbia.
-
-*Note: We will be adding more files to these folders in the weeks ahead*
