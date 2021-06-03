@@ -469,12 +469,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,25.98,total postings,Accounting
 2021-05-14,AU,26.51,total postings,Accounting
 2021-05-15,AU,27.22,total postings,Accounting
-2021-05-16,AU,27.89,total postings,Accounting
-2021-05-17,AU,28.35,total postings,Accounting
-2021-05-18,AU,28.75,total postings,Accounting
-2021-05-19,AU,28.79,total postings,Accounting
-2021-05-20,AU,29.15,total postings,Accounting
-2021-05-21,AU,29.26,total postings,Accounting
+2021-05-16,AU,27.92,total postings,Accounting
+2021-05-17,AU,28.42,total postings,Accounting
+2021-05-18,AU,28.85,total postings,Accounting
+2021-05-19,AU,28.95,total postings,Accounting
+2021-05-20,AU,29.36,total postings,Accounting
+2021-05-21,AU,29.52,total postings,Accounting
+2021-05-22,AU,28.83,total postings,Accounting
+2021-05-23,AU,28.26,total postings,Accounting
+2021-05-24,AU,27.72,total postings,Accounting
+2021-05-25,AU,27,total postings,Accounting
+2021-05-26,AU,26.25,total postings,Accounting
+2021-05-27,AU,25.31,total postings,Accounting
+2021-05-28,AU,24.15,total postings,Accounting
 2020-02-01,AU,0,total postings,Administrative Assistance
 2020-02-02,AU,-0.07,total postings,Administrative Assistance
 2020-02-03,AU,0.13,total postings,Administrative Assistance
@@ -945,12 +952,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,42.67,total postings,Administrative Assistance
 2021-05-14,AU,42.63,total postings,Administrative Assistance
 2021-05-15,AU,42.57,total postings,Administrative Assistance
-2021-05-16,AU,42.4,total postings,Administrative Assistance
-2021-05-17,AU,42.24,total postings,Administrative Assistance
-2021-05-18,AU,41.8,total postings,Administrative Assistance
-2021-05-19,AU,41.29,total postings,Administrative Assistance
-2021-05-20,AU,41.09,total postings,Administrative Assistance
-2021-05-21,AU,40.91,total postings,Administrative Assistance
+2021-05-16,AU,42.41,total postings,Administrative Assistance
+2021-05-17,AU,42.26,total postings,Administrative Assistance
+2021-05-18,AU,41.85,total postings,Administrative Assistance
+2021-05-19,AU,41.37,total postings,Administrative Assistance
+2021-05-20,AU,41.22,total postings,Administrative Assistance
+2021-05-21,AU,41.09,total postings,Administrative Assistance
+2021-05-22,AU,40.32,total postings,Administrative Assistance
+2021-05-23,AU,39.95,total postings,Administrative Assistance
+2021-05-24,AU,39.58,total postings,Administrative Assistance
+2021-05-25,AU,39.92,total postings,Administrative Assistance
+2021-05-26,AU,39.92,total postings,Administrative Assistance
+2021-05-27,AU,39.55,total postings,Administrative Assistance
+2021-05-28,AU,39.21,total postings,Administrative Assistance
 2020-02-01,AU,0,total postings,Agriculture & Forestry
 2020-02-02,AU,-0.66,total postings,Agriculture & Forestry
 2020-02-03,AU,-1.63,total postings,Agriculture & Forestry
@@ -1427,6 +1441,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-19,AU,91.93,total postings,Agriculture & Forestry
 2021-05-20,AU,93.73,total postings,Agriculture & Forestry
 2021-05-21,AU,93.75,total postings,Agriculture & Forestry
+2021-05-22,AU,92.46,total postings,Agriculture & Forestry
+2021-05-23,AU,90.6,total postings,Agriculture & Forestry
+2021-05-24,AU,88.05,total postings,Agriculture & Forestry
+2021-05-25,AU,85.99,total postings,Agriculture & Forestry
+2021-05-26,AU,82.3,total postings,Agriculture & Forestry
+2021-05-27,AU,78.2,total postings,Agriculture & Forestry
+2021-05-28,AU,74.92,total postings,Agriculture & Forestry
 2020-02-01,AU,0,total postings,Architecture
 2020-02-02,AU,0.54,total postings,Architecture
 2020-02-03,AU,1.47,total postings,Architecture
@@ -1899,10 +1920,17 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-15,AU,37.85,total postings,Architecture
 2021-05-16,AU,37.06,total postings,Architecture
 2021-05-17,AU,36.65,total postings,Architecture
-2021-05-18,AU,36.42,total postings,Architecture
-2021-05-19,AU,35.72,total postings,Architecture
-2021-05-20,AU,34.84,total postings,Architecture
-2021-05-21,AU,34.31,total postings,Architecture
+2021-05-18,AU,36.47,total postings,Architecture
+2021-05-19,AU,35.82,total postings,Architecture
+2021-05-20,AU,34.98,total postings,Architecture
+2021-05-21,AU,34.5,total postings,Architecture
+2021-05-22,AU,33.53,total postings,Architecture
+2021-05-23,AU,32.6,total postings,Architecture
+2021-05-24,AU,32.55,total postings,Architecture
+2021-05-25,AU,32.52,total postings,Architecture
+2021-05-26,AU,32.93,total postings,Architecture
+2021-05-27,AU,32.77,total postings,Architecture
+2021-05-28,AU,32.14,total postings,Architecture
 2020-02-01,AU,0,total postings,Arts & Entertainment
 2020-02-02,AU,0.59,total postings,Arts & Entertainment
 2020-02-03,AU,1.36,total postings,Arts & Entertainment
@@ -2376,9 +2404,16 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-16,AU,54.78,total postings,Arts & Entertainment
 2021-05-17,AU,54.62,total postings,Arts & Entertainment
 2021-05-18,AU,54.9,total postings,Arts & Entertainment
-2021-05-19,AU,54.95,total postings,Arts & Entertainment
-2021-05-20,AU,56.65,total postings,Arts & Entertainment
-2021-05-21,AU,58.61,total postings,Arts & Entertainment
+2021-05-19,AU,55,total postings,Arts & Entertainment
+2021-05-20,AU,56.76,total postings,Arts & Entertainment
+2021-05-21,AU,58.78,total postings,Arts & Entertainment
+2021-05-22,AU,61.07,total postings,Arts & Entertainment
+2021-05-23,AU,63.62,total postings,Arts & Entertainment
+2021-05-24,AU,64.99,total postings,Arts & Entertainment
+2021-05-25,AU,65.99,total postings,Arts & Entertainment
+2021-05-26,AU,66.45,total postings,Arts & Entertainment
+2021-05-27,AU,65.75,total postings,Arts & Entertainment
+2021-05-28,AU,64.49,total postings,Arts & Entertainment
 2020-02-01,AU,0,total postings,Personal Care & Home Health
 2020-02-02,AU,0.71,total postings,Personal Care & Home Health
 2020-02-03,AU,1.42,total postings,Personal Care & Home Health
@@ -2849,12 +2884,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,89.1,total postings,Personal Care & Home Health
 2021-05-14,AU,89.36,total postings,Personal Care & Home Health
 2021-05-15,AU,89.06,total postings,Personal Care & Home Health
-2021-05-16,AU,88.19,total postings,Personal Care & Home Health
-2021-05-17,AU,86.98,total postings,Personal Care & Home Health
-2021-05-18,AU,85.89,total postings,Personal Care & Home Health
-2021-05-19,AU,84.51,total postings,Personal Care & Home Health
-2021-05-20,AU,82.94,total postings,Personal Care & Home Health
-2021-05-21,AU,81.41,total postings,Personal Care & Home Health
+2021-05-16,AU,88.2,total postings,Personal Care & Home Health
+2021-05-17,AU,87,total postings,Personal Care & Home Health
+2021-05-18,AU,85.93,total postings,Personal Care & Home Health
+2021-05-19,AU,84.55,total postings,Personal Care & Home Health
+2021-05-20,AU,83.01,total postings,Personal Care & Home Health
+2021-05-21,AU,81.49,total postings,Personal Care & Home Health
+2021-05-22,AU,79.96,total postings,Personal Care & Home Health
+2021-05-23,AU,78.58,total postings,Personal Care & Home Health
+2021-05-24,AU,77.97,total postings,Personal Care & Home Health
+2021-05-25,AU,77.91,total postings,Personal Care & Home Health
+2021-05-26,AU,77.1,total postings,Personal Care & Home Health
+2021-05-27,AU,76.45,total postings,Personal Care & Home Health
+2021-05-28,AU,75.73,total postings,Personal Care & Home Health
 2020-02-01,AU,0,total postings,Childcare
 2020-02-02,AU,1.63,total postings,Childcare
 2020-02-03,AU,2.89,total postings,Childcare
@@ -3325,12 +3367,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,83.63,total postings,Childcare
 2021-05-14,AU,81.78,total postings,Childcare
 2021-05-15,AU,79.87,total postings,Childcare
-2021-05-16,AU,78,total postings,Childcare
-2021-05-17,AU,77.03,total postings,Childcare
-2021-05-18,AU,77.2,total postings,Childcare
-2021-05-19,AU,76.88,total postings,Childcare
-2021-05-20,AU,77.84,total postings,Childcare
-2021-05-21,AU,79.03,total postings,Childcare
+2021-05-16,AU,78.04,total postings,Childcare
+2021-05-17,AU,77.11,total postings,Childcare
+2021-05-18,AU,77.31,total postings,Childcare
+2021-05-19,AU,77.03,total postings,Childcare
+2021-05-20,AU,78.03,total postings,Childcare
+2021-05-21,AU,79.3,total postings,Childcare
+2021-05-22,AU,80.52,total postings,Childcare
+2021-05-23,AU,81.35,total postings,Childcare
+2021-05-24,AU,81.53,total postings,Childcare
+2021-05-25,AU,81.42,total postings,Childcare
+2021-05-26,AU,81.49,total postings,Childcare
+2021-05-27,AU,80.9,total postings,Childcare
+2021-05-28,AU,79.83,total postings,Childcare
 2020-02-01,AU,0,total postings,Construction
 2020-02-02,AU,-0.14,total postings,Construction
 2020-02-03,AU,-0.09,total postings,Construction
@@ -3746,13 +3795,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-03-19,AU,63.93,total postings,Construction
 2021-03-20,AU,65.54,total postings,Construction
 2021-03-21,AU,67.14,total postings,Construction
-2021-03-22,AU,68.05,total postings,Construction
-2021-03-23,AU,68.62,total postings,Construction
-2021-03-24,AU,69.22,total postings,Construction
-2021-03-25,AU,69.99,total postings,Construction
-2021-03-26,AU,70.61,total postings,Construction
-2021-03-27,AU,71.46,total postings,Construction
-2021-03-28,AU,72.65,total postings,Construction
+2021-03-22,AU,68.06,total postings,Construction
+2021-03-23,AU,68.63,total postings,Construction
+2021-03-24,AU,69.23,total postings,Construction
+2021-03-25,AU,70,total postings,Construction
+2021-03-26,AU,70.62,total postings,Construction
+2021-03-27,AU,71.47,total postings,Construction
+2021-03-28,AU,72.66,total postings,Construction
 2021-03-29,AU,74.14,total postings,Construction
 2021-03-30,AU,75.65,total postings,Construction
 2021-03-31,AU,76.84,total postings,Construction
@@ -3801,12 +3850,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,75.14,total postings,Construction
 2021-05-14,AU,75.36,total postings,Construction
 2021-05-15,AU,75.31,total postings,Construction
-2021-05-16,AU,75.35,total postings,Construction
-2021-05-17,AU,75.4,total postings,Construction
-2021-05-18,AU,75.37,total postings,Construction
-2021-05-19,AU,75.14,total postings,Construction
-2021-05-20,AU,75.22,total postings,Construction
-2021-05-21,AU,75.82,total postings,Construction
+2021-05-16,AU,75.36,total postings,Construction
+2021-05-17,AU,75.42,total postings,Construction
+2021-05-18,AU,75.4,total postings,Construction
+2021-05-19,AU,75.19,total postings,Construction
+2021-05-20,AU,75.29,total postings,Construction
+2021-05-21,AU,75.91,total postings,Construction
+2021-05-22,AU,76,total postings,Construction
+2021-05-23,AU,75.81,total postings,Construction
+2021-05-24,AU,75.07,total postings,Construction
+2021-05-25,AU,74.8,total postings,Construction
+2021-05-26,AU,74.37,total postings,Construction
+2021-05-27,AU,73.12,total postings,Construction
+2021-05-28,AU,71.47,total postings,Construction
 2020-02-01,AU,0,total postings,Customer Service
 2020-02-02,AU,0.21,total postings,Customer Service
 2020-02-03,AU,0.5,total postings,Customer Service
@@ -4279,10 +4335,17 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-15,AU,60.49,total postings,Customer Service
 2021-05-16,AU,59.69,total postings,Customer Service
 2021-05-17,AU,58.78,total postings,Customer Service
-2021-05-18,AU,57.1,total postings,Customer Service
-2021-05-19,AU,55.51,total postings,Customer Service
-2021-05-20,AU,54.65,total postings,Customer Service
-2021-05-21,AU,54.18,total postings,Customer Service
+2021-05-18,AU,57.16,total postings,Customer Service
+2021-05-19,AU,55.63,total postings,Customer Service
+2021-05-20,AU,54.84,total postings,Customer Service
+2021-05-21,AU,54.44,total postings,Customer Service
+2021-05-22,AU,53.28,total postings,Customer Service
+2021-05-23,AU,52.47,total postings,Customer Service
+2021-05-24,AU,51.6,total postings,Customer Service
+2021-05-25,AU,51.41,total postings,Customer Service
+2021-05-26,AU,51.1,total postings,Customer Service
+2021-05-27,AU,50.2,total postings,Customer Service
+2021-05-28,AU,48.78,total postings,Customer Service
 2020-02-01,AU,0,total postings,Education & Instruction
 2020-02-02,AU,0.34,total postings,Education & Instruction
 2020-02-03,AU,2.48,total postings,Education & Instruction
@@ -4754,11 +4817,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-14,AU,71.77,total postings,Education & Instruction
 2021-05-15,AU,70.92,total postings,Education & Instruction
 2021-05-16,AU,70.47,total postings,Education & Instruction
-2021-05-17,AU,70.14,total postings,Education & Instruction
-2021-05-18,AU,69.53,total postings,Education & Instruction
-2021-05-19,AU,68.63,total postings,Education & Instruction
-2021-05-20,AU,67.93,total postings,Education & Instruction
-2021-05-21,AU,67.24,total postings,Education & Instruction
+2021-05-17,AU,70.15,total postings,Education & Instruction
+2021-05-18,AU,69.56,total postings,Education & Instruction
+2021-05-19,AU,68.69,total postings,Education & Instruction
+2021-05-20,AU,68.04,total postings,Education & Instruction
+2021-05-21,AU,67.39,total postings,Education & Instruction
+2021-05-22,AU,63.48,total postings,Education & Instruction
+2021-05-23,AU,59.3,total postings,Education & Instruction
+2021-05-24,AU,55.02,total postings,Education & Instruction
+2021-05-25,AU,49.07,total postings,Education & Instruction
+2021-05-26,AU,43.36,total postings,Education & Instruction
+2021-05-27,AU,36.95,total postings,Education & Instruction
+2021-05-28,AU,30.73,total postings,Education & Instruction
 2020-02-01,AU,0,total postings,Civil Engineering
 2020-02-02,AU,-0.67,total postings,Civil Engineering
 2020-02-03,AU,-1.5,total postings,Civil Engineering
@@ -5235,6 +5305,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-19,AU,36.38,total postings,Civil Engineering
 2021-05-20,AU,35.81,total postings,Civil Engineering
 2021-05-21,AU,35,total postings,Civil Engineering
+2021-05-22,AU,34.22,total postings,Civil Engineering
+2021-05-23,AU,33.7,total postings,Civil Engineering
+2021-05-24,AU,33.76,total postings,Civil Engineering
+2021-05-25,AU,33.76,total postings,Civil Engineering
+2021-05-26,AU,33.9,total postings,Civil Engineering
+2021-05-27,AU,33.12,total postings,Civil Engineering
+2021-05-28,AU,32.27,total postings,Civil Engineering
 2020-02-01,AU,0,total postings,Industrial Engineering
 2020-02-02,AU,-1.33,total postings,Industrial Engineering
 2020-02-03,AU,-2.39,total postings,Industrial Engineering
@@ -5704,13 +5781,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-12,AU,49.87,total postings,Industrial Engineering
 2021-05-13,AU,52.11,total postings,Industrial Engineering
 2021-05-14,AU,53.28,total postings,Industrial Engineering
-2021-05-15,AU,53.95,total postings,Industrial Engineering
-2021-05-16,AU,54.44,total postings,Industrial Engineering
-2021-05-17,AU,54.58,total postings,Industrial Engineering
-2021-05-18,AU,53.67,total postings,Industrial Engineering
-2021-05-19,AU,52.26,total postings,Industrial Engineering
-2021-05-20,AU,50.73,total postings,Industrial Engineering
-2021-05-21,AU,48.82,total postings,Industrial Engineering
+2021-05-15,AU,53.98,total postings,Industrial Engineering
+2021-05-16,AU,54.5,total postings,Industrial Engineering
+2021-05-17,AU,54.67,total postings,Industrial Engineering
+2021-05-18,AU,53.87,total postings,Industrial Engineering
+2021-05-19,AU,52.58,total postings,Industrial Engineering
+2021-05-20,AU,51.17,total postings,Industrial Engineering
+2021-05-21,AU,49.37,total postings,Industrial Engineering
+2021-05-22,AU,47.28,total postings,Industrial Engineering
+2021-05-23,AU,45,total postings,Industrial Engineering
+2021-05-24,AU,42.86,total postings,Industrial Engineering
+2021-05-25,AU,40.76,total postings,Industrial Engineering
+2021-05-26,AU,38.63,total postings,Industrial Engineering
+2021-05-27,AU,36.57,total postings,Industrial Engineering
+2021-05-28,AU,35.39,total postings,Industrial Engineering
 2020-02-01,AU,0,total postings,Electrical Engineering
 2020-02-02,AU,-1.83,total postings,Electrical Engineering
 2020-02-03,AU,-3.56,total postings,Electrical Engineering
@@ -6184,9 +6268,16 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-16,AU,-6,total postings,Electrical Engineering
 2021-05-17,AU,-5.93,total postings,Electrical Engineering
 2021-05-18,AU,-5.52,total postings,Electrical Engineering
-2021-05-19,AU,-4.96,total postings,Electrical Engineering
-2021-05-20,AU,-4.2,total postings,Electrical Engineering
-2021-05-21,AU,-3.92,total postings,Electrical Engineering
+2021-05-19,AU,-4.91,total postings,Electrical Engineering
+2021-05-20,AU,-4.09,total postings,Electrical Engineering
+2021-05-21,AU,-3.76,total postings,Electrical Engineering
+2021-05-22,AU,-3.74,total postings,Electrical Engineering
+2021-05-23,AU,-3.07,total postings,Electrical Engineering
+2021-05-24,AU,-2.66,total postings,Electrical Engineering
+2021-05-25,AU,-1.99,total postings,Electrical Engineering
+2021-05-26,AU,-1.7,total postings,Electrical Engineering
+2021-05-27,AU,-1.41,total postings,Electrical Engineering
+2021-05-28,AU,-0.92,total postings,Electrical Engineering
 2020-02-01,AU,0,total postings,Banking & Finance
 2020-02-02,AU,-0.61,total postings,Banking & Finance
 2020-02-03,AU,-1.61,total postings,Banking & Finance
@@ -6657,12 +6748,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,52.34,total postings,Banking & Finance
 2021-05-14,AU,52.93,total postings,Banking & Finance
 2021-05-15,AU,53.29,total postings,Banking & Finance
-2021-05-16,AU,53.17,total postings,Banking & Finance
-2021-05-17,AU,53.35,total postings,Banking & Finance
-2021-05-18,AU,53.26,total postings,Banking & Finance
-2021-05-19,AU,52.67,total postings,Banking & Finance
-2021-05-20,AU,52.63,total postings,Banking & Finance
-2021-05-21,AU,52.9,total postings,Banking & Finance
+2021-05-16,AU,53.19,total postings,Banking & Finance
+2021-05-17,AU,53.39,total postings,Banking & Finance
+2021-05-18,AU,53.36,total postings,Banking & Finance
+2021-05-19,AU,52.91,total postings,Banking & Finance
+2021-05-20,AU,53.01,total postings,Banking & Finance
+2021-05-21,AU,53.42,total postings,Banking & Finance
+2021-05-22,AU,53.11,total postings,Banking & Finance
+2021-05-23,AU,53.04,total postings,Banking & Finance
+2021-05-24,AU,52.66,total postings,Banking & Finance
+2021-05-25,AU,52.75,total postings,Banking & Finance
+2021-05-26,AU,53.12,total postings,Banking & Finance
+2021-05-27,AU,53.21,total postings,Banking & Finance
+2021-05-28,AU,52.64,total postings,Banking & Finance
 2020-02-01,AU,0,total postings,Food Preparation & Service
 2020-02-02,AU,0.46,total postings,Food Preparation & Service
 2020-02-03,AU,1.05,total postings,Food Preparation & Service
@@ -7134,11 +7232,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-14,AU,109.55,total postings,Food Preparation & Service
 2021-05-15,AU,107.71,total postings,Food Preparation & Service
 2021-05-16,AU,105.36,total postings,Food Preparation & Service
-2021-05-17,AU,102.25,total postings,Food Preparation & Service
-2021-05-18,AU,101.31,total postings,Food Preparation & Service
-2021-05-19,AU,100.87,total postings,Food Preparation & Service
-2021-05-20,AU,100.56,total postings,Food Preparation & Service
-2021-05-21,AU,100.7,total postings,Food Preparation & Service
+2021-05-17,AU,102.26,total postings,Food Preparation & Service
+2021-05-18,AU,101.34,total postings,Food Preparation & Service
+2021-05-19,AU,100.92,total postings,Food Preparation & Service
+2021-05-20,AU,100.63,total postings,Food Preparation & Service
+2021-05-21,AU,100.78,total postings,Food Preparation & Service
+2021-05-22,AU,100.14,total postings,Food Preparation & Service
+2021-05-23,AU,99.54,total postings,Food Preparation & Service
+2021-05-24,AU,98.44,total postings,Food Preparation & Service
+2021-05-25,AU,98.06,total postings,Food Preparation & Service
+2021-05-26,AU,97.65,total postings,Food Preparation & Service
+2021-05-27,AU,96.84,total postings,Food Preparation & Service
+2021-05-28,AU,95.74,total postings,Food Preparation & Service
 2020-02-01,AU,0,total postings,Hospitality & Tourism
 2020-02-02,AU,-1.56,total postings,Hospitality & Tourism
 2020-02-03,AU,-3.33,total postings,Hospitality & Tourism
@@ -7610,11 +7715,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-14,AU,-13.59,total postings,Hospitality & Tourism
 2021-05-15,AU,-12.97,total postings,Hospitality & Tourism
 2021-05-16,AU,-12.5,total postings,Hospitality & Tourism
-2021-05-17,AU,-11.66,total postings,Hospitality & Tourism
-2021-05-18,AU,-11.72,total postings,Hospitality & Tourism
-2021-05-19,AU,-11.34,total postings,Hospitality & Tourism
-2021-05-20,AU,-10.52,total postings,Hospitality & Tourism
-2021-05-21,AU,-9.92,total postings,Hospitality & Tourism
+2021-05-17,AU,-11.62,total postings,Hospitality & Tourism
+2021-05-18,AU,-11.65,total postings,Hospitality & Tourism
+2021-05-19,AU,-11.23,total postings,Hospitality & Tourism
+2021-05-20,AU,-10.37,total postings,Hospitality & Tourism
+2021-05-21,AU,-9.73,total postings,Hospitality & Tourism
+2021-05-22,AU,-9.92,total postings,Hospitality & Tourism
+2021-05-23,AU,-9.99,total postings,Hospitality & Tourism
+2021-05-24,AU,-10.54,total postings,Hospitality & Tourism
+2021-05-25,AU,-9.99,total postings,Hospitality & Tourism
+2021-05-26,AU,-10.48,total postings,Hospitality & Tourism
+2021-05-27,AU,-11.04,total postings,Hospitality & Tourism
+2021-05-28,AU,-11.45,total postings,Hospitality & Tourism
 2020-02-01,AU,0,total postings,Human Resources
 2020-02-02,AU,-0.11,total postings,Human Resources
 2020-02-03,AU,0.03,total postings,Human Resources
@@ -8085,12 +8197,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,59.75,total postings,Human Resources
 2021-05-14,AU,60.06,total postings,Human Resources
 2021-05-15,AU,60.22,total postings,Human Resources
-2021-05-16,AU,60.41,total postings,Human Resources
-2021-05-17,AU,60.56,total postings,Human Resources
-2021-05-18,AU,60.14,total postings,Human Resources
-2021-05-19,AU,59.68,total postings,Human Resources
-2021-05-20,AU,59.37,total postings,Human Resources
-2021-05-21,AU,59.57,total postings,Human Resources
+2021-05-16,AU,60.44,total postings,Human Resources
+2021-05-17,AU,60.61,total postings,Human Resources
+2021-05-18,AU,60.21,total postings,Human Resources
+2021-05-19,AU,59.8,total postings,Human Resources
+2021-05-20,AU,59.54,total postings,Human Resources
+2021-05-21,AU,59.77,total postings,Human Resources
+2021-05-22,AU,59.01,total postings,Human Resources
+2021-05-23,AU,58.16,total postings,Human Resources
+2021-05-24,AU,56.89,total postings,Human Resources
+2021-05-25,AU,55.71,total postings,Human Resources
+2021-05-26,AU,54.4,total postings,Human Resources
+2021-05-27,AU,53.1,total postings,Human Resources
+2021-05-28,AU,51.47,total postings,Human Resources
 2020-02-01,AU,0,total postings,Installation & Maintenance
 2020-02-02,AU,0.14,total postings,Installation & Maintenance
 2020-02-03,AU,0.49,total postings,Installation & Maintenance
@@ -8562,11 +8681,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-14,AU,43.93,total postings,Installation & Maintenance
 2021-05-15,AU,43.68,total postings,Installation & Maintenance
 2021-05-16,AU,43.28,total postings,Installation & Maintenance
-2021-05-17,AU,42.59,total postings,Installation & Maintenance
-2021-05-18,AU,41.8,total postings,Installation & Maintenance
-2021-05-19,AU,40.9,total postings,Installation & Maintenance
-2021-05-20,AU,40.34,total postings,Installation & Maintenance
-2021-05-21,AU,39.76,total postings,Installation & Maintenance
+2021-05-17,AU,42.61,total postings,Installation & Maintenance
+2021-05-18,AU,41.83,total postings,Installation & Maintenance
+2021-05-19,AU,40.97,total postings,Installation & Maintenance
+2021-05-20,AU,40.45,total postings,Installation & Maintenance
+2021-05-21,AU,39.9,total postings,Installation & Maintenance
+2021-05-22,AU,39.08,total postings,Installation & Maintenance
+2021-05-23,AU,38.53,total postings,Installation & Maintenance
+2021-05-24,AU,38.19,total postings,Installation & Maintenance
+2021-05-25,AU,38.23,total postings,Installation & Maintenance
+2021-05-26,AU,38.39,total postings,Installation & Maintenance
+2021-05-27,AU,38.39,total postings,Installation & Maintenance
+2021-05-28,AU,38.21,total postings,Installation & Maintenance
 2020-02-01,AU,0,total postings,Insurance
 2020-02-02,AU,-0.53,total postings,Insurance
 2020-02-03,AU,-0.79,total postings,Insurance
@@ -9038,11 +9164,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-14,AU,16.5,total postings,Insurance
 2021-05-15,AU,15.24,total postings,Insurance
 2021-05-16,AU,12.74,total postings,Insurance
-2021-05-17,AU,11.05,total postings,Insurance
-2021-05-18,AU,10.48,total postings,Insurance
-2021-05-19,AU,9.99,total postings,Insurance
-2021-05-20,AU,10.28,total postings,Insurance
-2021-05-21,AU,12.59,total postings,Insurance
+2021-05-17,AU,11.13,total postings,Insurance
+2021-05-18,AU,10.62,total postings,Insurance
+2021-05-19,AU,10.21,total postings,Insurance
+2021-05-20,AU,10.57,total postings,Insurance
+2021-05-21,AU,13.02,total postings,Insurance
+2021-05-22,AU,14.11,total postings,Insurance
+2021-05-23,AU,17.1,total postings,Insurance
+2021-05-24,AU,19.31,total postings,Insurance
+2021-05-25,AU,21.13,total postings,Insurance
+2021-05-26,AU,22.8,total postings,Insurance
+2021-05-27,AU,24.86,total postings,Insurance
+2021-05-28,AU,25.05,total postings,Insurance
 2020-02-01,AU,0,total postings,Legal
 2020-02-02,AU,0.03,total postings,Legal
 2020-02-03,AU,-0.19,total postings,Legal
@@ -9513,12 +9646,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,16.59,total postings,Legal
 2021-05-14,AU,16.52,total postings,Legal
 2021-05-15,AU,16.37,total postings,Legal
-2021-05-16,AU,15.73,total postings,Legal
-2021-05-17,AU,15.12,total postings,Legal
-2021-05-18,AU,14.45,total postings,Legal
-2021-05-19,AU,13.99,total postings,Legal
-2021-05-20,AU,14.65,total postings,Legal
-2021-05-21,AU,15.94,total postings,Legal
+2021-05-16,AU,15.75,total postings,Legal
+2021-05-17,AU,15.18,total postings,Legal
+2021-05-18,AU,14.56,total postings,Legal
+2021-05-19,AU,14.16,total postings,Legal
+2021-05-20,AU,14.88,total postings,Legal
+2021-05-21,AU,16.24,total postings,Legal
+2021-05-22,AU,16.54,total postings,Legal
+2021-05-23,AU,17.86,total postings,Legal
+2021-05-24,AU,19.57,total postings,Legal
+2021-05-25,AU,21.08,total postings,Legal
+2021-05-26,AU,22.35,total postings,Legal
+2021-05-27,AU,22.28,total postings,Legal
+2021-05-28,AU,21.19,total postings,Legal
 2020-02-01,AU,0,total postings,Management
 2020-02-02,AU,-0.68,total postings,Management
 2020-02-03,AU,-1.05,total postings,Management
@@ -9989,12 +10129,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,46.1,total postings,Management
 2021-05-14,AU,46.09,total postings,Management
 2021-05-15,AU,46.15,total postings,Management
-2021-05-16,AU,46,total postings,Management
-2021-05-17,AU,45.96,total postings,Management
-2021-05-18,AU,45.9,total postings,Management
-2021-05-19,AU,45.51,total postings,Management
-2021-05-20,AU,45.49,total postings,Management
-2021-05-21,AU,45.43,total postings,Management
+2021-05-16,AU,46.01,total postings,Management
+2021-05-17,AU,45.98,total postings,Management
+2021-05-18,AU,45.95,total postings,Management
+2021-05-19,AU,45.58,total postings,Management
+2021-05-20,AU,45.6,total postings,Management
+2021-05-21,AU,45.57,total postings,Management
+2021-05-22,AU,44.76,total postings,Management
+2021-05-23,AU,44.3,total postings,Management
+2021-05-24,AU,43.65,total postings,Management
+2021-05-25,AU,43.11,total postings,Management
+2021-05-26,AU,42.39,total postings,Management
+2021-05-27,AU,41.43,total postings,Management
+2021-05-28,AU,40.47,total postings,Management
 2020-02-01,AU,0,total postings,Production & Manufacturing
 2020-02-02,AU,-0.01,total postings,Production & Manufacturing
 2020-02-03,AU,0.11,total postings,Production & Manufacturing
@@ -10471,6 +10618,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-19,AU,55.78,total postings,Production & Manufacturing
 2021-05-20,AU,54.58,total postings,Production & Manufacturing
 2021-05-21,AU,53.94,total postings,Production & Manufacturing
+2021-05-22,AU,52.92,total postings,Production & Manufacturing
+2021-05-23,AU,51.98,total postings,Production & Manufacturing
+2021-05-24,AU,51.5,total postings,Production & Manufacturing
+2021-05-25,AU,51.59,total postings,Production & Manufacturing
+2021-05-26,AU,51.19,total postings,Production & Manufacturing
+2021-05-27,AU,50.82,total postings,Production & Manufacturing
+2021-05-28,AU,49.93,total postings,Production & Manufacturing
 2020-02-01,AU,0,total postings,Marketing
 2020-02-02,AU,0.31,total postings,Marketing
 2020-02-03,AU,0.6,total postings,Marketing
@@ -10941,12 +11095,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,40.49,total postings,Marketing
 2021-05-14,AU,40.49,total postings,Marketing
 2021-05-15,AU,40.49,total postings,Marketing
-2021-05-16,AU,40.6,total postings,Marketing
-2021-05-17,AU,40.55,total postings,Marketing
-2021-05-18,AU,40.58,total postings,Marketing
-2021-05-19,AU,40.97,total postings,Marketing
-2021-05-20,AU,41.72,total postings,Marketing
-2021-05-21,AU,42.31,total postings,Marketing
+2021-05-16,AU,40.64,total postings,Marketing
+2021-05-17,AU,40.62,total postings,Marketing
+2021-05-18,AU,40.69,total postings,Marketing
+2021-05-19,AU,41.13,total postings,Marketing
+2021-05-20,AU,41.93,total postings,Marketing
+2021-05-21,AU,42.6,total postings,Marketing
+2021-05-22,AU,42.25,total postings,Marketing
+2021-05-23,AU,41.99,total postings,Marketing
+2021-05-24,AU,41.79,total postings,Marketing
+2021-05-25,AU,41.67,total postings,Marketing
+2021-05-26,AU,40.78,total postings,Marketing
+2021-05-27,AU,39.51,total postings,Marketing
+2021-05-28,AU,38.4,total postings,Marketing
 2020-02-01,AU,0,total postings,Mathematics
 2020-02-02,AU,-0.38,total postings,Mathematics
 2020-02-03,AU,-0.82,total postings,Mathematics
@@ -11420,9 +11581,16 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-16,AU,52.18,total postings,Mathematics
 2021-05-17,AU,51.24,total postings,Mathematics
 2021-05-18,AU,51.08,total postings,Mathematics
-2021-05-19,AU,51.19,total postings,Mathematics
-2021-05-20,AU,52.74,total postings,Mathematics
-2021-05-21,AU,54.41,total postings,Mathematics
+2021-05-19,AU,51.31,total postings,Mathematics
+2021-05-20,AU,52.97,total postings,Mathematics
+2021-05-21,AU,54.76,total postings,Mathematics
+2021-05-22,AU,55.51,total postings,Mathematics
+2021-05-23,AU,57.27,total postings,Mathematics
+2021-05-24,AU,58.8,total postings,Mathematics
+2021-05-25,AU,60.17,total postings,Mathematics
+2021-05-26,AU,61.33,total postings,Mathematics
+2021-05-27,AU,61.3,total postings,Mathematics
+2021-05-28,AU,60.09,total postings,Mathematics
 2020-02-01,AU,0,total postings,Dental
 2020-02-02,AU,1.21,total postings,Dental
 2020-02-03,AU,1.64,total postings,Dental
@@ -11898,7 +12066,14 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-18,AU,44.73,total postings,Dental
 2021-05-19,AU,44.03,total postings,Dental
 2021-05-20,AU,44.37,total postings,Dental
-2021-05-21,AU,44.63,total postings,Dental
+2021-05-21,AU,44.68,total postings,Dental
+2021-05-22,AU,44.63,total postings,Dental
+2021-05-23,AU,43.9,total postings,Dental
+2021-05-24,AU,43.23,total postings,Dental
+2021-05-25,AU,42.71,total postings,Dental
+2021-05-26,AU,41.73,total postings,Dental
+2021-05-27,AU,40.07,total postings,Dental
+2021-05-28,AU,38.51,total postings,Dental
 2020-02-01,AU,0,total postings,Physicians & Surgeons
 2020-02-02,AU,-0.51,total postings,Physicians & Surgeons
 2020-02-03,AU,-1.1,total postings,Physicians & Surgeons
@@ -12375,6 +12550,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-19,AU,7.51,total postings,Physicians & Surgeons
 2021-05-20,AU,8,total postings,Physicians & Surgeons
 2021-05-21,AU,8.13,total postings,Physicians & Surgeons
+2021-05-22,AU,7.28,total postings,Physicians & Surgeons
+2021-05-23,AU,6.67,total postings,Physicians & Surgeons
+2021-05-24,AU,6.17,total postings,Physicians & Surgeons
+2021-05-25,AU,5.51,total postings,Physicians & Surgeons
+2021-05-26,AU,4.92,total postings,Physicians & Surgeons
+2021-05-27,AU,4.33,total postings,Physicians & Surgeons
+2021-05-28,AU,3.84,total postings,Physicians & Surgeons
 2020-02-01,AU,0,total postings,Media & Communications
 2020-02-02,AU,-0.57,total postings,Media & Communications
 2020-02-03,AU,-1.05,total postings,Media & Communications
@@ -12851,6 +13033,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-19,AU,24.33,total postings,Media & Communications
 2021-05-20,AU,24.47,total postings,Media & Communications
 2021-05-21,AU,24.98,total postings,Media & Communications
+2021-05-22,AU,25.12,total postings,Media & Communications
+2021-05-23,AU,25.78,total postings,Media & Communications
+2021-05-24,AU,27.14,total postings,Media & Communications
+2021-05-25,AU,28.91,total postings,Media & Communications
+2021-05-26,AU,30.42,total postings,Media & Communications
+2021-05-27,AU,32.13,total postings,Media & Communications
+2021-05-28,AU,33.04,total postings,Media & Communications
 2020-02-01,AU,0,total postings,Medical Information
 2020-02-02,AU,-0.47,total postings,Medical Information
 2020-02-03,AU,-0.67,total postings,Medical Information
@@ -13324,9 +13513,16 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-16,AU,44.5,total postings,Medical Information
 2021-05-17,AU,44.08,total postings,Medical Information
 2021-05-18,AU,42.29,total postings,Medical Information
-2021-05-19,AU,40.26,total postings,Medical Information
-2021-05-20,AU,39.83,total postings,Medical Information
-2021-05-21,AU,39.86,total postings,Medical Information
+2021-05-19,AU,40.34,total postings,Medical Information
+2021-05-20,AU,39.98,total postings,Medical Information
+2021-05-21,AU,40.09,total postings,Medical Information
+2021-05-22,AU,39.14,total postings,Medical Information
+2021-05-23,AU,38.65,total postings,Medical Information
+2021-05-24,AU,36.9,total postings,Medical Information
+2021-05-25,AU,36.84,total postings,Medical Information
+2021-05-26,AU,36.39,total postings,Medical Information
+2021-05-27,AU,34.49,total postings,Medical Information
+2021-05-28,AU,31.92,total postings,Medical Information
 2020-02-01,AU,0,total postings,Nursing
 2020-02-02,AU,0.22,total postings,Nursing
 2020-02-03,AU,0.09,total postings,Nursing
@@ -13796,13 +13992,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-12,AU,52.04,total postings,Nursing
 2021-05-13,AU,50.91,total postings,Nursing
 2021-05-14,AU,50,total postings,Nursing
-2021-05-15,AU,48.75,total postings,Nursing
-2021-05-16,AU,47.55,total postings,Nursing
-2021-05-17,AU,46.2,total postings,Nursing
-2021-05-18,AU,45.3,total postings,Nursing
-2021-05-19,AU,43.93,total postings,Nursing
-2021-05-20,AU,43.31,total postings,Nursing
-2021-05-21,AU,43.02,total postings,Nursing
+2021-05-15,AU,48.76,total postings,Nursing
+2021-05-16,AU,47.57,total postings,Nursing
+2021-05-17,AU,46.24,total postings,Nursing
+2021-05-18,AU,45.36,total postings,Nursing
+2021-05-19,AU,44.04,total postings,Nursing
+2021-05-20,AU,43.48,total postings,Nursing
+2021-05-21,AU,43.23,total postings,Nursing
+2021-05-22,AU,43.04,total postings,Nursing
+2021-05-23,AU,43.1,total postings,Nursing
+2021-05-24,AU,43.7,total postings,Nursing
+2021-05-25,AU,44.7,total postings,Nursing
+2021-05-26,AU,45.45,total postings,Nursing
+2021-05-27,AU,45.87,total postings,Nursing
+2021-05-28,AU,45.66,total postings,Nursing
 2020-02-01,AU,0,total postings,Medical Technician
 2020-02-02,AU,0.06,total postings,Medical Technician
 2020-02-03,AU,0.19,total postings,Medical Technician
@@ -14276,9 +14479,16 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-16,AU,42.44,total postings,Medical Technician
 2021-05-17,AU,41.51,total postings,Medical Technician
 2021-05-18,AU,41.6,total postings,Medical Technician
-2021-05-19,AU,41.15,total postings,Medical Technician
-2021-05-20,AU,41.45,total postings,Medical Technician
-2021-05-21,AU,41.15,total postings,Medical Technician
+2021-05-19,AU,41.19,total postings,Medical Technician
+2021-05-20,AU,41.53,total postings,Medical Technician
+2021-05-21,AU,41.27,total postings,Medical Technician
+2021-05-22,AU,39.89,total postings,Medical Technician
+2021-05-23,AU,39.16,total postings,Medical Technician
+2021-05-24,AU,39.07,total postings,Medical Technician
+2021-05-25,AU,38.17,total postings,Medical Technician
+2021-05-26,AU,37.56,total postings,Medical Technician
+2021-05-27,AU,36.77,total postings,Medical Technician
+2021-05-28,AU,35.78,total postings,Medical Technician
 2020-02-01,AU,0,total postings,Beauty & Wellness
 2020-02-02,AU,0.9,total postings,Beauty & Wellness
 2020-02-03,AU,2.07,total postings,Beauty & Wellness
@@ -14749,12 +14959,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,-9.85,total postings,Beauty & Wellness
 2021-05-14,AU,-10.66,total postings,Beauty & Wellness
 2021-05-15,AU,-11.48,total postings,Beauty & Wellness
-2021-05-16,AU,-12.28,total postings,Beauty & Wellness
-2021-05-17,AU,-13.02,total postings,Beauty & Wellness
-2021-05-18,AU,-13.63,total postings,Beauty & Wellness
-2021-05-19,AU,-14.85,total postings,Beauty & Wellness
-2021-05-20,AU,-16.12,total postings,Beauty & Wellness
-2021-05-21,AU,-17.05,total postings,Beauty & Wellness
+2021-05-16,AU,-12.25,total postings,Beauty & Wellness
+2021-05-17,AU,-12.98,total postings,Beauty & Wellness
+2021-05-18,AU,-13.57,total postings,Beauty & Wellness
+2021-05-19,AU,-14.76,total postings,Beauty & Wellness
+2021-05-20,AU,-16.01,total postings,Beauty & Wellness
+2021-05-21,AU,-16.92,total postings,Beauty & Wellness
+2021-05-22,AU,-17.77,total postings,Beauty & Wellness
+2021-05-23,AU,-18.84,total postings,Beauty & Wellness
+2021-05-24,AU,-19.52,total postings,Beauty & Wellness
+2021-05-25,AU,-20.19,total postings,Beauty & Wellness
+2021-05-26,AU,-19.9,total postings,Beauty & Wellness
+2021-05-27,AU,-19.18,total postings,Beauty & Wellness
+2021-05-28,AU,-18.7,total postings,Beauty & Wellness
 2020-02-01,AU,0,total postings,Pharmacy
 2020-02-02,AU,-0.21,total postings,Pharmacy
 2020-02-03,AU,-0.61,total postings,Pharmacy
@@ -15231,6 +15448,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-19,AU,30.49,total postings,Pharmacy
 2021-05-20,AU,30.43,total postings,Pharmacy
 2021-05-21,AU,30.02,total postings,Pharmacy
+2021-05-22,AU,29.31,total postings,Pharmacy
+2021-05-23,AU,28.66,total postings,Pharmacy
+2021-05-24,AU,28.5,total postings,Pharmacy
+2021-05-25,AU,28.06,total postings,Pharmacy
+2021-05-26,AU,27.98,total postings,Pharmacy
+2021-05-27,AU,27.96,total postings,Pharmacy
+2021-05-28,AU,28.16,total postings,Pharmacy
 2020-02-01,AU,0,total postings,Project Management
 2020-02-02,AU,-0.05,total postings,Project Management
 2020-02-03,AU,-0.39,total postings,Project Management
@@ -15701,12 +15925,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,48.08,total postings,Project Management
 2021-05-14,AU,47.48,total postings,Project Management
 2021-05-15,AU,46.84,total postings,Project Management
-2021-05-16,AU,46.28,total postings,Project Management
-2021-05-17,AU,46.12,total postings,Project Management
-2021-05-18,AU,46.16,total postings,Project Management
-2021-05-19,AU,46.12,total postings,Project Management
-2021-05-20,AU,46.72,total postings,Project Management
-2021-05-21,AU,46.96,total postings,Project Management
+2021-05-16,AU,46.29,total postings,Project Management
+2021-05-17,AU,46.15,total postings,Project Management
+2021-05-18,AU,46.23,total postings,Project Management
+2021-05-19,AU,46.24,total postings,Project Management
+2021-05-20,AU,46.89,total postings,Project Management
+2021-05-21,AU,47.16,total postings,Project Management
+2021-05-22,AU,46.6,total postings,Project Management
+2021-05-23,AU,46.69,total postings,Project Management
+2021-05-24,AU,46.64,total postings,Project Management
+2021-05-25,AU,47.05,total postings,Project Management
+2021-05-26,AU,46.9,total postings,Project Management
+2021-05-27,AU,46.58,total postings,Project Management
+2021-05-28,AU,46.8,total postings,Project Management
 2020-02-01,AU,0,total postings,Security & Public Safety
 2020-02-02,AU,0.95,total postings,Security & Public Safety
 2020-02-03,AU,2.11,total postings,Security & Public Safety
@@ -16177,12 +16408,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,63.18,total postings,Security & Public Safety
 2021-05-14,AU,62.41,total postings,Security & Public Safety
 2021-05-15,AU,61.49,total postings,Security & Public Safety
-2021-05-16,AU,60.2,total postings,Security & Public Safety
-2021-05-17,AU,58.79,total postings,Security & Public Safety
-2021-05-18,AU,57.45,total postings,Security & Public Safety
-2021-05-19,AU,56.25,total postings,Security & Public Safety
-2021-05-20,AU,55.03,total postings,Security & Public Safety
-2021-05-21,AU,54.33,total postings,Security & Public Safety
+2021-05-16,AU,60.23,total postings,Security & Public Safety
+2021-05-17,AU,58.85,total postings,Security & Public Safety
+2021-05-18,AU,57.53,total postings,Security & Public Safety
+2021-05-19,AU,56.36,total postings,Security & Public Safety
+2021-05-20,AU,55.14,total postings,Security & Public Safety
+2021-05-21,AU,54.44,total postings,Security & Public Safety
+2021-05-22,AU,52.87,total postings,Security & Public Safety
+2021-05-23,AU,51.73,total postings,Security & Public Safety
+2021-05-24,AU,50.98,total postings,Security & Public Safety
+2021-05-25,AU,50.55,total postings,Security & Public Safety
+2021-05-26,AU,49.97,total postings,Security & Public Safety
+2021-05-27,AU,49.08,total postings,Security & Public Safety
+2021-05-28,AU,48.81,total postings,Security & Public Safety
 2020-02-01,AU,0,total postings,Real Estate
 2020-02-02,AU,-0.18,total postings,Real Estate
 2020-02-03,AU,-0.81,total postings,Real Estate
@@ -16659,6 +16897,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-19,AU,38.21,total postings,Real Estate
 2021-05-20,AU,36.4,total postings,Real Estate
 2021-05-21,AU,34.56,total postings,Real Estate
+2021-05-22,AU,32.22,total postings,Real Estate
+2021-05-23,AU,30.88,total postings,Real Estate
+2021-05-24,AU,28.88,total postings,Real Estate
+2021-05-25,AU,26.97,total postings,Real Estate
+2021-05-26,AU,25.23,total postings,Real Estate
+2021-05-27,AU,22.95,total postings,Real Estate
+2021-05-28,AU,20.46,total postings,Real Estate
 2020-02-01,AU,0,total postings,Retail
 2020-02-02,AU,0,total postings,Retail
 2020-02-03,AU,0.08,total postings,Retail
@@ -17111,15 +17356,15 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-04-25,AU,38.85,total postings,Retail
 2021-04-26,AU,39.17,total postings,Retail
 2021-04-27,AU,39.23,total postings,Retail
-2021-04-28,AU,39.15,total postings,Retail
-2021-04-29,AU,39.33,total postings,Retail
-2021-04-30,AU,39.29,total postings,Retail
-2021-05-01,AU,38.72,total postings,Retail
+2021-04-28,AU,39.16,total postings,Retail
+2021-04-29,AU,39.34,total postings,Retail
+2021-04-30,AU,39.3,total postings,Retail
+2021-05-01,AU,38.73,total postings,Retail
 2021-05-02,AU,38,total postings,Retail
-2021-05-03,AU,36.89,total postings,Retail
+2021-05-03,AU,36.9,total postings,Retail
 2021-05-04,AU,36.53,total postings,Retail
 2021-05-05,AU,36.41,total postings,Retail
-2021-05-06,AU,36.34,total postings,Retail
+2021-05-06,AU,36.35,total postings,Retail
 2021-05-07,AU,36.33,total postings,Retail
 2021-05-08,AU,36.98,total postings,Retail
 2021-05-09,AU,37.83,total postings,Retail
@@ -17129,12 +17374,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,41.8,total postings,Retail
 2021-05-14,AU,42.83,total postings,Retail
 2021-05-15,AU,44.01,total postings,Retail
-2021-05-16,AU,45.16,total postings,Retail
-2021-05-17,AU,46.18,total postings,Retail
-2021-05-18,AU,47.64,total postings,Retail
-2021-05-19,AU,48.64,total postings,Retail
-2021-05-20,AU,49.3,total postings,Retail
-2021-05-21,AU,49.83,total postings,Retail
+2021-05-16,AU,45.19,total postings,Retail
+2021-05-17,AU,46.24,total postings,Retail
+2021-05-18,AU,47.74,total postings,Retail
+2021-05-19,AU,48.79,total postings,Retail
+2021-05-20,AU,49.5,total postings,Retail
+2021-05-21,AU,50.08,total postings,Retail
+2021-05-22,AU,49.55,total postings,Retail
+2021-05-23,AU,48.82,total postings,Retail
+2021-05-24,AU,47.79,total postings,Retail
+2021-05-25,AU,46.36,total postings,Retail
+2021-05-26,AU,45.02,total postings,Retail
+2021-05-27,AU,43.6,total postings,Retail
+2021-05-28,AU,42.17,total postings,Retail
 2020-02-01,AU,0,total postings,Sales
 2020-02-02,AU,-0.29,total postings,Sales
 2020-02-03,AU,-0.52,total postings,Sales
@@ -17606,11 +17858,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-14,AU,29.73,total postings,Sales
 2021-05-15,AU,29.98,total postings,Sales
 2021-05-16,AU,29.97,total postings,Sales
-2021-05-17,AU,29.7,total postings,Sales
-2021-05-18,AU,29.17,total postings,Sales
-2021-05-19,AU,28.59,total postings,Sales
-2021-05-20,AU,28.34,total postings,Sales
-2021-05-21,AU,28.3,total postings,Sales
+2021-05-17,AU,29.72,total postings,Sales
+2021-05-18,AU,29.22,total postings,Sales
+2021-05-19,AU,28.66,total postings,Sales
+2021-05-20,AU,28.45,total postings,Sales
+2021-05-21,AU,28.43,total postings,Sales
+2021-05-22,AU,27.98,total postings,Sales
+2021-05-23,AU,28.12,total postings,Sales
+2021-05-24,AU,28.32,total postings,Sales
+2021-05-25,AU,28.65,total postings,Sales
+2021-05-26,AU,29.08,total postings,Sales
+2021-05-27,AU,29.27,total postings,Sales
+2021-05-28,AU,29.2,total postings,Sales
 2020-02-01,AU,0,total postings,Cleaning & Sanitation
 2020-02-02,AU,-1.08,total postings,Cleaning & Sanitation
 2020-02-03,AU,-2.25,total postings,Cleaning & Sanitation
@@ -18081,12 +18340,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,148.53,total postings,Cleaning & Sanitation
 2021-05-14,AU,147.79,total postings,Cleaning & Sanitation
 2021-05-15,AU,146.38,total postings,Cleaning & Sanitation
-2021-05-16,AU,144.55,total postings,Cleaning & Sanitation
-2021-05-17,AU,142.34,total postings,Cleaning & Sanitation
-2021-05-18,AU,143.03,total postings,Cleaning & Sanitation
-2021-05-19,AU,144.62,total postings,Cleaning & Sanitation
-2021-05-20,AU,146.94,total postings,Cleaning & Sanitation
-2021-05-21,AU,149.04,total postings,Cleaning & Sanitation
+2021-05-16,AU,144.57,total postings,Cleaning & Sanitation
+2021-05-17,AU,142.39,total postings,Cleaning & Sanitation
+2021-05-18,AU,143.12,total postings,Cleaning & Sanitation
+2021-05-19,AU,144.74,total postings,Cleaning & Sanitation
+2021-05-20,AU,147.1,total postings,Cleaning & Sanitation
+2021-05-21,AU,149.24,total postings,Cleaning & Sanitation
+2021-05-22,AU,150.08,total postings,Cleaning & Sanitation
+2021-05-23,AU,150.4,total postings,Cleaning & Sanitation
+2021-05-24,AU,149.4,total postings,Cleaning & Sanitation
+2021-05-25,AU,148.64,total postings,Cleaning & Sanitation
+2021-05-26,AU,147.22,total postings,Cleaning & Sanitation
+2021-05-27,AU,145.09,total postings,Cleaning & Sanitation
+2021-05-28,AU,142.28,total postings,Cleaning & Sanitation
 2020-02-01,AU,0,total postings,Scientific Research & Development
 2020-02-02,AU,0.51,total postings,Scientific Research & Development
 2020-02-03,AU,1.31,total postings,Scientific Research & Development
@@ -18563,6 +18829,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-19,AU,48.74,total postings,Scientific Research & Development
 2021-05-20,AU,48.84,total postings,Scientific Research & Development
 2021-05-21,AU,48.39,total postings,Scientific Research & Development
+2021-05-22,AU,47.09,total postings,Scientific Research & Development
+2021-05-23,AU,46.19,total postings,Scientific Research & Development
+2021-05-24,AU,44.91,total postings,Scientific Research & Development
+2021-05-25,AU,44.01,total postings,Scientific Research & Development
+2021-05-26,AU,43.31,total postings,Scientific Research & Development
+2021-05-27,AU,41.98,total postings,Scientific Research & Development
+2021-05-28,AU,40.68,total postings,Scientific Research & Development
 2020-02-01,AU,0,total postings,Community & Social Service
 2020-02-02,AU,-0.08,total postings,Community & Social Service
 2020-02-03,AU,-0.02,total postings,Community & Social Service
@@ -19034,11 +19307,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-14,AU,77.57,total postings,Community & Social Service
 2021-05-15,AU,77.19,total postings,Community & Social Service
 2021-05-16,AU,76.69,total postings,Community & Social Service
-2021-05-17,AU,76.04,total postings,Community & Social Service
-2021-05-18,AU,75.17,total postings,Community & Social Service
-2021-05-19,AU,74.12,total postings,Community & Social Service
-2021-05-20,AU,73.57,total postings,Community & Social Service
-2021-05-21,AU,73.13,total postings,Community & Social Service
+2021-05-17,AU,76.05,total postings,Community & Social Service
+2021-05-18,AU,75.2,total postings,Community & Social Service
+2021-05-19,AU,74.16,total postings,Community & Social Service
+2021-05-20,AU,73.62,total postings,Community & Social Service
+2021-05-21,AU,73.19,total postings,Community & Social Service
+2021-05-22,AU,72.73,total postings,Community & Social Service
+2021-05-23,AU,72.43,total postings,Community & Social Service
+2021-05-24,AU,72.45,total postings,Community & Social Service
+2021-05-25,AU,72.51,total postings,Community & Social Service
+2021-05-26,AU,72.44,total postings,Community & Social Service
+2021-05-27,AU,71.96,total postings,Community & Social Service
+2021-05-28,AU,71.05,total postings,Community & Social Service
 2020-02-01,AU,0,total postings,Social Science
 2020-02-02,AU,-0.17,total postings,Social Science
 2020-02-03,AU,-1.49,total postings,Social Science
@@ -19515,6 +19795,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-19,AU,32.31,total postings,Social Science
 2021-05-20,AU,34.16,total postings,Social Science
 2021-05-21,AU,36.23,total postings,Social Science
+2021-05-22,AU,38.43,total postings,Social Science
+2021-05-23,AU,40.72,total postings,Social Science
+2021-05-24,AU,43.08,total postings,Social Science
+2021-05-25,AU,45.09,total postings,Social Science
+2021-05-26,AU,46.78,total postings,Social Science
+2021-05-27,AU,46.82,total postings,Social Science
+2021-05-28,AU,45.87,total postings,Social Science
 2020-02-01,AU,0,total postings,Sports
 2020-02-02,AU,-0.61,total postings,Sports
 2020-02-03,AU,-1.22,total postings,Sports
@@ -19991,6 +20278,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-19,AU,12.6,total postings,Sports
 2021-05-20,AU,12.44,total postings,Sports
 2021-05-21,AU,12.25,total postings,Sports
+2021-05-22,AU,12.27,total postings,Sports
+2021-05-23,AU,12.23,total postings,Sports
+2021-05-24,AU,11.43,total postings,Sports
+2021-05-25,AU,10.96,total postings,Sports
+2021-05-26,AU,10.01,total postings,Sports
+2021-05-27,AU,8.53,total postings,Sports
+2021-05-28,AU,6.83,total postings,Sports
 2020-02-01,AU,0,total postings,IT Operations & Helpdesk
 2020-02-02,AU,0.36,total postings,IT Operations & Helpdesk
 2020-02-03,AU,0.89,total postings,IT Operations & Helpdesk
@@ -20462,11 +20756,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-14,AU,37.32,total postings,IT Operations & Helpdesk
 2021-05-15,AU,36.25,total postings,IT Operations & Helpdesk
 2021-05-16,AU,35.22,total postings,IT Operations & Helpdesk
-2021-05-17,AU,34.53,total postings,IT Operations & Helpdesk
-2021-05-18,AU,33.66,total postings,IT Operations & Helpdesk
-2021-05-19,AU,32.63,total postings,IT Operations & Helpdesk
-2021-05-20,AU,32.45,total postings,IT Operations & Helpdesk
-2021-05-21,AU,32.08,total postings,IT Operations & Helpdesk
+2021-05-17,AU,34.57,total postings,IT Operations & Helpdesk
+2021-05-18,AU,33.73,total postings,IT Operations & Helpdesk
+2021-05-19,AU,32.77,total postings,IT Operations & Helpdesk
+2021-05-20,AU,32.7,total postings,IT Operations & Helpdesk
+2021-05-21,AU,32.42,total postings,IT Operations & Helpdesk
+2021-05-22,AU,31.5,total postings,IT Operations & Helpdesk
+2021-05-23,AU,31.25,total postings,IT Operations & Helpdesk
+2021-05-24,AU,31.29,total postings,IT Operations & Helpdesk
+2021-05-25,AU,31.68,total postings,IT Operations & Helpdesk
+2021-05-26,AU,32.62,total postings,IT Operations & Helpdesk
+2021-05-27,AU,33.31,total postings,IT Operations & Helpdesk
+2021-05-28,AU,33.96,total postings,IT Operations & Helpdesk
 2020-02-01,AU,0,total postings,Information Design & Documentation
 2020-02-02,AU,0.65,total postings,Information Design & Documentation
 2020-02-03,AU,1.15,total postings,Information Design & Documentation
@@ -20938,11 +21239,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-14,AU,70.29,total postings,Information Design & Documentation
 2021-05-15,AU,70.44,total postings,Information Design & Documentation
 2021-05-16,AU,70.65,total postings,Information Design & Documentation
-2021-05-17,AU,70.52,total postings,Information Design & Documentation
-2021-05-18,AU,70.2,total postings,Information Design & Documentation
-2021-05-19,AU,69.71,total postings,Information Design & Documentation
-2021-05-20,AU,69.62,total postings,Information Design & Documentation
-2021-05-21,AU,69.45,total postings,Information Design & Documentation
+2021-05-17,AU,70.53,total postings,Information Design & Documentation
+2021-05-18,AU,70.24,total postings,Information Design & Documentation
+2021-05-19,AU,69.79,total postings,Information Design & Documentation
+2021-05-20,AU,69.73,total postings,Information Design & Documentation
+2021-05-21,AU,69.61,total postings,Information Design & Documentation
+2021-05-22,AU,68.59,total postings,Information Design & Documentation
+2021-05-23,AU,68.03,total postings,Information Design & Documentation
+2021-05-24,AU,67.87,total postings,Information Design & Documentation
+2021-05-25,AU,68.04,total postings,Information Design & Documentation
+2021-05-26,AU,68.06,total postings,Information Design & Documentation
+2021-05-27,AU,67.49,total postings,Information Design & Documentation
+2021-05-28,AU,66.9,total postings,Information Design & Documentation
 2020-02-01,AU,0,total postings,Software Development
 2020-02-02,AU,-0.32,total postings,Software Development
 2020-02-03,AU,-0.63,total postings,Software Development
@@ -21413,12 +21721,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-13,AU,68.33,total postings,Software Development
 2021-05-14,AU,68.53,total postings,Software Development
 2021-05-15,AU,68.59,total postings,Software Development
-2021-05-16,AU,68.53,total postings,Software Development
-2021-05-17,AU,68.51,total postings,Software Development
-2021-05-18,AU,68.42,total postings,Software Development
-2021-05-19,AU,68.05,total postings,Software Development
-2021-05-20,AU,68.05,total postings,Software Development
-2021-05-21,AU,68.12,total postings,Software Development
+2021-05-16,AU,68.54,total postings,Software Development
+2021-05-17,AU,68.53,total postings,Software Development
+2021-05-18,AU,68.48,total postings,Software Development
+2021-05-19,AU,68.16,total postings,Software Development
+2021-05-20,AU,68.21,total postings,Software Development
+2021-05-21,AU,68.34,total postings,Software Development
+2021-05-22,AU,67.85,total postings,Software Development
+2021-05-23,AU,67.94,total postings,Software Development
+2021-05-24,AU,68.1,total postings,Software Development
+2021-05-25,AU,68.6,total postings,Software Development
+2021-05-26,AU,69.22,total postings,Software Development
+2021-05-27,AU,69.35,total postings,Software Development
+2021-05-28,AU,69.32,total postings,Software Development
 2020-02-01,AU,0,total postings,Therapy
 2020-02-02,AU,0.39,total postings,Therapy
 2020-02-03,AU,0.77,total postings,Therapy
@@ -21892,9 +22207,16 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-16,AU,38.52,total postings,Therapy
 2021-05-17,AU,38.68,total postings,Therapy
 2021-05-18,AU,39.01,total postings,Therapy
-2021-05-19,AU,39.43,total postings,Therapy
-2021-05-20,AU,39.88,total postings,Therapy
-2021-05-21,AU,40.34,total postings,Therapy
+2021-05-19,AU,39.44,total postings,Therapy
+2021-05-20,AU,39.91,total postings,Therapy
+2021-05-21,AU,40.37,total postings,Therapy
+2021-05-22,AU,40.52,total postings,Therapy
+2021-05-23,AU,40.5,total postings,Therapy
+2021-05-24,AU,40.57,total postings,Therapy
+2021-05-25,AU,39.64,total postings,Therapy
+2021-05-26,AU,38.24,total postings,Therapy
+2021-05-27,AU,36.68,total postings,Therapy
+2021-05-28,AU,35.73,total postings,Therapy
 2020-02-01,AU,0,total postings,Logistic Support
 2020-02-02,AU,0.87,total postings,Logistic Support
 2020-02-03,AU,2.75,total postings,Logistic Support
@@ -22368,9 +22690,16 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-16,AU,85.11,total postings,Logistic Support
 2021-05-17,AU,87.49,total postings,Logistic Support
 2021-05-18,AU,90.35,total postings,Logistic Support
-2021-05-19,AU,93.73,total postings,Logistic Support
-2021-05-20,AU,98.37,total postings,Logistic Support
-2021-05-21,AU,101.3,total postings,Logistic Support
+2021-05-19,AU,93.86,total postings,Logistic Support
+2021-05-20,AU,98.63,total postings,Logistic Support
+2021-05-21,AU,101.68,total postings,Logistic Support
+2021-05-22,AU,102.44,total postings,Logistic Support
+2021-05-23,AU,104.24,total postings,Logistic Support
+2021-05-24,AU,105.54,total postings,Logistic Support
+2021-05-25,AU,107.34,total postings,Logistic Support
+2021-05-26,AU,107.56,total postings,Logistic Support
+2021-05-27,AU,105.99,total postings,Logistic Support
+2021-05-28,AU,105.3,total postings,Logistic Support
 2020-02-01,AU,0,total postings,Veterinary
 2020-02-02,AU,-1.84,total postings,Veterinary
 2020-02-03,AU,-3.7,total postings,Veterinary
@@ -22847,6 +23176,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-19,AU,-27,total postings,Veterinary
 2021-05-20,AU,-29.25,total postings,Veterinary
 2021-05-21,AU,-30.83,total postings,Veterinary
+2021-05-22,AU,-32.22,total postings,Veterinary
+2021-05-23,AU,-33.61,total postings,Veterinary
+2021-05-24,AU,-35.16,total postings,Veterinary
+2021-05-25,AU,-36.58,total postings,Veterinary
+2021-05-26,AU,-37.52,total postings,Veterinary
+2021-05-27,AU,-36.97,total postings,Veterinary
+2021-05-28,AU,-35.78,total postings,Veterinary
 2020-02-01,AU,0,total postings,Loading & Stocking
 2020-02-02,AU,0.51,total postings,Loading & Stocking
 2020-02-03,AU,1.14,total postings,Loading & Stocking
@@ -23318,8 +23654,15 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-05-14,AU,119.67,total postings,Loading & Stocking
 2021-05-15,AU,119.15,total postings,Loading & Stocking
 2021-05-16,AU,118.26,total postings,Loading & Stocking
-2021-05-17,AU,117.14,total postings,Loading & Stocking
-2021-05-18,AU,116.1,total postings,Loading & Stocking
-2021-05-19,AU,115.14,total postings,Loading & Stocking
-2021-05-20,AU,114.13,total postings,Loading & Stocking
-2021-05-21,AU,113.27,total postings,Loading & Stocking
+2021-05-17,AU,117.18,total postings,Loading & Stocking
+2021-05-18,AU,116.18,total postings,Loading & Stocking
+2021-05-19,AU,115.27,total postings,Loading & Stocking
+2021-05-20,AU,114.29,total postings,Loading & Stocking
+2021-05-21,AU,113.46,total postings,Loading & Stocking
+2021-05-22,AU,112.36,total postings,Loading & Stocking
+2021-05-23,AU,111.33,total postings,Loading & Stocking
+2021-05-24,AU,110.57,total postings,Loading & Stocking
+2021-05-25,AU,110.16,total postings,Loading & Stocking
+2021-05-26,AU,109.21,total postings,Loading & Stocking
+2021-05-27,AU,108.05,total postings,Loading & Stocking
+2021-05-28,AU,106.54,total postings,Loading & Stocking
