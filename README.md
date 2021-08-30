@@ -27,7 +27,7 @@ Each market covered by a Hiring Lab economist has a folder in this repo. Each fo
 This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings and new jobs postings (on Indeed for 7 days or fewer) for that market.
 
 * **job_postings_by_sector_{country_code}.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for occupational sectors for that market.
+This file contains the % change in seasonally-adjusted postings since February 1, 2020 for occupational sectors for that market. We do not share sectoral data for Ireland.
 
 For certain markets, we also share subnational job postings trends. In the United States, we provide:
 
