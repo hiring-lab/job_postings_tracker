@@ -17,6 +17,8 @@ All data in this repository are the percentage change in seasonally-adjusted job
 
 Indeed no longer allows Colorado jobs that ask the candidate to disclose their previous salaries. This has a meaningful effect on our postings in the state of Colorado and its metros, though not on our national totals. Due to this change, we are currently not sharing postings data for Colorado and Colorado metropolitan areas.
 
+Indeed is not sharing sectoral level data for the US for September 3rd through September 10th as we address data issues for this time period. We will resume updating this data the week of September 20th. 
+
 This blog post is based on publicly available information on the Indeed websites and is not a projection of future events, and includes both paid and unpaid job solicitations. US Armed Forces job postings are excluded for US postings.
 
 ### Data Schema
