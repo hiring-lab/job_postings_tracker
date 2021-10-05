@@ -601,6 +601,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,-4.77,total postings,Accounting
 2021-09-23,GB,-4.76,total postings,Accounting
 2021-09-24,GB,-4.97,total postings,Accounting
+2021-09-25,GB,-4.79,total postings,Accounting
+2021-09-26,GB,-4.73,total postings,Accounting
+2021-09-27,GB,-4.48,total postings,Accounting
+2021-09-28,GB,-4.41,total postings,Accounting
+2021-09-29,GB,-4.4,total postings,Accounting
+2021-09-30,GB,-4.3,total postings,Accounting
+2021-10-01,GB,-4.38,total postings,Accounting
 2020-02-01,GB,0,total postings,Administrative Assistance
 2020-02-02,GB,-0.01,total postings,Administrative Assistance
 2020-02-03,GB,0.1,total postings,Administrative Assistance
@@ -1203,6 +1210,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,18.79,total postings,Administrative Assistance
 2021-09-23,GB,18.76,total postings,Administrative Assistance
 2021-09-24,GB,18.48,total postings,Administrative Assistance
+2021-09-25,GB,18.49,total postings,Administrative Assistance
+2021-09-26,GB,18.43,total postings,Administrative Assistance
+2021-09-27,GB,18.54,total postings,Administrative Assistance
+2021-09-28,GB,18.51,total postings,Administrative Assistance
+2021-09-29,GB,18.82,total postings,Administrative Assistance
+2021-09-30,GB,19.1,total postings,Administrative Assistance
+2021-10-01,GB,19.34,total postings,Administrative Assistance
 2020-02-01,GB,0,total postings,Architecture
 2020-02-02,GB,0.46,total postings,Architecture
 2020-02-03,GB,1.23,total postings,Architecture
@@ -1805,6 +1819,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,-4.43,total postings,Architecture
 2021-09-23,GB,-4.34,total postings,Architecture
 2021-09-24,GB,-4.59,total postings,Architecture
+2021-09-25,GB,-4.5,total postings,Architecture
+2021-09-26,GB,-4.14,total postings,Architecture
+2021-09-27,GB,-3.62,total postings,Architecture
+2021-09-28,GB,-3.87,total postings,Architecture
+2021-09-29,GB,-3.39,total postings,Architecture
+2021-09-30,GB,-3.3,total postings,Architecture
+2021-10-01,GB,-2.57,total postings,Architecture
 2020-02-01,GB,0,total postings,Arts & Entertainment
 2020-02-02,GB,-0.77,total postings,Arts & Entertainment
 2020-02-03,GB,-1.42,total postings,Arts & Entertainment
@@ -2407,6 +2428,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,23.84,total postings,Arts & Entertainment
 2021-09-23,GB,23.96,total postings,Arts & Entertainment
 2021-09-24,GB,23.87,total postings,Arts & Entertainment
+2021-09-25,GB,23.83,total postings,Arts & Entertainment
+2021-09-26,GB,24.05,total postings,Arts & Entertainment
+2021-09-27,GB,24.08,total postings,Arts & Entertainment
+2021-09-28,GB,24.12,total postings,Arts & Entertainment
+2021-09-29,GB,24.53,total postings,Arts & Entertainment
+2021-09-30,GB,24.79,total postings,Arts & Entertainment
+2021-10-01,GB,25.04,total postings,Arts & Entertainment
 2020-02-01,GB,0,total postings,Personal Care & Home Health
 2020-02-02,GB,-0.17,total postings,Personal Care & Home Health
 2020-02-03,GB,-0.16,total postings,Personal Care & Home Health
@@ -3009,6 +3037,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,31.49,total postings,Personal Care & Home Health
 2021-09-23,GB,31.88,total postings,Personal Care & Home Health
 2021-09-24,GB,31.87,total postings,Personal Care & Home Health
+2021-09-25,GB,31.83,total postings,Personal Care & Home Health
+2021-09-26,GB,32.27,total postings,Personal Care & Home Health
+2021-09-27,GB,32.37,total postings,Personal Care & Home Health
+2021-09-28,GB,32.54,total postings,Personal Care & Home Health
+2021-09-29,GB,32.95,total postings,Personal Care & Home Health
+2021-09-30,GB,33.42,total postings,Personal Care & Home Health
+2021-10-01,GB,33.45,total postings,Personal Care & Home Health
 2020-02-01,GB,0,total postings,Childcare
 2020-02-02,GB,0.59,total postings,Childcare
 2020-02-03,GB,1.22,total postings,Childcare
@@ -3611,6 +3646,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,-23.6,total postings,Childcare
 2021-09-23,GB,-23.43,total postings,Childcare
 2021-09-24,GB,-23.5,total postings,Childcare
+2021-09-25,GB,-23.45,total postings,Childcare
+2021-09-26,GB,-23.39,total postings,Childcare
+2021-09-27,GB,-23.53,total postings,Childcare
+2021-09-28,GB,-23.33,total postings,Childcare
+2021-09-29,GB,-23.25,total postings,Childcare
+2021-09-30,GB,-23.32,total postings,Childcare
+2021-10-01,GB,-23.4,total postings,Childcare
 2020-02-01,GB,0,total postings,Construction
 2020-02-02,GB,0.01,total postings,Construction
 2020-02-03,GB,0.28,total postings,Construction
@@ -4210,9 +4252,16 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-19,GB,43.3,total postings,Construction
 2021-09-20,GB,42.84,total postings,Construction
 2021-09-21,GB,42.32,total postings,Construction
-2021-09-22,GB,41.95,total postings,Construction
+2021-09-22,GB,41.96,total postings,Construction
 2021-09-23,GB,41.33,total postings,Construction
 2021-09-24,GB,40.73,total postings,Construction
+2021-09-25,GB,40.64,total postings,Construction
+2021-09-26,GB,40.58,total postings,Construction
+2021-09-27,GB,40.56,total postings,Construction
+2021-09-28,GB,40.27,total postings,Construction
+2021-09-29,GB,41.05,total postings,Construction
+2021-09-30,GB,41.64,total postings,Construction
+2021-10-01,GB,42.25,total postings,Construction
 2020-02-01,GB,0,total postings,Customer Service
 2020-02-02,GB,-0.14,total postings,Customer Service
 2020-02-03,GB,-0.11,total postings,Customer Service
@@ -4815,6 +4864,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,49.99,total postings,Customer Service
 2021-09-23,GB,50.2,total postings,Customer Service
 2021-09-24,GB,50.08,total postings,Customer Service
+2021-09-25,GB,50.22,total postings,Customer Service
+2021-09-26,GB,50.05,total postings,Customer Service
+2021-09-27,GB,49.9,total postings,Customer Service
+2021-09-28,GB,49.81,total postings,Customer Service
+2021-09-29,GB,49.76,total postings,Customer Service
+2021-09-30,GB,49.64,total postings,Customer Service
+2021-10-01,GB,49.13,total postings,Customer Service
 2020-02-01,GB,0,total postings,Driving
 2020-02-02,GB,0.36,total postings,Driving
 2020-02-03,GB,0.75,total postings,Driving
@@ -5417,6 +5473,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,54.62,total postings,Driving
 2021-09-23,GB,55.26,total postings,Driving
 2021-09-24,GB,55.06,total postings,Driving
+2021-09-25,GB,55.66,total postings,Driving
+2021-09-26,GB,55.69,total postings,Driving
+2021-09-27,GB,56.04,total postings,Driving
+2021-09-28,GB,55.58,total postings,Driving
+2021-09-29,GB,55.51,total postings,Driving
+2021-09-30,GB,55.42,total postings,Driving
+2021-10-01,GB,55.45,total postings,Driving
 2020-02-01,GB,0,total postings,Education & Instruction
 2020-02-02,GB,0.22,total postings,Education & Instruction
 2020-02-03,GB,0.65,total postings,Education & Instruction
@@ -6019,6 +6082,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,33.71,total postings,Education & Instruction
 2021-09-23,GB,34.85,total postings,Education & Instruction
 2021-09-24,GB,34.94,total postings,Education & Instruction
+2021-09-25,GB,35.42,total postings,Education & Instruction
+2021-09-26,GB,35.94,total postings,Education & Instruction
+2021-09-27,GB,36.36,total postings,Education & Instruction
+2021-09-28,GB,37.68,total postings,Education & Instruction
+2021-09-29,GB,37.42,total postings,Education & Instruction
+2021-09-30,GB,37.11,total postings,Education & Instruction
+2021-10-01,GB,37.07,total postings,Education & Instruction
 2020-02-01,GB,0,total postings,Civil Engineering
 2020-02-02,GB,0.09,total postings,Civil Engineering
 2020-02-03,GB,0.29,total postings,Civil Engineering
@@ -6621,6 +6691,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,0.72,total postings,Civil Engineering
 2021-09-23,GB,1.04,total postings,Civil Engineering
 2021-09-24,GB,0.79,total postings,Civil Engineering
+2021-09-25,GB,0.6,total postings,Civil Engineering
+2021-09-26,GB,0.89,total postings,Civil Engineering
+2021-09-27,GB,0.99,total postings,Civil Engineering
+2021-09-28,GB,0.38,total postings,Civil Engineering
+2021-09-29,GB,-0.41,total postings,Civil Engineering
+2021-09-30,GB,-0.77,total postings,Civil Engineering
+2021-10-01,GB,-0.75,total postings,Civil Engineering
 2020-02-01,GB,0,total postings,Industrial Engineering
 2020-02-02,GB,-0.33,total postings,Industrial Engineering
 2020-02-03,GB,-0.59,total postings,Industrial Engineering
@@ -7223,6 +7300,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,14.1,total postings,Industrial Engineering
 2021-09-23,GB,14.04,total postings,Industrial Engineering
 2021-09-24,GB,13.98,total postings,Industrial Engineering
+2021-09-25,GB,14.28,total postings,Industrial Engineering
+2021-09-26,GB,14.65,total postings,Industrial Engineering
+2021-09-27,GB,14.83,total postings,Industrial Engineering
+2021-09-28,GB,14.82,total postings,Industrial Engineering
+2021-09-29,GB,14.82,total postings,Industrial Engineering
+2021-09-30,GB,14.87,total postings,Industrial Engineering
+2021-10-01,GB,14.96,total postings,Industrial Engineering
 2020-02-01,GB,0,total postings,Electrical Engineering
 2020-02-02,GB,-1.31,total postings,Electrical Engineering
 2020-02-03,GB,-2.5,total postings,Electrical Engineering
@@ -7825,6 +7909,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,6.99,total postings,Electrical Engineering
 2021-09-23,GB,6.62,total postings,Electrical Engineering
 2021-09-24,GB,6.27,total postings,Electrical Engineering
+2021-09-25,GB,6.3,total postings,Electrical Engineering
+2021-09-26,GB,6.56,total postings,Electrical Engineering
+2021-09-27,GB,6.51,total postings,Electrical Engineering
+2021-09-28,GB,6.29,total postings,Electrical Engineering
+2021-09-29,GB,6.86,total postings,Electrical Engineering
+2021-09-30,GB,7.05,total postings,Electrical Engineering
+2021-10-01,GB,7.5,total postings,Electrical Engineering
 2020-02-01,GB,0,total postings,Banking & Finance
 2020-02-02,GB,0.03,total postings,Banking & Finance
 2020-02-03,GB,0.03,total postings,Banking & Finance
@@ -8427,6 +8518,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,16.26,total postings,Banking & Finance
 2021-09-23,GB,15.78,total postings,Banking & Finance
 2021-09-24,GB,15.22,total postings,Banking & Finance
+2021-09-25,GB,14.75,total postings,Banking & Finance
+2021-09-26,GB,14.25,total postings,Banking & Finance
+2021-09-27,GB,13.94,total postings,Banking & Finance
+2021-09-28,GB,13.82,total postings,Banking & Finance
+2021-09-29,GB,13.85,total postings,Banking & Finance
+2021-09-30,GB,14.12,total postings,Banking & Finance
+2021-10-01,GB,14.26,total postings,Banking & Finance
 2020-02-01,GB,0,total postings,Food Preparation & Service
 2020-02-02,GB,0.07,total postings,Food Preparation & Service
 2020-02-03,GB,0.33,total postings,Food Preparation & Service
@@ -8628,7 +8726,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2020-08-17,GB,-62.38,total postings,Food Preparation & Service
 2020-08-18,GB,-61.96,total postings,Food Preparation & Service
 2020-08-19,GB,-61.58,total postings,Food Preparation & Service
-2020-08-20,GB,-61.27,total postings,Food Preparation & Service
+2020-08-20,GB,-61.26,total postings,Food Preparation & Service
 2020-08-21,GB,-61.01,total postings,Food Preparation & Service
 2020-08-22,GB,-60.84,total postings,Food Preparation & Service
 2020-08-23,GB,-60.66,total postings,Food Preparation & Service
@@ -9029,6 +9127,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,62.59,total postings,Food Preparation & Service
 2021-09-23,GB,62.76,total postings,Food Preparation & Service
 2021-09-24,GB,62.68,total postings,Food Preparation & Service
+2021-09-25,GB,62.75,total postings,Food Preparation & Service
+2021-09-26,GB,62.66,total postings,Food Preparation & Service
+2021-09-27,GB,62.9,total postings,Food Preparation & Service
+2021-09-28,GB,63.26,total postings,Food Preparation & Service
+2021-09-29,GB,63.77,total postings,Food Preparation & Service
+2021-09-30,GB,64.22,total postings,Food Preparation & Service
+2021-10-01,GB,64.35,total postings,Food Preparation & Service
 2020-02-01,GB,0,total postings,Hospitality & Tourism
 2020-02-02,GB,0.05,total postings,Hospitality & Tourism
 2020-02-03,GB,0.17,total postings,Hospitality & Tourism
@@ -9624,13 +9729,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-15,GB,29.79,total postings,Hospitality & Tourism
 2021-09-16,GB,30.84,total postings,Hospitality & Tourism
 2021-09-17,GB,32.09,total postings,Hospitality & Tourism
-2021-09-18,GB,31.74,total postings,Hospitality & Tourism
+2021-09-18,GB,31.75,total postings,Hospitality & Tourism
 2021-09-19,GB,31.5,total postings,Hospitality & Tourism
-2021-09-20,GB,31.4,total postings,Hospitality & Tourism
-2021-09-21,GB,31.07,total postings,Hospitality & Tourism
+2021-09-20,GB,31.41,total postings,Hospitality & Tourism
+2021-09-21,GB,31.08,total postings,Hospitality & Tourism
 2021-09-22,GB,30.28,total postings,Hospitality & Tourism
 2021-09-23,GB,29.82,total postings,Hospitality & Tourism
 2021-09-24,GB,28.96,total postings,Hospitality & Tourism
+2021-09-25,GB,28.96,total postings,Hospitality & Tourism
+2021-09-26,GB,28.89,total postings,Hospitality & Tourism
+2021-09-27,GB,28.94,total postings,Hospitality & Tourism
+2021-09-28,GB,29.06,total postings,Hospitality & Tourism
+2021-09-29,GB,29.59,total postings,Hospitality & Tourism
+2021-09-30,GB,29.45,total postings,Hospitality & Tourism
+2021-10-01,GB,29.43,total postings,Hospitality & Tourism
 2020-02-01,GB,0,total postings,Human Resources
 2020-02-02,GB,-0.11,total postings,Human Resources
 2020-02-03,GB,-0.15,total postings,Human Resources
@@ -10233,6 +10345,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,18.6,total postings,Human Resources
 2021-09-23,GB,18.31,total postings,Human Resources
 2021-09-24,GB,17.66,total postings,Human Resources
+2021-09-25,GB,17.39,total postings,Human Resources
+2021-09-26,GB,17.26,total postings,Human Resources
+2021-09-27,GB,17.37,total postings,Human Resources
+2021-09-28,GB,17.9,total postings,Human Resources
+2021-09-29,GB,18.61,total postings,Human Resources
+2021-09-30,GB,19.34,total postings,Human Resources
+2021-10-01,GB,20.2,total postings,Human Resources
 2020-02-01,GB,0,total postings,Installation & Maintenance
 2020-02-02,GB,-0.08,total postings,Installation & Maintenance
 2020-02-03,GB,-0.11,total postings,Installation & Maintenance
@@ -10830,11 +10949,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-17,GB,36.34,total postings,Installation & Maintenance
 2021-09-18,GB,36.02,total postings,Installation & Maintenance
 2021-09-19,GB,35.45,total postings,Installation & Maintenance
-2021-09-20,GB,34.94,total postings,Installation & Maintenance
+2021-09-20,GB,34.95,total postings,Installation & Maintenance
 2021-09-21,GB,34.67,total postings,Installation & Maintenance
 2021-09-22,GB,34.37,total postings,Installation & Maintenance
 2021-09-23,GB,33.96,total postings,Installation & Maintenance
-2021-09-24,GB,33.3,total postings,Installation & Maintenance
+2021-09-24,GB,33.31,total postings,Installation & Maintenance
+2021-09-25,GB,32.83,total postings,Installation & Maintenance
+2021-09-26,GB,32.24,total postings,Installation & Maintenance
+2021-09-27,GB,32.02,total postings,Installation & Maintenance
+2021-09-28,GB,31.32,total postings,Installation & Maintenance
+2021-09-29,GB,31.49,total postings,Installation & Maintenance
+2021-09-30,GB,31.58,total postings,Installation & Maintenance
+2021-10-01,GB,31.79,total postings,Installation & Maintenance
 2020-02-01,GB,0,total postings,Insurance
 2020-02-02,GB,-0.11,total postings,Insurance
 2020-02-03,GB,0.18,total postings,Insurance
@@ -11437,6 +11563,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,23.95,total postings,Insurance
 2021-09-23,GB,21.18,total postings,Insurance
 2021-09-24,GB,22.17,total postings,Insurance
+2021-09-25,GB,23.7,total postings,Insurance
+2021-09-26,GB,22.24,total postings,Insurance
+2021-09-27,GB,21.7,total postings,Insurance
+2021-09-28,GB,20.64,total postings,Insurance
+2021-09-29,GB,20.52,total postings,Insurance
+2021-09-30,GB,22.8,total postings,Insurance
+2021-10-01,GB,23.68,total postings,Insurance
 2020-02-01,GB,0,total postings,Legal
 2020-02-02,GB,-1.87,total postings,Legal
 2020-02-03,GB,-3.73,total postings,Legal
@@ -12039,6 +12172,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,-18.43,total postings,Legal
 2021-09-23,GB,-17.89,total postings,Legal
 2021-09-24,GB,-18.32,total postings,Legal
+2021-09-25,GB,-18.43,total postings,Legal
+2021-09-26,GB,-18.62,total postings,Legal
+2021-09-27,GB,-18.59,total postings,Legal
+2021-09-28,GB,-18.22,total postings,Legal
+2021-09-29,GB,-18.71,total postings,Legal
+2021-09-30,GB,-19.24,total postings,Legal
+2021-10-01,GB,-19.06,total postings,Legal
 2020-02-01,GB,0,total postings,Management
 2020-02-02,GB,-0.1,total postings,Management
 2020-02-03,GB,-0.05,total postings,Management
@@ -12481,8 +12621,8 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-04-15,GB,-15.53,total postings,Management
 2021-04-16,GB,-15.38,total postings,Management
 2021-04-17,GB,-15.12,total postings,Management
-2021-04-18,GB,-14.85,total postings,Management
-2021-04-19,GB,-14.45,total postings,Management
+2021-04-18,GB,-14.84,total postings,Management
+2021-04-19,GB,-14.44,total postings,Management
 2021-04-20,GB,-13.91,total postings,Management
 2021-04-21,GB,-13.26,total postings,Management
 2021-04-22,GB,-12.64,total postings,Management
@@ -12641,6 +12781,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,19.93,total postings,Management
 2021-09-23,GB,19.95,total postings,Management
 2021-09-24,GB,19.74,total postings,Management
+2021-09-25,GB,19.8,total postings,Management
+2021-09-26,GB,19.88,total postings,Management
+2021-09-27,GB,19.99,total postings,Management
+2021-09-28,GB,20.11,total postings,Management
+2021-09-29,GB,20.44,total postings,Management
+2021-09-30,GB,20.75,total postings,Management
+2021-10-01,GB,20.9,total postings,Management
 2020-02-01,GB,0,total postings,Production & Manufacturing
 2020-02-02,GB,0.05,total postings,Production & Manufacturing
 2020-02-03,GB,-0.05,total postings,Production & Manufacturing
@@ -13243,6 +13390,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,71.03,total postings,Production & Manufacturing
 2021-09-23,GB,71.19,total postings,Production & Manufacturing
 2021-09-24,GB,70.35,total postings,Production & Manufacturing
+2021-09-25,GB,70.43,total postings,Production & Manufacturing
+2021-09-26,GB,69.96,total postings,Production & Manufacturing
+2021-09-27,GB,70.18,total postings,Production & Manufacturing
+2021-09-28,GB,69.86,total postings,Production & Manufacturing
+2021-09-29,GB,70.12,total postings,Production & Manufacturing
+2021-09-30,GB,70.08,total postings,Production & Manufacturing
+2021-10-01,GB,70.3,total postings,Production & Manufacturing
 2020-02-01,GB,0,total postings,Marketing
 2020-02-02,GB,0.15,total postings,Marketing
 2020-02-03,GB,0.38,total postings,Marketing
@@ -13840,11 +13994,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-17,GB,24.99,total postings,Marketing
 2021-09-18,GB,24.97,total postings,Marketing
 2021-09-19,GB,25.03,total postings,Marketing
-2021-09-20,GB,25.18,total postings,Marketing
+2021-09-20,GB,25.19,total postings,Marketing
 2021-09-21,GB,25.37,total postings,Marketing
 2021-09-22,GB,25.53,total postings,Marketing
 2021-09-23,GB,25.76,total postings,Marketing
 2021-09-24,GB,25.79,total postings,Marketing
+2021-09-25,GB,25.9,total postings,Marketing
+2021-09-26,GB,25.93,total postings,Marketing
+2021-09-27,GB,26.07,total postings,Marketing
+2021-09-28,GB,26.52,total postings,Marketing
+2021-09-29,GB,26.91,total postings,Marketing
+2021-09-30,GB,27.15,total postings,Marketing
+2021-10-01,GB,27.4,total postings,Marketing
 2020-02-01,GB,0,total postings,Mathematics
 2020-02-02,GB,-0.02,total postings,Mathematics
 2020-02-03,GB,0.12,total postings,Mathematics
@@ -14447,6 +14608,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,11.32,total postings,Mathematics
 2021-09-23,GB,11.57,total postings,Mathematics
 2021-09-24,GB,11.65,total postings,Mathematics
+2021-09-25,GB,11.66,total postings,Mathematics
+2021-09-26,GB,11.56,total postings,Mathematics
+2021-09-27,GB,11.61,total postings,Mathematics
+2021-09-28,GB,12.03,total postings,Mathematics
+2021-09-29,GB,12.4,total postings,Mathematics
+2021-09-30,GB,12.8,total postings,Mathematics
+2021-10-01,GB,13.12,total postings,Mathematics
 2020-02-01,GB,0,total postings,Dental
 2020-02-02,GB,1.05,total postings,Dental
 2020-02-03,GB,1.75,total postings,Dental
@@ -15049,6 +15217,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,35.32,total postings,Dental
 2021-09-23,GB,38.07,total postings,Dental
 2021-09-24,GB,37.16,total postings,Dental
+2021-09-25,GB,38.7,total postings,Dental
+2021-09-26,GB,35.19,total postings,Dental
+2021-09-27,GB,35.64,total postings,Dental
+2021-09-28,GB,36.77,total postings,Dental
+2021-09-29,GB,38.09,total postings,Dental
+2021-09-30,GB,39.72,total postings,Dental
+2021-10-01,GB,42.09,total postings,Dental
 2020-02-01,GB,0,total postings,Physicians & Surgeons
 2020-02-02,GB,0.08,total postings,Physicians & Surgeons
 2020-02-03,GB,0.3,total postings,Physicians & Surgeons
@@ -15651,6 +15826,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,85.4,total postings,Physicians & Surgeons
 2021-09-23,GB,85.95,total postings,Physicians & Surgeons
 2021-09-24,GB,85.6,total postings,Physicians & Surgeons
+2021-09-25,GB,86.42,total postings,Physicians & Surgeons
+2021-09-26,GB,87.56,total postings,Physicians & Surgeons
+2021-09-27,GB,88.85,total postings,Physicians & Surgeons
+2021-09-28,GB,90.61,total postings,Physicians & Surgeons
+2021-09-29,GB,92.11,total postings,Physicians & Surgeons
+2021-09-30,GB,92.26,total postings,Physicians & Surgeons
+2021-10-01,GB,93.61,total postings,Physicians & Surgeons
 2020-02-01,GB,0,total postings,Media & Communications
 2020-02-02,GB,-0.24,total postings,Media & Communications
 2020-02-03,GB,-0.28,total postings,Media & Communications
@@ -16253,6 +16435,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,10.79,total postings,Media & Communications
 2021-09-23,GB,11.85,total postings,Media & Communications
 2021-09-24,GB,12.74,total postings,Media & Communications
+2021-09-25,GB,13.51,total postings,Media & Communications
+2021-09-26,GB,14.55,total postings,Media & Communications
+2021-09-27,GB,15.34,total postings,Media & Communications
+2021-09-28,GB,16.14,total postings,Media & Communications
+2021-09-29,GB,16.54,total postings,Media & Communications
+2021-09-30,GB,16.67,total postings,Media & Communications
+2021-10-01,GB,16.58,total postings,Media & Communications
 2020-02-01,GB,0,total postings,Medical Information
 2020-02-02,GB,0.22,total postings,Medical Information
 2020-02-03,GB,0.7,total postings,Medical Information
@@ -16855,6 +17044,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,31.99,total postings,Medical Information
 2021-09-23,GB,31.81,total postings,Medical Information
 2021-09-24,GB,31.56,total postings,Medical Information
+2021-09-25,GB,31.83,total postings,Medical Information
+2021-09-26,GB,31.87,total postings,Medical Information
+2021-09-27,GB,32.1,total postings,Medical Information
+2021-09-28,GB,32.4,total postings,Medical Information
+2021-09-29,GB,33.23,total postings,Medical Information
+2021-09-30,GB,34.26,total postings,Medical Information
+2021-10-01,GB,34.86,total postings,Medical Information
 2020-02-01,GB,0,total postings,Nursing
 2020-02-02,GB,0.39,total postings,Nursing
 2020-02-03,GB,1.27,total postings,Nursing
@@ -17376,7 +17572,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-07-03,GB,24.87,total postings,Nursing
 2021-07-04,GB,25.41,total postings,Nursing
 2021-07-05,GB,25.96,total postings,Nursing
-2021-07-06,GB,25.76,total postings,Nursing
+2021-07-06,GB,25.77,total postings,Nursing
 2021-07-07,GB,26.21,total postings,Nursing
 2021-07-08,GB,26.95,total postings,Nursing
 2021-07-09,GB,27.46,total postings,Nursing
@@ -17457,6 +17653,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,19.27,total postings,Nursing
 2021-09-23,GB,19.01,total postings,Nursing
 2021-09-24,GB,18.27,total postings,Nursing
+2021-09-25,GB,17.17,total postings,Nursing
+2021-09-26,GB,16.48,total postings,Nursing
+2021-09-27,GB,15.68,total postings,Nursing
+2021-09-28,GB,15.25,total postings,Nursing
+2021-09-29,GB,15.03,total postings,Nursing
+2021-09-30,GB,14.58,total postings,Nursing
+2021-10-01,GB,14.2,total postings,Nursing
 2020-02-01,GB,0,total postings,Medical Technician
 2020-02-02,GB,0.52,total postings,Medical Technician
 2020-02-03,GB,1,total postings,Medical Technician
@@ -18059,6 +18262,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,70.63,total postings,Medical Technician
 2021-09-23,GB,71.64,total postings,Medical Technician
 2021-09-24,GB,71.93,total postings,Medical Technician
+2021-09-25,GB,71.97,total postings,Medical Technician
+2021-09-26,GB,71.92,total postings,Medical Technician
+2021-09-27,GB,71.45,total postings,Medical Technician
+2021-09-28,GB,71.17,total postings,Medical Technician
+2021-09-29,GB,70.77,total postings,Medical Technician
+2021-09-30,GB,70.06,total postings,Medical Technician
+2021-10-01,GB,69.72,total postings,Medical Technician
 2020-02-01,GB,0,total postings,Beauty & Wellness
 2020-02-02,GB,-0.42,total postings,Beauty & Wellness
 2020-02-03,GB,-0.73,total postings,Beauty & Wellness
@@ -18661,6 +18871,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,-25.78,total postings,Beauty & Wellness
 2021-09-23,GB,-25.92,total postings,Beauty & Wellness
 2021-09-24,GB,-25.95,total postings,Beauty & Wellness
+2021-09-25,GB,-25.86,total postings,Beauty & Wellness
+2021-09-26,GB,-25.82,total postings,Beauty & Wellness
+2021-09-27,GB,-25.66,total postings,Beauty & Wellness
+2021-09-28,GB,-25.44,total postings,Beauty & Wellness
+2021-09-29,GB,-25.25,total postings,Beauty & Wellness
+2021-09-30,GB,-24.87,total postings,Beauty & Wellness
+2021-10-01,GB,-24.72,total postings,Beauty & Wellness
 2020-02-01,GB,0,total postings,Pharmacy
 2020-02-02,GB,-0.09,total postings,Pharmacy
 2020-02-03,GB,-0.27,total postings,Pharmacy
@@ -19263,6 +19480,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,35.49,total postings,Pharmacy
 2021-09-23,GB,35.03,total postings,Pharmacy
 2021-09-24,GB,35.06,total postings,Pharmacy
+2021-09-25,GB,35.33,total postings,Pharmacy
+2021-09-26,GB,35.91,total postings,Pharmacy
+2021-09-27,GB,36.66,total postings,Pharmacy
+2021-09-28,GB,37.66,total postings,Pharmacy
+2021-09-29,GB,38.47,total postings,Pharmacy
+2021-09-30,GB,38.77,total postings,Pharmacy
+2021-10-01,GB,38.88,total postings,Pharmacy
 2020-02-01,GB,0,total postings,Project Management
 2020-02-02,GB,0.01,total postings,Project Management
 2020-02-03,GB,0.07,total postings,Project Management
@@ -19865,6 +20089,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,23.98,total postings,Project Management
 2021-09-23,GB,23.83,total postings,Project Management
 2021-09-24,GB,23.68,total postings,Project Management
+2021-09-25,GB,23.85,total postings,Project Management
+2021-09-26,GB,24,total postings,Project Management
+2021-09-27,GB,24.21,total postings,Project Management
+2021-09-28,GB,24.42,total postings,Project Management
+2021-09-29,GB,24.78,total postings,Project Management
+2021-09-30,GB,25.08,total postings,Project Management
+2021-10-01,GB,25.24,total postings,Project Management
 2020-02-01,GB,0,total postings,Security & Public Safety
 2020-02-02,GB,0.74,total postings,Security & Public Safety
 2020-02-03,GB,1.37,total postings,Security & Public Safety
@@ -20314,7 +20545,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-04-22,GB,-8.7,total postings,Security & Public Safety
 2021-04-23,GB,-7.29,total postings,Security & Public Safety
 2021-04-24,GB,-6.01,total postings,Security & Public Safety
-2021-04-25,GB,-4.96,total postings,Security & Public Safety
+2021-04-25,GB,-4.95,total postings,Security & Public Safety
 2021-04-26,GB,-4.05,total postings,Security & Public Safety
 2021-04-27,GB,-3.55,total postings,Security & Public Safety
 2021-04-28,GB,-2.95,total postings,Security & Public Safety
@@ -20458,7 +20689,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-13,GB,41,total postings,Security & Public Safety
 2021-09-14,GB,41.4,total postings,Security & Public Safety
 2021-09-15,GB,42.52,total postings,Security & Public Safety
-2021-09-16,GB,43.88,total postings,Security & Public Safety
+2021-09-16,GB,43.89,total postings,Security & Public Safety
 2021-09-17,GB,45.27,total postings,Security & Public Safety
 2021-09-18,GB,46.19,total postings,Security & Public Safety
 2021-09-19,GB,47.19,total postings,Security & Public Safety
@@ -20467,6 +20698,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,49.4,total postings,Security & Public Safety
 2021-09-23,GB,49.61,total postings,Security & Public Safety
 2021-09-24,GB,49.85,total postings,Security & Public Safety
+2021-09-25,GB,50.28,total postings,Security & Public Safety
+2021-09-26,GB,50.51,total postings,Security & Public Safety
+2021-09-27,GB,50.73,total postings,Security & Public Safety
+2021-09-28,GB,50.17,total postings,Security & Public Safety
+2021-09-29,GB,50.69,total postings,Security & Public Safety
+2021-09-30,GB,51.05,total postings,Security & Public Safety
+2021-10-01,GB,51.33,total postings,Security & Public Safety
 2020-02-01,GB,0,total postings,Real Estate
 2020-02-02,GB,-0.04,total postings,Real Estate
 2020-02-03,GB,-0,total postings,Real Estate
@@ -21069,6 +21307,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,28.22,total postings,Real Estate
 2021-09-23,GB,28.37,total postings,Real Estate
 2021-09-24,GB,28.35,total postings,Real Estate
+2021-09-25,GB,28.52,total postings,Real Estate
+2021-09-26,GB,33.21,total postings,Real Estate
+2021-09-27,GB,33.93,total postings,Real Estate
+2021-09-28,GB,39.48,total postings,Real Estate
+2021-09-29,GB,39.65,total postings,Real Estate
+2021-09-30,GB,39.48,total postings,Real Estate
+2021-10-01,GB,39.44,total postings,Real Estate
 2020-02-01,GB,0,total postings,Retail
 2020-02-02,GB,-0.21,total postings,Retail
 2020-02-03,GB,-0.3,total postings,Retail
@@ -21665,12 +21910,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-16,GB,81.47,total postings,Retail
 2021-09-17,GB,82.14,total postings,Retail
 2021-09-18,GB,82.32,total postings,Retail
-2021-09-19,GB,82.5,total postings,Retail
+2021-09-19,GB,82.51,total postings,Retail
 2021-09-20,GB,82.85,total postings,Retail
 2021-09-21,GB,83.28,total postings,Retail
 2021-09-22,GB,83.65,total postings,Retail
-2021-09-23,GB,83.93,total postings,Retail
-2021-09-24,GB,83.34,total postings,Retail
+2021-09-23,GB,83.94,total postings,Retail
+2021-09-24,GB,83.35,total postings,Retail
+2021-09-25,GB,83.14,total postings,Retail
+2021-09-26,GB,82.55,total postings,Retail
+2021-09-27,GB,81.98,total postings,Retail
+2021-09-28,GB,81.26,total postings,Retail
+2021-09-29,GB,80.51,total postings,Retail
+2021-09-30,GB,79.53,total postings,Retail
+2021-10-01,GB,79.35,total postings,Retail
 2020-02-01,GB,0,total postings,Sales
 2020-02-02,GB,-0.09,total postings,Sales
 2020-02-03,GB,0.03,total postings,Sales
@@ -22273,6 +22525,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,10.5,total postings,Sales
 2021-09-23,GB,10.7,total postings,Sales
 2021-09-24,GB,10.49,total postings,Sales
+2021-09-25,GB,10.67,total postings,Sales
+2021-09-26,GB,11.06,total postings,Sales
+2021-09-27,GB,11.31,total postings,Sales
+2021-09-28,GB,11.89,total postings,Sales
+2021-09-29,GB,12.38,total postings,Sales
+2021-09-30,GB,12.92,total postings,Sales
+2021-10-01,GB,13.4,total postings,Sales
 2020-02-01,GB,0,total postings,Cleaning & Sanitation
 2020-02-02,GB,0.21,total postings,Cleaning & Sanitation
 2020-02-03,GB,0.55,total postings,Cleaning & Sanitation
@@ -22862,7 +23121,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-09,GB,96.19,total postings,Cleaning & Sanitation
 2021-09-10,GB,96.57,total postings,Cleaning & Sanitation
 2021-09-11,GB,97.55,total postings,Cleaning & Sanitation
-2021-09-12,GB,98.5,total postings,Cleaning & Sanitation
+2021-09-12,GB,98.51,total postings,Cleaning & Sanitation
 2021-09-13,GB,99.21,total postings,Cleaning & Sanitation
 2021-09-14,GB,99.38,total postings,Cleaning & Sanitation
 2021-09-15,GB,99.62,total postings,Cleaning & Sanitation
@@ -22875,6 +23134,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,100.04,total postings,Cleaning & Sanitation
 2021-09-23,GB,100.16,total postings,Cleaning & Sanitation
 2021-09-24,GB,99.89,total postings,Cleaning & Sanitation
+2021-09-25,GB,99.63,total postings,Cleaning & Sanitation
+2021-09-26,GB,99.32,total postings,Cleaning & Sanitation
+2021-09-27,GB,99.14,total postings,Cleaning & Sanitation
+2021-09-28,GB,98.96,total postings,Cleaning & Sanitation
+2021-09-29,GB,99.34,total postings,Cleaning & Sanitation
+2021-09-30,GB,99.55,total postings,Cleaning & Sanitation
+2021-10-01,GB,99.74,total postings,Cleaning & Sanitation
 2020-02-01,GB,0,total postings,Scientific Research & Development
 2020-02-02,GB,-0.32,total postings,Scientific Research & Development
 2020-02-03,GB,-0.64,total postings,Scientific Research & Development
@@ -23477,6 +23743,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,28.09,total postings,Scientific Research & Development
 2021-09-23,GB,28.71,total postings,Scientific Research & Development
 2021-09-24,GB,28.54,total postings,Scientific Research & Development
+2021-09-25,GB,28.51,total postings,Scientific Research & Development
+2021-09-26,GB,28.67,total postings,Scientific Research & Development
+2021-09-27,GB,28.6,total postings,Scientific Research & Development
+2021-09-28,GB,28.54,total postings,Scientific Research & Development
+2021-09-29,GB,28.8,total postings,Scientific Research & Development
+2021-09-30,GB,29.13,total postings,Scientific Research & Development
+2021-10-01,GB,29.75,total postings,Scientific Research & Development
 2020-02-01,GB,0,total postings,Community & Social Service
 2020-02-02,GB,-0.07,total postings,Community & Social Service
 2020-02-03,GB,0.07,total postings,Community & Social Service
@@ -24074,11 +24347,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-17,GB,47.75,total postings,Community & Social Service
 2021-09-18,GB,47.83,total postings,Community & Social Service
 2021-09-19,GB,47.86,total postings,Community & Social Service
-2021-09-20,GB,48.19,total postings,Community & Social Service
+2021-09-20,GB,48.2,total postings,Community & Social Service
 2021-09-21,GB,48.75,total postings,Community & Social Service
 2021-09-22,GB,49.46,total postings,Community & Social Service
 2021-09-23,GB,50.08,total postings,Community & Social Service
 2021-09-24,GB,50.08,total postings,Community & Social Service
+2021-09-25,GB,50.56,total postings,Community & Social Service
+2021-09-26,GB,50.93,total postings,Community & Social Service
+2021-09-27,GB,51.49,total postings,Community & Social Service
+2021-09-28,GB,52.08,total postings,Community & Social Service
+2021-09-29,GB,52.95,total postings,Community & Social Service
+2021-09-30,GB,53.77,total postings,Community & Social Service
+2021-10-01,GB,54.47,total postings,Community & Social Service
 2020-02-01,GB,0,total postings,Social Science
 2020-02-02,GB,0.64,total postings,Social Science
 2020-02-03,GB,0.61,total postings,Social Science
@@ -24681,6 +24961,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,65.47,total postings,Social Science
 2021-09-23,GB,67.44,total postings,Social Science
 2021-09-24,GB,68.6,total postings,Social Science
+2021-09-25,GB,69.82,total postings,Social Science
+2021-09-26,GB,70.97,total postings,Social Science
+2021-09-27,GB,71.61,total postings,Social Science
+2021-09-28,GB,71.9,total postings,Social Science
+2021-09-29,GB,72.74,total postings,Social Science
+2021-09-30,GB,73.38,total postings,Social Science
+2021-10-01,GB,74.01,total postings,Social Science
 2020-02-01,GB,0,total postings,Sports
 2020-02-02,GB,-0.21,total postings,Sports
 2020-02-03,GB,1.6,total postings,Sports
@@ -25283,6 +25570,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,39.64,total postings,Sports
 2021-09-23,GB,39.75,total postings,Sports
 2021-09-24,GB,39.74,total postings,Sports
+2021-09-25,GB,39.26,total postings,Sports
+2021-09-26,GB,39.16,total postings,Sports
+2021-09-27,GB,39.39,total postings,Sports
+2021-09-28,GB,39.34,total postings,Sports
+2021-09-29,GB,39.39,total postings,Sports
+2021-09-30,GB,39.26,total postings,Sports
+2021-10-01,GB,38.87,total postings,Sports
 2020-02-01,GB,0,total postings,IT Operations & Helpdesk
 2020-02-02,GB,0.22,total postings,IT Operations & Helpdesk
 2020-02-03,GB,0.45,total postings,IT Operations & Helpdesk
@@ -25885,6 +26179,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,-0.56,total postings,IT Operations & Helpdesk
 2021-09-23,GB,0.05,total postings,IT Operations & Helpdesk
 2021-09-24,GB,0.33,total postings,IT Operations & Helpdesk
+2021-09-25,GB,0.94,total postings,IT Operations & Helpdesk
+2021-09-26,GB,1.48,total postings,IT Operations & Helpdesk
+2021-09-27,GB,1.84,total postings,IT Operations & Helpdesk
+2021-09-28,GB,2.53,total postings,IT Operations & Helpdesk
+2021-09-29,GB,3.15,total postings,IT Operations & Helpdesk
+2021-09-30,GB,3.82,total postings,IT Operations & Helpdesk
+2021-10-01,GB,4.4,total postings,IT Operations & Helpdesk
 2020-02-01,GB,0,total postings,Information Design & Documentation
 2020-02-02,GB,-0.26,total postings,Information Design & Documentation
 2020-02-03,GB,-0.37,total postings,Information Design & Documentation
@@ -26487,6 +26788,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,8.84,total postings,Information Design & Documentation
 2021-09-23,GB,8.87,total postings,Information Design & Documentation
 2021-09-24,GB,8.65,total postings,Information Design & Documentation
+2021-09-25,GB,8.68,total postings,Information Design & Documentation
+2021-09-26,GB,8.7,total postings,Information Design & Documentation
+2021-09-27,GB,8.61,total postings,Information Design & Documentation
+2021-09-28,GB,8.87,total postings,Information Design & Documentation
+2021-09-29,GB,9.17,total postings,Information Design & Documentation
+2021-09-30,GB,9.3,total postings,Information Design & Documentation
+2021-10-01,GB,9.38,total postings,Information Design & Documentation
 2020-02-01,GB,0,total postings,Software Development
 2020-02-02,GB,-0.28,total postings,Software Development
 2020-02-03,GB,-0.51,total postings,Software Development
@@ -27081,14 +27389,21 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-14,GB,11.85,total postings,Software Development
 2021-09-15,GB,11.62,total postings,Software Development
 2021-09-16,GB,11.97,total postings,Software Development
-2021-09-17,GB,12.25,total postings,Software Development
-2021-09-18,GB,12.4,total postings,Software Development
+2021-09-17,GB,12.26,total postings,Software Development
+2021-09-18,GB,12.41,total postings,Software Development
 2021-09-19,GB,12.29,total postings,Software Development
 2021-09-20,GB,12.92,total postings,Software Development
 2021-09-21,GB,12.85,total postings,Software Development
 2021-09-22,GB,12.91,total postings,Software Development
 2021-09-23,GB,12.88,total postings,Software Development
 2021-09-24,GB,12.56,total postings,Software Development
+2021-09-25,GB,12.52,total postings,Software Development
+2021-09-26,GB,12.34,total postings,Software Development
+2021-09-27,GB,11.89,total postings,Software Development
+2021-09-28,GB,12.34,total postings,Software Development
+2021-09-29,GB,12.55,total postings,Software Development
+2021-09-30,GB,12.72,total postings,Software Development
+2021-10-01,GB,12.91,total postings,Software Development
 2020-02-01,GB,0,total postings,Therapy
 2020-02-02,GB,-0.39,total postings,Therapy
 2020-02-03,GB,-0.61,total postings,Therapy
@@ -27691,6 +28006,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,43.27,total postings,Therapy
 2021-09-23,GB,44.38,total postings,Therapy
 2021-09-24,GB,44.56,total postings,Therapy
+2021-09-25,GB,44.77,total postings,Therapy
+2021-09-26,GB,44.98,total postings,Therapy
+2021-09-27,GB,45.17,total postings,Therapy
+2021-09-28,GB,45.66,total postings,Therapy
+2021-09-29,GB,46.05,total postings,Therapy
+2021-09-30,GB,45.55,total postings,Therapy
+2021-10-01,GB,45.16,total postings,Therapy
 2020-02-01,GB,0,total postings,Logistic Support
 2020-02-02,GB,-0.07,total postings,Logistic Support
 2020-02-03,GB,0.09,total postings,Logistic Support
@@ -28276,13 +28598,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-05,GB,52.75,total postings,Logistic Support
 2021-09-06,GB,52.18,total postings,Logistic Support
 2021-09-07,GB,52.11,total postings,Logistic Support
-2021-09-08,GB,52.75,total postings,Logistic Support
-2021-09-09,GB,52.66,total postings,Logistic Support
-2021-09-10,GB,52.47,total postings,Logistic Support
-2021-09-11,GB,52.46,total postings,Logistic Support
-2021-09-12,GB,52.41,total postings,Logistic Support
-2021-09-13,GB,52.4,total postings,Logistic Support
-2021-09-14,GB,51.5,total postings,Logistic Support
+2021-09-08,GB,52.76,total postings,Logistic Support
+2021-09-09,GB,52.67,total postings,Logistic Support
+2021-09-10,GB,52.48,total postings,Logistic Support
+2021-09-11,GB,52.47,total postings,Logistic Support
+2021-09-12,GB,52.42,total postings,Logistic Support
+2021-09-13,GB,52.41,total postings,Logistic Support
+2021-09-14,GB,51.51,total postings,Logistic Support
 2021-09-15,GB,51.12,total postings,Logistic Support
 2021-09-16,GB,50.48,total postings,Logistic Support
 2021-09-17,GB,50.12,total postings,Logistic Support
@@ -28293,6 +28615,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,46.8,total postings,Logistic Support
 2021-09-23,GB,46.96,total postings,Logistic Support
 2021-09-24,GB,46.86,total postings,Logistic Support
+2021-09-25,GB,47.26,total postings,Logistic Support
+2021-09-26,GB,47.49,total postings,Logistic Support
+2021-09-27,GB,47.96,total postings,Logistic Support
+2021-09-28,GB,48.72,total postings,Logistic Support
+2021-09-29,GB,49.7,total postings,Logistic Support
+2021-09-30,GB,50.4,total postings,Logistic Support
+2021-10-01,GB,50.75,total postings,Logistic Support
 2020-02-01,GB,0,total postings,Veterinary
 2020-02-02,GB,0.32,total postings,Veterinary
 2020-02-03,GB,0.58,total postings,Veterinary
@@ -28895,6 +29224,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-22,GB,54.64,total postings,Veterinary
 2021-09-23,GB,54.17,total postings,Veterinary
 2021-09-24,GB,53.81,total postings,Veterinary
+2021-09-25,GB,53.41,total postings,Veterinary
+2021-09-26,GB,52.86,total postings,Veterinary
+2021-09-27,GB,52.49,total postings,Veterinary
+2021-09-28,GB,52.45,total postings,Veterinary
+2021-09-29,GB,52.72,total postings,Veterinary
+2021-09-30,GB,53.28,total postings,Veterinary
+2021-10-01,GB,53.77,total postings,Veterinary
 2020-02-01,GB,0,total postings,Loading & Stocking
 2020-02-02,GB,-0.18,total postings,Loading & Stocking
 2020-02-03,GB,-0.31,total postings,Loading & Stocking
@@ -29481,19 +29817,26 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-06,GB,111.37,total postings,Loading & Stocking
 2021-09-07,GB,111.25,total postings,Loading & Stocking
 2021-09-08,GB,111.67,total postings,Loading & Stocking
-2021-09-09,GB,110.99,total postings,Loading & Stocking
+2021-09-09,GB,111,total postings,Loading & Stocking
 2021-09-10,GB,111.56,total postings,Loading & Stocking
-2021-09-11,GB,111.82,total postings,Loading & Stocking
-2021-09-12,GB,112.81,total postings,Loading & Stocking
+2021-09-11,GB,111.83,total postings,Loading & Stocking
+2021-09-12,GB,112.82,total postings,Loading & Stocking
 2021-09-13,GB,113.61,total postings,Loading & Stocking
-2021-09-14,GB,114.18,total postings,Loading & Stocking
+2021-09-14,GB,114.19,total postings,Loading & Stocking
 2021-09-15,GB,114.41,total postings,Loading & Stocking
 2021-09-16,GB,115.82,total postings,Loading & Stocking
 2021-09-17,GB,116.87,total postings,Loading & Stocking
-2021-09-18,GB,116.81,total postings,Loading & Stocking
+2021-09-18,GB,116.82,total postings,Loading & Stocking
 2021-09-19,GB,116.11,total postings,Loading & Stocking
 2021-09-20,GB,116.4,total postings,Loading & Stocking
 2021-09-21,GB,116.6,total postings,Loading & Stocking
 2021-09-22,GB,117,total postings,Loading & Stocking
-2021-09-23,GB,117.33,total postings,Loading & Stocking
+2021-09-23,GB,117.34,total postings,Loading & Stocking
 2021-09-24,GB,116.09,total postings,Loading & Stocking
+2021-09-25,GB,116.6,total postings,Loading & Stocking
+2021-09-26,GB,115.98,total postings,Loading & Stocking
+2021-09-27,GB,116.2,total postings,Loading & Stocking
+2021-09-28,GB,116.22,total postings,Loading & Stocking
+2021-09-29,GB,116.64,total postings,Loading & Stocking
+2021-09-30,GB,116.71,total postings,Loading & Stocking
+2021-10-01,GB,116.53,total postings,Loading & Stocking
