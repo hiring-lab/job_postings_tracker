@@ -36,3 +36,8 @@ This file contains the % change in seasonally-adjusted postings since February 1
 
 * **state_job_postings_us.csv**
 This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in the US states and the District of Columbia.
+
+In Canada, we provide:
+
+* **provincial_postings_ca.csv**
+This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in the Canadian provinces.
