@@ -623,12 +623,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,46.29,total postings,Accounting
 2021-10-15,CA,46.07,total postings,Accounting
 2021-10-16,CA,45.42,total postings,Accounting
-2021-10-17,CA,45.39,total postings,Accounting
-2021-10-18,CA,45.37,total postings,Accounting
-2021-10-19,CA,45.82,total postings,Accounting
-2021-10-20,CA,46.54,total postings,Accounting
-2021-10-21,CA,47.09,total postings,Accounting
-2021-10-22,CA,47.87,total postings,Accounting
+2021-10-17,CA,45.4,total postings,Accounting
+2021-10-18,CA,45.38,total postings,Accounting
+2021-10-19,CA,45.83,total postings,Accounting
+2021-10-20,CA,46.55,total postings,Accounting
+2021-10-21,CA,47.11,total postings,Accounting
+2021-10-22,CA,47.88,total postings,Accounting
+2021-10-23,CA,48.93,total postings,Accounting
+2021-10-24,CA,49.43,total postings,Accounting
+2021-10-25,CA,49.99,total postings,Accounting
+2021-10-26,CA,50.52,total postings,Accounting
+2021-10-27,CA,50.83,total postings,Accounting
+2021-10-28,CA,51.46,total postings,Accounting
+2021-10-29,CA,51.78,total postings,Accounting
 2020-02-01,CA,0,total postings,Administrative Assistance
 2020-02-02,CA,0.11,total postings,Administrative Assistance
 2020-02-03,CA,0.37,total postings,Administrative Assistance
@@ -1068,10 +1075,10 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-04-12,CA,10.49,total postings,Administrative Assistance
 2021-04-13,CA,10.17,total postings,Administrative Assistance
 2021-04-14,CA,10.09,total postings,Administrative Assistance
-2021-04-15,CA,10.19,total postings,Administrative Assistance
+2021-04-15,CA,10.2,total postings,Administrative Assistance
 2021-04-16,CA,10.16,total postings,Administrative Assistance
 2021-04-17,CA,10.51,total postings,Administrative Assistance
-2021-04-18,CA,10.54,total postings,Administrative Assistance
+2021-04-18,CA,10.55,total postings,Administrative Assistance
 2021-04-19,CA,10.81,total postings,Administrative Assistance
 2021-04-20,CA,11.04,total postings,Administrative Assistance
 2021-04-21,CA,11.26,total postings,Administrative Assistance
@@ -1160,12 +1167,12 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-07-13,CA,26.67,total postings,Administrative Assistance
 2021-07-14,CA,27.22,total postings,Administrative Assistance
 2021-07-15,CA,27.51,total postings,Administrative Assistance
-2021-07-16,CA,27.48,total postings,Administrative Assistance
-2021-07-17,CA,27.5,total postings,Administrative Assistance
+2021-07-16,CA,27.49,total postings,Administrative Assistance
+2021-07-17,CA,27.51,total postings,Administrative Assistance
 2021-07-18,CA,27.73,total postings,Administrative Assistance
 2021-07-19,CA,28.09,total postings,Administrative Assistance
-2021-07-20,CA,28.47,total postings,Administrative Assistance
-2021-07-21,CA,28.98,total postings,Administrative Assistance
+2021-07-20,CA,28.48,total postings,Administrative Assistance
+2021-07-21,CA,28.99,total postings,Administrative Assistance
 2021-07-22,CA,29.67,total postings,Administrative Assistance
 2021-07-23,CA,30.43,total postings,Administrative Assistance
 2021-07-24,CA,31.28,total postings,Administrative Assistance
@@ -1196,10 +1203,10 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-08-18,CA,39.99,total postings,Administrative Assistance
 2021-08-19,CA,39.99,total postings,Administrative Assistance
 2021-08-20,CA,40.06,total postings,Administrative Assistance
-2021-08-21,CA,40.16,total postings,Administrative Assistance
+2021-08-21,CA,40.17,total postings,Administrative Assistance
 2021-08-22,CA,40.28,total postings,Administrative Assistance
-2021-08-23,CA,40.51,total postings,Administrative Assistance
-2021-08-24,CA,40.62,total postings,Administrative Assistance
+2021-08-23,CA,40.52,total postings,Administrative Assistance
+2021-08-24,CA,40.63,total postings,Administrative Assistance
 2021-08-25,CA,40.33,total postings,Administrative Assistance
 2021-08-26,CA,40.37,total postings,Administrative Assistance
 2021-08-27,CA,40.25,total postings,Administrative Assistance
@@ -1244,12 +1251,12 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-05,CA,44.49,total postings,Administrative Assistance
 2021-10-06,CA,44.61,total postings,Administrative Assistance
 2021-10-07,CA,44.93,total postings,Administrative Assistance
-2021-10-08,CA,45.78,total postings,Administrative Assistance
-2021-10-09,CA,46.52,total postings,Administrative Assistance
-2021-10-10,CA,47.31,total postings,Administrative Assistance
-2021-10-11,CA,48.24,total postings,Administrative Assistance
-2021-10-12,CA,48.56,total postings,Administrative Assistance
-2021-10-13,CA,48.85,total postings,Administrative Assistance
+2021-10-08,CA,45.79,total postings,Administrative Assistance
+2021-10-09,CA,46.53,total postings,Administrative Assistance
+2021-10-10,CA,47.32,total postings,Administrative Assistance
+2021-10-11,CA,48.25,total postings,Administrative Assistance
+2021-10-12,CA,48.57,total postings,Administrative Assistance
+2021-10-13,CA,48.86,total postings,Administrative Assistance
 2021-10-14,CA,49.08,total postings,Administrative Assistance
 2021-10-15,CA,49.01,total postings,Administrative Assistance
 2021-10-16,CA,48.75,total postings,Administrative Assistance
@@ -1258,7 +1265,14 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-19,CA,49.13,total postings,Administrative Assistance
 2021-10-20,CA,49.55,total postings,Administrative Assistance
 2021-10-21,CA,50.06,total postings,Administrative Assistance
-2021-10-22,CA,50.59,total postings,Administrative Assistance
+2021-10-22,CA,50.6,total postings,Administrative Assistance
+2021-10-23,CA,51.32,total postings,Administrative Assistance
+2021-10-24,CA,51.65,total postings,Administrative Assistance
+2021-10-25,CA,52.01,total postings,Administrative Assistance
+2021-10-26,CA,52.42,total postings,Administrative Assistance
+2021-10-27,CA,52.57,total postings,Administrative Assistance
+2021-10-28,CA,52.73,total postings,Administrative Assistance
+2021-10-29,CA,52.7,total postings,Administrative Assistance
 2020-02-01,CA,0,total postings,Architecture
 2020-02-02,CA,0.38,total postings,Architecture
 2020-02-03,CA,0.95,total postings,Architecture
@@ -1883,12 +1897,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,61.1,total postings,Architecture
 2021-10-15,CA,60.52,total postings,Architecture
 2021-10-16,CA,59.63,total postings,Architecture
-2021-10-17,CA,59.38,total postings,Architecture
-2021-10-18,CA,59.18,total postings,Architecture
-2021-10-19,CA,59.22,total postings,Architecture
-2021-10-20,CA,59.49,total postings,Architecture
-2021-10-21,CA,60.16,total postings,Architecture
-2021-10-22,CA,60.91,total postings,Architecture
+2021-10-17,CA,59.36,total postings,Architecture
+2021-10-18,CA,59.16,total postings,Architecture
+2021-10-19,CA,59.2,total postings,Architecture
+2021-10-20,CA,59.47,total postings,Architecture
+2021-10-21,CA,60.13,total postings,Architecture
+2021-10-22,CA,60.89,total postings,Architecture
+2021-10-23,CA,61.85,total postings,Architecture
+2021-10-24,CA,62.02,total postings,Architecture
+2021-10-25,CA,62.21,total postings,Architecture
+2021-10-26,CA,62.55,total postings,Architecture
+2021-10-27,CA,62.43,total postings,Architecture
+2021-10-28,CA,62.29,total postings,Architecture
+2021-10-29,CA,61.71,total postings,Architecture
 2020-02-01,CA,0,total postings,Arts & Entertainment
 2020-02-02,CA,0.03,total postings,Arts & Entertainment
 2020-02-03,CA,0.31,total postings,Arts & Entertainment
@@ -2513,12 +2534,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,64.17,total postings,Arts & Entertainment
 2021-10-15,CA,64.05,total postings,Arts & Entertainment
 2021-10-16,CA,63.86,total postings,Arts & Entertainment
-2021-10-17,CA,63.64,total postings,Arts & Entertainment
-2021-10-18,CA,63.72,total postings,Arts & Entertainment
-2021-10-19,CA,64.29,total postings,Arts & Entertainment
-2021-10-20,CA,64.71,total postings,Arts & Entertainment
-2021-10-21,CA,65.18,total postings,Arts & Entertainment
-2021-10-22,CA,65.76,total postings,Arts & Entertainment
+2021-10-17,CA,63.7,total postings,Arts & Entertainment
+2021-10-18,CA,63.78,total postings,Arts & Entertainment
+2021-10-19,CA,64.35,total postings,Arts & Entertainment
+2021-10-20,CA,64.77,total postings,Arts & Entertainment
+2021-10-21,CA,65.24,total postings,Arts & Entertainment
+2021-10-22,CA,65.83,total postings,Arts & Entertainment
+2021-10-23,CA,66.75,total postings,Arts & Entertainment
+2021-10-24,CA,67.5,total postings,Arts & Entertainment
+2021-10-25,CA,68.26,total postings,Arts & Entertainment
+2021-10-26,CA,68.8,total postings,Arts & Entertainment
+2021-10-27,CA,69.07,total postings,Arts & Entertainment
+2021-10-28,CA,68.98,total postings,Arts & Entertainment
+2021-10-29,CA,68.05,total postings,Arts & Entertainment
 2020-02-01,CA,0,total postings,Personal Care & Home Health
 2020-02-02,CA,0.27,total postings,Personal Care & Home Health
 2020-02-03,CA,0.75,total postings,Personal Care & Home Health
@@ -3133,22 +3161,29 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-04,CA,46.21,total postings,Personal Care & Home Health
 2021-10-05,CA,46.42,total postings,Personal Care & Home Health
 2021-10-06,CA,46.35,total postings,Personal Care & Home Health
-2021-10-07,CA,46.02,total postings,Personal Care & Home Health
-2021-10-08,CA,46.35,total postings,Personal Care & Home Health
-2021-10-09,CA,46.9,total postings,Personal Care & Home Health
-2021-10-10,CA,47.84,total postings,Personal Care & Home Health
+2021-10-07,CA,46.03,total postings,Personal Care & Home Health
+2021-10-08,CA,46.36,total postings,Personal Care & Home Health
+2021-10-09,CA,46.91,total postings,Personal Care & Home Health
+2021-10-10,CA,47.85,total postings,Personal Care & Home Health
 2021-10-11,CA,48.68,total postings,Personal Care & Home Health
 2021-10-12,CA,49,total postings,Personal Care & Home Health
-2021-10-13,CA,49.23,total postings,Personal Care & Home Health
+2021-10-13,CA,49.24,total postings,Personal Care & Home Health
 2021-10-14,CA,49.62,total postings,Personal Care & Home Health
 2021-10-15,CA,49.72,total postings,Personal Care & Home Health
 2021-10-16,CA,49.69,total postings,Personal Care & Home Health
-2021-10-17,CA,49.68,total postings,Personal Care & Home Health
-2021-10-18,CA,49.7,total postings,Personal Care & Home Health
-2021-10-19,CA,49.99,total postings,Personal Care & Home Health
-2021-10-20,CA,50.85,total postings,Personal Care & Home Health
-2021-10-21,CA,51.68,total postings,Personal Care & Home Health
-2021-10-22,CA,52.44,total postings,Personal Care & Home Health
+2021-10-17,CA,49.7,total postings,Personal Care & Home Health
+2021-10-18,CA,49.72,total postings,Personal Care & Home Health
+2021-10-19,CA,50.01,total postings,Personal Care & Home Health
+2021-10-20,CA,50.87,total postings,Personal Care & Home Health
+2021-10-21,CA,51.7,total postings,Personal Care & Home Health
+2021-10-22,CA,52.46,total postings,Personal Care & Home Health
+2021-10-23,CA,53.21,total postings,Personal Care & Home Health
+2021-10-24,CA,53.85,total postings,Personal Care & Home Health
+2021-10-25,CA,54.25,total postings,Personal Care & Home Health
+2021-10-26,CA,54.97,total postings,Personal Care & Home Health
+2021-10-27,CA,55.12,total postings,Personal Care & Home Health
+2021-10-28,CA,55.19,total postings,Personal Care & Home Health
+2021-10-29,CA,55.37,total postings,Personal Care & Home Health
 2020-02-01,CA,0,total postings,Construction
 2020-02-02,CA,0.77,total postings,Construction
 2020-02-03,CA,1.65,total postings,Construction
@@ -3392,11 +3427,11 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2020-09-28,CA,3.57,total postings,Construction
 2020-09-29,CA,4.11,total postings,Construction
 2020-09-30,CA,4.72,total postings,Construction
-2020-10-01,CA,4.78,total postings,Construction
+2020-10-01,CA,4.79,total postings,Construction
 2020-10-02,CA,4.9,total postings,Construction
 2020-10-03,CA,4.99,total postings,Construction
 2020-10-04,CA,4.8,total postings,Construction
-2020-10-05,CA,4.56,total postings,Construction
+2020-10-05,CA,4.57,total postings,Construction
 2020-10-06,CA,4.17,total postings,Construction
 2020-10-07,CA,3.68,total postings,Construction
 2020-10-08,CA,3.8,total postings,Construction
@@ -3404,7 +3439,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2020-10-10,CA,4.05,total postings,Construction
 2020-10-11,CA,4.24,total postings,Construction
 2020-10-12,CA,4.34,total postings,Construction
-2020-10-13,CA,4.22,total postings,Construction
+2020-10-13,CA,4.23,total postings,Construction
 2020-10-14,CA,4.24,total postings,Construction
 2020-10-15,CA,4.25,total postings,Construction
 2020-10-16,CA,3.94,total postings,Construction
@@ -3770,15 +3805,22 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-11,CA,77.05,total postings,Construction
 2021-10-12,CA,76.86,total postings,Construction
 2021-10-13,CA,76.47,total postings,Construction
-2021-10-14,CA,75.92,total postings,Construction
-2021-10-15,CA,75,total postings,Construction
-2021-10-16,CA,74.21,total postings,Construction
-2021-10-17,CA,73.57,total postings,Construction
-2021-10-18,CA,72.88,total postings,Construction
-2021-10-19,CA,73.35,total postings,Construction
-2021-10-20,CA,73.76,total postings,Construction
-2021-10-21,CA,74.12,total postings,Construction
-2021-10-22,CA,74.53,total postings,Construction
+2021-10-14,CA,75.93,total postings,Construction
+2021-10-15,CA,75.01,total postings,Construction
+2021-10-16,CA,74.22,total postings,Construction
+2021-10-17,CA,73.59,total postings,Construction
+2021-10-18,CA,72.9,total postings,Construction
+2021-10-19,CA,73.37,total postings,Construction
+2021-10-20,CA,73.78,total postings,Construction
+2021-10-21,CA,74.14,total postings,Construction
+2021-10-22,CA,74.55,total postings,Construction
+2021-10-23,CA,74.98,total postings,Construction
+2021-10-24,CA,75.01,total postings,Construction
+2021-10-25,CA,75.4,total postings,Construction
+2021-10-26,CA,75.71,total postings,Construction
+2021-10-27,CA,76.05,total postings,Construction
+2021-10-28,CA,76.46,total postings,Construction
+2021-10-29,CA,76.83,total postings,Construction
 2020-02-01,CA,0,total postings,Customer Service
 2020-02-02,CA,-0.03,total postings,Customer Service
 2020-02-03,CA,0.1,total postings,Customer Service
@@ -4403,12 +4445,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,73.47,total postings,Customer Service
 2021-10-15,CA,73.69,total postings,Customer Service
 2021-10-16,CA,72.35,total postings,Customer Service
-2021-10-17,CA,71.91,total postings,Customer Service
-2021-10-18,CA,71.87,total postings,Customer Service
-2021-10-19,CA,72.51,total postings,Customer Service
-2021-10-20,CA,72.62,total postings,Customer Service
-2021-10-21,CA,73,total postings,Customer Service
-2021-10-22,CA,73.11,total postings,Customer Service
+2021-10-17,CA,71.88,total postings,Customer Service
+2021-10-18,CA,71.84,total postings,Customer Service
+2021-10-19,CA,72.49,total postings,Customer Service
+2021-10-20,CA,72.6,total postings,Customer Service
+2021-10-21,CA,72.98,total postings,Customer Service
+2021-10-22,CA,73.08,total postings,Customer Service
+2021-10-23,CA,74.03,total postings,Customer Service
+2021-10-24,CA,74.69,total postings,Customer Service
+2021-10-25,CA,74.97,total postings,Customer Service
+2021-10-26,CA,74.89,total postings,Customer Service
+2021-10-27,CA,75.2,total postings,Customer Service
+2021-10-28,CA,75.16,total postings,Customer Service
+2021-10-29,CA,75.04,total postings,Customer Service
 2020-02-01,CA,0,total postings,Driving
 2020-02-02,CA,0.18,total postings,Driving
 2020-02-03,CA,0.42,total postings,Driving
@@ -5025,20 +5074,27 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-06,CA,39.17,total postings,Driving
 2021-10-07,CA,39.2,total postings,Driving
 2021-10-08,CA,39.63,total postings,Driving
-2021-10-09,CA,40.2,total postings,Driving
+2021-10-09,CA,40.21,total postings,Driving
 2021-10-10,CA,40.79,total postings,Driving
 2021-10-11,CA,41.29,total postings,Driving
 2021-10-12,CA,41.54,total postings,Driving
-2021-10-13,CA,41.75,total postings,Driving
-2021-10-14,CA,41.78,total postings,Driving
-2021-10-15,CA,41.59,total postings,Driving
-2021-10-16,CA,41.34,total postings,Driving
-2021-10-17,CA,41.18,total postings,Driving
+2021-10-13,CA,41.76,total postings,Driving
+2021-10-14,CA,41.79,total postings,Driving
+2021-10-15,CA,41.6,total postings,Driving
+2021-10-16,CA,41.35,total postings,Driving
+2021-10-17,CA,41.19,total postings,Driving
 2021-10-18,CA,40.86,total postings,Driving
 2021-10-19,CA,40.95,total postings,Driving
 2021-10-20,CA,41.25,total postings,Driving
 2021-10-21,CA,41.62,total postings,Driving
 2021-10-22,CA,42.13,total postings,Driving
+2021-10-23,CA,42.83,total postings,Driving
+2021-10-24,CA,43.31,total postings,Driving
+2021-10-25,CA,43.97,total postings,Driving
+2021-10-26,CA,44.88,total postings,Driving
+2021-10-27,CA,45.64,total postings,Driving
+2021-10-28,CA,46.54,total postings,Driving
+2021-10-29,CA,47.38,total postings,Driving
 2020-02-01,CA,0,total postings,Education & Instruction
 2020-02-02,CA,0.02,total postings,Education & Instruction
 2020-02-03,CA,0.22,total postings,Education & Instruction
@@ -5665,10 +5721,17 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-16,CA,40.08,total postings,Education & Instruction
 2021-10-17,CA,40.19,total postings,Education & Instruction
 2021-10-18,CA,39.27,total postings,Education & Instruction
-2021-10-19,CA,38.93,total postings,Education & Instruction
-2021-10-20,CA,38.54,total postings,Education & Instruction
-2021-10-21,CA,38.21,total postings,Education & Instruction
-2021-10-22,CA,37.69,total postings,Education & Instruction
+2021-10-19,CA,38.94,total postings,Education & Instruction
+2021-10-20,CA,38.55,total postings,Education & Instruction
+2021-10-21,CA,38.22,total postings,Education & Instruction
+2021-10-22,CA,37.71,total postings,Education & Instruction
+2021-10-23,CA,38.25,total postings,Education & Instruction
+2021-10-24,CA,37.95,total postings,Education & Instruction
+2021-10-25,CA,37.89,total postings,Education & Instruction
+2021-10-26,CA,37.94,total postings,Education & Instruction
+2021-10-27,CA,38.07,total postings,Education & Instruction
+2021-10-28,CA,38.18,total postings,Education & Instruction
+2021-10-29,CA,38.36,total postings,Education & Instruction
 2020-02-01,CA,0,total postings,Industrial Engineering
 2020-02-02,CA,0.06,total postings,Industrial Engineering
 2020-02-03,CA,0.16,total postings,Industrial Engineering
@@ -6293,12 +6356,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,53,total postings,Industrial Engineering
 2021-10-15,CA,53.29,total postings,Industrial Engineering
 2021-10-16,CA,53.3,total postings,Industrial Engineering
-2021-10-17,CA,53.49,total postings,Industrial Engineering
-2021-10-18,CA,54.09,total postings,Industrial Engineering
-2021-10-19,CA,55.09,total postings,Industrial Engineering
-2021-10-20,CA,56.18,total postings,Industrial Engineering
-2021-10-21,CA,57.11,total postings,Industrial Engineering
-2021-10-22,CA,58.09,total postings,Industrial Engineering
+2021-10-17,CA,53.5,total postings,Industrial Engineering
+2021-10-18,CA,54.1,total postings,Industrial Engineering
+2021-10-19,CA,55.11,total postings,Industrial Engineering
+2021-10-20,CA,56.19,total postings,Industrial Engineering
+2021-10-21,CA,57.13,total postings,Industrial Engineering
+2021-10-22,CA,58.12,total postings,Industrial Engineering
+2021-10-23,CA,59.06,total postings,Industrial Engineering
+2021-10-24,CA,59.73,total postings,Industrial Engineering
+2021-10-25,CA,60.01,total postings,Industrial Engineering
+2021-10-26,CA,60.45,total postings,Industrial Engineering
+2021-10-27,CA,60.42,total postings,Industrial Engineering
+2021-10-28,CA,60.54,total postings,Industrial Engineering
+2021-10-29,CA,60.46,total postings,Industrial Engineering
 2020-02-01,CA,0,total postings,Banking & Finance
 2020-02-02,CA,-0.33,total postings,Banking & Finance
 2020-02-03,CA,-0.48,total postings,Banking & Finance
@@ -6923,12 +6993,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,83.53,total postings,Banking & Finance
 2021-10-15,CA,83.5,total postings,Banking & Finance
 2021-10-16,CA,81.4,total postings,Banking & Finance
-2021-10-17,CA,81.32,total postings,Banking & Finance
-2021-10-18,CA,81.13,total postings,Banking & Finance
-2021-10-19,CA,81.6,total postings,Banking & Finance
-2021-10-20,CA,82.6,total postings,Banking & Finance
-2021-10-21,CA,82.97,total postings,Banking & Finance
-2021-10-22,CA,83.37,total postings,Banking & Finance
+2021-10-17,CA,81.36,total postings,Banking & Finance
+2021-10-18,CA,81.17,total postings,Banking & Finance
+2021-10-19,CA,81.64,total postings,Banking & Finance
+2021-10-20,CA,82.63,total postings,Banking & Finance
+2021-10-21,CA,83.01,total postings,Banking & Finance
+2021-10-22,CA,83.41,total postings,Banking & Finance
+2021-10-23,CA,86.25,total postings,Banking & Finance
+2021-10-24,CA,87.06,total postings,Banking & Finance
+2021-10-25,CA,87.79,total postings,Banking & Finance
+2021-10-26,CA,88.54,total postings,Banking & Finance
+2021-10-27,CA,88.92,total postings,Banking & Finance
+2021-10-28,CA,89.87,total postings,Banking & Finance
+2021-10-29,CA,90.71,total postings,Banking & Finance
 2020-02-01,CA,0,total postings,Food Preparation & Service
 2020-02-02,CA,-0.06,total postings,Food Preparation & Service
 2020-02-03,CA,-0.14,total postings,Food Preparation & Service
@@ -7542,23 +7619,30 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-03,CA,60.62,total postings,Food Preparation & Service
 2021-10-04,CA,59.77,total postings,Food Preparation & Service
 2021-10-05,CA,58.93,total postings,Food Preparation & Service
-2021-10-06,CA,58.15,total postings,Food Preparation & Service
-2021-10-07,CA,57.43,total postings,Food Preparation & Service
-2021-10-08,CA,57.04,total postings,Food Preparation & Service
-2021-10-09,CA,56.75,total postings,Food Preparation & Service
-2021-10-10,CA,56.48,total postings,Food Preparation & Service
-2021-10-11,CA,56.43,total postings,Food Preparation & Service
-2021-10-12,CA,55.9,total postings,Food Preparation & Service
-2021-10-13,CA,55.44,total postings,Food Preparation & Service
+2021-10-06,CA,58.16,total postings,Food Preparation & Service
+2021-10-07,CA,57.44,total postings,Food Preparation & Service
+2021-10-08,CA,57.05,total postings,Food Preparation & Service
+2021-10-09,CA,56.76,total postings,Food Preparation & Service
+2021-10-10,CA,56.49,total postings,Food Preparation & Service
+2021-10-11,CA,56.44,total postings,Food Preparation & Service
+2021-10-12,CA,55.91,total postings,Food Preparation & Service
+2021-10-13,CA,55.45,total postings,Food Preparation & Service
 2021-10-14,CA,55.08,total postings,Food Preparation & Service
-2021-10-15,CA,54.65,total postings,Food Preparation & Service
+2021-10-15,CA,54.66,total postings,Food Preparation & Service
 2021-10-16,CA,54.49,total postings,Food Preparation & Service
-2021-10-17,CA,54.57,total postings,Food Preparation & Service
-2021-10-18,CA,54.6,total postings,Food Preparation & Service
-2021-10-19,CA,55.05,total postings,Food Preparation & Service
-2021-10-20,CA,55.47,total postings,Food Preparation & Service
-2021-10-21,CA,55.87,total postings,Food Preparation & Service
-2021-10-22,CA,56.32,total postings,Food Preparation & Service
+2021-10-17,CA,54.58,total postings,Food Preparation & Service
+2021-10-18,CA,54.61,total postings,Food Preparation & Service
+2021-10-19,CA,55.06,total postings,Food Preparation & Service
+2021-10-20,CA,55.48,total postings,Food Preparation & Service
+2021-10-21,CA,55.88,total postings,Food Preparation & Service
+2021-10-22,CA,56.33,total postings,Food Preparation & Service
+2021-10-23,CA,56.51,total postings,Food Preparation & Service
+2021-10-24,CA,56.43,total postings,Food Preparation & Service
+2021-10-25,CA,56.33,total postings,Food Preparation & Service
+2021-10-26,CA,56.32,total postings,Food Preparation & Service
+2021-10-27,CA,56.23,total postings,Food Preparation & Service
+2021-10-28,CA,56.26,total postings,Food Preparation & Service
+2021-10-29,CA,56.26,total postings,Food Preparation & Service
 2020-02-01,CA,0,total postings,Hospitality & Tourism
 2020-02-02,CA,-0.24,total postings,Hospitality & Tourism
 2020-02-03,CA,-0.08,total postings,Hospitality & Tourism
@@ -8183,12 +8267,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,28.68,total postings,Hospitality & Tourism
 2021-10-15,CA,28.61,total postings,Hospitality & Tourism
 2021-10-16,CA,28.33,total postings,Hospitality & Tourism
-2021-10-17,CA,28.26,total postings,Hospitality & Tourism
-2021-10-18,CA,28.24,total postings,Hospitality & Tourism
-2021-10-19,CA,28.54,total postings,Hospitality & Tourism
-2021-10-20,CA,28.77,total postings,Hospitality & Tourism
-2021-10-21,CA,28.89,total postings,Hospitality & Tourism
-2021-10-22,CA,28.96,total postings,Hospitality & Tourism
+2021-10-17,CA,28.25,total postings,Hospitality & Tourism
+2021-10-18,CA,28.23,total postings,Hospitality & Tourism
+2021-10-19,CA,28.53,total postings,Hospitality & Tourism
+2021-10-20,CA,28.76,total postings,Hospitality & Tourism
+2021-10-21,CA,28.88,total postings,Hospitality & Tourism
+2021-10-22,CA,28.94,total postings,Hospitality & Tourism
+2021-10-23,CA,28.65,total postings,Hospitality & Tourism
+2021-10-24,CA,28.03,total postings,Hospitality & Tourism
+2021-10-25,CA,27.36,total postings,Hospitality & Tourism
+2021-10-26,CA,26.53,total postings,Hospitality & Tourism
+2021-10-27,CA,25.68,total postings,Hospitality & Tourism
+2021-10-28,CA,24.93,total postings,Hospitality & Tourism
+2021-10-29,CA,24.18,total postings,Hospitality & Tourism
 2020-02-01,CA,0,total postings,Human Resources
 2020-02-02,CA,0.03,total postings,Human Resources
 2020-02-03,CA,0.29,total postings,Human Resources
@@ -8809,16 +8900,23 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-10,CA,90.3,total postings,Human Resources
 2021-10-11,CA,90.95,total postings,Human Resources
 2021-10-12,CA,91.01,total postings,Human Resources
-2021-10-13,CA,90.63,total postings,Human Resources
-2021-10-14,CA,90.61,total postings,Human Resources
-2021-10-15,CA,90.85,total postings,Human Resources
-2021-10-16,CA,90.38,total postings,Human Resources
-2021-10-17,CA,90.61,total postings,Human Resources
-2021-10-18,CA,90.94,total postings,Human Resources
-2021-10-19,CA,91.88,total postings,Human Resources
-2021-10-20,CA,93.07,total postings,Human Resources
-2021-10-21,CA,94.09,total postings,Human Resources
-2021-10-22,CA,95.14,total postings,Human Resources
+2021-10-13,CA,90.64,total postings,Human Resources
+2021-10-14,CA,90.62,total postings,Human Resources
+2021-10-15,CA,90.86,total postings,Human Resources
+2021-10-16,CA,90.4,total postings,Human Resources
+2021-10-17,CA,90.67,total postings,Human Resources
+2021-10-18,CA,91,total postings,Human Resources
+2021-10-19,CA,91.94,total postings,Human Resources
+2021-10-20,CA,93.12,total postings,Human Resources
+2021-10-21,CA,94.16,total postings,Human Resources
+2021-10-22,CA,95.22,total postings,Human Resources
+2021-10-23,CA,96.77,total postings,Human Resources
+2021-10-24,CA,97.71,total postings,Human Resources
+2021-10-25,CA,98.69,total postings,Human Resources
+2021-10-26,CA,99.92,total postings,Human Resources
+2021-10-27,CA,101.17,total postings,Human Resources
+2021-10-28,CA,102.29,total postings,Human Resources
+2021-10-29,CA,102.87,total postings,Human Resources
 2020-02-01,CA,0,total postings,Installation & Maintenance
 2020-02-02,CA,0.13,total postings,Installation & Maintenance
 2020-02-03,CA,0.49,total postings,Installation & Maintenance
@@ -9427,7 +9525,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-28,CA,40.43,total postings,Installation & Maintenance
 2021-09-29,CA,40.59,total postings,Installation & Maintenance
 2021-09-30,CA,40.66,total postings,Installation & Maintenance
-2021-10-01,CA,40.6,total postings,Installation & Maintenance
+2021-10-01,CA,40.61,total postings,Installation & Maintenance
 2021-10-02,CA,40.7,total postings,Installation & Maintenance
 2021-10-03,CA,40.67,total postings,Installation & Maintenance
 2021-10-04,CA,40.72,total postings,Installation & Maintenance
@@ -9438,7 +9536,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-09,CA,41.44,total postings,Installation & Maintenance
 2021-10-10,CA,41.84,total postings,Installation & Maintenance
 2021-10-11,CA,42.19,total postings,Installation & Maintenance
-2021-10-12,CA,42.05,total postings,Installation & Maintenance
+2021-10-12,CA,42.06,total postings,Installation & Maintenance
 2021-10-13,CA,42.02,total postings,Installation & Maintenance
 2021-10-14,CA,42.11,total postings,Installation & Maintenance
 2021-10-15,CA,42.05,total postings,Installation & Maintenance
@@ -9449,6 +9547,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-20,CA,43.16,total postings,Installation & Maintenance
 2021-10-21,CA,43.64,total postings,Installation & Maintenance
 2021-10-22,CA,44.02,total postings,Installation & Maintenance
+2021-10-23,CA,44.52,total postings,Installation & Maintenance
+2021-10-24,CA,44.81,total postings,Installation & Maintenance
+2021-10-25,CA,45.16,total postings,Installation & Maintenance
+2021-10-26,CA,45.37,total postings,Installation & Maintenance
+2021-10-27,CA,45.42,total postings,Installation & Maintenance
+2021-10-28,CA,45.54,total postings,Installation & Maintenance
+2021-10-29,CA,45.7,total postings,Installation & Maintenance
 2020-02-01,CA,0,total postings,Insurance
 2020-02-02,CA,0.04,total postings,Insurance
 2020-02-03,CA,0.1,total postings,Insurance
@@ -10074,11 +10179,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-15,CA,36.98,total postings,Insurance
 2021-10-16,CA,36.13,total postings,Insurance
 2021-10-17,CA,35.88,total postings,Insurance
-2021-10-18,CA,35.76,total postings,Insurance
-2021-10-19,CA,36.33,total postings,Insurance
-2021-10-20,CA,36.13,total postings,Insurance
+2021-10-18,CA,35.75,total postings,Insurance
+2021-10-19,CA,36.32,total postings,Insurance
+2021-10-20,CA,36.12,total postings,Insurance
 2021-10-21,CA,35.86,total postings,Insurance
 2021-10-22,CA,35.71,total postings,Insurance
+2021-10-23,CA,35.81,total postings,Insurance
+2021-10-24,CA,35.39,total postings,Insurance
+2021-10-25,CA,34.9,total postings,Insurance
+2021-10-26,CA,34.04,total postings,Insurance
+2021-10-27,CA,33.99,total postings,Insurance
+2021-10-28,CA,33.93,total postings,Insurance
+2021-10-29,CA,33.99,total postings,Insurance
 2020-02-01,CA,0,total postings,Legal
 2020-02-02,CA,0.11,total postings,Legal
 2020-02-03,CA,0.4,total postings,Legal
@@ -10703,12 +10815,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,51.71,total postings,Legal
 2021-10-15,CA,51.55,total postings,Legal
 2021-10-16,CA,50.54,total postings,Legal
-2021-10-17,CA,50.35,total postings,Legal
-2021-10-18,CA,50.43,total postings,Legal
-2021-10-19,CA,50.91,total postings,Legal
-2021-10-20,CA,51.42,total postings,Legal
-2021-10-21,CA,51.84,total postings,Legal
-2021-10-22,CA,52.42,total postings,Legal
+2021-10-17,CA,50.26,total postings,Legal
+2021-10-18,CA,50.34,total postings,Legal
+2021-10-19,CA,50.82,total postings,Legal
+2021-10-20,CA,51.33,total postings,Legal
+2021-10-21,CA,51.75,total postings,Legal
+2021-10-22,CA,52.34,total postings,Legal
+2021-10-23,CA,53.45,total postings,Legal
+2021-10-24,CA,53.71,total postings,Legal
+2021-10-25,CA,53.56,total postings,Legal
+2021-10-26,CA,53.71,total postings,Legal
+2021-10-27,CA,54.23,total postings,Legal
+2021-10-28,CA,55.16,total postings,Legal
+2021-10-29,CA,55.64,total postings,Legal
 2020-02-01,CA,0,total postings,Management
 2020-02-02,CA,-0.14,total postings,Management
 2020-02-03,CA,-0.08,total postings,Management
@@ -11239,7 +11358,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-07-12,CA,28.08,total postings,Management
 2021-07-13,CA,28.45,total postings,Management
 2021-07-14,CA,28.86,total postings,Management
-2021-07-15,CA,29.1,total postings,Management
+2021-07-15,CA,29.11,total postings,Management
 2021-07-16,CA,29.18,total postings,Management
 2021-07-17,CA,29.17,total postings,Management
 2021-07-18,CA,29.49,total postings,Management
@@ -11329,7 +11448,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-10,CA,44.98,total postings,Management
 2021-10-11,CA,45.52,total postings,Management
 2021-10-12,CA,45.67,total postings,Management
-2021-10-13,CA,45.71,total postings,Management
+2021-10-13,CA,45.72,total postings,Management
 2021-10-14,CA,45.82,total postings,Management
 2021-10-15,CA,45.85,total postings,Management
 2021-10-16,CA,45.49,total postings,Management
@@ -11337,8 +11456,15 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-18,CA,45.81,total postings,Management
 2021-10-19,CA,46.27,total postings,Management
 2021-10-20,CA,46.75,total postings,Management
-2021-10-21,CA,47.26,total postings,Management
-2021-10-22,CA,47.69,total postings,Management
+2021-10-21,CA,47.27,total postings,Management
+2021-10-22,CA,47.71,total postings,Management
+2021-10-23,CA,48.55,total postings,Management
+2021-10-24,CA,48.93,total postings,Management
+2021-10-25,CA,49.21,total postings,Management
+2021-10-26,CA,49.55,total postings,Management
+2021-10-27,CA,49.86,total postings,Management
+2021-10-28,CA,50.21,total postings,Management
+2021-10-29,CA,50.38,total postings,Management
 2020-02-01,CA,0,total postings,Production & Manufacturing
 2020-02-02,CA,0.47,total postings,Production & Manufacturing
 2020-02-03,CA,1.07,total postings,Production & Manufacturing
@@ -11963,12 +12089,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,62.27,total postings,Production & Manufacturing
 2021-10-15,CA,62.06,total postings,Production & Manufacturing
 2021-10-16,CA,61.61,total postings,Production & Manufacturing
-2021-10-17,CA,61.47,total postings,Production & Manufacturing
-2021-10-18,CA,61.43,total postings,Production & Manufacturing
-2021-10-19,CA,61.84,total postings,Production & Manufacturing
-2021-10-20,CA,62.37,total postings,Production & Manufacturing
+2021-10-17,CA,61.46,total postings,Production & Manufacturing
+2021-10-18,CA,61.42,total postings,Production & Manufacturing
+2021-10-19,CA,61.83,total postings,Production & Manufacturing
+2021-10-20,CA,62.36,total postings,Production & Manufacturing
 2021-10-21,CA,63.07,total postings,Production & Manufacturing
 2021-10-22,CA,63.64,total postings,Production & Manufacturing
+2021-10-23,CA,64.51,total postings,Production & Manufacturing
+2021-10-24,CA,64.95,total postings,Production & Manufacturing
+2021-10-25,CA,65.39,total postings,Production & Manufacturing
+2021-10-26,CA,65.94,total postings,Production & Manufacturing
+2021-10-27,CA,66.23,total postings,Production & Manufacturing
+2021-10-28,CA,66.52,total postings,Production & Manufacturing
+2021-10-29,CA,66.82,total postings,Production & Manufacturing
 2020-02-01,CA,0,total postings,Marketing
 2020-02-02,CA,0.17,total postings,Marketing
 2020-02-03,CA,0.63,total postings,Marketing
@@ -12593,12 +12726,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,43.27,total postings,Marketing
 2021-10-15,CA,43.21,total postings,Marketing
 2021-10-16,CA,42.75,total postings,Marketing
-2021-10-17,CA,42.49,total postings,Marketing
-2021-10-18,CA,42.27,total postings,Marketing
-2021-10-19,CA,42.32,total postings,Marketing
-2021-10-20,CA,42.59,total postings,Marketing
-2021-10-21,CA,43,total postings,Marketing
-2021-10-22,CA,43.25,total postings,Marketing
+2021-10-17,CA,42.46,total postings,Marketing
+2021-10-18,CA,42.23,total postings,Marketing
+2021-10-19,CA,42.29,total postings,Marketing
+2021-10-20,CA,42.56,total postings,Marketing
+2021-10-21,CA,42.97,total postings,Marketing
+2021-10-22,CA,43.23,total postings,Marketing
+2021-10-23,CA,44.02,total postings,Marketing
+2021-10-24,CA,44.57,total postings,Marketing
+2021-10-25,CA,45.08,total postings,Marketing
+2021-10-26,CA,45.48,total postings,Marketing
+2021-10-27,CA,45.85,total postings,Marketing
+2021-10-28,CA,46.18,total postings,Marketing
+2021-10-29,CA,46.35,total postings,Marketing
 2020-02-01,CA,0,total postings,Dental
 2020-02-02,CA,0.29,total postings,Dental
 2020-02-03,CA,0.43,total postings,Dental
@@ -13223,12 +13363,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,38.55,total postings,Dental
 2021-10-15,CA,39.64,total postings,Dental
 2021-10-16,CA,41.21,total postings,Dental
-2021-10-17,CA,42.88,total postings,Dental
-2021-10-18,CA,44.44,total postings,Dental
-2021-10-19,CA,46.56,total postings,Dental
-2021-10-20,CA,48.63,total postings,Dental
-2021-10-21,CA,49.62,total postings,Dental
-2021-10-22,CA,50.86,total postings,Dental
+2021-10-17,CA,42.89,total postings,Dental
+2021-10-18,CA,44.45,total postings,Dental
+2021-10-19,CA,46.57,total postings,Dental
+2021-10-20,CA,48.64,total postings,Dental
+2021-10-21,CA,49.63,total postings,Dental
+2021-10-22,CA,50.87,total postings,Dental
+2021-10-23,CA,51.97,total postings,Dental
+2021-10-24,CA,52.85,total postings,Dental
+2021-10-25,CA,54.03,total postings,Dental
+2021-10-26,CA,55.17,total postings,Dental
+2021-10-27,CA,56.38,total postings,Dental
+2021-10-28,CA,57.35,total postings,Dental
+2021-10-29,CA,57.93,total postings,Dental
 2020-02-01,CA,0,total postings,Physicians & Surgeons
 2020-02-02,CA,-0.1,total postings,Physicians & Surgeons
 2020-02-03,CA,-0.22,total postings,Physicians & Surgeons
@@ -13854,11 +14001,18 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-15,CA,30.18,total postings,Physicians & Surgeons
 2021-10-16,CA,30.46,total postings,Physicians & Surgeons
 2021-10-17,CA,30.81,total postings,Physicians & Surgeons
-2021-10-18,CA,31,total postings,Physicians & Surgeons
+2021-10-18,CA,30.99,total postings,Physicians & Surgeons
 2021-10-19,CA,32.12,total postings,Physicians & Surgeons
-2021-10-20,CA,33.01,total postings,Physicians & Surgeons
+2021-10-20,CA,33,total postings,Physicians & Surgeons
 2021-10-21,CA,34.89,total postings,Physicians & Surgeons
-2021-10-22,CA,35.92,total postings,Physicians & Surgeons
+2021-10-22,CA,35.91,total postings,Physicians & Surgeons
+2021-10-23,CA,36.71,total postings,Physicians & Surgeons
+2021-10-24,CA,37.3,total postings,Physicians & Surgeons
+2021-10-25,CA,38.02,total postings,Physicians & Surgeons
+2021-10-26,CA,38.35,total postings,Physicians & Surgeons
+2021-10-27,CA,38.63,total postings,Physicians & Surgeons
+2021-10-28,CA,38.94,total postings,Physicians & Surgeons
+2021-10-29,CA,39.25,total postings,Physicians & Surgeons
 2020-02-01,CA,0,total postings,Media & Communications
 2020-02-02,CA,-0.14,total postings,Media & Communications
 2020-02-03,CA,-0.26,total postings,Media & Communications
@@ -14481,14 +14635,21 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-12,CA,40.47,total postings,Media & Communications
 2021-10-13,CA,40.72,total postings,Media & Communications
 2021-10-14,CA,40.83,total postings,Media & Communications
-2021-10-15,CA,40.91,total postings,Media & Communications
-2021-10-16,CA,40.92,total postings,Media & Communications
-2021-10-17,CA,41.28,total postings,Media & Communications
-2021-10-18,CA,41.73,total postings,Media & Communications
-2021-10-19,CA,42.74,total postings,Media & Communications
-2021-10-20,CA,43.43,total postings,Media & Communications
-2021-10-21,CA,44.16,total postings,Media & Communications
-2021-10-22,CA,45.11,total postings,Media & Communications
+2021-10-15,CA,40.93,total postings,Media & Communications
+2021-10-16,CA,40.93,total postings,Media & Communications
+2021-10-17,CA,41.34,total postings,Media & Communications
+2021-10-18,CA,41.79,total postings,Media & Communications
+2021-10-19,CA,42.8,total postings,Media & Communications
+2021-10-20,CA,43.49,total postings,Media & Communications
+2021-10-21,CA,44.22,total postings,Media & Communications
+2021-10-22,CA,45.15,total postings,Media & Communications
+2021-10-23,CA,45.87,total postings,Media & Communications
+2021-10-24,CA,46.24,total postings,Media & Communications
+2021-10-25,CA,46.67,total postings,Media & Communications
+2021-10-26,CA,46.91,total postings,Media & Communications
+2021-10-27,CA,47.13,total postings,Media & Communications
+2021-10-28,CA,47.61,total postings,Media & Communications
+2021-10-29,CA,47.75,total postings,Media & Communications
 2020-02-01,CA,0,total postings,Nursing
 2020-02-02,CA,-0.12,total postings,Nursing
 2020-02-03,CA,-0.19,total postings,Nursing
@@ -15095,30 +15256,37 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-26,CA,71.18,total postings,Nursing
 2021-09-27,CA,71.02,total postings,Nursing
 2021-09-28,CA,70.86,total postings,Nursing
-2021-09-29,CA,71.08,total postings,Nursing
-2021-09-30,CA,71.39,total postings,Nursing
+2021-09-29,CA,71.09,total postings,Nursing
+2021-09-30,CA,71.4,total postings,Nursing
 2021-10-01,CA,71.46,total postings,Nursing
 2021-10-02,CA,71.68,total postings,Nursing
-2021-10-03,CA,71.6,total postings,Nursing
-2021-10-04,CA,72.06,total postings,Nursing
-2021-10-05,CA,72.33,total postings,Nursing
-2021-10-06,CA,72.54,total postings,Nursing
-2021-10-07,CA,72.78,total postings,Nursing
-2021-10-08,CA,73.71,total postings,Nursing
-2021-10-09,CA,75.07,total postings,Nursing
-2021-10-10,CA,76.61,total postings,Nursing
-2021-10-11,CA,77.95,total postings,Nursing
+2021-10-03,CA,71.61,total postings,Nursing
+2021-10-04,CA,72.07,total postings,Nursing
+2021-10-05,CA,72.34,total postings,Nursing
+2021-10-06,CA,72.55,total postings,Nursing
+2021-10-07,CA,72.79,total postings,Nursing
+2021-10-08,CA,73.72,total postings,Nursing
+2021-10-09,CA,75.08,total postings,Nursing
+2021-10-10,CA,76.62,total postings,Nursing
+2021-10-11,CA,77.96,total postings,Nursing
 2021-10-12,CA,79.28,total postings,Nursing
 2021-10-13,CA,79.84,total postings,Nursing
 2021-10-14,CA,80.42,total postings,Nursing
 2021-10-15,CA,80.69,total postings,Nursing
 2021-10-16,CA,80.69,total postings,Nursing
-2021-10-17,CA,80.75,total postings,Nursing
+2021-10-17,CA,80.74,total postings,Nursing
 2021-10-18,CA,80.57,total postings,Nursing
 2021-10-19,CA,80.52,total postings,Nursing
 2021-10-20,CA,81.07,total postings,Nursing
-2021-10-21,CA,81.42,total postings,Nursing
+2021-10-21,CA,81.41,total postings,Nursing
 2021-10-22,CA,81.86,total postings,Nursing
+2021-10-23,CA,82.32,total postings,Nursing
+2021-10-24,CA,82.79,total postings,Nursing
+2021-10-25,CA,83.36,total postings,Nursing
+2021-10-26,CA,84.2,total postings,Nursing
+2021-10-27,CA,84.79,total postings,Nursing
+2021-10-28,CA,85.19,total postings,Nursing
+2021-10-29,CA,85.78,total postings,Nursing
 2020-02-01,CA,0,total postings,Medical Technician
 2020-02-02,CA,0.18,total postings,Medical Technician
 2020-02-03,CA,0.37,total postings,Medical Technician
@@ -15732,23 +15900,30 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-03,CA,50.94,total postings,Medical Technician
 2021-10-04,CA,50.87,total postings,Medical Technician
 2021-10-05,CA,51.02,total postings,Medical Technician
-2021-10-06,CA,51.15,total postings,Medical Technician
-2021-10-07,CA,51.14,total postings,Medical Technician
-2021-10-08,CA,51.77,total postings,Medical Technician
-2021-10-09,CA,52.52,total postings,Medical Technician
-2021-10-10,CA,53.34,total postings,Medical Technician
-2021-10-11,CA,54.13,total postings,Medical Technician
+2021-10-06,CA,51.16,total postings,Medical Technician
+2021-10-07,CA,51.15,total postings,Medical Technician
+2021-10-08,CA,51.78,total postings,Medical Technician
+2021-10-09,CA,52.53,total postings,Medical Technician
+2021-10-10,CA,53.35,total postings,Medical Technician
+2021-10-11,CA,54.14,total postings,Medical Technician
 2021-10-12,CA,54.58,total postings,Medical Technician
-2021-10-13,CA,54.96,total postings,Medical Technician
+2021-10-13,CA,54.97,total postings,Medical Technician
 2021-10-14,CA,55.38,total postings,Medical Technician
 2021-10-15,CA,55.25,total postings,Medical Technician
 2021-10-16,CA,54.86,total postings,Medical Technician
-2021-10-17,CA,54.48,total postings,Medical Technician
-2021-10-18,CA,54.15,total postings,Medical Technician
-2021-10-19,CA,54.23,total postings,Medical Technician
-2021-10-20,CA,54.56,total postings,Medical Technician
-2021-10-21,CA,54.8,total postings,Medical Technician
-2021-10-22,CA,55.47,total postings,Medical Technician
+2021-10-17,CA,54.47,total postings,Medical Technician
+2021-10-18,CA,54.14,total postings,Medical Technician
+2021-10-19,CA,54.22,total postings,Medical Technician
+2021-10-20,CA,54.55,total postings,Medical Technician
+2021-10-21,CA,54.79,total postings,Medical Technician
+2021-10-22,CA,55.46,total postings,Medical Technician
+2021-10-23,CA,56.21,total postings,Medical Technician
+2021-10-24,CA,57.07,total postings,Medical Technician
+2021-10-25,CA,57.97,total postings,Medical Technician
+2021-10-26,CA,58.86,total postings,Medical Technician
+2021-10-27,CA,59.59,total postings,Medical Technician
+2021-10-28,CA,60.56,total postings,Medical Technician
+2021-10-29,CA,61.52,total postings,Medical Technician
 2020-02-01,CA,0,total postings,Beauty & Wellness
 2020-02-02,CA,-0.25,total postings,Beauty & Wellness
 2020-02-03,CA,-0.43,total postings,Beauty & Wellness
@@ -16379,6 +16554,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-20,CA,2.06,total postings,Beauty & Wellness
 2021-10-21,CA,1.76,total postings,Beauty & Wellness
 2021-10-22,CA,1.56,total postings,Beauty & Wellness
+2021-10-23,CA,1.6,total postings,Beauty & Wellness
+2021-10-24,CA,1.54,total postings,Beauty & Wellness
+2021-10-25,CA,1.53,total postings,Beauty & Wellness
+2021-10-26,CA,1.62,total postings,Beauty & Wellness
+2021-10-27,CA,1.56,total postings,Beauty & Wellness
+2021-10-28,CA,1.57,total postings,Beauty & Wellness
+2021-10-29,CA,1.56,total postings,Beauty & Wellness
 2020-02-01,CA,0,total postings,Project Management
 2020-02-02,CA,-0.07,total postings,Project Management
 2020-02-03,CA,0.07,total postings,Project Management
@@ -17003,12 +17185,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,55.16,total postings,Project Management
 2021-10-15,CA,55.09,total postings,Project Management
 2021-10-16,CA,54.84,total postings,Project Management
-2021-10-17,CA,54.99,total postings,Project Management
-2021-10-18,CA,55.23,total postings,Project Management
-2021-10-19,CA,55.77,total postings,Project Management
-2021-10-20,CA,56.31,total postings,Project Management
-2021-10-21,CA,56.7,total postings,Project Management
-2021-10-22,CA,56.98,total postings,Project Management
+2021-10-17,CA,54.98,total postings,Project Management
+2021-10-18,CA,55.22,total postings,Project Management
+2021-10-19,CA,55.76,total postings,Project Management
+2021-10-20,CA,56.3,total postings,Project Management
+2021-10-21,CA,56.69,total postings,Project Management
+2021-10-22,CA,56.97,total postings,Project Management
+2021-10-23,CA,57.75,total postings,Project Management
+2021-10-24,CA,57.96,total postings,Project Management
+2021-10-25,CA,58.34,total postings,Project Management
+2021-10-26,CA,58.72,total postings,Project Management
+2021-10-27,CA,59.08,total postings,Project Management
+2021-10-28,CA,59.65,total postings,Project Management
+2021-10-29,CA,60.12,total postings,Project Management
 2020-02-01,CA,0,total postings,Security & Public Safety
 2020-02-02,CA,-0.86,total postings,Security & Public Safety
 2020-02-03,CA,-0.85,total postings,Security & Public Safety
@@ -17632,13 +17821,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-13,CA,44.75,total postings,Security & Public Safety
 2021-10-14,CA,44.45,total postings,Security & Public Safety
 2021-10-15,CA,44.63,total postings,Security & Public Safety
-2021-10-16,CA,44.6,total postings,Security & Public Safety
-2021-10-17,CA,44.49,total postings,Security & Public Safety
-2021-10-18,CA,44.36,total postings,Security & Public Safety
-2021-10-19,CA,45.07,total postings,Security & Public Safety
-2021-10-20,CA,45.69,total postings,Security & Public Safety
-2021-10-21,CA,46.3,total postings,Security & Public Safety
-2021-10-22,CA,46.61,total postings,Security & Public Safety
+2021-10-16,CA,44.61,total postings,Security & Public Safety
+2021-10-17,CA,44.46,total postings,Security & Public Safety
+2021-10-18,CA,44.33,total postings,Security & Public Safety
+2021-10-19,CA,45.03,total postings,Security & Public Safety
+2021-10-20,CA,45.64,total postings,Security & Public Safety
+2021-10-21,CA,46.27,total postings,Security & Public Safety
+2021-10-22,CA,46.6,total postings,Security & Public Safety
+2021-10-23,CA,45.43,total postings,Security & Public Safety
+2021-10-24,CA,46.02,total postings,Security & Public Safety
+2021-10-25,CA,46.46,total postings,Security & Public Safety
+2021-10-26,CA,46.88,total postings,Security & Public Safety
+2021-10-27,CA,47.55,total postings,Security & Public Safety
+2021-10-28,CA,48.5,total postings,Security & Public Safety
+2021-10-29,CA,49.02,total postings,Security & Public Safety
 2020-02-01,CA,0,total postings,Retail
 2020-02-02,CA,-0.09,total postings,Retail
 2020-02-03,CA,-0.15,total postings,Retail
@@ -18254,21 +18450,28 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-05,CA,48.38,total postings,Retail
 2021-10-06,CA,49.03,total postings,Retail
 2021-10-07,CA,49.96,total postings,Retail
-2021-10-08,CA,51.34,total postings,Retail
-2021-10-09,CA,52.05,total postings,Retail
-2021-10-10,CA,53.13,total postings,Retail
+2021-10-08,CA,51.35,total postings,Retail
+2021-10-09,CA,52.06,total postings,Retail
+2021-10-10,CA,53.14,total postings,Retail
 2021-10-11,CA,54.57,total postings,Retail
 2021-10-12,CA,54.49,total postings,Retail
-2021-10-13,CA,54.4,total postings,Retail
-2021-10-14,CA,54.28,total postings,Retail
+2021-10-13,CA,54.41,total postings,Retail
+2021-10-14,CA,54.29,total postings,Retail
 2021-10-15,CA,54.29,total postings,Retail
 2021-10-16,CA,53.79,total postings,Retail
-2021-10-17,CA,53.09,total postings,Retail
+2021-10-17,CA,53.1,total postings,Retail
 2021-10-18,CA,52.52,total postings,Retail
-2021-10-19,CA,52.78,total postings,Retail
-2021-10-20,CA,52.32,total postings,Retail
+2021-10-19,CA,52.79,total postings,Retail
+2021-10-20,CA,52.33,total postings,Retail
 2021-10-21,CA,51.82,total postings,Retail
-2021-10-22,CA,50.82,total postings,Retail
+2021-10-22,CA,50.83,total postings,Retail
+2021-10-23,CA,50.72,total postings,Retail
+2021-10-24,CA,50.13,total postings,Retail
+2021-10-25,CA,49.35,total postings,Retail
+2021-10-26,CA,48.55,total postings,Retail
+2021-10-27,CA,48.15,total postings,Retail
+2021-10-28,CA,48.26,total postings,Retail
+2021-10-29,CA,48.26,total postings,Retail
 2020-02-01,CA,0,total postings,Sales
 2020-02-02,CA,-0.24,total postings,Sales
 2020-02-03,CA,-0.21,total postings,Sales
@@ -18884,7 +19087,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-05,CA,29.65,total postings,Sales
 2021-10-06,CA,29.73,total postings,Sales
 2021-10-07,CA,29.89,total postings,Sales
-2021-10-08,CA,30.19,total postings,Sales
+2021-10-08,CA,30.2,total postings,Sales
 2021-10-09,CA,30.52,total postings,Sales
 2021-10-10,CA,30.74,total postings,Sales
 2021-10-11,CA,30.79,total postings,Sales
@@ -18893,12 +19096,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,29.1,total postings,Sales
 2021-10-15,CA,28.74,total postings,Sales
 2021-10-16,CA,27.76,total postings,Sales
-2021-10-17,CA,27.22,total postings,Sales
+2021-10-17,CA,27.21,total postings,Sales
 2021-10-18,CA,26.83,total postings,Sales
-2021-10-19,CA,26.91,total postings,Sales
+2021-10-19,CA,26.9,total postings,Sales
 2021-10-20,CA,27.13,total postings,Sales
 2021-10-21,CA,27.27,total postings,Sales
 2021-10-22,CA,27.35,total postings,Sales
+2021-10-23,CA,27.92,total postings,Sales
+2021-10-24,CA,28.1,total postings,Sales
+2021-10-25,CA,28.19,total postings,Sales
+2021-10-26,CA,28.13,total postings,Sales
+2021-10-27,CA,28.09,total postings,Sales
+2021-10-28,CA,28.12,total postings,Sales
+2021-10-29,CA,27.89,total postings,Sales
 2020-02-01,CA,0,total postings,Cleaning & Sanitation
 2020-02-02,CA,1.11,total postings,Cleaning & Sanitation
 2020-02-03,CA,2.36,total postings,Cleaning & Sanitation
@@ -19512,23 +19722,30 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-03,CA,84.37,total postings,Cleaning & Sanitation
 2021-10-04,CA,83.6,total postings,Cleaning & Sanitation
 2021-10-05,CA,82.68,total postings,Cleaning & Sanitation
-2021-10-06,CA,81.85,total postings,Cleaning & Sanitation
+2021-10-06,CA,81.86,total postings,Cleaning & Sanitation
 2021-10-07,CA,81.13,total postings,Cleaning & Sanitation
 2021-10-08,CA,81.28,total postings,Cleaning & Sanitation
 2021-10-09,CA,81.54,total postings,Cleaning & Sanitation
 2021-10-10,CA,81.98,total postings,Cleaning & Sanitation
 2021-10-11,CA,82.45,total postings,Cleaning & Sanitation
 2021-10-12,CA,82.36,total postings,Cleaning & Sanitation
-2021-10-13,CA,82.27,total postings,Cleaning & Sanitation
-2021-10-14,CA,82.17,total postings,Cleaning & Sanitation
-2021-10-15,CA,81.71,total postings,Cleaning & Sanitation
-2021-10-16,CA,81.38,total postings,Cleaning & Sanitation
-2021-10-17,CA,81.25,total postings,Cleaning & Sanitation
-2021-10-18,CA,80.95,total postings,Cleaning & Sanitation
-2021-10-19,CA,81.27,total postings,Cleaning & Sanitation
-2021-10-20,CA,81.64,total postings,Cleaning & Sanitation
-2021-10-21,CA,81.91,total postings,Cleaning & Sanitation
-2021-10-22,CA,82.25,total postings,Cleaning & Sanitation
+2021-10-13,CA,82.28,total postings,Cleaning & Sanitation
+2021-10-14,CA,82.19,total postings,Cleaning & Sanitation
+2021-10-15,CA,81.75,total postings,Cleaning & Sanitation
+2021-10-16,CA,81.41,total postings,Cleaning & Sanitation
+2021-10-17,CA,81.27,total postings,Cleaning & Sanitation
+2021-10-18,CA,80.97,total postings,Cleaning & Sanitation
+2021-10-19,CA,81.29,total postings,Cleaning & Sanitation
+2021-10-20,CA,81.65,total postings,Cleaning & Sanitation
+2021-10-21,CA,81.9,total postings,Cleaning & Sanitation
+2021-10-22,CA,82.24,total postings,Cleaning & Sanitation
+2021-10-23,CA,82.54,total postings,Cleaning & Sanitation
+2021-10-24,CA,82.65,total postings,Cleaning & Sanitation
+2021-10-25,CA,82.94,total postings,Cleaning & Sanitation
+2021-10-26,CA,83.23,total postings,Cleaning & Sanitation
+2021-10-27,CA,83.37,total postings,Cleaning & Sanitation
+2021-10-28,CA,83.88,total postings,Cleaning & Sanitation
+2021-10-29,CA,84.03,total postings,Cleaning & Sanitation
 2020-02-01,CA,0,total postings,Scientific Research & Development
 2020-02-02,CA,-0.41,total postings,Scientific Research & Development
 2020-02-03,CA,-0.8,total postings,Scientific Research & Development
@@ -20153,12 +20370,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,68.14,total postings,Scientific Research & Development
 2021-10-15,CA,67.4,total postings,Scientific Research & Development
 2021-10-16,CA,65.78,total postings,Scientific Research & Development
-2021-10-17,CA,64.77,total postings,Scientific Research & Development
-2021-10-18,CA,63.89,total postings,Scientific Research & Development
-2021-10-19,CA,63.45,total postings,Scientific Research & Development
-2021-10-20,CA,63.15,total postings,Scientific Research & Development
-2021-10-21,CA,62.96,total postings,Scientific Research & Development
-2021-10-22,CA,63.24,total postings,Scientific Research & Development
+2021-10-17,CA,64.82,total postings,Scientific Research & Development
+2021-10-18,CA,63.94,total postings,Scientific Research & Development
+2021-10-19,CA,63.5,total postings,Scientific Research & Development
+2021-10-20,CA,63.2,total postings,Scientific Research & Development
+2021-10-21,CA,63.01,total postings,Scientific Research & Development
+2021-10-22,CA,63.29,total postings,Scientific Research & Development
+2021-10-23,CA,63.98,total postings,Scientific Research & Development
+2021-10-24,CA,64,total postings,Scientific Research & Development
+2021-10-25,CA,64.32,total postings,Scientific Research & Development
+2021-10-26,CA,64.69,total postings,Scientific Research & Development
+2021-10-27,CA,65.14,total postings,Scientific Research & Development
+2021-10-28,CA,65.86,total postings,Scientific Research & Development
+2021-10-29,CA,66.73,total postings,Scientific Research & Development
 2020-02-01,CA,0,total postings,Community & Social Service
 2020-02-02,CA,0.35,total postings,Community & Social Service
 2020-02-03,CA,0.86,total postings,Community & Social Service
@@ -20773,22 +20997,29 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-04,CA,30.14,total postings,Community & Social Service
 2021-10-05,CA,30.58,total postings,Community & Social Service
 2021-10-06,CA,30.79,total postings,Community & Social Service
-2021-10-07,CA,31.05,total postings,Community & Social Service
+2021-10-07,CA,31.06,total postings,Community & Social Service
 2021-10-08,CA,31.57,total postings,Community & Social Service
 2021-10-09,CA,32.04,total postings,Community & Social Service
-2021-10-10,CA,32.51,total postings,Community & Social Service
-2021-10-11,CA,33,total postings,Community & Social Service
+2021-10-10,CA,32.52,total postings,Community & Social Service
+2021-10-11,CA,33.01,total postings,Community & Social Service
 2021-10-12,CA,33.21,total postings,Community & Social Service
-2021-10-13,CA,33.79,total postings,Community & Social Service
+2021-10-13,CA,33.8,total postings,Community & Social Service
 2021-10-14,CA,34.34,total postings,Community & Social Service
 2021-10-15,CA,34.81,total postings,Community & Social Service
 2021-10-16,CA,35.13,total postings,Community & Social Service
 2021-10-17,CA,35.89,total postings,Community & Social Service
 2021-10-18,CA,36.35,total postings,Community & Social Service
 2021-10-19,CA,37.11,total postings,Community & Social Service
-2021-10-20,CA,37.71,total postings,Community & Social Service
-2021-10-21,CA,38.26,total postings,Community & Social Service
-2021-10-22,CA,38.5,total postings,Community & Social Service
+2021-10-20,CA,37.72,total postings,Community & Social Service
+2021-10-21,CA,38.27,total postings,Community & Social Service
+2021-10-22,CA,38.51,total postings,Community & Social Service
+2021-10-23,CA,38.92,total postings,Community & Social Service
+2021-10-24,CA,38.92,total postings,Community & Social Service
+2021-10-25,CA,38.99,total postings,Community & Social Service
+2021-10-26,CA,38.96,total postings,Community & Social Service
+2021-10-27,CA,38.92,total postings,Community & Social Service
+2021-10-28,CA,38.99,total postings,Community & Social Service
+2021-10-29,CA,39.46,total postings,Community & Social Service
 2020-02-01,CA,0,total postings,IT Operations & Helpdesk
 2020-02-02,CA,0.03,total postings,IT Operations & Helpdesk
 2020-02-03,CA,0.17,total postings,IT Operations & Helpdesk
@@ -21413,12 +21644,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,57.31,total postings,IT Operations & Helpdesk
 2021-10-15,CA,57.42,total postings,IT Operations & Helpdesk
 2021-10-16,CA,57.16,total postings,IT Operations & Helpdesk
-2021-10-17,CA,57.53,total postings,IT Operations & Helpdesk
-2021-10-18,CA,57.87,total postings,IT Operations & Helpdesk
-2021-10-19,CA,58.57,total postings,IT Operations & Helpdesk
-2021-10-20,CA,59.24,total postings,IT Operations & Helpdesk
-2021-10-21,CA,59.58,total postings,IT Operations & Helpdesk
-2021-10-22,CA,60.11,total postings,IT Operations & Helpdesk
+2021-10-17,CA,57.56,total postings,IT Operations & Helpdesk
+2021-10-18,CA,57.9,total postings,IT Operations & Helpdesk
+2021-10-19,CA,58.6,total postings,IT Operations & Helpdesk
+2021-10-20,CA,59.27,total postings,IT Operations & Helpdesk
+2021-10-21,CA,59.61,total postings,IT Operations & Helpdesk
+2021-10-22,CA,60.14,total postings,IT Operations & Helpdesk
+2021-10-23,CA,61.06,total postings,IT Operations & Helpdesk
+2021-10-24,CA,61.3,total postings,IT Operations & Helpdesk
+2021-10-25,CA,61.68,total postings,IT Operations & Helpdesk
+2021-10-26,CA,62.01,total postings,IT Operations & Helpdesk
+2021-10-27,CA,62.22,total postings,IT Operations & Helpdesk
+2021-10-28,CA,62.85,total postings,IT Operations & Helpdesk
+2021-10-29,CA,63.17,total postings,IT Operations & Helpdesk
 2020-02-01,CA,0,total postings,Information Design & Documentation
 2020-02-02,CA,-0.1,total postings,Information Design & Documentation
 2020-02-03,CA,0.06,total postings,Information Design & Documentation
@@ -21951,12 +22189,12 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-07-14,CA,57.02,total postings,Information Design & Documentation
 2021-07-15,CA,57.56,total postings,Information Design & Documentation
 2021-07-16,CA,57.81,total postings,Information Design & Documentation
-2021-07-17,CA,57.75,total postings,Information Design & Documentation
+2021-07-17,CA,57.76,total postings,Information Design & Documentation
 2021-07-18,CA,58.05,total postings,Information Design & Documentation
 2021-07-19,CA,58.57,total postings,Information Design & Documentation
 2021-07-20,CA,59.01,total postings,Information Design & Documentation
 2021-07-21,CA,59.39,total postings,Information Design & Documentation
-2021-07-22,CA,59.81,total postings,Information Design & Documentation
+2021-07-22,CA,59.82,total postings,Information Design & Documentation
 2021-07-23,CA,60.37,total postings,Information Design & Documentation
 2021-07-24,CA,61.25,total postings,Information Design & Documentation
 2021-07-25,CA,61.75,total postings,Information Design & Documentation
@@ -22042,13 +22280,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-13,CA,80.08,total postings,Information Design & Documentation
 2021-10-14,CA,80.45,total postings,Information Design & Documentation
 2021-10-15,CA,80.43,total postings,Information Design & Documentation
-2021-10-16,CA,79.59,total postings,Information Design & Documentation
-2021-10-17,CA,79.45,total postings,Information Design & Documentation
-2021-10-18,CA,79.27,total postings,Information Design & Documentation
-2021-10-19,CA,79.54,total postings,Information Design & Documentation
-2021-10-20,CA,80,total postings,Information Design & Documentation
-2021-10-21,CA,80.38,total postings,Information Design & Documentation
-2021-10-22,CA,80.94,total postings,Information Design & Documentation
+2021-10-16,CA,79.6,total postings,Information Design & Documentation
+2021-10-17,CA,79.48,total postings,Information Design & Documentation
+2021-10-18,CA,79.3,total postings,Information Design & Documentation
+2021-10-19,CA,79.57,total postings,Information Design & Documentation
+2021-10-20,CA,80.03,total postings,Information Design & Documentation
+2021-10-21,CA,80.41,total postings,Information Design & Documentation
+2021-10-22,CA,80.98,total postings,Information Design & Documentation
+2021-10-23,CA,82.34,total postings,Information Design & Documentation
+2021-10-24,CA,83.05,total postings,Information Design & Documentation
+2021-10-25,CA,83.8,total postings,Information Design & Documentation
+2021-10-26,CA,84.74,total postings,Information Design & Documentation
+2021-10-27,CA,85.59,total postings,Information Design & Documentation
+2021-10-28,CA,86.57,total postings,Information Design & Documentation
+2021-10-29,CA,87.12,total postings,Information Design & Documentation
 2020-02-01,CA,0,total postings,Software Development
 2020-02-02,CA,0.08,total postings,Software Development
 2020-02-03,CA,0.35,total postings,Software Development
@@ -22673,12 +22918,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,94.58,total postings,Software Development
 2021-10-15,CA,94.82,total postings,Software Development
 2021-10-16,CA,94.23,total postings,Software Development
-2021-10-17,CA,94.15,total postings,Software Development
-2021-10-18,CA,94.15,total postings,Software Development
-2021-10-19,CA,94.48,total postings,Software Development
-2021-10-20,CA,94.87,total postings,Software Development
-2021-10-21,CA,94.96,total postings,Software Development
+2021-10-17,CA,94.13,total postings,Software Development
+2021-10-18,CA,94.13,total postings,Software Development
+2021-10-19,CA,94.46,total postings,Software Development
+2021-10-20,CA,94.85,total postings,Software Development
+2021-10-21,CA,94.95,total postings,Software Development
 2021-10-22,CA,95.14,total postings,Software Development
+2021-10-23,CA,95.82,total postings,Software Development
+2021-10-24,CA,96.11,total postings,Software Development
+2021-10-25,CA,96.26,total postings,Software Development
+2021-10-26,CA,96.4,total postings,Software Development
+2021-10-27,CA,96.41,total postings,Software Development
+2021-10-28,CA,96.88,total postings,Software Development
+2021-10-29,CA,96.93,total postings,Software Development
 2020-02-01,CA,0,total postings,Therapy
 2020-02-02,CA,-0.25,total postings,Therapy
 2020-02-03,CA,-0.37,total postings,Therapy
@@ -23303,12 +23555,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,38.35,total postings,Therapy
 2021-10-15,CA,38.22,total postings,Therapy
 2021-10-16,CA,38.33,total postings,Therapy
-2021-10-17,CA,38.75,total postings,Therapy
-2021-10-18,CA,39.11,total postings,Therapy
-2021-10-19,CA,39.58,total postings,Therapy
-2021-10-20,CA,39.94,total postings,Therapy
-2021-10-21,CA,40.29,total postings,Therapy
-2021-10-22,CA,40.81,total postings,Therapy
+2021-10-17,CA,38.76,total postings,Therapy
+2021-10-18,CA,39.12,total postings,Therapy
+2021-10-19,CA,39.59,total postings,Therapy
+2021-10-20,CA,39.95,total postings,Therapy
+2021-10-21,CA,40.3,total postings,Therapy
+2021-10-22,CA,40.82,total postings,Therapy
+2021-10-23,CA,40.99,total postings,Therapy
+2021-10-24,CA,40.75,total postings,Therapy
+2021-10-25,CA,40.55,total postings,Therapy
+2021-10-26,CA,40.69,total postings,Therapy
+2021-10-27,CA,40.61,total postings,Therapy
+2021-10-28,CA,40.76,total postings,Therapy
+2021-10-29,CA,40.66,total postings,Therapy
 2020-02-01,CA,0,total postings,Logistic Support
 2020-02-02,CA,-0.63,total postings,Logistic Support
 2020-02-03,CA,-1,total postings,Logistic Support
@@ -23933,12 +24192,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-14,CA,47,total postings,Logistic Support
 2021-10-15,CA,46.26,total postings,Logistic Support
 2021-10-16,CA,45.49,total postings,Logistic Support
-2021-10-17,CA,45.16,total postings,Logistic Support
-2021-10-18,CA,45.01,total postings,Logistic Support
-2021-10-19,CA,45.31,total postings,Logistic Support
-2021-10-20,CA,45.96,total postings,Logistic Support
-2021-10-21,CA,46.47,total postings,Logistic Support
-2021-10-22,CA,46.96,total postings,Logistic Support
+2021-10-17,CA,45.17,total postings,Logistic Support
+2021-10-18,CA,45.02,total postings,Logistic Support
+2021-10-19,CA,45.33,total postings,Logistic Support
+2021-10-20,CA,45.97,total postings,Logistic Support
+2021-10-21,CA,46.5,total postings,Logistic Support
+2021-10-22,CA,47,total postings,Logistic Support
+2021-10-23,CA,47.11,total postings,Logistic Support
+2021-10-24,CA,47.04,total postings,Logistic Support
+2021-10-25,CA,46.95,total postings,Logistic Support
+2021-10-26,CA,47.05,total postings,Logistic Support
+2021-10-27,CA,46.6,total postings,Logistic Support
+2021-10-28,CA,46.22,total postings,Logistic Support
+2021-10-29,CA,45.65,total postings,Logistic Support
 2020-02-01,CA,0,total postings,Loading & Stocking
 2020-02-02,CA,0.19,total postings,Loading & Stocking
 2020-02-03,CA,0.45,total postings,Loading & Stocking
@@ -24553,19 +24819,26 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-04,CA,85.12,total postings,Loading & Stocking
 2021-10-05,CA,85.5,total postings,Loading & Stocking
 2021-10-06,CA,86.32,total postings,Loading & Stocking
-2021-10-07,CA,86.99,total postings,Loading & Stocking
+2021-10-07,CA,87,total postings,Loading & Stocking
 2021-10-08,CA,88.03,total postings,Loading & Stocking
-2021-10-09,CA,88.92,total postings,Loading & Stocking
-2021-10-10,CA,89.82,total postings,Loading & Stocking
-2021-10-11,CA,90.62,total postings,Loading & Stocking
+2021-10-09,CA,88.93,total postings,Loading & Stocking
+2021-10-10,CA,89.83,total postings,Loading & Stocking
+2021-10-11,CA,90.63,total postings,Loading & Stocking
 2021-10-12,CA,90.82,total postings,Loading & Stocking
-2021-10-13,CA,90.64,total postings,Loading & Stocking
-2021-10-14,CA,90.51,total postings,Loading & Stocking
-2021-10-15,CA,90.31,total postings,Loading & Stocking
-2021-10-16,CA,89.88,total postings,Loading & Stocking
-2021-10-17,CA,89.72,total postings,Loading & Stocking
-2021-10-18,CA,89.45,total postings,Loading & Stocking
-2021-10-19,CA,89.84,total postings,Loading & Stocking
-2021-10-20,CA,90.61,total postings,Loading & Stocking
-2021-10-21,CA,91.23,total postings,Loading & Stocking
-2021-10-22,CA,91.36,total postings,Loading & Stocking
+2021-10-13,CA,90.65,total postings,Loading & Stocking
+2021-10-14,CA,90.52,total postings,Loading & Stocking
+2021-10-15,CA,90.32,total postings,Loading & Stocking
+2021-10-16,CA,89.89,total postings,Loading & Stocking
+2021-10-17,CA,89.73,total postings,Loading & Stocking
+2021-10-18,CA,89.46,total postings,Loading & Stocking
+2021-10-19,CA,89.85,total postings,Loading & Stocking
+2021-10-20,CA,90.63,total postings,Loading & Stocking
+2021-10-21,CA,91.24,total postings,Loading & Stocking
+2021-10-22,CA,91.38,total postings,Loading & Stocking
+2021-10-23,CA,91.88,total postings,Loading & Stocking
+2021-10-24,CA,91.76,total postings,Loading & Stocking
+2021-10-25,CA,91.91,total postings,Loading & Stocking
+2021-10-26,CA,91.85,total postings,Loading & Stocking
+2021-10-27,CA,91.28,total postings,Loading & Stocking
+2021-10-28,CA,91.2,total postings,Loading & Stocking
+2021-10-29,CA,91.2,total postings,Loading & Stocking
