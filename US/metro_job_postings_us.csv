@@ -70307,3 +70307,759 @@ date,CBSA Title,cbsa_code,pct_chng_feb_1
 2021-11-12,"Winston-Salem, NC",49180,45.79
 2021-11-12,"Worcester, MA-CT",49340,61.72
 2021-11-12,"Youngstown-Warren-Boardman, OH-PA",49660,61.79
+2021-11-13,"Akron, OH",10420,49.17
+2021-11-13,"Albany-Schenectady-Troy, NY",10580,51.16
+2021-11-13,"Albuquerque, NM",10740,65.29
+2021-11-13,"Allentown-Bethlehem-Easton, PA-NJ",10900,51.76
+2021-11-13,"Atlanta-Sandy Springs-Alpharetta, GA",12060,72
+2021-11-13,"Augusta-Richmond County, GA-SC",12260,56.13
+2021-11-13,"Austin-Round Rock-Georgetown, TX",12420,69.47
+2021-11-13,"Bakersfield, CA",12540,52.92
+2021-11-13,"Baltimore-Columbia-Towson, MD",12580,39.91
+2021-11-13,"Baton Rouge, LA",12940,40.32
+2021-11-13,"Birmingham-Hoover, AL",13820,47.9
+2021-11-13,"Boise City, ID",14260,79.76
+2021-11-13,"Boston-Cambridge-Newton, MA-NH",14460,43.36
+2021-11-13,"Bridgeport-Stamford-Norwalk, CT",14860,56.17
+2021-11-13,"Buffalo-Cheektowaga, NY",15380,50.48
+2021-11-13,"Cape Coral-Fort Myers, FL",15980,41.05
+2021-11-13,"Charleston-North Charleston, SC",16700,53.28
+2021-11-13,"Charlotte-Concord-Gastonia, NC-SC",16740,60.96
+2021-11-13,"Chattanooga, TN-GA",16860,57.79
+2021-11-13,"Chicago-Naperville-Elgin, IL-IN-WI",16980,52.14
+2021-11-13,"Cincinnati, OH-KY-IN",17140,47.36
+2021-11-13,"Cleveland-Elyria, OH",17460,49.44
+2021-11-13,"Columbia, SC",17900,56.31
+2021-11-13,"Columbus, OH",18140,53.23
+2021-11-13,"Dallas-Fort Worth-Arlington, TX",19100,59.96
+2021-11-13,"Dayton-Kettering, OH",19430,48.21
+2021-11-13,"Deltona-Daytona Beach-Ormond Beach, FL",19660,47.09
+2021-11-13,"Des Moines-West Des Moines, IA",19780,66.2
+2021-11-13,"Detroit-Warren-Dearborn, MI",19820,51.09
+2021-11-13,"Durham-Chapel Hill, NC",20500,67.9
+2021-11-13,"El Paso, TX",21340,39.18
+2021-11-13,"Fayetteville, NC",22180,51.55
+2021-11-13,"Fayetteville-Springdale-Rogers, AR",22220,52.45
+2021-11-13,"Fresno, CA",23420,68.46
+2021-11-13,"Grand Rapids-Kentwood, MI",24340,57.65
+2021-11-13,"Greensboro-High Point, NC",24660,67.72
+2021-11-13,"Greenville-Anderson, SC",24860,43.52
+2021-11-13,"Harrisburg-Carlisle, PA",25420,55.93
+2021-11-13,"Hartford-East Hartford-Middletown, CT",25540,52.66
+2021-11-13,"Houston-The Woodlands-Sugar Land, TX",26420,40.78
+2021-11-13,"Indianapolis-Carmel-Anderson, IN",26900,59.65
+2021-11-13,"Jackson, MS",27140,73.56
+2021-11-13,"Jacksonville, FL",27260,53.9
+2021-11-13,"Kansas City, MO-KS",28140,48.21
+2021-11-13,"Knoxville, TN",28940,59.24
+2021-11-13,"Lakeland-Winter Haven, FL",29460,60.7
+2021-11-13,"Lancaster, PA",29540,56.91
+2021-11-13,"Lansing-East Lansing, MI",29620,32.84
+2021-11-13,"Las Vegas-Henderson-Paradise, NV",29820,74.6
+2021-11-13,"Lexington-Fayette, KY",30460,44.84
+2021-11-13,"Little Rock-North Little Rock-Conway, AR",30780,63.81
+2021-11-13,"Los Angeles-Long Beach-Anaheim, CA",31080,48.96
+2021-11-13,"Louisville/Jefferson County, KY-IN",31140,48.23
+2021-11-13,"Madison, WI",31540,42.33
+2021-11-13,"McAllen-Edinburg-Mission, TX",32580,64.51
+2021-11-13,"Memphis, TN-MS-AR",32820,66.53
+2021-11-13,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,54.66
+2021-11-13,"Milwaukee-Waukesha, WI",33340,53.61
+2021-11-13,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,49.52
+2021-11-13,"Modesto, CA",33700,65.26
+2021-11-13,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,60.9
+2021-11-13,"New Haven-Milford, CT",35300,67.85
+2021-11-13,"New Orleans-Metairie, LA",35380,46.96
+2021-11-13,"New York-Newark-Jersey City, NY-NJ-PA",35620,42.43
+2021-11-13,"North Port-Sarasota-Bradenton, FL",35840,50.57
+2021-11-13,"Ogden-Clearfield, UT",36260,59.2
+2021-11-13,"Oklahoma City, OK",36420,46.85
+2021-11-13,"Omaha-Council Bluffs, NE-IA",36540,47.34
+2021-11-13,"Orlando-Kissimmee-Sanford, FL",36740,51.05
+2021-11-13,"Oxnard-Thousand Oaks-Ventura, CA",37100,43.98
+2021-11-13,"Palm Bay-Melbourne-Titusville, FL",37340,34.65
+2021-11-13,"Pensacola-Ferry Pass-Brent, FL",37860,36.33
+2021-11-13,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,46.83
+2021-11-13,"Phoenix-Mesa-Chandler, AZ",38060,64.98
+2021-11-13,"Pittsburgh, PA",38300,40.14
+2021-11-13,"Portland-South Portland, ME",38860,59.47
+2021-11-13,"Portland-Vancouver-Hillsboro, OR-WA",38900,60.46
+2021-11-13,"Poughkeepsie-Newburgh-Middletown, NY",39100,52.39
+2021-11-13,"Providence-Warwick, RI-MA",39300,59.81
+2021-11-13,"Provo-Orem, UT",39340,54.52
+2021-11-13,"Raleigh-Cary, NC",39580,46.96
+2021-11-13,"Richmond, VA",40060,50.37
+2021-11-13,"Riverside-San Bernardino-Ontario, CA",40140,73.84
+2021-11-13,"Rochester, NY",40380,50.51
+2021-11-13,"Sacramento-Roseville-Folsom, CA",40900,64.91
+2021-11-13,"St. Louis, MO-IL",41180,42.94
+2021-11-13,"Salt Lake City, UT",41620,60.5
+2021-11-13,"San Antonio-New Braunfels, TX",41700,53.39
+2021-11-13,"San Diego-Chula Vista-Carlsbad, CA",41740,66.43
+2021-11-13,"San Francisco-Oakland-Berkeley, CA",41860,30.06
+2021-11-13,"San Jose-Sunnyvale-Santa Clara, CA",41940,35.85
+2021-11-13,"Scranton--Wilkes-Barre, PA",42540,60.23
+2021-11-13,"Seattle-Tacoma-Bellevue, WA",42660,41.12
+2021-11-13,"Spokane-Spokane Valley, WA",44060,80.98
+2021-11-13,"Springfield, MA",44140,53.7
+2021-11-13,"Stockton, CA",44700,66.01
+2021-11-13,"Syracuse, NY",45060,35.22
+2021-11-13,"Tampa-St. Petersburg-Clearwater, FL",45300,56.42
+2021-11-13,"Toledo, OH",45780,53.33
+2021-11-13,"Tucson, AZ",46060,63.6
+2021-11-13,"Tulsa, OK",46140,50.61
+2021-11-13,"Urban Honolulu, HI",46520,25.61
+2021-11-13,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,64.14
+2021-11-13,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,29.07
+2021-11-13,"Wichita, KS",48620,60.24
+2021-11-13,"Winston-Salem, NC",49180,46.63
+2021-11-13,"Worcester, MA-CT",49340,62.47
+2021-11-13,"Youngstown-Warren-Boardman, OH-PA",49660,62.2
+2021-11-14,"Akron, OH",10420,49.24
+2021-11-14,"Albany-Schenectady-Troy, NY",10580,51.67
+2021-11-14,"Albuquerque, NM",10740,65.26
+2021-11-14,"Allentown-Bethlehem-Easton, PA-NJ",10900,51.95
+2021-11-14,"Atlanta-Sandy Springs-Alpharetta, GA",12060,72.06
+2021-11-14,"Augusta-Richmond County, GA-SC",12260,55.44
+2021-11-14,"Austin-Round Rock-Georgetown, TX",12420,70.13
+2021-11-14,"Bakersfield, CA",12540,53.05
+2021-11-14,"Baltimore-Columbia-Towson, MD",12580,40.18
+2021-11-14,"Baton Rouge, LA",12940,39.96
+2021-11-14,"Birmingham-Hoover, AL",13820,48.19
+2021-11-14,"Boise City, ID",14260,79.92
+2021-11-14,"Boston-Cambridge-Newton, MA-NH",14460,43.64
+2021-11-14,"Bridgeport-Stamford-Norwalk, CT",14860,57.01
+2021-11-14,"Buffalo-Cheektowaga, NY",15380,51.27
+2021-11-14,"Cape Coral-Fort Myers, FL",15980,41.38
+2021-11-14,"Charleston-North Charleston, SC",16700,53.34
+2021-11-14,"Charlotte-Concord-Gastonia, NC-SC",16740,61.33
+2021-11-14,"Chattanooga, TN-GA",16860,57.84
+2021-11-14,"Chicago-Naperville-Elgin, IL-IN-WI",16980,52.29
+2021-11-14,"Cincinnati, OH-KY-IN",17140,47.62
+2021-11-14,"Cleveland-Elyria, OH",17460,49.84
+2021-11-14,"Columbia, SC",17900,56.85
+2021-11-14,"Columbus, OH",18140,53.52
+2021-11-14,"Dallas-Fort Worth-Arlington, TX",19100,60.16
+2021-11-14,"Dayton-Kettering, OH",19430,48.88
+2021-11-14,"Deltona-Daytona Beach-Ormond Beach, FL",19660,46.72
+2021-11-14,"Des Moines-West Des Moines, IA",19780,67.14
+2021-11-14,"Detroit-Warren-Dearborn, MI",19820,51.27
+2021-11-14,"Durham-Chapel Hill, NC",20500,68.19
+2021-11-14,"El Paso, TX",21340,39.08
+2021-11-14,"Fayetteville, NC",22180,51.61
+2021-11-14,"Fayetteville-Springdale-Rogers, AR",22220,53.97
+2021-11-14,"Fresno, CA",23420,68.76
+2021-11-14,"Grand Rapids-Kentwood, MI",24340,58.18
+2021-11-14,"Greensboro-High Point, NC",24660,68.96
+2021-11-14,"Greenville-Anderson, SC",24860,43.62
+2021-11-14,"Harrisburg-Carlisle, PA",25420,56.5
+2021-11-14,"Hartford-East Hartford-Middletown, CT",25540,53.2
+2021-11-14,"Houston-The Woodlands-Sugar Land, TX",26420,40.65
+2021-11-14,"Indianapolis-Carmel-Anderson, IN",26900,59.8
+2021-11-14,"Jackson, MS",27140,73.73
+2021-11-14,"Jacksonville, FL",27260,54.24
+2021-11-14,"Kansas City, MO-KS",28140,48.53
+2021-11-14,"Knoxville, TN",28940,59.27
+2021-11-14,"Lakeland-Winter Haven, FL",29460,60.49
+2021-11-14,"Lancaster, PA",29540,57.53
+2021-11-14,"Lansing-East Lansing, MI",29620,33.03
+2021-11-14,"Las Vegas-Henderson-Paradise, NV",29820,74.8
+2021-11-14,"Lexington-Fayette, KY",30460,44.73
+2021-11-14,"Little Rock-North Little Rock-Conway, AR",30780,64.46
+2021-11-14,"Los Angeles-Long Beach-Anaheim, CA",31080,49.16
+2021-11-14,"Louisville/Jefferson County, KY-IN",31140,48.45
+2021-11-14,"Madison, WI",31540,42.61
+2021-11-14,"McAllen-Edinburg-Mission, TX",32580,64.36
+2021-11-14,"Memphis, TN-MS-AR",32820,66.48
+2021-11-14,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,54.97
+2021-11-14,"Milwaukee-Waukesha, WI",33340,53.84
+2021-11-14,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,49.68
+2021-11-14,"Modesto, CA",33700,66.15
+2021-11-14,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,61.28
+2021-11-14,"New Haven-Milford, CT",35300,68
+2021-11-14,"New Orleans-Metairie, LA",35380,46.58
+2021-11-14,"New York-Newark-Jersey City, NY-NJ-PA",35620,42.79
+2021-11-14,"North Port-Sarasota-Bradenton, FL",35840,50.78
+2021-11-14,"Ogden-Clearfield, UT",36260,59.06
+2021-11-14,"Oklahoma City, OK",36420,47.27
+2021-11-14,"Omaha-Council Bluffs, NE-IA",36540,48.08
+2021-11-14,"Orlando-Kissimmee-Sanford, FL",36740,51.02
+2021-11-14,"Oxnard-Thousand Oaks-Ventura, CA",37100,44.17
+2021-11-14,"Palm Bay-Melbourne-Titusville, FL",37340,34.69
+2021-11-14,"Pensacola-Ferry Pass-Brent, FL",37860,36.21
+2021-11-14,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,47.08
+2021-11-14,"Phoenix-Mesa-Chandler, AZ",38060,64.88
+2021-11-14,"Pittsburgh, PA",38300,40.16
+2021-11-14,"Portland-South Portland, ME",38860,59.79
+2021-11-14,"Portland-Vancouver-Hillsboro, OR-WA",38900,60.65
+2021-11-14,"Poughkeepsie-Newburgh-Middletown, NY",39100,52.57
+2021-11-14,"Providence-Warwick, RI-MA",39300,60.22
+2021-11-14,"Provo-Orem, UT",39340,54.23
+2021-11-14,"Raleigh-Cary, NC",39580,47.38
+2021-11-14,"Richmond, VA",40060,50.65
+2021-11-14,"Riverside-San Bernardino-Ontario, CA",40140,73.9
+2021-11-14,"Rochester, NY",40380,50.96
+2021-11-14,"Sacramento-Roseville-Folsom, CA",40900,65.31
+2021-11-14,"St. Louis, MO-IL",41180,43.53
+2021-11-14,"Salt Lake City, UT",41620,61.02
+2021-11-14,"San Antonio-New Braunfels, TX",41700,53.69
+2021-11-14,"San Diego-Chula Vista-Carlsbad, CA",41740,66.8
+2021-11-14,"San Francisco-Oakland-Berkeley, CA",41860,30.41
+2021-11-14,"San Jose-Sunnyvale-Santa Clara, CA",41940,36.27
+2021-11-14,"Scranton--Wilkes-Barre, PA",42540,60.57
+2021-11-14,"Seattle-Tacoma-Bellevue, WA",42660,41.15
+2021-11-14,"Spokane-Spokane Valley, WA",44060,81.22
+2021-11-14,"Springfield, MA",44140,53.84
+2021-11-14,"Stockton, CA",44700,65.55
+2021-11-14,"Syracuse, NY",45060,35.33
+2021-11-14,"Tampa-St. Petersburg-Clearwater, FL",45300,56.56
+2021-11-14,"Toledo, OH",45780,53.93
+2021-11-14,"Tucson, AZ",46060,63.49
+2021-11-14,"Tulsa, OK",46140,51.43
+2021-11-14,"Urban Honolulu, HI",46520,25.71
+2021-11-14,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,64.45
+2021-11-14,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,29.26
+2021-11-14,"Wichita, KS",48620,60.34
+2021-11-14,"Winston-Salem, NC",49180,47.54
+2021-11-14,"Worcester, MA-CT",49340,63.13
+2021-11-14,"Youngstown-Warren-Boardman, OH-PA",49660,62.57
+2021-11-15,"Akron, OH",10420,49.71
+2021-11-15,"Albany-Schenectady-Troy, NY",10580,52.28
+2021-11-15,"Albuquerque, NM",10740,65.35
+2021-11-15,"Allentown-Bethlehem-Easton, PA-NJ",10900,52.23
+2021-11-15,"Atlanta-Sandy Springs-Alpharetta, GA",12060,72.07
+2021-11-15,"Augusta-Richmond County, GA-SC",12260,55.39
+2021-11-15,"Austin-Round Rock-Georgetown, TX",12420,70.85
+2021-11-15,"Bakersfield, CA",12540,53.02
+2021-11-15,"Baltimore-Columbia-Towson, MD",12580,40.37
+2021-11-15,"Baton Rouge, LA",12940,39.95
+2021-11-15,"Birmingham-Hoover, AL",13820,48.62
+2021-11-15,"Boise City, ID",14260,79.96
+2021-11-15,"Boston-Cambridge-Newton, MA-NH",14460,43.98
+2021-11-15,"Bridgeport-Stamford-Norwalk, CT",14860,57.89
+2021-11-15,"Buffalo-Cheektowaga, NY",15380,52.19
+2021-11-15,"Cape Coral-Fort Myers, FL",15980,41.78
+2021-11-15,"Charleston-North Charleston, SC",16700,53.46
+2021-11-15,"Charlotte-Concord-Gastonia, NC-SC",16740,61.72
+2021-11-15,"Chattanooga, TN-GA",16860,58
+2021-11-15,"Chicago-Naperville-Elgin, IL-IN-WI",16980,52.59
+2021-11-15,"Cincinnati, OH-KY-IN",17140,47.88
+2021-11-15,"Cleveland-Elyria, OH",17460,50.37
+2021-11-15,"Columbia, SC",17900,57.57
+2021-11-15,"Columbus, OH",18140,53.83
+2021-11-15,"Dallas-Fort Worth-Arlington, TX",19100,60.37
+2021-11-15,"Dayton-Kettering, OH",19430,49.55
+2021-11-15,"Deltona-Daytona Beach-Ormond Beach, FL",19660,46.77
+2021-11-15,"Des Moines-West Des Moines, IA",19780,67.69
+2021-11-15,"Detroit-Warren-Dearborn, MI",19820,51.46
+2021-11-15,"Durham-Chapel Hill, NC",20500,68.61
+2021-11-15,"El Paso, TX",21340,39.33
+2021-11-15,"Fayetteville, NC",22180,51.98
+2021-11-15,"Fayetteville-Springdale-Rogers, AR",22220,55.63
+2021-11-15,"Fresno, CA",23420,68.73
+2021-11-15,"Grand Rapids-Kentwood, MI",24340,58.68
+2021-11-15,"Greensboro-High Point, NC",24660,69.97
+2021-11-15,"Greenville-Anderson, SC",24860,43.69
+2021-11-15,"Harrisburg-Carlisle, PA",25420,57.01
+2021-11-15,"Hartford-East Hartford-Middletown, CT",25540,53.71
+2021-11-15,"Houston-The Woodlands-Sugar Land, TX",26420,40.62
+2021-11-15,"Indianapolis-Carmel-Anderson, IN",26900,59.96
+2021-11-15,"Jackson, MS",27140,73.91
+2021-11-15,"Jacksonville, FL",27260,54.78
+2021-11-15,"Kansas City, MO-KS",28140,48.86
+2021-11-15,"Knoxville, TN",28940,57.94
+2021-11-15,"Lakeland-Winter Haven, FL",29460,60.42
+2021-11-15,"Lancaster, PA",29540,58.36
+2021-11-15,"Lansing-East Lansing, MI",29620,33.22
+2021-11-15,"Las Vegas-Henderson-Paradise, NV",29820,74.98
+2021-11-15,"Lexington-Fayette, KY",30460,44.75
+2021-11-15,"Little Rock-North Little Rock-Conway, AR",30780,65.21
+2021-11-15,"Los Angeles-Long Beach-Anaheim, CA",31080,49.28
+2021-11-15,"Louisville/Jefferson County, KY-IN",31140,48.62
+2021-11-15,"Madison, WI",31540,42.87
+2021-11-15,"McAllen-Edinburg-Mission, TX",32580,64.19
+2021-11-15,"Memphis, TN-MS-AR",32820,66.45
+2021-11-15,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,55.09
+2021-11-15,"Milwaukee-Waukesha, WI",33340,54.18
+2021-11-15,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,49.69
+2021-11-15,"Modesto, CA",33700,66.67
+2021-11-15,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,61.68
+2021-11-15,"New Haven-Milford, CT",35300,68.05
+2021-11-15,"New Orleans-Metairie, LA",35380,46.39
+2021-11-15,"New York-Newark-Jersey City, NY-NJ-PA",35620,43.21
+2021-11-15,"North Port-Sarasota-Bradenton, FL",35840,51
+2021-11-15,"Ogden-Clearfield, UT",36260,58.2
+2021-11-15,"Oklahoma City, OK",36420,47.78
+2021-11-15,"Omaha-Council Bluffs, NE-IA",36540,48.8
+2021-11-15,"Orlando-Kissimmee-Sanford, FL",36740,51.02
+2021-11-15,"Oxnard-Thousand Oaks-Ventura, CA",37100,44.36
+2021-11-15,"Palm Bay-Melbourne-Titusville, FL",37340,34.66
+2021-11-15,"Pensacola-Ferry Pass-Brent, FL",37860,36.25
+2021-11-15,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,47.45
+2021-11-15,"Phoenix-Mesa-Chandler, AZ",38060,64.94
+2021-11-15,"Pittsburgh, PA",38300,40.18
+2021-11-15,"Portland-South Portland, ME",38860,60.37
+2021-11-15,"Portland-Vancouver-Hillsboro, OR-WA",38900,60.75
+2021-11-15,"Poughkeepsie-Newburgh-Middletown, NY",39100,52.87
+2021-11-15,"Providence-Warwick, RI-MA",39300,60.7
+2021-11-15,"Provo-Orem, UT",39340,53.95
+2021-11-15,"Raleigh-Cary, NC",39580,47.78
+2021-11-15,"Richmond, VA",40060,50.96
+2021-11-15,"Riverside-San Bernardino-Ontario, CA",40140,73.92
+2021-11-15,"Rochester, NY",40380,51.47
+2021-11-15,"Sacramento-Roseville-Folsom, CA",40900,65.65
+2021-11-15,"St. Louis, MO-IL",41180,44.03
+2021-11-15,"Salt Lake City, UT",41620,61.46
+2021-11-15,"San Antonio-New Braunfels, TX",41700,54.12
+2021-11-15,"San Diego-Chula Vista-Carlsbad, CA",41740,67.01
+2021-11-15,"San Francisco-Oakland-Berkeley, CA",41860,30.7
+2021-11-15,"San Jose-Sunnyvale-Santa Clara, CA",41940,36.64
+2021-11-15,"Scranton--Wilkes-Barre, PA",42540,60.98
+2021-11-15,"Seattle-Tacoma-Bellevue, WA",42660,41.24
+2021-11-15,"Spokane-Spokane Valley, WA",44060,81.44
+2021-11-15,"Springfield, MA",44140,53.86
+2021-11-15,"Stockton, CA",44700,65.06
+2021-11-15,"Syracuse, NY",45060,35.64
+2021-11-15,"Tampa-St. Petersburg-Clearwater, FL",45300,56.75
+2021-11-15,"Toledo, OH",45780,54.72
+2021-11-15,"Tucson, AZ",46060,63.76
+2021-11-15,"Tulsa, OK",46140,52.39
+2021-11-15,"Urban Honolulu, HI",46520,25.7
+2021-11-15,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,64.82
+2021-11-15,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,29.37
+2021-11-15,"Wichita, KS",48620,60.45
+2021-11-15,"Winston-Salem, NC",49180,48.47
+2021-11-15,"Worcester, MA-CT",49340,63.83
+2021-11-15,"Youngstown-Warren-Boardman, OH-PA",49660,62.96
+2021-11-16,"Akron, OH",10420,50.21
+2021-11-16,"Albany-Schenectady-Troy, NY",10580,53.13
+2021-11-16,"Albuquerque, NM",10740,65.14
+2021-11-16,"Allentown-Bethlehem-Easton, PA-NJ",10900,52.64
+2021-11-16,"Atlanta-Sandy Springs-Alpharetta, GA",12060,72.19
+2021-11-16,"Augusta-Richmond County, GA-SC",12260,55.75
+2021-11-16,"Austin-Round Rock-Georgetown, TX",12420,71.73
+2021-11-16,"Bakersfield, CA",12540,52.43
+2021-11-16,"Baltimore-Columbia-Towson, MD",12580,40.72
+2021-11-16,"Baton Rouge, LA",12940,39.71
+2021-11-16,"Birmingham-Hoover, AL",13820,49.08
+2021-11-16,"Boise City, ID",14260,80.26
+2021-11-16,"Boston-Cambridge-Newton, MA-NH",14460,44.47
+2021-11-16,"Bridgeport-Stamford-Norwalk, CT",14860,58.86
+2021-11-16,"Buffalo-Cheektowaga, NY",15380,53.11
+2021-11-16,"Cape Coral-Fort Myers, FL",15980,42.1
+2021-11-16,"Charleston-North Charleston, SC",16700,53.64
+2021-11-16,"Charlotte-Concord-Gastonia, NC-SC",16740,62.35
+2021-11-16,"Chattanooga, TN-GA",16860,57.72
+2021-11-16,"Chicago-Naperville-Elgin, IL-IN-WI",16980,52.93
+2021-11-16,"Cincinnati, OH-KY-IN",17140,48.34
+2021-11-16,"Cleveland-Elyria, OH",17460,50.99
+2021-11-16,"Columbia, SC",17900,58.46
+2021-11-16,"Columbus, OH",18140,54.33
+2021-11-16,"Dallas-Fort Worth-Arlington, TX",19100,60.83
+2021-11-16,"Dayton-Kettering, OH",19430,50.34
+2021-11-16,"Deltona-Daytona Beach-Ormond Beach, FL",19660,46.98
+2021-11-16,"Des Moines-West Des Moines, IA",19780,68.4
+2021-11-16,"Detroit-Warren-Dearborn, MI",19820,51.74
+2021-11-16,"Durham-Chapel Hill, NC",20500,69.12
+2021-11-16,"El Paso, TX",21340,39.72
+2021-11-16,"Fayetteville, NC",22180,52.74
+2021-11-16,"Fayetteville-Springdale-Rogers, AR",22220,57.11
+2021-11-16,"Fresno, CA",23420,68.97
+2021-11-16,"Grand Rapids-Kentwood, MI",24340,59.17
+2021-11-16,"Greensboro-High Point, NC",24660,71.2
+2021-11-16,"Greenville-Anderson, SC",24860,43.95
+2021-11-16,"Harrisburg-Carlisle, PA",25420,58.01
+2021-11-16,"Hartford-East Hartford-Middletown, CT",25540,54.29
+2021-11-16,"Houston-The Woodlands-Sugar Land, TX",26420,40.73
+2021-11-16,"Indianapolis-Carmel-Anderson, IN",26900,60.17
+2021-11-16,"Jackson, MS",27140,72.36
+2021-11-16,"Jacksonville, FL",27260,55.36
+2021-11-16,"Kansas City, MO-KS",28140,49.34
+2021-11-16,"Knoxville, TN",28940,58.01
+2021-11-16,"Lakeland-Winter Haven, FL",29460,60.6
+2021-11-16,"Lancaster, PA",29540,59.13
+2021-11-16,"Lansing-East Lansing, MI",29620,33.62
+2021-11-16,"Las Vegas-Henderson-Paradise, NV",29820,75.29
+2021-11-16,"Lexington-Fayette, KY",30460,44.14
+2021-11-16,"Little Rock-North Little Rock-Conway, AR",30780,65.29
+2021-11-16,"Los Angeles-Long Beach-Anaheim, CA",31080,49.57
+2021-11-16,"Louisville/Jefferson County, KY-IN",31140,48.91
+2021-11-16,"Madison, WI",31540,43.15
+2021-11-16,"McAllen-Edinburg-Mission, TX",32580,64.1
+2021-11-16,"Memphis, TN-MS-AR",32820,65.36
+2021-11-16,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,55.32
+2021-11-16,"Milwaukee-Waukesha, WI",33340,54.62
+2021-11-16,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,49.77
+2021-11-16,"Modesto, CA",33700,67.36
+2021-11-16,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,62.28
+2021-11-16,"New Haven-Milford, CT",35300,68.36
+2021-11-16,"New Orleans-Metairie, LA",35380,46.17
+2021-11-16,"New York-Newark-Jersey City, NY-NJ-PA",35620,43.78
+2021-11-16,"North Port-Sarasota-Bradenton, FL",35840,52.18
+2021-11-16,"Ogden-Clearfield, UT",36260,57.57
+2021-11-16,"Oklahoma City, OK",36420,48.12
+2021-11-16,"Omaha-Council Bluffs, NE-IA",36540,49.09
+2021-11-16,"Orlando-Kissimmee-Sanford, FL",36740,51.23
+2021-11-16,"Oxnard-Thousand Oaks-Ventura, CA",37100,44.24
+2021-11-16,"Palm Bay-Melbourne-Titusville, FL",37340,34.51
+2021-11-16,"Pensacola-Ferry Pass-Brent, FL",37860,36.21
+2021-11-16,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,48.13
+2021-11-16,"Phoenix-Mesa-Chandler, AZ",38060,64.97
+2021-11-16,"Pittsburgh, PA",38300,40.31
+2021-11-16,"Portland-South Portland, ME",38860,61.03
+2021-11-16,"Portland-Vancouver-Hillsboro, OR-WA",38900,61.09
+2021-11-16,"Poughkeepsie-Newburgh-Middletown, NY",39100,53.06
+2021-11-16,"Providence-Warwick, RI-MA",39300,61.42
+2021-11-16,"Provo-Orem, UT",39340,54.2
+2021-11-16,"Raleigh-Cary, NC",39580,48.24
+2021-11-16,"Richmond, VA",40060,51.35
+2021-11-16,"Riverside-San Bernardino-Ontario, CA",40140,74.01
+2021-11-16,"Rochester, NY",40380,52.12
+2021-11-16,"Sacramento-Roseville-Folsom, CA",40900,65.86
+2021-11-16,"St. Louis, MO-IL",41180,44.72
+2021-11-16,"Salt Lake City, UT",41620,62.16
+2021-11-16,"San Antonio-New Braunfels, TX",41700,54.7
+2021-11-16,"San Diego-Chula Vista-Carlsbad, CA",41740,67.32
+2021-11-16,"San Francisco-Oakland-Berkeley, CA",41860,31.09
+2021-11-16,"San Jose-Sunnyvale-Santa Clara, CA",41940,37.07
+2021-11-16,"Scranton--Wilkes-Barre, PA",42540,61.34
+2021-11-16,"Seattle-Tacoma-Bellevue, WA",42660,41.54
+2021-11-16,"Spokane-Spokane Valley, WA",44060,82.12
+2021-11-16,"Springfield, MA",44140,53.84
+2021-11-16,"Stockton, CA",44700,64.43
+2021-11-16,"Syracuse, NY",45060,36.04
+2021-11-16,"Tampa-St. Petersburg-Clearwater, FL",45300,57.02
+2021-11-16,"Toledo, OH",45780,55.63
+2021-11-16,"Tucson, AZ",46060,64.24
+2021-11-16,"Tulsa, OK",46140,53.07
+2021-11-16,"Urban Honolulu, HI",46520,25.97
+2021-11-16,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,64.79
+2021-11-16,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,29.62
+2021-11-16,"Wichita, KS",48620,60.87
+2021-11-16,"Winston-Salem, NC",49180,49.53
+2021-11-16,"Worcester, MA-CT",49340,64.56
+2021-11-16,"Youngstown-Warren-Boardman, OH-PA",49660,63.42
+2021-11-17,"Akron, OH",10420,50.77
+2021-11-17,"Albany-Schenectady-Troy, NY",10580,54.24
+2021-11-17,"Albuquerque, NM",10740,64.82
+2021-11-17,"Allentown-Bethlehem-Easton, PA-NJ",10900,53.22
+2021-11-17,"Atlanta-Sandy Springs-Alpharetta, GA",12060,72.5
+2021-11-17,"Augusta-Richmond County, GA-SC",12260,56.11
+2021-11-17,"Austin-Round Rock-Georgetown, TX",12420,72.56
+2021-11-17,"Bakersfield, CA",12540,52.62
+2021-11-17,"Baltimore-Columbia-Towson, MD",12580,41.15
+2021-11-17,"Baton Rouge, LA",12940,39.74
+2021-11-17,"Birmingham-Hoover, AL",13820,49.77
+2021-11-17,"Boise City, ID",14260,80.76
+2021-11-17,"Boston-Cambridge-Newton, MA-NH",14460,44.96
+2021-11-17,"Bridgeport-Stamford-Norwalk, CT",14860,59.7
+2021-11-17,"Buffalo-Cheektowaga, NY",15380,54.3
+2021-11-17,"Cape Coral-Fort Myers, FL",15980,42.49
+2021-11-17,"Charleston-North Charleston, SC",16700,53.82
+2021-11-17,"Charlotte-Concord-Gastonia, NC-SC",16740,63.01
+2021-11-17,"Chattanooga, TN-GA",16860,58.11
+2021-11-17,"Chicago-Naperville-Elgin, IL-IN-WI",16980,53.27
+2021-11-17,"Cincinnati, OH-KY-IN",17140,48.84
+2021-11-17,"Cleveland-Elyria, OH",17460,51.61
+2021-11-17,"Columbia, SC",17900,59.32
+2021-11-17,"Columbus, OH",18140,54.82
+2021-11-17,"Dallas-Fort Worth-Arlington, TX",19100,61.35
+2021-11-17,"Dayton-Kettering, OH",19430,50.89
+2021-11-17,"Deltona-Daytona Beach-Ormond Beach, FL",19660,47.42
+2021-11-17,"Des Moines-West Des Moines, IA",19780,69.08
+2021-11-17,"Detroit-Warren-Dearborn, MI",19820,52.02
+2021-11-17,"Durham-Chapel Hill, NC",20500,68.98
+2021-11-17,"El Paso, TX",21340,40.23
+2021-11-17,"Fayetteville, NC",22180,52.97
+2021-11-17,"Fayetteville-Springdale-Rogers, AR",22220,58.74
+2021-11-17,"Fresno, CA",23420,69.18
+2021-11-17,"Grand Rapids-Kentwood, MI",24340,59.72
+2021-11-17,"Greensboro-High Point, NC",24660,71.72
+2021-11-17,"Greenville-Anderson, SC",24860,44.24
+2021-11-17,"Harrisburg-Carlisle, PA",25420,59.06
+2021-11-17,"Hartford-East Hartford-Middletown, CT",25540,54.84
+2021-11-17,"Houston-The Woodlands-Sugar Land, TX",26420,41.03
+2021-11-17,"Indianapolis-Carmel-Anderson, IN",26900,60.32
+2021-11-17,"Jackson, MS",27140,70.92
+2021-11-17,"Jacksonville, FL",27260,56.21
+2021-11-17,"Kansas City, MO-KS",28140,49.83
+2021-11-17,"Knoxville, TN",28940,57.97
+2021-11-17,"Lakeland-Winter Haven, FL",29460,60.9
+2021-11-17,"Lancaster, PA",29540,59.9
+2021-11-17,"Lansing-East Lansing, MI",29620,34.07
+2021-11-17,"Las Vegas-Henderson-Paradise, NV",29820,75.88
+2021-11-17,"Lexington-Fayette, KY",30460,44.3
+2021-11-17,"Little Rock-North Little Rock-Conway, AR",30780,66.26
+2021-11-17,"Los Angeles-Long Beach-Anaheim, CA",31080,49.88
+2021-11-17,"Louisville/Jefferson County, KY-IN",31140,49.29
+2021-11-17,"Madison, WI",31540,43.46
+2021-11-17,"McAllen-Edinburg-Mission, TX",32580,64.29
+2021-11-17,"Memphis, TN-MS-AR",32820,64.36
+2021-11-17,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,55.61
+2021-11-17,"Milwaukee-Waukesha, WI",33340,55.18
+2021-11-17,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,50.09
+2021-11-17,"Modesto, CA",33700,68.13
+2021-11-17,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,62.99
+2021-11-17,"New Haven-Milford, CT",35300,68.95
+2021-11-17,"New Orleans-Metairie, LA",35380,46.31
+2021-11-17,"New York-Newark-Jersey City, NY-NJ-PA",35620,44.31
+2021-11-17,"North Port-Sarasota-Bradenton, FL",35840,53.39
+2021-11-17,"Ogden-Clearfield, UT",36260,57.26
+2021-11-17,"Oklahoma City, OK",36420,48.81
+2021-11-17,"Omaha-Council Bluffs, NE-IA",36540,49.67
+2021-11-17,"Orlando-Kissimmee-Sanford, FL",36740,51.6
+2021-11-17,"Oxnard-Thousand Oaks-Ventura, CA",37100,44.18
+2021-11-17,"Palm Bay-Melbourne-Titusville, FL",37340,34.52
+2021-11-17,"Pensacola-Ferry Pass-Brent, FL",37860,36.48
+2021-11-17,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,48.92
+2021-11-17,"Phoenix-Mesa-Chandler, AZ",38060,65.38
+2021-11-17,"Pittsburgh, PA",38300,40.5
+2021-11-17,"Portland-South Portland, ME",38860,61.48
+2021-11-17,"Portland-Vancouver-Hillsboro, OR-WA",38900,61.39
+2021-11-17,"Poughkeepsie-Newburgh-Middletown, NY",39100,53.95
+2021-11-17,"Providence-Warwick, RI-MA",39300,62.06
+2021-11-17,"Provo-Orem, UT",39340,54.43
+2021-11-17,"Raleigh-Cary, NC",39580,48.65
+2021-11-17,"Richmond, VA",40060,51.72
+2021-11-17,"Riverside-San Bernardino-Ontario, CA",40140,74.37
+2021-11-17,"Rochester, NY",40380,52.78
+2021-11-17,"Sacramento-Roseville-Folsom, CA",40900,66.05
+2021-11-17,"St. Louis, MO-IL",41180,45.6
+2021-11-17,"Salt Lake City, UT",41620,62.98
+2021-11-17,"San Antonio-New Braunfels, TX",41700,55.43
+2021-11-17,"San Diego-Chula Vista-Carlsbad, CA",41740,67.68
+2021-11-17,"San Francisco-Oakland-Berkeley, CA",41860,31.41
+2021-11-17,"San Jose-Sunnyvale-Santa Clara, CA",41940,37.23
+2021-11-17,"Scranton--Wilkes-Barre, PA",42540,61.7
+2021-11-17,"Seattle-Tacoma-Bellevue, WA",42660,41.8
+2021-11-17,"Spokane-Spokane Valley, WA",44060,82.75
+2021-11-17,"Springfield, MA",44140,53.93
+2021-11-17,"Stockton, CA",44700,63.94
+2021-11-17,"Syracuse, NY",45060,36.53
+2021-11-17,"Tampa-St. Petersburg-Clearwater, FL",45300,57.44
+2021-11-17,"Toledo, OH",45780,56.47
+2021-11-17,"Tucson, AZ",46060,64.65
+2021-11-17,"Tulsa, OK",46140,54.09
+2021-11-17,"Urban Honolulu, HI",46520,26.11
+2021-11-17,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,64.76
+2021-11-17,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,29.85
+2021-11-17,"Wichita, KS",48620,61.33
+2021-11-17,"Winston-Salem, NC",49180,49.63
+2021-11-17,"Worcester, MA-CT",49340,65.23
+2021-11-17,"Youngstown-Warren-Boardman, OH-PA",49660,64.13
+2021-11-18,"Akron, OH",10420,51.16
+2021-11-18,"Albany-Schenectady-Troy, NY",10580,54.89
+2021-11-18,"Albuquerque, NM",10740,64.5
+2021-11-18,"Allentown-Bethlehem-Easton, PA-NJ",10900,53.72
+2021-11-18,"Atlanta-Sandy Springs-Alpharetta, GA",12060,72.56
+2021-11-18,"Augusta-Richmond County, GA-SC",12260,56.5
+2021-11-18,"Austin-Round Rock-Georgetown, TX",12420,73.16
+2021-11-18,"Bakersfield, CA",12540,52.94
+2021-11-18,"Baltimore-Columbia-Towson, MD",12580,41.25
+2021-11-18,"Baton Rouge, LA",12940,39.58
+2021-11-18,"Birmingham-Hoover, AL",13820,50.11
+2021-11-18,"Boise City, ID",14260,81.37
+2021-11-18,"Boston-Cambridge-Newton, MA-NH",14460,45.32
+2021-11-18,"Bridgeport-Stamford-Norwalk, CT",14860,60.04
+2021-11-18,"Buffalo-Cheektowaga, NY",15380,54.79
+2021-11-18,"Cape Coral-Fort Myers, FL",15980,42.69
+2021-11-18,"Charleston-North Charleston, SC",16700,53.92
+2021-11-18,"Charlotte-Concord-Gastonia, NC-SC",16740,63.17
+2021-11-18,"Chattanooga, TN-GA",16860,58.73
+2021-11-18,"Chicago-Naperville-Elgin, IL-IN-WI",16980,53.51
+2021-11-18,"Cincinnati, OH-KY-IN",17140,49.06
+2021-11-18,"Cleveland-Elyria, OH",17460,51.99
+2021-11-18,"Columbia, SC",17900,59.58
+2021-11-18,"Columbus, OH",18140,55.1
+2021-11-18,"Dallas-Fort Worth-Arlington, TX",19100,61.65
+2021-11-18,"Dayton-Kettering, OH",19430,51.35
+2021-11-18,"Deltona-Daytona Beach-Ormond Beach, FL",19660,47.99
+2021-11-18,"Des Moines-West Des Moines, IA",19780,69.01
+2021-11-18,"Detroit-Warren-Dearborn, MI",19820,52.12
+2021-11-18,"Durham-Chapel Hill, NC",20500,68.83
+2021-11-18,"El Paso, TX",21340,40.67
+2021-11-18,"Fayetteville, NC",22180,53.14
+2021-11-18,"Fayetteville-Springdale-Rogers, AR",22220,58.92
+2021-11-18,"Fresno, CA",23420,69.49
+2021-11-18,"Grand Rapids-Kentwood, MI",24340,60.01
+2021-11-18,"Greensboro-High Point, NC",24660,71.47
+2021-11-18,"Greenville-Anderson, SC",24860,44.67
+2021-11-18,"Harrisburg-Carlisle, PA",25420,59.32
+2021-11-18,"Hartford-East Hartford-Middletown, CT",25540,54.97
+2021-11-18,"Houston-The Woodlands-Sugar Land, TX",26420,41.15
+2021-11-18,"Indianapolis-Carmel-Anderson, IN",26900,60.55
+2021-11-18,"Jackson, MS",27140,69.45
+2021-11-18,"Jacksonville, FL",27260,56.6
+2021-11-18,"Kansas City, MO-KS",28140,50.13
+2021-11-18,"Knoxville, TN",28940,58
+2021-11-18,"Lakeland-Winter Haven, FL",29460,61.17
+2021-11-18,"Lancaster, PA",29540,60.16
+2021-11-18,"Lansing-East Lansing, MI",29620,34.49
+2021-11-18,"Las Vegas-Henderson-Paradise, NV",29820,75.95
+2021-11-18,"Lexington-Fayette, KY",30460,44.56
+2021-11-18,"Little Rock-North Little Rock-Conway, AR",30780,66.41
+2021-11-18,"Los Angeles-Long Beach-Anaheim, CA",31080,50
+2021-11-18,"Louisville/Jefferson County, KY-IN",31140,49.29
+2021-11-18,"Madison, WI",31540,43.57
+2021-11-18,"McAllen-Edinburg-Mission, TX",32580,64.43
+2021-11-18,"Memphis, TN-MS-AR",32820,63.33
+2021-11-18,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,55.72
+2021-11-18,"Milwaukee-Waukesha, WI",33340,55.51
+2021-11-18,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,50.09
+2021-11-18,"Modesto, CA",33700,68.92
+2021-11-18,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,63.52
+2021-11-18,"New Haven-Milford, CT",35300,69.47
+2021-11-18,"New Orleans-Metairie, LA",35380,46.81
+2021-11-18,"New York-Newark-Jersey City, NY-NJ-PA",35620,44.71
+2021-11-18,"North Port-Sarasota-Bradenton, FL",35840,53.29
+2021-11-18,"Ogden-Clearfield, UT",36260,57.31
+2021-11-18,"Oklahoma City, OK",36420,48.86
+2021-11-18,"Omaha-Council Bluffs, NE-IA",36540,49.87
+2021-11-18,"Orlando-Kissimmee-Sanford, FL",36740,51.73
+2021-11-18,"Oxnard-Thousand Oaks-Ventura, CA",37100,44.23
+2021-11-18,"Palm Bay-Melbourne-Titusville, FL",37340,34.57
+2021-11-18,"Pensacola-Ferry Pass-Brent, FL",37860,36.72
+2021-11-18,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,49.31
+2021-11-18,"Phoenix-Mesa-Chandler, AZ",38060,65.55
+2021-11-18,"Pittsburgh, PA",38300,40.54
+2021-11-18,"Portland-South Portland, ME",38860,61.66
+2021-11-18,"Portland-Vancouver-Hillsboro, OR-WA",38900,61.45
+2021-11-18,"Poughkeepsie-Newburgh-Middletown, NY",39100,54.78
+2021-11-18,"Providence-Warwick, RI-MA",39300,62.57
+2021-11-18,"Provo-Orem, UT",39340,54.69
+2021-11-18,"Raleigh-Cary, NC",39580,48.64
+2021-11-18,"Richmond, VA",40060,51.92
+2021-11-18,"Riverside-San Bernardino-Ontario, CA",40140,74.8
+2021-11-18,"Rochester, NY",40380,53.22
+2021-11-18,"Sacramento-Roseville-Folsom, CA",40900,66.13
+2021-11-18,"St. Louis, MO-IL",41180,45.65
+2021-11-18,"Salt Lake City, UT",41620,63.44
+2021-11-18,"San Antonio-New Braunfels, TX",41700,55.85
+2021-11-18,"San Diego-Chula Vista-Carlsbad, CA",41740,67.72
+2021-11-18,"San Francisco-Oakland-Berkeley, CA",41860,31.58
+2021-11-18,"San Jose-Sunnyvale-Santa Clara, CA",41940,37.26
+2021-11-18,"Scranton--Wilkes-Barre, PA",42540,62.01
+2021-11-18,"Seattle-Tacoma-Bellevue, WA",42660,42.09
+2021-11-18,"Spokane-Spokane Valley, WA",44060,83.09
+2021-11-18,"Springfield, MA",44140,53.96
+2021-11-18,"Stockton, CA",44700,63.8
+2021-11-18,"Syracuse, NY",45060,37
+2021-11-18,"Tampa-St. Petersburg-Clearwater, FL",45300,57.61
+2021-11-18,"Toledo, OH",45780,56.59
+2021-11-18,"Tucson, AZ",46060,64.91
+2021-11-18,"Tulsa, OK",46140,54.5
+2021-11-18,"Urban Honolulu, HI",46520,26.3
+2021-11-18,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,64.62
+2021-11-18,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,30
+2021-11-18,"Wichita, KS",48620,61.8
+2021-11-18,"Winston-Salem, NC",49180,49.62
+2021-11-18,"Worcester, MA-CT",49340,65.71
+2021-11-18,"Youngstown-Warren-Boardman, OH-PA",49660,64.61
+2021-11-19,"Akron, OH",10420,51.48
+2021-11-19,"Albany-Schenectady-Troy, NY",10580,55.63
+2021-11-19,"Albuquerque, NM",10740,64.44
+2021-11-19,"Allentown-Bethlehem-Easton, PA-NJ",10900,54.23
+2021-11-19,"Atlanta-Sandy Springs-Alpharetta, GA",12060,73.03
+2021-11-19,"Augusta-Richmond County, GA-SC",12260,56.89
+2021-11-19,"Austin-Round Rock-Georgetown, TX",12420,74.13
+2021-11-19,"Bakersfield, CA",12540,53.61
+2021-11-19,"Baltimore-Columbia-Towson, MD",12580,41.5
+2021-11-19,"Baton Rouge, LA",12940,39.75
+2021-11-19,"Birmingham-Hoover, AL",13820,50.75
+2021-11-19,"Boise City, ID",14260,82.42
+2021-11-19,"Boston-Cambridge-Newton, MA-NH",14460,45.89
+2021-11-19,"Bridgeport-Stamford-Norwalk, CT",14860,60.5
+2021-11-19,"Buffalo-Cheektowaga, NY",15380,55.01
+2021-11-19,"Cape Coral-Fort Myers, FL",15980,43.08
+2021-11-19,"Charleston-North Charleston, SC",16700,54.17
+2021-11-19,"Charlotte-Concord-Gastonia, NC-SC",16740,63.8
+2021-11-19,"Chattanooga, TN-GA",16860,59.25
+2021-11-19,"Chicago-Naperville-Elgin, IL-IN-WI",16980,53.94
+2021-11-19,"Cincinnati, OH-KY-IN",17140,49.59
+2021-11-19,"Cleveland-Elyria, OH",17460,52.41
+2021-11-19,"Columbia, SC",17900,60.14
+2021-11-19,"Columbus, OH",18140,55.59
+2021-11-19,"Dallas-Fort Worth-Arlington, TX",19100,62.23
+2021-11-19,"Dayton-Kettering, OH",19430,51.87
+2021-11-19,"Deltona-Daytona Beach-Ormond Beach, FL",19660,48.62
+2021-11-19,"Des Moines-West Des Moines, IA",19780,69.79
+2021-11-19,"Detroit-Warren-Dearborn, MI",19820,52.4
+2021-11-19,"Durham-Chapel Hill, NC",20500,68.95
+2021-11-19,"El Paso, TX",21340,41.29
+2021-11-19,"Fayetteville, NC",22180,53.3
+2021-11-19,"Fayetteville-Springdale-Rogers, AR",22220,59.27
+2021-11-19,"Fresno, CA",23420,70.17
+2021-11-19,"Grand Rapids-Kentwood, MI",24340,60.19
+2021-11-19,"Greensboro-High Point, NC",24660,71.47
+2021-11-19,"Greenville-Anderson, SC",24860,45.46
+2021-11-19,"Harrisburg-Carlisle, PA",25420,59.63
+2021-11-19,"Hartford-East Hartford-Middletown, CT",25540,55.08
+2021-11-19,"Houston-The Woodlands-Sugar Land, TX",26420,41.5
+2021-11-19,"Indianapolis-Carmel-Anderson, IN",26900,61.01
+2021-11-19,"Jackson, MS",27140,68.32
+2021-11-19,"Jacksonville, FL",27260,56.65
+2021-11-19,"Kansas City, MO-KS",28140,50.72
+2021-11-19,"Knoxville, TN",28940,59.67
+2021-11-19,"Lakeland-Winter Haven, FL",29460,61.46
+2021-11-19,"Lancaster, PA",29540,60.74
+2021-11-19,"Lansing-East Lansing, MI",29620,35.04
+2021-11-19,"Las Vegas-Henderson-Paradise, NV",29820,76.44
+2021-11-19,"Lexington-Fayette, KY",30460,45.15
+2021-11-19,"Little Rock-North Little Rock-Conway, AR",30780,66.8
+2021-11-19,"Los Angeles-Long Beach-Anaheim, CA",31080,50.3
+2021-11-19,"Louisville/Jefferson County, KY-IN",31140,49.67
+2021-11-19,"Madison, WI",31540,43.9
+2021-11-19,"McAllen-Edinburg-Mission, TX",32580,64.78
+2021-11-19,"Memphis, TN-MS-AR",32820,62.66
+2021-11-19,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,56.07
+2021-11-19,"Milwaukee-Waukesha, WI",33340,55.81
+2021-11-19,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,50.45
+2021-11-19,"Modesto, CA",33700,69.69
+2021-11-19,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,64.33
+2021-11-19,"New Haven-Milford, CT",35300,70.09
+2021-11-19,"New Orleans-Metairie, LA",35380,47.41
+2021-11-19,"New York-Newark-Jersey City, NY-NJ-PA",35620,45.34
+2021-11-19,"North Port-Sarasota-Bradenton, FL",35840,53.52
+2021-11-19,"Ogden-Clearfield, UT",36260,57.65
+2021-11-19,"Oklahoma City, OK",36420,49.25
+2021-11-19,"Omaha-Council Bluffs, NE-IA",36540,50.23
+2021-11-19,"Orlando-Kissimmee-Sanford, FL",36740,52.02
+2021-11-19,"Oxnard-Thousand Oaks-Ventura, CA",37100,43.92
+2021-11-19,"Palm Bay-Melbourne-Titusville, FL",37340,34.51
+2021-11-19,"Pensacola-Ferry Pass-Brent, FL",37860,37.06
+2021-11-19,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,49.49
+2021-11-19,"Phoenix-Mesa-Chandler, AZ",38060,66.04
+2021-11-19,"Pittsburgh, PA",38300,40.75
+2021-11-19,"Portland-South Portland, ME",38860,61.89
+2021-11-19,"Portland-Vancouver-Hillsboro, OR-WA",38900,61.82
+2021-11-19,"Poughkeepsie-Newburgh-Middletown, NY",39100,55.62
+2021-11-19,"Providence-Warwick, RI-MA",39300,63.17
+2021-11-19,"Provo-Orem, UT",39340,55.14
+2021-11-19,"Raleigh-Cary, NC",39580,48.92
+2021-11-19,"Richmond, VA",40060,52.22
+2021-11-19,"Riverside-San Bernardino-Ontario, CA",40140,75.43
+2021-11-19,"Rochester, NY",40380,53.73
+2021-11-19,"Sacramento-Roseville-Folsom, CA",40900,66.17
+2021-11-19,"St. Louis, MO-IL",41180,46.13
+2021-11-19,"Salt Lake City, UT",41620,64.32
+2021-11-19,"San Antonio-New Braunfels, TX",41700,56.43
+2021-11-19,"San Diego-Chula Vista-Carlsbad, CA",41740,67.99
+2021-11-19,"San Francisco-Oakland-Berkeley, CA",41860,32.12
+2021-11-19,"San Jose-Sunnyvale-Santa Clara, CA",41940,37.59
+2021-11-19,"Scranton--Wilkes-Barre, PA",42540,62.38
+2021-11-19,"Seattle-Tacoma-Bellevue, WA",42660,42.69
+2021-11-19,"Spokane-Spokane Valley, WA",44060,83.6
+2021-11-19,"Springfield, MA",44140,54.19
+2021-11-19,"Stockton, CA",44700,63.96
+2021-11-19,"Syracuse, NY",45060,37.5
+2021-11-19,"Tampa-St. Petersburg-Clearwater, FL",45300,57.97
+2021-11-19,"Toledo, OH",45780,56.75
+2021-11-19,"Tucson, AZ",46060,65.07
+2021-11-19,"Tulsa, OK",46140,54.85
+2021-11-19,"Urban Honolulu, HI",46520,26.35
+2021-11-19,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,64.9
+2021-11-19,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,30.28
+2021-11-19,"Wichita, KS",48620,62.66
+2021-11-19,"Winston-Salem, NC",49180,50.04
+2021-11-19,"Worcester, MA-CT",49340,66.22
+2021-11-19,"Youngstown-Warren-Boardman, OH-PA",49660,64.9
