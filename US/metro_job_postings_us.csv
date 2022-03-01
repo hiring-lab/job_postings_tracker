@@ -80891,3 +80891,759 @@ date,CBSA Title,cbsa_code,pct_chng_feb_1
 2022-02-18,"Winston-Salem, NC",49180,57.26
 2022-02-18,"Worcester, MA-CT",49340,67.21
 2022-02-18,"Youngstown-Warren-Boardman, OH-PA",49660,57.41
+2022-02-19,"Akron, OH",10420,52.39
+2022-02-19,"Albany-Schenectady-Troy, NY",10580,58.48
+2022-02-19,"Albuquerque, NM",10740,72.35
+2022-02-19,"Allentown-Bethlehem-Easton, PA-NJ",10900,58.77
+2022-02-19,"Atlanta-Sandy Springs-Alpharetta, GA",12060,75.84
+2022-02-19,"Augusta-Richmond County, GA-SC",12260,57.85
+2022-02-19,"Austin-Round Rock-Georgetown, TX",12420,82.33
+2022-02-19,"Bakersfield, CA",12540,53.57
+2022-02-19,"Baltimore-Columbia-Towson, MD",12580,43.89
+2022-02-19,"Baton Rouge, LA",12940,47.51
+2022-02-19,"Birmingham-Hoover, AL",13820,59.11
+2022-02-19,"Boise City, ID",14260,87.76
+2022-02-19,"Boston-Cambridge-Newton, MA-NH",14460,49.59
+2022-02-19,"Bridgeport-Stamford-Norwalk, CT",14860,57.01
+2022-02-19,"Buffalo-Cheektowaga, NY",15380,60.44
+2022-02-19,"Cape Coral-Fort Myers, FL",15980,52.81
+2022-02-19,"Charleston-North Charleston, SC",16700,63.36
+2022-02-19,"Charlotte-Concord-Gastonia, NC-SC",16740,71.81
+2022-02-19,"Chattanooga, TN-GA",16860,70.67
+2022-02-19,"Chicago-Naperville-Elgin, IL-IN-WI",16980,54.15
+2022-02-19,"Cincinnati, OH-KY-IN",17140,48.38
+2022-02-19,"Cleveland-Elyria, OH",17460,57
+2022-02-19,"Columbia, SC",17900,62.7
+2022-02-19,"Columbus, OH",18140,59.37
+2022-02-19,"Dallas-Fort Worth-Arlington, TX",19100,66.19
+2022-02-19,"Dayton-Kettering, OH",19430,45.63
+2022-02-19,"Deltona-Daytona Beach-Ormond Beach, FL",19660,55.42
+2022-02-19,"Des Moines-West Des Moines, IA",19780,75.12
+2022-02-19,"Detroit-Warren-Dearborn, MI",19820,57.97
+2022-02-19,"Durham-Chapel Hill, NC",20500,84.97
+2022-02-19,"El Paso, TX",21340,56.12
+2022-02-19,"Fayetteville, NC",22180,52.52
+2022-02-19,"Fayetteville-Springdale-Rogers, AR",22220,68.76
+2022-02-19,"Fresno, CA",23420,68.04
+2022-02-19,"Grand Rapids-Kentwood, MI",24340,67.42
+2022-02-19,"Greensboro-High Point, NC",24660,74.13
+2022-02-19,"Greenville-Anderson, SC",24860,49.56
+2022-02-19,"Harrisburg-Carlisle, PA",25420,72.87
+2022-02-19,"Hartford-East Hartford-Middletown, CT",25540,59.34
+2022-02-19,"Houston-The Woodlands-Sugar Land, TX",26420,49.67
+2022-02-19,"Indianapolis-Carmel-Anderson, IN",26900,62.59
+2022-02-19,"Jackson, MS",27140,64.06
+2022-02-19,"Jacksonville, FL",27260,63.34
+2022-02-19,"Kansas City, MO-KS",28140,61.09
+2022-02-19,"Knoxville, TN",28940,66.16
+2022-02-19,"Lakeland-Winter Haven, FL",29460,64.56
+2022-02-19,"Lancaster, PA",29540,59.99
+2022-02-19,"Lansing-East Lansing, MI",29620,37.91
+2022-02-19,"Las Vegas-Henderson-Paradise, NV",29820,82.03
+2022-02-19,"Lexington-Fayette, KY",30460,44.03
+2022-02-19,"Little Rock-North Little Rock-Conway, AR",30780,74.62
+2022-02-19,"Los Angeles-Long Beach-Anaheim, CA",31080,50.83
+2022-02-19,"Louisville/Jefferson County, KY-IN",31140,51.03
+2022-02-19,"Madison, WI",31540,49.56
+2022-02-19,"McAllen-Edinburg-Mission, TX",32580,72.1
+2022-02-19,"Memphis, TN-MS-AR",32820,66.96
+2022-02-19,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,64.09
+2022-02-19,"Milwaukee-Waukesha, WI",33340,61.92
+2022-02-19,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,52.25
+2022-02-19,"Modesto, CA",33700,63.82
+2022-02-19,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,72.29
+2022-02-19,"New Haven-Milford, CT",35300,71.28
+2022-02-19,"New Orleans-Metairie, LA",35380,51.71
+2022-02-19,"New York-Newark-Jersey City, NY-NJ-PA",35620,51.96
+2022-02-19,"North Port-Sarasota-Bradenton, FL",35840,65.69
+2022-02-19,"Ogden-Clearfield, UT",36260,66.33
+2022-02-19,"Oklahoma City, OK",36420,54.31
+2022-02-19,"Omaha-Council Bluffs, NE-IA",36540,59.25
+2022-02-19,"Orlando-Kissimmee-Sanford, FL",36740,58.6
+2022-02-19,"Oxnard-Thousand Oaks-Ventura, CA",37100,38.39
+2022-02-19,"Palm Bay-Melbourne-Titusville, FL",37340,43.3
+2022-02-19,"Pensacola-Ferry Pass-Brent, FL",37860,46.56
+2022-02-19,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,50.86
+2022-02-19,"Phoenix-Mesa-Chandler, AZ",38060,94.01
+2022-02-19,"Pittsburgh, PA",38300,42.55
+2022-02-19,"Portland-South Portland, ME",38860,61.93
+2022-02-19,"Portland-Vancouver-Hillsboro, OR-WA",38900,63.41
+2022-02-19,"Poughkeepsie-Newburgh-Middletown, NY",39100,55.75
+2022-02-19,"Providence-Warwick, RI-MA",39300,63.45
+2022-02-19,"Provo-Orem, UT",39340,71.13
+2022-02-19,"Raleigh-Cary, NC",39580,58.83
+2022-02-19,"Richmond, VA",40060,55.29
+2022-02-19,"Riverside-San Bernardino-Ontario, CA",40140,68.49
+2022-02-19,"Rochester, NY",40380,60.64
+2022-02-19,"Sacramento-Roseville-Folsom, CA",40900,62.68
+2022-02-19,"St. Louis, MO-IL",41180,52.72
+2022-02-19,"Salt Lake City, UT",41620,67.74
+2022-02-19,"San Antonio-New Braunfels, TX",41700,63.19
+2022-02-19,"San Diego-Chula Vista-Carlsbad, CA",41740,67.14
+2022-02-19,"San Francisco-Oakland-Berkeley, CA",41860,33.66
+2022-02-19,"San Jose-Sunnyvale-Santa Clara, CA",41940,44.04
+2022-02-19,"Scranton--Wilkes-Barre, PA",42540,59.26
+2022-02-19,"Seattle-Tacoma-Bellevue, WA",42660,48.17
+2022-02-19,"Spokane-Spokane Valley, WA",44060,88.55
+2022-02-19,"Springfield, MA",44140,53.05
+2022-02-19,"Stockton, CA",44700,66.42
+2022-02-19,"Syracuse, NY",45060,36.7
+2022-02-19,"Tampa-St. Petersburg-Clearwater, FL",45300,66.39
+2022-02-19,"Toledo, OH",45780,63.23
+2022-02-19,"Tucson, AZ",46060,75.04
+2022-02-19,"Tulsa, OK",46140,53.97
+2022-02-19,"Urban Honolulu, HI",46520,30.2
+2022-02-19,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,73.07
+2022-02-19,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,33.93
+2022-02-19,"Wichita, KS",48620,70.02
+2022-02-19,"Winston-Salem, NC",49180,57.1
+2022-02-19,"Worcester, MA-CT",49340,67.4
+2022-02-19,"Youngstown-Warren-Boardman, OH-PA",49660,57.87
+2022-02-20,"Akron, OH",10420,52.13
+2022-02-20,"Albany-Schenectady-Troy, NY",10580,58.89
+2022-02-20,"Albuquerque, NM",10740,72.12
+2022-02-20,"Allentown-Bethlehem-Easton, PA-NJ",10900,58.47
+2022-02-20,"Atlanta-Sandy Springs-Alpharetta, GA",12060,75.77
+2022-02-20,"Augusta-Richmond County, GA-SC",12260,58.53
+2022-02-20,"Austin-Round Rock-Georgetown, TX",12420,82.64
+2022-02-20,"Bakersfield, CA",12540,53.34
+2022-02-20,"Baltimore-Columbia-Towson, MD",12580,43.93
+2022-02-20,"Baton Rouge, LA",12940,46.95
+2022-02-20,"Birmingham-Hoover, AL",13820,58.97
+2022-02-20,"Boise City, ID",14260,88.26
+2022-02-20,"Boston-Cambridge-Newton, MA-NH",14460,49.62
+2022-02-20,"Bridgeport-Stamford-Norwalk, CT",14860,57.3
+2022-02-20,"Buffalo-Cheektowaga, NY",15380,60.23
+2022-02-20,"Cape Coral-Fort Myers, FL",15980,52.37
+2022-02-20,"Charleston-North Charleston, SC",16700,63.24
+2022-02-20,"Charlotte-Concord-Gastonia, NC-SC",16740,71.81
+2022-02-20,"Chattanooga, TN-GA",16860,70.08
+2022-02-20,"Chicago-Naperville-Elgin, IL-IN-WI",16980,54.17
+2022-02-20,"Cincinnati, OH-KY-IN",17140,48.37
+2022-02-20,"Cleveland-Elyria, OH",17460,57.03
+2022-02-20,"Columbia, SC",17900,62.4
+2022-02-20,"Columbus, OH",18140,59.26
+2022-02-20,"Dallas-Fort Worth-Arlington, TX",19100,66.07
+2022-02-20,"Dayton-Kettering, OH",19430,45.82
+2022-02-20,"Deltona-Daytona Beach-Ormond Beach, FL",19660,55.36
+2022-02-20,"Des Moines-West Des Moines, IA",19780,74.71
+2022-02-20,"Detroit-Warren-Dearborn, MI",19820,57.82
+2022-02-20,"Durham-Chapel Hill, NC",20500,84.48
+2022-02-20,"El Paso, TX",21340,56.39
+2022-02-20,"Fayetteville, NC",22180,51.97
+2022-02-20,"Fayetteville-Springdale-Rogers, AR",22220,68.51
+2022-02-20,"Fresno, CA",23420,68.08
+2022-02-20,"Grand Rapids-Kentwood, MI",24340,67.18
+2022-02-20,"Greensboro-High Point, NC",24660,73.68
+2022-02-20,"Greenville-Anderson, SC",24860,49.56
+2022-02-20,"Harrisburg-Carlisle, PA",25420,72.74
+2022-02-20,"Hartford-East Hartford-Middletown, CT",25540,59.25
+2022-02-20,"Houston-The Woodlands-Sugar Land, TX",26420,49.53
+2022-02-20,"Indianapolis-Carmel-Anderson, IN",26900,62.68
+2022-02-20,"Jackson, MS",27140,63.41
+2022-02-20,"Jacksonville, FL",27260,63.09
+2022-02-20,"Kansas City, MO-KS",28140,60.96
+2022-02-20,"Knoxville, TN",28940,67.71
+2022-02-20,"Lakeland-Winter Haven, FL",29460,64.01
+2022-02-20,"Lancaster, PA",29540,59.17
+2022-02-20,"Lansing-East Lansing, MI",29620,37.53
+2022-02-20,"Las Vegas-Henderson-Paradise, NV",29820,82.15
+2022-02-20,"Lexington-Fayette, KY",30460,43.71
+2022-02-20,"Little Rock-North Little Rock-Conway, AR",30780,74.3
+2022-02-20,"Los Angeles-Long Beach-Anaheim, CA",31080,50.96
+2022-02-20,"Louisville/Jefferson County, KY-IN",31140,51.05
+2022-02-20,"Madison, WI",31540,49.85
+2022-02-20,"McAllen-Edinburg-Mission, TX",32580,71.92
+2022-02-20,"Memphis, TN-MS-AR",32820,66.61
+2022-02-20,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,64.01
+2022-02-20,"Milwaukee-Waukesha, WI",33340,62.25
+2022-02-20,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,52.29
+2022-02-20,"Modesto, CA",33700,64.16
+2022-02-20,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,72.15
+2022-02-20,"New Haven-Milford, CT",35300,71.47
+2022-02-20,"New Orleans-Metairie, LA",35380,51.2
+2022-02-20,"New York-Newark-Jersey City, NY-NJ-PA",35620,52.12
+2022-02-20,"North Port-Sarasota-Bradenton, FL",35840,65.76
+2022-02-20,"Ogden-Clearfield, UT",36260,66.67
+2022-02-20,"Oklahoma City, OK",36420,54.25
+2022-02-20,"Omaha-Council Bluffs, NE-IA",36540,59.18
+2022-02-20,"Orlando-Kissimmee-Sanford, FL",36740,58.37
+2022-02-20,"Oxnard-Thousand Oaks-Ventura, CA",37100,38.66
+2022-02-20,"Palm Bay-Melbourne-Titusville, FL",37340,43.28
+2022-02-20,"Pensacola-Ferry Pass-Brent, FL",37860,46.04
+2022-02-20,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,50.86
+2022-02-20,"Phoenix-Mesa-Chandler, AZ",38060,94.21
+2022-02-20,"Pittsburgh, PA",38300,43
+2022-02-20,"Portland-South Portland, ME",38860,61.94
+2022-02-20,"Portland-Vancouver-Hillsboro, OR-WA",38900,63.97
+2022-02-20,"Poughkeepsie-Newburgh-Middletown, NY",39100,55.88
+2022-02-20,"Providence-Warwick, RI-MA",39300,63.45
+2022-02-20,"Provo-Orem, UT",39340,71.28
+2022-02-20,"Raleigh-Cary, NC",39580,58.75
+2022-02-20,"Richmond, VA",40060,55.27
+2022-02-20,"Riverside-San Bernardino-Ontario, CA",40140,68.65
+2022-02-20,"Rochester, NY",40380,60.73
+2022-02-20,"Sacramento-Roseville-Folsom, CA",40900,62.9
+2022-02-20,"St. Louis, MO-IL",41180,52.64
+2022-02-20,"Salt Lake City, UT",41620,67.84
+2022-02-20,"San Antonio-New Braunfels, TX",41700,63.05
+2022-02-20,"San Diego-Chula Vista-Carlsbad, CA",41740,67.6
+2022-02-20,"San Francisco-Oakland-Berkeley, CA",41860,33.71
+2022-02-20,"San Jose-Sunnyvale-Santa Clara, CA",41940,44.32
+2022-02-20,"Scranton--Wilkes-Barre, PA",42540,59.43
+2022-02-20,"Seattle-Tacoma-Bellevue, WA",42660,48.27
+2022-02-20,"Spokane-Spokane Valley, WA",44060,88.87
+2022-02-20,"Springfield, MA",44140,53.27
+2022-02-20,"Stockton, CA",44700,66.2
+2022-02-20,"Syracuse, NY",45060,36.93
+2022-02-20,"Tampa-St. Petersburg-Clearwater, FL",45300,66.21
+2022-02-20,"Toledo, OH",45780,63.01
+2022-02-20,"Tucson, AZ",46060,75.16
+2022-02-20,"Tulsa, OK",46140,53.83
+2022-02-20,"Urban Honolulu, HI",46520,30.3
+2022-02-20,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,72.86
+2022-02-20,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,34.02
+2022-02-20,"Wichita, KS",48620,69.8
+2022-02-20,"Winston-Salem, NC",49180,57.18
+2022-02-20,"Worcester, MA-CT",49340,67.61
+2022-02-20,"Youngstown-Warren-Boardman, OH-PA",49660,58.41
+2022-02-21,"Akron, OH",10420,51.9
+2022-02-21,"Albany-Schenectady-Troy, NY",10580,59.29
+2022-02-21,"Albuquerque, NM",10740,71.98
+2022-02-21,"Allentown-Bethlehem-Easton, PA-NJ",10900,58.21
+2022-02-21,"Atlanta-Sandy Springs-Alpharetta, GA",12060,75.59
+2022-02-21,"Augusta-Richmond County, GA-SC",12260,59.01
+2022-02-21,"Austin-Round Rock-Georgetown, TX",12420,82.88
+2022-02-21,"Bakersfield, CA",12540,53.31
+2022-02-21,"Baltimore-Columbia-Towson, MD",12580,43.99
+2022-02-21,"Baton Rouge, LA",12940,46.93
+2022-02-21,"Birmingham-Hoover, AL",13820,58.73
+2022-02-21,"Boise City, ID",14260,88.84
+2022-02-21,"Boston-Cambridge-Newton, MA-NH",14460,49.55
+2022-02-21,"Bridgeport-Stamford-Norwalk, CT",14860,57.62
+2022-02-21,"Buffalo-Cheektowaga, NY",15380,60.05
+2022-02-21,"Cape Coral-Fort Myers, FL",15980,52
+2022-02-21,"Charleston-North Charleston, SC",16700,63.12
+2022-02-21,"Charlotte-Concord-Gastonia, NC-SC",16740,71.7
+2022-02-21,"Chattanooga, TN-GA",16860,69.62
+2022-02-21,"Chicago-Naperville-Elgin, IL-IN-WI",16980,54.28
+2022-02-21,"Cincinnati, OH-KY-IN",17140,48.46
+2022-02-21,"Cleveland-Elyria, OH",17460,57.06
+2022-02-21,"Columbia, SC",17900,61.98
+2022-02-21,"Columbus, OH",18140,59.22
+2022-02-21,"Dallas-Fort Worth-Arlington, TX",19100,66.11
+2022-02-21,"Dayton-Kettering, OH",19430,45.97
+2022-02-21,"Deltona-Daytona Beach-Ormond Beach, FL",19660,55.34
+2022-02-21,"Des Moines-West Des Moines, IA",19780,74.42
+2022-02-21,"Detroit-Warren-Dearborn, MI",19820,57.7
+2022-02-21,"Durham-Chapel Hill, NC",20500,84.4
+2022-02-21,"El Paso, TX",21340,56.66
+2022-02-21,"Fayetteville, NC",22180,51.63
+2022-02-21,"Fayetteville-Springdale-Rogers, AR",22220,68.26
+2022-02-21,"Fresno, CA",23420,68.26
+2022-02-21,"Grand Rapids-Kentwood, MI",24340,67.01
+2022-02-21,"Greensboro-High Point, NC",24660,73.13
+2022-02-21,"Greenville-Anderson, SC",24860,49.53
+2022-02-21,"Harrisburg-Carlisle, PA",25420,72.61
+2022-02-21,"Hartford-East Hartford-Middletown, CT",25540,59.06
+2022-02-21,"Houston-The Woodlands-Sugar Land, TX",26420,49.51
+2022-02-21,"Indianapolis-Carmel-Anderson, IN",26900,62.75
+2022-02-21,"Jackson, MS",27140,62.9
+2022-02-21,"Jacksonville, FL",27260,62.88
+2022-02-21,"Kansas City, MO-KS",28140,60.74
+2022-02-21,"Knoxville, TN",28940,69.35
+2022-02-21,"Lakeland-Winter Haven, FL",29460,63.66
+2022-02-21,"Lancaster, PA",29540,58.56
+2022-02-21,"Lansing-East Lansing, MI",29620,37.29
+2022-02-21,"Las Vegas-Henderson-Paradise, NV",29820,82.41
+2022-02-21,"Lexington-Fayette, KY",30460,43.37
+2022-02-21,"Little Rock-North Little Rock-Conway, AR",30780,74.1
+2022-02-21,"Los Angeles-Long Beach-Anaheim, CA",31080,51.11
+2022-02-21,"Louisville/Jefferson County, KY-IN",31140,51.01
+2022-02-21,"Madison, WI",31540,49.95
+2022-02-21,"McAllen-Edinburg-Mission, TX",32580,71.89
+2022-02-21,"Memphis, TN-MS-AR",32820,66.25
+2022-02-21,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,63.94
+2022-02-21,"Milwaukee-Waukesha, WI",33340,62.35
+2022-02-21,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,52.43
+2022-02-21,"Modesto, CA",33700,64.55
+2022-02-21,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,72.11
+2022-02-21,"New Haven-Milford, CT",35300,71.63
+2022-02-21,"New Orleans-Metairie, LA",35380,50.93
+2022-02-21,"New York-Newark-Jersey City, NY-NJ-PA",35620,52.27
+2022-02-21,"North Port-Sarasota-Bradenton, FL",35840,65.31
+2022-02-21,"Ogden-Clearfield, UT",36260,67.2
+2022-02-21,"Oklahoma City, OK",36420,54.27
+2022-02-21,"Omaha-Council Bluffs, NE-IA",36540,59.08
+2022-02-21,"Orlando-Kissimmee-Sanford, FL",36740,58.22
+2022-02-21,"Oxnard-Thousand Oaks-Ventura, CA",37100,39.01
+2022-02-21,"Palm Bay-Melbourne-Titusville, FL",37340,43.28
+2022-02-21,"Pensacola-Ferry Pass-Brent, FL",37860,45.68
+2022-02-21,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,50.94
+2022-02-21,"Phoenix-Mesa-Chandler, AZ",38060,94.46
+2022-02-21,"Pittsburgh, PA",38300,43.48
+2022-02-21,"Portland-South Portland, ME",38860,62.06
+2022-02-21,"Portland-Vancouver-Hillsboro, OR-WA",38900,64.47
+2022-02-21,"Poughkeepsie-Newburgh-Middletown, NY",39100,55.95
+2022-02-21,"Providence-Warwick, RI-MA",39300,63.46
+2022-02-21,"Provo-Orem, UT",39340,71.3
+2022-02-21,"Raleigh-Cary, NC",39580,58.57
+2022-02-21,"Richmond, VA",40060,55.15
+2022-02-21,"Riverside-San Bernardino-Ontario, CA",40140,68.91
+2022-02-21,"Rochester, NY",40380,60.77
+2022-02-21,"Sacramento-Roseville-Folsom, CA",40900,62.97
+2022-02-21,"St. Louis, MO-IL",41180,52.58
+2022-02-21,"Salt Lake City, UT",41620,67.94
+2022-02-21,"San Antonio-New Braunfels, TX",41700,63.07
+2022-02-21,"San Diego-Chula Vista-Carlsbad, CA",41740,68.03
+2022-02-21,"San Francisco-Oakland-Berkeley, CA",41860,33.85
+2022-02-21,"San Jose-Sunnyvale-Santa Clara, CA",41940,44.58
+2022-02-21,"Scranton--Wilkes-Barre, PA",42540,59.78
+2022-02-21,"Seattle-Tacoma-Bellevue, WA",42660,48.47
+2022-02-21,"Spokane-Spokane Valley, WA",44060,89.59
+2022-02-21,"Springfield, MA",44140,53.61
+2022-02-21,"Stockton, CA",44700,66.07
+2022-02-21,"Syracuse, NY",45060,37.12
+2022-02-21,"Tampa-St. Petersburg-Clearwater, FL",45300,66.19
+2022-02-21,"Toledo, OH",45780,62.84
+2022-02-21,"Tucson, AZ",46060,75.32
+2022-02-21,"Tulsa, OK",46140,53.76
+2022-02-21,"Urban Honolulu, HI",46520,30.21
+2022-02-21,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,72.48
+2022-02-21,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,34.14
+2022-02-21,"Wichita, KS",48620,69.61
+2022-02-21,"Winston-Salem, NC",49180,56.96
+2022-02-21,"Worcester, MA-CT",49340,67.83
+2022-02-21,"Youngstown-Warren-Boardman, OH-PA",49660,59.03
+2022-02-22,"Akron, OH",10420,51.21
+2022-02-22,"Albany-Schenectady-Troy, NY",10580,58.94
+2022-02-22,"Albuquerque, NM",10740,71.51
+2022-02-22,"Allentown-Bethlehem-Easton, PA-NJ",10900,57.93
+2022-02-22,"Atlanta-Sandy Springs-Alpharetta, GA",12060,75.4
+2022-02-22,"Augusta-Richmond County, GA-SC",12260,58.31
+2022-02-22,"Austin-Round Rock-Georgetown, TX",12420,82.94
+2022-02-22,"Bakersfield, CA",12540,53.16
+2022-02-22,"Baltimore-Columbia-Towson, MD",12580,43.86
+2022-02-22,"Baton Rouge, LA",12940,46.4
+2022-02-22,"Birmingham-Hoover, AL",13820,58.53
+2022-02-22,"Boise City, ID",14260,88.7
+2022-02-22,"Boston-Cambridge-Newton, MA-NH",14460,49.31
+2022-02-22,"Bridgeport-Stamford-Norwalk, CT",14860,58.03
+2022-02-22,"Buffalo-Cheektowaga, NY",15380,59.87
+2022-02-22,"Cape Coral-Fort Myers, FL",15980,51.57
+2022-02-22,"Charleston-North Charleston, SC",16700,62.75
+2022-02-22,"Charlotte-Concord-Gastonia, NC-SC",16740,71.36
+2022-02-22,"Chattanooga, TN-GA",16860,68.9
+2022-02-22,"Chicago-Naperville-Elgin, IL-IN-WI",16980,54.15
+2022-02-22,"Cincinnati, OH-KY-IN",17140,48.58
+2022-02-22,"Cleveland-Elyria, OH",17460,56.83
+2022-02-22,"Columbia, SC",17900,61.4
+2022-02-22,"Columbus, OH",18140,59.1
+2022-02-22,"Dallas-Fort Worth-Arlington, TX",19100,66
+2022-02-22,"Dayton-Kettering, OH",19430,46.1
+2022-02-22,"Deltona-Daytona Beach-Ormond Beach, FL",19660,54.67
+2022-02-22,"Des Moines-West Des Moines, IA",19780,74.38
+2022-02-22,"Detroit-Warren-Dearborn, MI",19820,57.48
+2022-02-22,"Durham-Chapel Hill, NC",20500,84.02
+2022-02-22,"El Paso, TX",21340,56.31
+2022-02-22,"Fayetteville, NC",22180,50.94
+2022-02-22,"Fayetteville-Springdale-Rogers, AR",22220,68.18
+2022-02-22,"Fresno, CA",23420,68.24
+2022-02-22,"Grand Rapids-Kentwood, MI",24340,66.71
+2022-02-22,"Greensboro-High Point, NC",24660,72.23
+2022-02-22,"Greenville-Anderson, SC",24860,49.26
+2022-02-22,"Harrisburg-Carlisle, PA",25420,72.35
+2022-02-22,"Hartford-East Hartford-Middletown, CT",25540,58.64
+2022-02-22,"Houston-The Woodlands-Sugar Land, TX",26420,49.37
+2022-02-22,"Indianapolis-Carmel-Anderson, IN",26900,62.63
+2022-02-22,"Jackson, MS",27140,62.44
+2022-02-22,"Jacksonville, FL",27260,62.5
+2022-02-22,"Kansas City, MO-KS",28140,60.57
+2022-02-22,"Knoxville, TN",28940,70.73
+2022-02-22,"Lakeland-Winter Haven, FL",29460,63.24
+2022-02-22,"Lancaster, PA",29540,57.98
+2022-02-22,"Lansing-East Lansing, MI",29620,36.88
+2022-02-22,"Las Vegas-Henderson-Paradise, NV",29820,82.37
+2022-02-22,"Lexington-Fayette, KY",30460,43.09
+2022-02-22,"Little Rock-North Little Rock-Conway, AR",30780,72.73
+2022-02-22,"Los Angeles-Long Beach-Anaheim, CA",31080,51.14
+2022-02-22,"Louisville/Jefferson County, KY-IN",31140,50.86
+2022-02-22,"Madison, WI",31540,50.09
+2022-02-22,"McAllen-Edinburg-Mission, TX",32580,71.83
+2022-02-22,"Memphis, TN-MS-AR",32820,65.96
+2022-02-22,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,63.81
+2022-02-22,"Milwaukee-Waukesha, WI",33340,62.44
+2022-02-22,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,52.47
+2022-02-22,"Modesto, CA",33700,64.87
+2022-02-22,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,72.04
+2022-02-22,"New Haven-Milford, CT",35300,71.43
+2022-02-22,"New Orleans-Metairie, LA",35380,50.49
+2022-02-22,"New York-Newark-Jersey City, NY-NJ-PA",35620,52.29
+2022-02-22,"North Port-Sarasota-Bradenton, FL",35840,65.03
+2022-02-22,"Ogden-Clearfield, UT",36260,67.31
+2022-02-22,"Oklahoma City, OK",36420,54.38
+2022-02-22,"Omaha-Council Bluffs, NE-IA",36540,58.98
+2022-02-22,"Orlando-Kissimmee-Sanford, FL",36740,58
+2022-02-22,"Oxnard-Thousand Oaks-Ventura, CA",37100,39.09
+2022-02-22,"Palm Bay-Melbourne-Titusville, FL",37340,43.14
+2022-02-22,"Pensacola-Ferry Pass-Brent, FL",37860,45
+2022-02-22,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,50.87
+2022-02-22,"Phoenix-Mesa-Chandler, AZ",38060,94.55
+2022-02-22,"Pittsburgh, PA",38300,43.58
+2022-02-22,"Portland-South Portland, ME",38860,59.7
+2022-02-22,"Portland-Vancouver-Hillsboro, OR-WA",38900,64.96
+2022-02-22,"Poughkeepsie-Newburgh-Middletown, NY",39100,55.81
+2022-02-22,"Providence-Warwick, RI-MA",39300,62.71
+2022-02-22,"Provo-Orem, UT",39340,71.27
+2022-02-22,"Raleigh-Cary, NC",39580,58.22
+2022-02-22,"Richmond, VA",40060,55.08
+2022-02-22,"Riverside-San Bernardino-Ontario, CA",40140,68.72
+2022-02-22,"Rochester, NY",40380,60.56
+2022-02-22,"Sacramento-Roseville-Folsom, CA",40900,62.89
+2022-02-22,"St. Louis, MO-IL",41180,52.54
+2022-02-22,"Salt Lake City, UT",41620,67.92
+2022-02-22,"San Antonio-New Braunfels, TX",41700,62.94
+2022-02-22,"San Diego-Chula Vista-Carlsbad, CA",41740,67.84
+2022-02-22,"San Francisco-Oakland-Berkeley, CA",41860,34.04
+2022-02-22,"San Jose-Sunnyvale-Santa Clara, CA",41940,44.74
+2022-02-22,"Scranton--Wilkes-Barre, PA",42540,60.07
+2022-02-22,"Seattle-Tacoma-Bellevue, WA",42660,48.6
+2022-02-22,"Spokane-Spokane Valley, WA",44060,89.56
+2022-02-22,"Springfield, MA",44140,53.41
+2022-02-22,"Stockton, CA",44700,65.93
+2022-02-22,"Syracuse, NY",45060,37.08
+2022-02-22,"Tampa-St. Petersburg-Clearwater, FL",45300,66.11
+2022-02-22,"Toledo, OH",45780,62.65
+2022-02-22,"Tucson, AZ",46060,75.15
+2022-02-22,"Tulsa, OK",46140,53.54
+2022-02-22,"Urban Honolulu, HI",46520,30.41
+2022-02-22,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,71.92
+2022-02-22,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,34.21
+2022-02-22,"Wichita, KS",48620,69.28
+2022-02-22,"Winston-Salem, NC",49180,56.7
+2022-02-22,"Worcester, MA-CT",49340,67.87
+2022-02-22,"Youngstown-Warren-Boardman, OH-PA",49660,59.5
+2022-02-23,"Akron, OH",10420,51
+2022-02-23,"Albany-Schenectady-Troy, NY",10580,59.21
+2022-02-23,"Albuquerque, NM",10740,71.21
+2022-02-23,"Allentown-Bethlehem-Easton, PA-NJ",10900,57.29
+2022-02-23,"Atlanta-Sandy Springs-Alpharetta, GA",12060,75.28
+2022-02-23,"Augusta-Richmond County, GA-SC",12260,57.39
+2022-02-23,"Austin-Round Rock-Georgetown, TX",12420,82.66
+2022-02-23,"Bakersfield, CA",12540,52.94
+2022-02-23,"Baltimore-Columbia-Towson, MD",12580,43.7
+2022-02-23,"Baton Rouge, LA",12940,45.69
+2022-02-23,"Birmingham-Hoover, AL",13820,58.15
+2022-02-23,"Boise City, ID",14260,88.61
+2022-02-23,"Boston-Cambridge-Newton, MA-NH",14460,49.22
+2022-02-23,"Bridgeport-Stamford-Norwalk, CT",14860,58.44
+2022-02-23,"Buffalo-Cheektowaga, NY",15380,59.86
+2022-02-23,"Cape Coral-Fort Myers, FL",15980,50.95
+2022-02-23,"Charleston-North Charleston, SC",16700,62.51
+2022-02-23,"Charlotte-Concord-Gastonia, NC-SC",16740,70.97
+2022-02-23,"Chattanooga, TN-GA",16860,68.48
+2022-02-23,"Chicago-Naperville-Elgin, IL-IN-WI",16980,54.01
+2022-02-23,"Cincinnati, OH-KY-IN",17140,48.7
+2022-02-23,"Cleveland-Elyria, OH",17460,56.79
+2022-02-23,"Columbia, SC",17900,60.79
+2022-02-23,"Columbus, OH",18140,59.04
+2022-02-23,"Dallas-Fort Worth-Arlington, TX",19100,65.86
+2022-02-23,"Dayton-Kettering, OH",19430,46.34
+2022-02-23,"Deltona-Daytona Beach-Ormond Beach, FL",19660,54.23
+2022-02-23,"Des Moines-West Des Moines, IA",19780,74.46
+2022-02-23,"Detroit-Warren-Dearborn, MI",19820,57.31
+2022-02-23,"Durham-Chapel Hill, NC",20500,83.5
+2022-02-23,"El Paso, TX",21340,55.91
+2022-02-23,"Fayetteville, NC",22180,50.37
+2022-02-23,"Fayetteville-Springdale-Rogers, AR",22220,68.28
+2022-02-23,"Fresno, CA",23420,68.2
+2022-02-23,"Grand Rapids-Kentwood, MI",24340,66.44
+2022-02-23,"Greensboro-High Point, NC",24660,71.33
+2022-02-23,"Greenville-Anderson, SC",24860,49.14
+2022-02-23,"Harrisburg-Carlisle, PA",25420,71.95
+2022-02-23,"Hartford-East Hartford-Middletown, CT",25540,58.3
+2022-02-23,"Houston-The Woodlands-Sugar Land, TX",26420,49.23
+2022-02-23,"Indianapolis-Carmel-Anderson, IN",26900,62.39
+2022-02-23,"Jackson, MS",27140,61.88
+2022-02-23,"Jacksonville, FL",27260,62
+2022-02-23,"Kansas City, MO-KS",28140,60.27
+2022-02-23,"Knoxville, TN",28940,70.92
+2022-02-23,"Lakeland-Winter Haven, FL",29460,62.79
+2022-02-23,"Lancaster, PA",29540,57.34
+2022-02-23,"Lansing-East Lansing, MI",29620,36.86
+2022-02-23,"Las Vegas-Henderson-Paradise, NV",29820,82.38
+2022-02-23,"Lexington-Fayette, KY",30460,42.67
+2022-02-23,"Little Rock-North Little Rock-Conway, AR",30780,72.27
+2022-02-23,"Los Angeles-Long Beach-Anaheim, CA",31080,51.08
+2022-02-23,"Louisville/Jefferson County, KY-IN",31140,50.49
+2022-02-23,"Madison, WI",31540,49.98
+2022-02-23,"McAllen-Edinburg-Mission, TX",32580,71.61
+2022-02-23,"Memphis, TN-MS-AR",32820,65.64
+2022-02-23,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,63.67
+2022-02-23,"Milwaukee-Waukesha, WI",33340,62.76
+2022-02-23,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,52.36
+2022-02-23,"Modesto, CA",33700,65.09
+2022-02-23,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,71.85
+2022-02-23,"New Haven-Milford, CT",35300,71.59
+2022-02-23,"New Orleans-Metairie, LA",35380,49.89
+2022-02-23,"New York-Newark-Jersey City, NY-NJ-PA",35620,52.28
+2022-02-23,"North Port-Sarasota-Bradenton, FL",35840,64.82
+2022-02-23,"Ogden-Clearfield, UT",36260,67.21
+2022-02-23,"Oklahoma City, OK",36420,54.34
+2022-02-23,"Omaha-Council Bluffs, NE-IA",36540,58.82
+2022-02-23,"Orlando-Kissimmee-Sanford, FL",36740,57.81
+2022-02-23,"Oxnard-Thousand Oaks-Ventura, CA",37100,38.73
+2022-02-23,"Palm Bay-Melbourne-Titusville, FL",37340,43.05
+2022-02-23,"Pensacola-Ferry Pass-Brent, FL",37860,44.24
+2022-02-23,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,51.11
+2022-02-23,"Phoenix-Mesa-Chandler, AZ",38060,94.57
+2022-02-23,"Pittsburgh, PA",38300,43.69
+2022-02-23,"Portland-South Portland, ME",38860,59.74
+2022-02-23,"Portland-Vancouver-Hillsboro, OR-WA",38900,65.27
+2022-02-23,"Poughkeepsie-Newburgh-Middletown, NY",39100,55.46
+2022-02-23,"Providence-Warwick, RI-MA",39300,62.73
+2022-02-23,"Provo-Orem, UT",39340,71.02
+2022-02-23,"Raleigh-Cary, NC",39580,57.86
+2022-02-23,"Richmond, VA",40060,54.91
+2022-02-23,"Riverside-San Bernardino-Ontario, CA",40140,68.57
+2022-02-23,"Rochester, NY",40380,60.51
+2022-02-23,"Sacramento-Roseville-Folsom, CA",40900,62.67
+2022-02-23,"St. Louis, MO-IL",41180,52.46
+2022-02-23,"Salt Lake City, UT",41620,67.74
+2022-02-23,"San Antonio-New Braunfels, TX",41700,62.78
+2022-02-23,"San Diego-Chula Vista-Carlsbad, CA",41740,67.75
+2022-02-23,"San Francisco-Oakland-Berkeley, CA",41860,34.1
+2022-02-23,"San Jose-Sunnyvale-Santa Clara, CA",41940,44.89
+2022-02-23,"Scranton--Wilkes-Barre, PA",42540,59.93
+2022-02-23,"Seattle-Tacoma-Bellevue, WA",42660,48.52
+2022-02-23,"Spokane-Spokane Valley, WA",44060,89.49
+2022-02-23,"Springfield, MA",44140,53.12
+2022-02-23,"Stockton, CA",44700,65.56
+2022-02-23,"Syracuse, NY",45060,37.1
+2022-02-23,"Tampa-St. Petersburg-Clearwater, FL",45300,66.01
+2022-02-23,"Toledo, OH",45780,62.45
+2022-02-23,"Tucson, AZ",46060,75.06
+2022-02-23,"Tulsa, OK",46140,53.27
+2022-02-23,"Urban Honolulu, HI",46520,29.39
+2022-02-23,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,71.36
+2022-02-23,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,34.22
+2022-02-23,"Wichita, KS",48620,68.93
+2022-02-23,"Winston-Salem, NC",49180,56.32
+2022-02-23,"Worcester, MA-CT",49340,67.89
+2022-02-23,"Youngstown-Warren-Boardman, OH-PA",49660,59.69
+2022-02-24,"Akron, OH",10420,51.13
+2022-02-24,"Albany-Schenectady-Troy, NY",10580,59.55
+2022-02-24,"Albuquerque, NM",10740,71.05
+2022-02-24,"Allentown-Bethlehem-Easton, PA-NJ",10900,56.44
+2022-02-24,"Atlanta-Sandy Springs-Alpharetta, GA",12060,75.35
+2022-02-24,"Augusta-Richmond County, GA-SC",12260,57.06
+2022-02-24,"Austin-Round Rock-Georgetown, TX",12420,82.8
+2022-02-24,"Bakersfield, CA",12540,52.74
+2022-02-24,"Baltimore-Columbia-Towson, MD",12580,43.67
+2022-02-24,"Baton Rouge, LA",12940,45.34
+2022-02-24,"Birmingham-Hoover, AL",13820,57.9
+2022-02-24,"Boise City, ID",14260,88.84
+2022-02-24,"Boston-Cambridge-Newton, MA-NH",14460,49.26
+2022-02-24,"Bridgeport-Stamford-Norwalk, CT",14860,58.84
+2022-02-24,"Buffalo-Cheektowaga, NY",15380,59.92
+2022-02-24,"Cape Coral-Fort Myers, FL",15980,50.73
+2022-02-24,"Charleston-North Charleston, SC",16700,62.43
+2022-02-24,"Charlotte-Concord-Gastonia, NC-SC",16740,70.85
+2022-02-24,"Chattanooga, TN-GA",16860,68.26
+2022-02-24,"Chicago-Naperville-Elgin, IL-IN-WI",16980,53.95
+2022-02-24,"Cincinnati, OH-KY-IN",17140,48.98
+2022-02-24,"Cleveland-Elyria, OH",17460,56.79
+2022-02-24,"Columbia, SC",17900,60.5
+2022-02-24,"Columbus, OH",18140,59.18
+2022-02-24,"Dallas-Fort Worth-Arlington, TX",19100,65.77
+2022-02-24,"Dayton-Kettering, OH",19430,46.45
+2022-02-24,"Deltona-Daytona Beach-Ormond Beach, FL",19660,53.79
+2022-02-24,"Des Moines-West Des Moines, IA",19780,74.76
+2022-02-24,"Detroit-Warren-Dearborn, MI",19820,57.34
+2022-02-24,"Durham-Chapel Hill, NC",20500,83.02
+2022-02-24,"El Paso, TX",21340,55.89
+2022-02-24,"Fayetteville, NC",22180,50.25
+2022-02-24,"Fayetteville-Springdale-Rogers, AR",22220,68.54
+2022-02-24,"Fresno, CA",23420,68.35
+2022-02-24,"Grand Rapids-Kentwood, MI",24340,66.44
+2022-02-24,"Greensboro-High Point, NC",24660,70.59
+2022-02-24,"Greenville-Anderson, SC",24860,49.2
+2022-02-24,"Harrisburg-Carlisle, PA",25420,71.67
+2022-02-24,"Hartford-East Hartford-Middletown, CT",25540,58.05
+2022-02-24,"Houston-The Woodlands-Sugar Land, TX",26420,49.24
+2022-02-24,"Indianapolis-Carmel-Anderson, IN",26900,62.3
+2022-02-24,"Jackson, MS",27140,61.34
+2022-02-24,"Jacksonville, FL",27260,61.72
+2022-02-24,"Kansas City, MO-KS",28140,60.14
+2022-02-24,"Knoxville, TN",28940,71.14
+2022-02-24,"Lakeland-Winter Haven, FL",29460,62.8
+2022-02-24,"Lancaster, PA",29540,56.94
+2022-02-24,"Lansing-East Lansing, MI",29620,36.96
+2022-02-24,"Las Vegas-Henderson-Paradise, NV",29820,82.61
+2022-02-24,"Lexington-Fayette, KY",30460,42.4
+2022-02-24,"Little Rock-North Little Rock-Conway, AR",30780,72.02
+2022-02-24,"Los Angeles-Long Beach-Anaheim, CA",31080,51.15
+2022-02-24,"Louisville/Jefferson County, KY-IN",31140,50.28
+2022-02-24,"Madison, WI",31540,49.73
+2022-02-24,"McAllen-Edinburg-Mission, TX",32580,71.04
+2022-02-24,"Memphis, TN-MS-AR",32820,65.38
+2022-02-24,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,63.71
+2022-02-24,"Milwaukee-Waukesha, WI",33340,63.11
+2022-02-24,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,52.39
+2022-02-24,"Modesto, CA",33700,65.33
+2022-02-24,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,71.72
+2022-02-24,"New Haven-Milford, CT",35300,71.63
+2022-02-24,"New Orleans-Metairie, LA",35380,49.79
+2022-02-24,"New York-Newark-Jersey City, NY-NJ-PA",35620,52.35
+2022-02-24,"North Port-Sarasota-Bradenton, FL",35840,65.11
+2022-02-24,"Ogden-Clearfield, UT",36260,67.13
+2022-02-24,"Oklahoma City, OK",36420,54.36
+2022-02-24,"Omaha-Council Bluffs, NE-IA",36540,58.96
+2022-02-24,"Orlando-Kissimmee-Sanford, FL",36740,57.97
+2022-02-24,"Oxnard-Thousand Oaks-Ventura, CA",37100,38.63
+2022-02-24,"Palm Bay-Melbourne-Titusville, FL",37340,43.06
+2022-02-24,"Pensacola-Ferry Pass-Brent, FL",37860,43.67
+2022-02-24,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,51.42
+2022-02-24,"Phoenix-Mesa-Chandler, AZ",38060,95.03
+2022-02-24,"Pittsburgh, PA",38300,43.91
+2022-02-24,"Portland-South Portland, ME",38860,60.21
+2022-02-24,"Portland-Vancouver-Hillsboro, OR-WA",38900,65.62
+2022-02-24,"Poughkeepsie-Newburgh-Middletown, NY",39100,55.03
+2022-02-24,"Providence-Warwick, RI-MA",39300,62.87
+2022-02-24,"Provo-Orem, UT",39340,70.74
+2022-02-24,"Raleigh-Cary, NC",39580,57.65
+2022-02-24,"Richmond, VA",40060,54.77
+2022-02-24,"Riverside-San Bernardino-Ontario, CA",40140,68.69
+2022-02-24,"Rochester, NY",40380,60.4
+2022-02-24,"Sacramento-Roseville-Folsom, CA",40900,62.69
+2022-02-24,"St. Louis, MO-IL",41180,52.35
+2022-02-24,"Salt Lake City, UT",41620,67.57
+2022-02-24,"San Antonio-New Braunfels, TX",41700,62.9
+2022-02-24,"San Diego-Chula Vista-Carlsbad, CA",41740,67.76
+2022-02-24,"San Francisco-Oakland-Berkeley, CA",41860,34.37
+2022-02-24,"San Jose-Sunnyvale-Santa Clara, CA",41940,45.23
+2022-02-24,"Scranton--Wilkes-Barre, PA",42540,59.85
+2022-02-24,"Seattle-Tacoma-Bellevue, WA",42660,48.55
+2022-02-24,"Spokane-Spokane Valley, WA",44060,89.46
+2022-02-24,"Springfield, MA",44140,52.7
+2022-02-24,"Stockton, CA",44700,65.38
+2022-02-24,"Syracuse, NY",45060,37.13
+2022-02-24,"Tampa-St. Petersburg-Clearwater, FL",45300,65.94
+2022-02-24,"Toledo, OH",45780,62.25
+2022-02-24,"Tucson, AZ",46060,75.34
+2022-02-24,"Tulsa, OK",46140,53.14
+2022-02-24,"Urban Honolulu, HI",46520,29.51
+2022-02-24,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,70.96
+2022-02-24,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,34.25
+2022-02-24,"Wichita, KS",48620,68.59
+2022-02-24,"Winston-Salem, NC",49180,55.94
+2022-02-24,"Worcester, MA-CT",49340,67.79
+2022-02-24,"Youngstown-Warren-Boardman, OH-PA",49660,59.94
+2022-02-25,"Akron, OH",10420,50.95
+2022-02-25,"Albany-Schenectady-Troy, NY",10580,59.15
+2022-02-25,"Albuquerque, NM",10740,70.78
+2022-02-25,"Allentown-Bethlehem-Easton, PA-NJ",10900,55.97
+2022-02-25,"Atlanta-Sandy Springs-Alpharetta, GA",12060,75.33
+2022-02-25,"Augusta-Richmond County, GA-SC",12260,56.79
+2022-02-25,"Austin-Round Rock-Georgetown, TX",12420,82.6
+2022-02-25,"Bakersfield, CA",12540,52.4
+2022-02-25,"Baltimore-Columbia-Towson, MD",12580,43.53
+2022-02-25,"Baton Rouge, LA",12940,45.06
+2022-02-25,"Birmingham-Hoover, AL",13820,57.55
+2022-02-25,"Boise City, ID",14260,88.14
+2022-02-25,"Boston-Cambridge-Newton, MA-NH",14460,49.28
+2022-02-25,"Bridgeport-Stamford-Norwalk, CT",14860,59.17
+2022-02-25,"Buffalo-Cheektowaga, NY",15380,60.1
+2022-02-25,"Cape Coral-Fort Myers, FL",15980,50.58
+2022-02-25,"Charleston-North Charleston, SC",16700,62.4
+2022-02-25,"Charlotte-Concord-Gastonia, NC-SC",16740,70.7
+2022-02-25,"Chattanooga, TN-GA",16860,68.13
+2022-02-25,"Chicago-Naperville-Elgin, IL-IN-WI",16980,53.85
+2022-02-25,"Cincinnati, OH-KY-IN",17140,49.29
+2022-02-25,"Cleveland-Elyria, OH",17460,56.75
+2022-02-25,"Columbia, SC",17900,60.23
+2022-02-25,"Columbus, OH",18140,59.17
+2022-02-25,"Dallas-Fort Worth-Arlington, TX",19100,65.53
+2022-02-25,"Dayton-Kettering, OH",19430,46.47
+2022-02-25,"Deltona-Daytona Beach-Ormond Beach, FL",19660,53.27
+2022-02-25,"Des Moines-West Des Moines, IA",19780,75
+2022-02-25,"Detroit-Warren-Dearborn, MI",19820,57.25
+2022-02-25,"Durham-Chapel Hill, NC",20500,82.63
+2022-02-25,"El Paso, TX",21340,55.52
+2022-02-25,"Fayetteville, NC",22180,50.17
+2022-02-25,"Fayetteville-Springdale-Rogers, AR",22220,68.73
+2022-02-25,"Fresno, CA",23420,67.87
+2022-02-25,"Grand Rapids-Kentwood, MI",24340,66.32
+2022-02-25,"Greensboro-High Point, NC",24660,69.81
+2022-02-25,"Greenville-Anderson, SC",24860,49.08
+2022-02-25,"Harrisburg-Carlisle, PA",25420,71.25
+2022-02-25,"Hartford-East Hartford-Middletown, CT",25540,57.35
+2022-02-25,"Houston-The Woodlands-Sugar Land, TX",26420,49.18
+2022-02-25,"Indianapolis-Carmel-Anderson, IN",26900,62.2
+2022-02-25,"Jackson, MS",27140,60.9
+2022-02-25,"Jacksonville, FL",27260,61.45
+2022-02-25,"Kansas City, MO-KS",28140,59.91
+2022-02-25,"Knoxville, TN",28940,71.18
+2022-02-25,"Lakeland-Winter Haven, FL",29460,62.77
+2022-02-25,"Lancaster, PA",29540,56.59
+2022-02-25,"Lansing-East Lansing, MI",29620,37.05
+2022-02-25,"Las Vegas-Henderson-Paradise, NV",29820,82.71
+2022-02-25,"Lexington-Fayette, KY",30460,42.1
+2022-02-25,"Little Rock-North Little Rock-Conway, AR",30780,72.06
+2022-02-25,"Los Angeles-Long Beach-Anaheim, CA",31080,51.15
+2022-02-25,"Louisville/Jefferson County, KY-IN",31140,50.13
+2022-02-25,"Madison, WI",31540,49.3
+2022-02-25,"McAllen-Edinburg-Mission, TX",32580,70.51
+2022-02-25,"Memphis, TN-MS-AR",32820,64.98
+2022-02-25,"Miami-Fort Lauderdale-Pompano Beach, FL",33100,63.67
+2022-02-25,"Milwaukee-Waukesha, WI",33340,63.24
+2022-02-25,"Minneapolis-St. Paul-Bloomington, MN-WI",33460,52.31
+2022-02-25,"Modesto, CA",33700,65.64
+2022-02-25,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,71.48
+2022-02-25,"New Haven-Milford, CT",35300,71.26
+2022-02-25,"New Orleans-Metairie, LA",35380,49.72
+2022-02-25,"New York-Newark-Jersey City, NY-NJ-PA",35620,52.29
+2022-02-25,"North Port-Sarasota-Bradenton, FL",35840,64.52
+2022-02-25,"Ogden-Clearfield, UT",36260,67.01
+2022-02-25,"Oklahoma City, OK",36420,54.32
+2022-02-25,"Omaha-Council Bluffs, NE-IA",36540,59.05
+2022-02-25,"Orlando-Kissimmee-Sanford, FL",36740,58.08
+2022-02-25,"Oxnard-Thousand Oaks-Ventura, CA",37100,38.43
+2022-02-25,"Palm Bay-Melbourne-Titusville, FL",37340,43.02
+2022-02-25,"Pensacola-Ferry Pass-Brent, FL",37860,43.14
+2022-02-25,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,51.24
+2022-02-25,"Phoenix-Mesa-Chandler, AZ",38060,95.5
+2022-02-25,"Pittsburgh, PA",38300,44.03
+2022-02-25,"Portland-South Portland, ME",38860,60.55
+2022-02-25,"Portland-Vancouver-Hillsboro, OR-WA",38900,66.05
+2022-02-25,"Poughkeepsie-Newburgh-Middletown, NY",39100,54.51
+2022-02-25,"Providence-Warwick, RI-MA",39300,62.95
+2022-02-25,"Provo-Orem, UT",39340,70.37
+2022-02-25,"Raleigh-Cary, NC",39580,57.56
+2022-02-25,"Richmond, VA",40060,54.53
+2022-02-25,"Riverside-San Bernardino-Ontario, CA",40140,68.67
+2022-02-25,"Rochester, NY",40380,60.1
+2022-02-25,"Sacramento-Roseville-Folsom, CA",40900,62.71
+2022-02-25,"St. Louis, MO-IL",41180,52.18
+2022-02-25,"Salt Lake City, UT",41620,67.26
+2022-02-25,"San Antonio-New Braunfels, TX",41700,63
+2022-02-25,"San Diego-Chula Vista-Carlsbad, CA",41740,67.72
+2022-02-25,"San Francisco-Oakland-Berkeley, CA",41860,34.47
+2022-02-25,"San Jose-Sunnyvale-Santa Clara, CA",41940,45.51
+2022-02-25,"Scranton--Wilkes-Barre, PA",42540,59.81
+2022-02-25,"Seattle-Tacoma-Bellevue, WA",42660,48.44
+2022-02-25,"Spokane-Spokane Valley, WA",44060,89.24
+2022-02-25,"Springfield, MA",44140,52.03
+2022-02-25,"Stockton, CA",44700,65.01
+2022-02-25,"Syracuse, NY",45060,36.93
+2022-02-25,"Tampa-St. Petersburg-Clearwater, FL",45300,65.87
+2022-02-25,"Toledo, OH",45780,62.15
+2022-02-25,"Tucson, AZ",46060,75.77
+2022-02-25,"Tulsa, OK",46140,52.83
+2022-02-25,"Urban Honolulu, HI",46520,29.02
+2022-02-25,"Virginia Beach-Norfolk-Newport News, VA-NC",47260,70.58
+2022-02-25,"Washington-Arlington-Alexandria, DC-VA-MD-WV",47900,34.22
+2022-02-25,"Wichita, KS",48620,68.45
+2022-02-25,"Winston-Salem, NC",49180,55.54
+2022-02-25,"Worcester, MA-CT",49340,67.67
+2022-02-25,"Youngstown-Warren-Boardman, OH-PA",49660,60.2
