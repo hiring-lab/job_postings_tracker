@@ -41,3 +41,11 @@ In Canada, we provide:
 
 * **provincial_postings_ca.csv**
 This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in each Canadian provinces.
+
+In the United Kingdom, we provide:
+
+* **regional_postings_gb.csv**
+This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in each region in the UK. 
+
+* **city_postings_gb.csv**
+This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in each city in the UK. 
