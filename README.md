@@ -15,8 +15,6 @@ For Frequently Asked Questions regarding Indeed's data, click [here](https://www
 
 All data in this repository are the percentage change in seasonally-adjusted job postings since February 1, 2020, using a seven-day trailing average. February 1, 2020, is our pre-pandemic baseline. We seasonally adjust each series based on historical patterns in 2017, 2018, and 2019. Each series, including the national trend, occupational sectors, and sub-national geographies, is seasonally adjusted separately. We adopted this new methodology in January 2021. Historical numbers have been revised and may differ from originally reported values.
 
-Indeed no longer allows Colorado jobs that ask the candidate to disclose their previous salaries. This has a meaningful effect on our postings in the state of Colorado and its metros, though not on our national totals. Due to this change, we are currently not sharing postings data for Colorado and Colorado metropolitan areas.
-
 This blog post is based on publicly available information on the Indeed websites and is not a projection of future events, and includes both paid and unpaid job solicitations. US Armed Forces job postings are excluded for US postings.
 
 ### Data Schema
