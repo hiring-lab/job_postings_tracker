@@ -788,8 +788,22 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-28,CA,74.82,total postings,Accounting
 2022-03-29,CA,74.7,total postings,Accounting
 2022-03-30,CA,75.06,total postings,Accounting
-2022-03-31,CA,75.8,total postings,Accounting
-2022-04-01,CA,76.53,total postings,Accounting
+2022-03-31,CA,75.81,total postings,Accounting
+2022-04-01,CA,76.54,total postings,Accounting
+2022-04-02,CA,77.61,total postings,Accounting
+2022-04-03,CA,78.71,total postings,Accounting
+2022-04-04,CA,79.87,total postings,Accounting
+2022-04-05,CA,80.81,total postings,Accounting
+2022-04-06,CA,81.41,total postings,Accounting
+2022-04-07,CA,81.49,total postings,Accounting
+2022-04-08,CA,81.43,total postings,Accounting
+2022-04-09,CA,80.57,total postings,Accounting
+2022-04-10,CA,79.64,total postings,Accounting
+2022-04-11,CA,78.7,total postings,Accounting
+2022-04-12,CA,77.86,total postings,Accounting
+2022-04-13,CA,76.65,total postings,Accounting
+2022-04-14,CA,76.06,total postings,Accounting
+2022-04-15,CA,75.74,total postings,Accounting
 2020-02-01,CA,0,total postings,Administrative Assistance
 2020-02-02,CA,0.12,total postings,Administrative Assistance
 2020-02-03,CA,0.38,total postings,Administrative Assistance
@@ -1410,7 +1424,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-10,CA,47.38,total postings,Administrative Assistance
 2021-10-11,CA,48.31,total postings,Administrative Assistance
 2021-10-12,CA,48.64,total postings,Administrative Assistance
-2021-10-13,CA,48.93,total postings,Administrative Assistance
+2021-10-13,CA,48.94,total postings,Administrative Assistance
 2021-10-14,CA,49.15,total postings,Administrative Assistance
 2021-10-15,CA,49.08,total postings,Administrative Assistance
 2021-10-16,CA,48.82,total postings,Administrative Assistance
@@ -1565,22 +1579,36 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-14,CA,59.27,total postings,Administrative Assistance
 2022-03-15,CA,59.3,total postings,Administrative Assistance
 2022-03-16,CA,59.04,total postings,Administrative Assistance
-2022-03-17,CA,58.93,total postings,Administrative Assistance
+2022-03-17,CA,58.94,total postings,Administrative Assistance
 2022-03-18,CA,58.84,total postings,Administrative Assistance
 2022-03-19,CA,58.64,total postings,Administrative Assistance
 2022-03-20,CA,58.63,total postings,Administrative Assistance
 2022-03-21,CA,58.71,total postings,Administrative Assistance
 2022-03-22,CA,58.56,total postings,Administrative Assistance
-2022-03-23,CA,58.54,total postings,Administrative Assistance
-2022-03-24,CA,58.6,total postings,Administrative Assistance
-2022-03-25,CA,58.58,total postings,Administrative Assistance
+2022-03-23,CA,58.55,total postings,Administrative Assistance
+2022-03-24,CA,58.61,total postings,Administrative Assistance
+2022-03-25,CA,58.59,total postings,Administrative Assistance
 2022-03-26,CA,58.66,total postings,Administrative Assistance
 2022-03-27,CA,58.76,total postings,Administrative Assistance
 2022-03-28,CA,59.12,total postings,Administrative Assistance
-2022-03-29,CA,59.5,total postings,Administrative Assistance
+2022-03-29,CA,59.51,total postings,Administrative Assistance
 2022-03-30,CA,60.17,total postings,Administrative Assistance
-2022-03-31,CA,60.57,total postings,Administrative Assistance
-2022-04-01,CA,61.1,total postings,Administrative Assistance
+2022-03-31,CA,60.58,total postings,Administrative Assistance
+2022-04-01,CA,61.11,total postings,Administrative Assistance
+2022-04-02,CA,61.58,total postings,Administrative Assistance
+2022-04-03,CA,62.08,total postings,Administrative Assistance
+2022-04-04,CA,62.15,total postings,Administrative Assistance
+2022-04-05,CA,62.33,total postings,Administrative Assistance
+2022-04-06,CA,62.3,total postings,Administrative Assistance
+2022-04-07,CA,62.16,total postings,Administrative Assistance
+2022-04-08,CA,62.01,total postings,Administrative Assistance
+2022-04-09,CA,61.47,total postings,Administrative Assistance
+2022-04-10,CA,60.81,total postings,Administrative Assistance
+2022-04-11,CA,60.2,total postings,Administrative Assistance
+2022-04-12,CA,59.69,total postings,Administrative Assistance
+2022-04-13,CA,59.28,total postings,Administrative Assistance
+2022-04-14,CA,59.26,total postings,Administrative Assistance
+2022-04-15,CA,59.3,total postings,Administrative Assistance
 2020-02-01,CA,0,total postings,Architecture
 2020-02-02,CA,0.68,total postings,Architecture
 2020-02-03,CA,1.5,total postings,Architecture
@@ -2372,6 +2400,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,CA,89.11,total postings,Architecture
 2022-03-31,CA,89.25,total postings,Architecture
 2022-04-01,CA,89.68,total postings,Architecture
+2022-04-02,CA,90.03,total postings,Architecture
+2022-04-03,CA,90.28,total postings,Architecture
+2022-04-04,CA,90.3,total postings,Architecture
+2022-04-05,CA,90.76,total postings,Architecture
+2022-04-06,CA,90.59,total postings,Architecture
+2022-04-07,CA,90.05,total postings,Architecture
+2022-04-08,CA,89.13,total postings,Architecture
+2022-04-09,CA,87.58,total postings,Architecture
+2022-04-10,CA,86.26,total postings,Architecture
+2022-04-11,CA,84.6,total postings,Architecture
+2022-04-12,CA,82.5,total postings,Architecture
+2022-04-13,CA,80.69,total postings,Architecture
+2022-04-14,CA,79.34,total postings,Architecture
+2022-04-15,CA,78.16,total postings,Architecture
 2020-02-01,CA,0,total postings,Arts & Entertainment
 2020-02-02,CA,0.04,total postings,Arts & Entertainment
 2020-02-03,CA,0.33,total postings,Arts & Entertainment
@@ -3144,25 +3186,39 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-11,CA,82.53,total postings,Arts & Entertainment
 2022-03-12,CA,82.6,total postings,Arts & Entertainment
 2022-03-13,CA,82.51,total postings,Arts & Entertainment
-2022-03-14,CA,82.34,total postings,Arts & Entertainment
+2022-03-14,CA,82.35,total postings,Arts & Entertainment
 2022-03-15,CA,82.03,total postings,Arts & Entertainment
 2022-03-16,CA,82.02,total postings,Arts & Entertainment
-2022-03-17,CA,82.1,total postings,Arts & Entertainment
-2022-03-18,CA,82.41,total postings,Arts & Entertainment
+2022-03-17,CA,82.11,total postings,Arts & Entertainment
+2022-03-18,CA,82.42,total postings,Arts & Entertainment
 2022-03-19,CA,82.21,total postings,Arts & Entertainment
-2022-03-20,CA,82.31,total postings,Arts & Entertainment
+2022-03-20,CA,82.32,total postings,Arts & Entertainment
 2022-03-21,CA,82.37,total postings,Arts & Entertainment
 2022-03-22,CA,82.04,total postings,Arts & Entertainment
 2022-03-23,CA,81.58,total postings,Arts & Entertainment
 2022-03-24,CA,81.44,total postings,Arts & Entertainment
 2022-03-25,CA,81.31,total postings,Arts & Entertainment
-2022-03-26,CA,81.39,total postings,Arts & Entertainment
+2022-03-26,CA,81.4,total postings,Arts & Entertainment
 2022-03-27,CA,81.14,total postings,Arts & Entertainment
-2022-03-28,CA,81.29,total postings,Arts & Entertainment
-2022-03-29,CA,81.98,total postings,Arts & Entertainment
-2022-03-30,CA,82.59,total postings,Arts & Entertainment
-2022-03-31,CA,82.86,total postings,Arts & Entertainment
-2022-04-01,CA,82.86,total postings,Arts & Entertainment
+2022-03-28,CA,81.3,total postings,Arts & Entertainment
+2022-03-29,CA,81.99,total postings,Arts & Entertainment
+2022-03-30,CA,82.6,total postings,Arts & Entertainment
+2022-03-31,CA,82.88,total postings,Arts & Entertainment
+2022-04-01,CA,82.88,total postings,Arts & Entertainment
+2022-04-02,CA,82.46,total postings,Arts & Entertainment
+2022-04-03,CA,82.36,total postings,Arts & Entertainment
+2022-04-04,CA,82.08,total postings,Arts & Entertainment
+2022-04-05,CA,81.17,total postings,Arts & Entertainment
+2022-04-06,CA,80.27,total postings,Arts & Entertainment
+2022-04-07,CA,79.34,total postings,Arts & Entertainment
+2022-04-08,CA,78.57,total postings,Arts & Entertainment
+2022-04-09,CA,77.96,total postings,Arts & Entertainment
+2022-04-10,CA,77.38,total postings,Arts & Entertainment
+2022-04-11,CA,76.84,total postings,Arts & Entertainment
+2022-04-12,CA,76.72,total postings,Arts & Entertainment
+2022-04-13,CA,76.76,total postings,Arts & Entertainment
+2022-04-14,CA,77.34,total postings,Arts & Entertainment
+2022-04-15,CA,78.03,total postings,Arts & Entertainment
 2020-02-01,CA,0,total postings,Personal Care & Home Health
 2020-02-02,CA,0.27,total postings,Personal Care & Home Health
 2020-02-03,CA,0.75,total postings,Personal Care & Home Health
@@ -3943,17 +3999,31 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-19,CA,56.45,total postings,Personal Care & Home Health
 2022-03-20,CA,55.94,total postings,Personal Care & Home Health
 2022-03-21,CA,55.49,total postings,Personal Care & Home Health
-2022-03-22,CA,55.18,total postings,Personal Care & Home Health
-2022-03-23,CA,54.82,total postings,Personal Care & Home Health
-2022-03-24,CA,54.39,total postings,Personal Care & Home Health
-2022-03-25,CA,54.25,total postings,Personal Care & Home Health
-2022-03-26,CA,54.61,total postings,Personal Care & Home Health
-2022-03-27,CA,54.91,total postings,Personal Care & Home Health
-2022-03-28,CA,55.37,total postings,Personal Care & Home Health
-2022-03-29,CA,56.21,total postings,Personal Care & Home Health
+2022-03-22,CA,55.19,total postings,Personal Care & Home Health
+2022-03-23,CA,54.83,total postings,Personal Care & Home Health
+2022-03-24,CA,54.41,total postings,Personal Care & Home Health
+2022-03-25,CA,54.27,total postings,Personal Care & Home Health
+2022-03-26,CA,54.63,total postings,Personal Care & Home Health
+2022-03-27,CA,54.92,total postings,Personal Care & Home Health
+2022-03-28,CA,55.39,total postings,Personal Care & Home Health
+2022-03-29,CA,56.22,total postings,Personal Care & Home Health
 2022-03-30,CA,56.9,total postings,Personal Care & Home Health
 2022-03-31,CA,57.45,total postings,Personal Care & Home Health
 2022-04-01,CA,57.87,total postings,Personal Care & Home Health
+2022-04-02,CA,58.22,total postings,Personal Care & Home Health
+2022-04-03,CA,58.72,total postings,Personal Care & Home Health
+2022-04-04,CA,59.02,total postings,Personal Care & Home Health
+2022-04-05,CA,58.74,total postings,Personal Care & Home Health
+2022-04-06,CA,58.42,total postings,Personal Care & Home Health
+2022-04-07,CA,57.7,total postings,Personal Care & Home Health
+2022-04-08,CA,56.91,total postings,Personal Care & Home Health
+2022-04-09,CA,56.03,total postings,Personal Care & Home Health
+2022-04-10,CA,54.99,total postings,Personal Care & Home Health
+2022-04-11,CA,54.02,total postings,Personal Care & Home Health
+2022-04-12,CA,53.54,total postings,Personal Care & Home Health
+2022-04-13,CA,53.49,total postings,Personal Care & Home Health
+2022-04-14,CA,54.08,total postings,Personal Care & Home Health
+2022-04-15,CA,55.1,total postings,Personal Care & Home Health
 2020-02-01,CA,0,total postings,Construction
 2020-02-02,CA,0.78,total postings,Construction
 2020-02-03,CA,1.67,total postings,Construction
@@ -4707,7 +4777,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-02-20,CA,110.33,total postings,Construction
 2022-02-21,CA,111.21,total postings,Construction
 2022-02-22,CA,111.46,total postings,Construction
-2022-02-23,CA,111.35,total postings,Construction
+2022-02-23,CA,111.36,total postings,Construction
 2022-02-24,CA,111,total postings,Construction
 2022-02-25,CA,110.29,total postings,Construction
 2022-02-26,CA,110,total postings,Construction
@@ -4733,18 +4803,32 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-18,CA,110.11,total postings,Construction
 2022-03-19,CA,109.77,total postings,Construction
 2022-03-20,CA,109.48,total postings,Construction
-2022-03-21,CA,109.22,total postings,Construction
-2022-03-22,CA,108.85,total postings,Construction
-2022-03-23,CA,108.41,total postings,Construction
-2022-03-24,CA,108,total postings,Construction
-2022-03-25,CA,107.99,total postings,Construction
-2022-03-26,CA,108.35,total postings,Construction
-2022-03-27,CA,108.65,total postings,Construction
-2022-03-28,CA,109.12,total postings,Construction
-2022-03-29,CA,109.73,total postings,Construction
-2022-03-30,CA,110.46,total postings,Construction
-2022-03-31,CA,111.21,total postings,Construction
-2022-04-01,CA,111.58,total postings,Construction
+2022-03-21,CA,109.23,total postings,Construction
+2022-03-22,CA,108.87,total postings,Construction
+2022-03-23,CA,108.43,total postings,Construction
+2022-03-24,CA,108.03,total postings,Construction
+2022-03-25,CA,108.02,total postings,Construction
+2022-03-26,CA,108.38,total postings,Construction
+2022-03-27,CA,108.68,total postings,Construction
+2022-03-28,CA,109.14,total postings,Construction
+2022-03-29,CA,109.75,total postings,Construction
+2022-03-30,CA,110.47,total postings,Construction
+2022-03-31,CA,111.22,total postings,Construction
+2022-04-01,CA,111.6,total postings,Construction
+2022-04-02,CA,111.99,total postings,Construction
+2022-04-03,CA,112.37,total postings,Construction
+2022-04-04,CA,112.62,total postings,Construction
+2022-04-05,CA,112.8,total postings,Construction
+2022-04-06,CA,112.86,total postings,Construction
+2022-04-07,CA,112.61,total postings,Construction
+2022-04-08,CA,112.46,total postings,Construction
+2022-04-09,CA,112.06,total postings,Construction
+2022-04-10,CA,111.68,total postings,Construction
+2022-04-11,CA,111.18,total postings,Construction
+2022-04-12,CA,110.67,total postings,Construction
+2022-04-13,CA,109.92,total postings,Construction
+2022-04-14,CA,109.49,total postings,Construction
+2022-04-15,CA,109.23,total postings,Construction
 2020-02-01,CA,0,total postings,Customer Service
 2020-02-02,CA,-0.03,total postings,Customer Service
 2020-02-03,CA,0.09,total postings,Customer Service
@@ -5362,10 +5446,10 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-07,CA,70.1,total postings,Customer Service
 2021-10-08,CA,70.51,total postings,Customer Service
 2021-10-09,CA,71.17,total postings,Customer Service
-2021-10-10,CA,71.99,total postings,Customer Service
+2021-10-10,CA,72,total postings,Customer Service
 2021-10-11,CA,72.79,total postings,Customer Service
-2021-10-12,CA,73.16,total postings,Customer Service
-2021-10-13,CA,73.61,total postings,Customer Service
+2021-10-12,CA,73.17,total postings,Customer Service
+2021-10-13,CA,73.62,total postings,Customer Service
 2021-10-14,CA,73.47,total postings,Customer Service
 2021-10-15,CA,73.69,total postings,Customer Service
 2021-10-16,CA,72.35,total postings,Customer Service
@@ -5515,9 +5599,9 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-09,CA,70.48,total postings,Customer Service
 2022-03-10,CA,70.71,total postings,Customer Service
 2022-03-11,CA,70.65,total postings,Customer Service
-2022-03-12,CA,70.6,total postings,Customer Service
+2022-03-12,CA,70.61,total postings,Customer Service
 2022-03-13,CA,70.18,total postings,Customer Service
-2022-03-14,CA,71.17,total postings,Customer Service
+2022-03-14,CA,71.18,total postings,Customer Service
 2022-03-15,CA,72.12,total postings,Customer Service
 2022-03-16,CA,72.6,total postings,Customer Service
 2022-03-17,CA,72.93,total postings,Customer Service
@@ -5525,17 +5609,31 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-19,CA,72.99,total postings,Customer Service
 2022-03-20,CA,73.39,total postings,Customer Service
 2022-03-21,CA,73.28,total postings,Customer Service
-2022-03-22,CA,72.48,total postings,Customer Service
+2022-03-22,CA,72.49,total postings,Customer Service
 2022-03-23,CA,71.71,total postings,Customer Service
-2022-03-24,CA,71.64,total postings,Customer Service
-2022-03-25,CA,71.12,total postings,Customer Service
-2022-03-26,CA,70.84,total postings,Customer Service
+2022-03-24,CA,71.65,total postings,Customer Service
+2022-03-25,CA,71.13,total postings,Customer Service
+2022-03-26,CA,70.85,total postings,Customer Service
 2022-03-27,CA,70.64,total postings,Customer Service
 2022-03-28,CA,70.27,total postings,Customer Service
-2022-03-29,CA,70.33,total postings,Customer Service
+2022-03-29,CA,70.34,total postings,Customer Service
 2022-03-30,CA,70.64,total postings,Customer Service
-2022-03-31,CA,70.6,total postings,Customer Service
-2022-04-01,CA,70.52,total postings,Customer Service
+2022-03-31,CA,70.61,total postings,Customer Service
+2022-04-01,CA,70.53,total postings,Customer Service
+2022-04-02,CA,71.48,total postings,Customer Service
+2022-04-03,CA,72.15,total postings,Customer Service
+2022-04-04,CA,72.23,total postings,Customer Service
+2022-04-05,CA,73.82,total postings,Customer Service
+2022-04-06,CA,74.68,total postings,Customer Service
+2022-04-07,CA,75.17,total postings,Customer Service
+2022-04-08,CA,76.38,total postings,Customer Service
+2022-04-09,CA,75.7,total postings,Customer Service
+2022-04-10,CA,75.63,total postings,Customer Service
+2022-04-11,CA,76.04,total postings,Customer Service
+2022-04-12,CA,75.03,total postings,Customer Service
+2022-04-13,CA,74.85,total postings,Customer Service
+2022-04-14,CA,74.67,total postings,Customer Service
+2022-04-15,CA,74.3,total postings,Customer Service
 2020-02-01,CA,0,total postings,Driving
 2020-02-02,CA,0.17,total postings,Driving
 2020-02-03,CA,0.41,total postings,Driving
@@ -6247,12 +6345,12 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-01-09,CA,39.59,total postings,Driving
 2022-01-10,CA,39.7,total postings,Driving
 2022-01-11,CA,40.88,total postings,Driving
-2022-01-12,CA,41.47,total postings,Driving
+2022-01-12,CA,41.48,total postings,Driving
 2022-01-13,CA,42.26,total postings,Driving
 2022-01-14,CA,42.83,total postings,Driving
 2022-01-15,CA,43.55,total postings,Driving
 2022-01-16,CA,44.17,total postings,Driving
-2022-01-17,CA,44.94,total postings,Driving
+2022-01-17,CA,44.95,total postings,Driving
 2022-01-18,CA,45.28,total postings,Driving
 2022-01-19,CA,45.86,total postings,Driving
 2022-01-20,CA,46.43,total postings,Driving
@@ -6270,9 +6368,9 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-02-01,CA,57.34,total postings,Driving
 2022-02-02,CA,58.74,total postings,Driving
 2022-02-03,CA,59.94,total postings,Driving
-2022-02-04,CA,60.82,total postings,Driving
-2022-02-05,CA,61.22,total postings,Driving
-2022-02-06,CA,61.52,total postings,Driving
+2022-02-04,CA,60.83,total postings,Driving
+2022-02-05,CA,61.23,total postings,Driving
+2022-02-06,CA,61.53,total postings,Driving
 2022-02-07,CA,61.68,total postings,Driving
 2022-02-08,CA,61.51,total postings,Driving
 2022-02-09,CA,61.45,total postings,Driving
@@ -6317,7 +6415,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-20,CA,69.75,total postings,Driving
 2022-03-21,CA,69.33,total postings,Driving
 2022-03-22,CA,68.66,total postings,Driving
-2022-03-23,CA,67.72,total postings,Driving
+2022-03-23,CA,67.73,total postings,Driving
 2022-03-24,CA,66.68,total postings,Driving
 2022-03-25,CA,66.18,total postings,Driving
 2022-03-26,CA,66.09,total postings,Driving
@@ -6327,6 +6425,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,CA,66.49,total postings,Driving
 2022-03-31,CA,67.16,total postings,Driving
 2022-04-01,CA,67.39,total postings,Driving
+2022-04-02,CA,67.66,total postings,Driving
+2022-04-03,CA,67.96,total postings,Driving
+2022-04-04,CA,68.41,total postings,Driving
+2022-04-05,CA,68.6,total postings,Driving
+2022-04-06,CA,68.88,total postings,Driving
+2022-04-07,CA,68.91,total postings,Driving
+2022-04-08,CA,68.83,total postings,Driving
+2022-04-09,CA,68.43,total postings,Driving
+2022-04-10,CA,67.59,total postings,Driving
+2022-04-11,CA,66.78,total postings,Driving
+2022-04-12,CA,66.05,total postings,Driving
+2022-04-13,CA,64.92,total postings,Driving
+2022-04-14,CA,64.62,total postings,Driving
+2022-04-15,CA,64.21,total postings,Driving
 2020-02-01,CA,0,total postings,Education & Instruction
 2020-02-02,CA,0.03,total postings,Education & Instruction
 2020-02-03,CA,0.24,total postings,Education & Instruction
@@ -6941,19 +7053,19 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-04,CA,31.38,total postings,Education & Instruction
 2021-10-05,CA,32.82,total postings,Education & Instruction
 2021-10-06,CA,34.33,total postings,Education & Instruction
-2021-10-07,CA,36.02,total postings,Education & Instruction
-2021-10-08,CA,37.68,total postings,Education & Instruction
-2021-10-09,CA,39.39,total postings,Education & Instruction
-2021-10-10,CA,40.22,total postings,Education & Instruction
-2021-10-11,CA,41.06,total postings,Education & Instruction
-2021-10-12,CA,41.25,total postings,Education & Instruction
-2021-10-13,CA,41.37,total postings,Education & Instruction
-2021-10-14,CA,41.34,total postings,Education & Instruction
-2021-10-15,CA,41.26,total postings,Education & Instruction
-2021-10-16,CA,39.87,total postings,Education & Instruction
-2021-10-17,CA,39.98,total postings,Education & Instruction
-2021-10-18,CA,39.05,total postings,Education & Instruction
-2021-10-19,CA,38.71,total postings,Education & Instruction
+2021-10-07,CA,36.03,total postings,Education & Instruction
+2021-10-08,CA,37.69,total postings,Education & Instruction
+2021-10-09,CA,39.4,total postings,Education & Instruction
+2021-10-10,CA,40.23,total postings,Education & Instruction
+2021-10-11,CA,41.07,total postings,Education & Instruction
+2021-10-12,CA,41.26,total postings,Education & Instruction
+2021-10-13,CA,41.38,total postings,Education & Instruction
+2021-10-14,CA,41.36,total postings,Education & Instruction
+2021-10-15,CA,41.27,total postings,Education & Instruction
+2021-10-16,CA,39.89,total postings,Education & Instruction
+2021-10-17,CA,40,total postings,Education & Instruction
+2021-10-18,CA,39.06,total postings,Education & Instruction
+2021-10-19,CA,38.72,total postings,Education & Instruction
 2021-10-20,CA,38.3,total postings,Education & Instruction
 2021-10-21,CA,37.95,total postings,Education & Instruction
 2021-10-22,CA,37.43,total postings,Education & Instruction
@@ -7114,10 +7226,24 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-26,CA,47.23,total postings,Education & Instruction
 2022-03-27,CA,47.49,total postings,Education & Instruction
 2022-03-28,CA,47.82,total postings,Education & Instruction
-2022-03-29,CA,47.91,total postings,Education & Instruction
+2022-03-29,CA,47.92,total postings,Education & Instruction
 2022-03-30,CA,48.12,total postings,Education & Instruction
 2022-03-31,CA,48.22,total postings,Education & Instruction
 2022-04-01,CA,48.06,total postings,Education & Instruction
+2022-04-02,CA,48.02,total postings,Education & Instruction
+2022-04-03,CA,47.98,total postings,Education & Instruction
+2022-04-04,CA,47.72,total postings,Education & Instruction
+2022-04-05,CA,47.45,total postings,Education & Instruction
+2022-04-06,CA,47.24,total postings,Education & Instruction
+2022-04-07,CA,46.95,total postings,Education & Instruction
+2022-04-08,CA,46.68,total postings,Education & Instruction
+2022-04-09,CA,46.09,total postings,Education & Instruction
+2022-04-10,CA,45.54,total postings,Education & Instruction
+2022-04-11,CA,45.21,total postings,Education & Instruction
+2022-04-12,CA,44.83,total postings,Education & Instruction
+2022-04-13,CA,44.45,total postings,Education & Instruction
+2022-04-14,CA,44.17,total postings,Education & Instruction
+2022-04-15,CA,43.01,total postings,Education & Instruction
 2020-02-01,CA,0,total postings,Industrial Engineering
 2020-02-02,CA,0.07,total postings,Industrial Engineering
 2020-02-03,CA,0.19,total postings,Industrial Engineering
@@ -7829,13 +7955,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-01-09,CA,79.97,total postings,Industrial Engineering
 2022-01-10,CA,80.35,total postings,Industrial Engineering
 2022-01-11,CA,80.8,total postings,Industrial Engineering
-2022-01-12,CA,80.96,total postings,Industrial Engineering
-2022-01-13,CA,81.27,total postings,Industrial Engineering
-2022-01-14,CA,81.26,total postings,Industrial Engineering
-2022-01-15,CA,81.56,total postings,Industrial Engineering
-2022-01-16,CA,81.82,total postings,Industrial Engineering
-2022-01-17,CA,81.71,total postings,Industrial Engineering
-2022-01-18,CA,81.82,total postings,Industrial Engineering
+2022-01-12,CA,80.97,total postings,Industrial Engineering
+2022-01-13,CA,81.28,total postings,Industrial Engineering
+2022-01-14,CA,81.27,total postings,Industrial Engineering
+2022-01-15,CA,81.57,total postings,Industrial Engineering
+2022-01-16,CA,81.83,total postings,Industrial Engineering
+2022-01-17,CA,81.72,total postings,Industrial Engineering
+2022-01-18,CA,81.83,total postings,Industrial Engineering
 2022-01-19,CA,82.3,total postings,Industrial Engineering
 2022-01-20,CA,82.75,total postings,Industrial Engineering
 2022-01-21,CA,83.25,total postings,Industrial Engineering
@@ -7908,7 +8034,21 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-29,CA,82.24,total postings,Industrial Engineering
 2022-03-30,CA,82.79,total postings,Industrial Engineering
 2022-03-31,CA,83.25,total postings,Industrial Engineering
-2022-04-01,CA,84.15,total postings,Industrial Engineering
+2022-04-01,CA,84.16,total postings,Industrial Engineering
+2022-04-02,CA,84.89,total postings,Industrial Engineering
+2022-04-03,CA,85.64,total postings,Industrial Engineering
+2022-04-04,CA,86.17,total postings,Industrial Engineering
+2022-04-05,CA,86.76,total postings,Industrial Engineering
+2022-04-06,CA,86.99,total postings,Industrial Engineering
+2022-04-07,CA,86.97,total postings,Industrial Engineering
+2022-04-08,CA,86.51,total postings,Industrial Engineering
+2022-04-09,CA,85.72,total postings,Industrial Engineering
+2022-04-10,CA,84.61,total postings,Industrial Engineering
+2022-04-11,CA,83.94,total postings,Industrial Engineering
+2022-04-12,CA,83.16,total postings,Industrial Engineering
+2022-04-13,CA,82.24,total postings,Industrial Engineering
+2022-04-14,CA,81.83,total postings,Industrial Engineering
+2022-04-15,CA,81.83,total postings,Industrial Engineering
 2020-02-01,CA,0,total postings,Banking & Finance
 2020-02-02,CA,-0.35,total postings,Banking & Finance
 2020-02-03,CA,-0.54,total postings,Banking & Finance
@@ -8545,10 +8685,10 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-26,CA,88.45,total postings,Banking & Finance
 2021-10-27,CA,88.83,total postings,Banking & Finance
 2021-10-28,CA,89.82,total postings,Banking & Finance
-2021-10-29,CA,90.69,total postings,Banking & Finance
-2021-10-30,CA,90.89,total postings,Banking & Finance
+2021-10-29,CA,90.7,total postings,Banking & Finance
+2021-10-30,CA,90.9,total postings,Banking & Finance
 2021-10-31,CA,91.39,total postings,Banking & Finance
-2021-11-01,CA,92.17,total postings,Banking & Finance
+2021-11-01,CA,92.18,total postings,Banking & Finance
 2021-11-02,CA,92.93,total postings,Banking & Finance
 2021-11-03,CA,93.55,total postings,Banking & Finance
 2021-11-04,CA,94.16,total postings,Banking & Finance
@@ -8567,11 +8707,11 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-11-17,CA,98.75,total postings,Banking & Finance
 2021-11-18,CA,98.44,total postings,Banking & Finance
 2021-11-19,CA,98.05,total postings,Banking & Finance
-2021-11-20,CA,96.74,total postings,Banking & Finance
+2021-11-20,CA,96.75,total postings,Banking & Finance
 2021-11-21,CA,96.78,total postings,Banking & Finance
-2021-11-22,CA,96.84,total postings,Banking & Finance
-2021-11-23,CA,96.81,total postings,Banking & Finance
-2021-11-24,CA,96.64,total postings,Banking & Finance
+2021-11-22,CA,96.85,total postings,Banking & Finance
+2021-11-23,CA,96.82,total postings,Banking & Finance
+2021-11-24,CA,96.65,total postings,Banking & Finance
 2021-11-25,CA,97.12,total postings,Banking & Finance
 2021-11-26,CA,97.61,total postings,Banking & Finance
 2021-11-27,CA,99.19,total postings,Banking & Finance
@@ -8698,8 +8838,22 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-28,CA,113.95,total postings,Banking & Finance
 2022-03-29,CA,115.01,total postings,Banking & Finance
 2022-03-30,CA,116.08,total postings,Banking & Finance
-2022-03-31,CA,117.6,total postings,Banking & Finance
-2022-04-01,CA,118.76,total postings,Banking & Finance
+2022-03-31,CA,117.61,total postings,Banking & Finance
+2022-04-01,CA,118.82,total postings,Banking & Finance
+2022-04-02,CA,119.99,total postings,Banking & Finance
+2022-04-03,CA,121.2,total postings,Banking & Finance
+2022-04-04,CA,121.83,total postings,Banking & Finance
+2022-04-05,CA,122.6,total postings,Banking & Finance
+2022-04-06,CA,122.9,total postings,Banking & Finance
+2022-04-07,CA,122.36,total postings,Banking & Finance
+2022-04-08,CA,121.83,total postings,Banking & Finance
+2022-04-09,CA,119.65,total postings,Banking & Finance
+2022-04-10,CA,117.14,total postings,Banking & Finance
+2022-04-11,CA,115.06,total postings,Banking & Finance
+2022-04-12,CA,112.84,total postings,Banking & Finance
+2022-04-13,CA,110.74,total postings,Banking & Finance
+2022-04-14,CA,109.95,total postings,Banking & Finance
+2022-04-15,CA,108.93,total postings,Banking & Finance
 2020-02-01,CA,0,total postings,Food Preparation & Service
 2020-02-02,CA,-0.07,total postings,Food Preparation & Service
 2020-02-03,CA,-0.14,total postings,Food Preparation & Service
@@ -9334,7 +9488,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-24,CA,56.45,total postings,Food Preparation & Service
 2021-10-25,CA,56.35,total postings,Food Preparation & Service
 2021-10-26,CA,56.34,total postings,Food Preparation & Service
-2021-10-27,CA,56.25,total postings,Food Preparation & Service
+2021-10-27,CA,56.26,total postings,Food Preparation & Service
 2021-10-28,CA,56.29,total postings,Food Preparation & Service
 2021-10-29,CA,56.28,total postings,Food Preparation & Service
 2021-10-30,CA,56.63,total postings,Food Preparation & Service
@@ -9466,7 +9620,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-05,CA,67.6,total postings,Food Preparation & Service
 2022-03-06,CA,68.58,total postings,Food Preparation & Service
 2022-03-07,CA,69.67,total postings,Food Preparation & Service
-2022-03-08,CA,70.84,total postings,Food Preparation & Service
+2022-03-08,CA,70.85,total postings,Food Preparation & Service
 2022-03-09,CA,71.76,total postings,Food Preparation & Service
 2022-03-10,CA,72.8,total postings,Food Preparation & Service
 2022-03-11,CA,73.6,total postings,Food Preparation & Service
@@ -9476,21 +9630,35 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-15,CA,77.71,total postings,Food Preparation & Service
 2022-03-16,CA,78.75,total postings,Food Preparation & Service
 2022-03-17,CA,79.75,total postings,Food Preparation & Service
-2022-03-18,CA,80.71,total postings,Food Preparation & Service
+2022-03-18,CA,80.72,total postings,Food Preparation & Service
 2022-03-19,CA,81.07,total postings,Food Preparation & Service
 2022-03-20,CA,81.5,total postings,Food Preparation & Service
 2022-03-21,CA,82.15,total postings,Food Preparation & Service
-2022-03-22,CA,82.73,total postings,Food Preparation & Service
-2022-03-23,CA,83.5,total postings,Food Preparation & Service
-2022-03-24,CA,84.46,total postings,Food Preparation & Service
-2022-03-25,CA,85.82,total postings,Food Preparation & Service
-2022-03-26,CA,87.88,total postings,Food Preparation & Service
-2022-03-27,CA,89.92,total postings,Food Preparation & Service
-2022-03-28,CA,92.12,total postings,Food Preparation & Service
-2022-03-29,CA,94.29,total postings,Food Preparation & Service
-2022-03-30,CA,96.11,total postings,Food Preparation & Service
+2022-03-22,CA,82.74,total postings,Food Preparation & Service
+2022-03-23,CA,83.51,total postings,Food Preparation & Service
+2022-03-24,CA,84.47,total postings,Food Preparation & Service
+2022-03-25,CA,85.84,total postings,Food Preparation & Service
+2022-03-26,CA,87.9,total postings,Food Preparation & Service
+2022-03-27,CA,89.94,total postings,Food Preparation & Service
+2022-03-28,CA,92.14,total postings,Food Preparation & Service
+2022-03-29,CA,94.3,total postings,Food Preparation & Service
+2022-03-30,CA,96.12,total postings,Food Preparation & Service
 2022-03-31,CA,97.57,total postings,Food Preparation & Service
 2022-04-01,CA,98.81,total postings,Food Preparation & Service
+2022-04-02,CA,99.61,total postings,Food Preparation & Service
+2022-04-03,CA,100.15,total postings,Food Preparation & Service
+2022-04-04,CA,100.32,total postings,Food Preparation & Service
+2022-04-05,CA,100.42,total postings,Food Preparation & Service
+2022-04-06,CA,100.68,total postings,Food Preparation & Service
+2022-04-07,CA,100.95,total postings,Food Preparation & Service
+2022-04-08,CA,100.87,total postings,Food Preparation & Service
+2022-04-09,CA,100.81,total postings,Food Preparation & Service
+2022-04-10,CA,100.81,total postings,Food Preparation & Service
+2022-04-11,CA,100.89,total postings,Food Preparation & Service
+2022-04-12,CA,101.02,total postings,Food Preparation & Service
+2022-04-13,CA,101.07,total postings,Food Preparation & Service
+2022-04-14,CA,101.09,total postings,Food Preparation & Service
+2022-04-15,CA,101.27,total postings,Food Preparation & Service
 2020-02-01,CA,0,total postings,Hospitality & Tourism
 2020-02-02,CA,-0.29,total postings,Hospitality & Tourism
 2020-02-03,CA,-0.19,total postings,Hospitality & Tourism
@@ -10282,6 +10450,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,CA,63.86,total postings,Hospitality & Tourism
 2022-03-31,CA,64.53,total postings,Hospitality & Tourism
 2022-04-01,CA,64.84,total postings,Hospitality & Tourism
+2022-04-02,CA,64.93,total postings,Hospitality & Tourism
+2022-04-03,CA,65.08,total postings,Hospitality & Tourism
+2022-04-04,CA,65.21,total postings,Hospitality & Tourism
+2022-04-05,CA,65.68,total postings,Hospitality & Tourism
+2022-04-06,CA,66.71,total postings,Hospitality & Tourism
+2022-04-07,CA,67.3,total postings,Hospitality & Tourism
+2022-04-08,CA,67.68,total postings,Hospitality & Tourism
+2022-04-09,CA,68.01,total postings,Hospitality & Tourism
+2022-04-10,CA,68.18,total postings,Hospitality & Tourism
+2022-04-11,CA,68.59,total postings,Hospitality & Tourism
+2022-04-12,CA,68.69,total postings,Hospitality & Tourism
+2022-04-13,CA,68.93,total postings,Hospitality & Tourism
+2022-04-14,CA,69.23,total postings,Hospitality & Tourism
+2022-04-15,CA,69.75,total postings,Hospitality & Tourism
 2020-02-01,CA,0,total postings,Human Resources
 2020-02-02,CA,0.03,total postings,Human Resources
 2020-02-03,CA,0.28,total postings,Human Resources
@@ -11065,14 +11247,28 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-22,CA,131.5,total postings,Human Resources
 2022-03-23,CA,130.81,total postings,Human Resources
 2022-03-24,CA,130.27,total postings,Human Resources
-2022-03-25,CA,130.11,total postings,Human Resources
+2022-03-25,CA,130.12,total postings,Human Resources
 2022-03-26,CA,129.89,total postings,Human Resources
-2022-03-27,CA,129.82,total postings,Human Resources
+2022-03-27,CA,129.83,total postings,Human Resources
 2022-03-28,CA,129.77,total postings,Human Resources
 2022-03-29,CA,129.96,total postings,Human Resources
 2022-03-30,CA,130.22,total postings,Human Resources
-2022-03-31,CA,130.8,total postings,Human Resources
-2022-04-01,CA,130.78,total postings,Human Resources
+2022-03-31,CA,130.81,total postings,Human Resources
+2022-04-01,CA,130.79,total postings,Human Resources
+2022-04-02,CA,131.1,total postings,Human Resources
+2022-04-03,CA,131.39,total postings,Human Resources
+2022-04-04,CA,131.7,total postings,Human Resources
+2022-04-05,CA,131.62,total postings,Human Resources
+2022-04-06,CA,131.65,total postings,Human Resources
+2022-04-07,CA,130.77,total postings,Human Resources
+2022-04-08,CA,130.16,total postings,Human Resources
+2022-04-09,CA,128.84,total postings,Human Resources
+2022-04-10,CA,127.19,total postings,Human Resources
+2022-04-11,CA,125.48,total postings,Human Resources
+2022-04-12,CA,124.19,total postings,Human Resources
+2022-04-13,CA,122.88,total postings,Human Resources
+2022-04-14,CA,122.39,total postings,Human Resources
+2022-04-15,CA,122.03,total postings,Human Resources
 2020-02-01,CA,0,total postings,Installation & Maintenance
 2020-02-02,CA,0.13,total postings,Installation & Maintenance
 2020-02-03,CA,0.49,total postings,Installation & Maintenance
@@ -11852,18 +12048,32 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-18,CA,69.17,total postings,Installation & Maintenance
 2022-03-19,CA,68.81,total postings,Installation & Maintenance
 2022-03-20,CA,68.46,total postings,Installation & Maintenance
-2022-03-21,CA,68.35,total postings,Installation & Maintenance
+2022-03-21,CA,68.36,total postings,Installation & Maintenance
 2022-03-22,CA,68.02,total postings,Installation & Maintenance
-2022-03-23,CA,67.83,total postings,Installation & Maintenance
+2022-03-23,CA,67.84,total postings,Installation & Maintenance
 2022-03-24,CA,67.67,total postings,Installation & Maintenance
 2022-03-25,CA,67.72,total postings,Installation & Maintenance
 2022-03-26,CA,68.01,total postings,Installation & Maintenance
-2022-03-27,CA,68.35,total postings,Installation & Maintenance
+2022-03-27,CA,68.36,total postings,Installation & Maintenance
 2022-03-28,CA,68.69,total postings,Installation & Maintenance
 2022-03-29,CA,68.95,total postings,Installation & Maintenance
-2022-03-30,CA,69.43,total postings,Installation & Maintenance
+2022-03-30,CA,69.44,total postings,Installation & Maintenance
 2022-03-31,CA,69.94,total postings,Installation & Maintenance
-2022-04-01,CA,70.25,total postings,Installation & Maintenance
+2022-04-01,CA,70.26,total postings,Installation & Maintenance
+2022-04-02,CA,70.5,total postings,Installation & Maintenance
+2022-04-03,CA,70.65,total postings,Installation & Maintenance
+2022-04-04,CA,70.8,total postings,Installation & Maintenance
+2022-04-05,CA,71.08,total postings,Installation & Maintenance
+2022-04-06,CA,71.23,total postings,Installation & Maintenance
+2022-04-07,CA,71.11,total postings,Installation & Maintenance
+2022-04-08,CA,70.93,total postings,Installation & Maintenance
+2022-04-09,CA,70.47,total postings,Installation & Maintenance
+2022-04-10,CA,70.03,total postings,Installation & Maintenance
+2022-04-11,CA,69.61,total postings,Installation & Maintenance
+2022-04-12,CA,69.25,total postings,Installation & Maintenance
+2022-04-13,CA,68.78,total postings,Installation & Maintenance
+2022-04-14,CA,68.71,total postings,Installation & Maintenance
+2022-04-15,CA,68.59,total postings,Installation & Maintenance
 2020-02-01,CA,0,total postings,Insurance
 2020-02-02,CA,0.02,total postings,Insurance
 2020-02-03,CA,0.07,total postings,Insurance
@@ -12653,8 +12863,22 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-28,CA,67.52,total postings,Insurance
 2022-03-29,CA,67.73,total postings,Insurance
 2022-03-30,CA,68.3,total postings,Insurance
-2022-03-31,CA,69.44,total postings,Insurance
-2022-04-01,CA,70.65,total postings,Insurance
+2022-03-31,CA,69.47,total postings,Insurance
+2022-04-01,CA,70.76,total postings,Insurance
+2022-04-02,CA,71.62,total postings,Insurance
+2022-04-03,CA,72.74,total postings,Insurance
+2022-04-04,CA,73.77,total postings,Insurance
+2022-04-05,CA,74.67,total postings,Insurance
+2022-04-06,CA,75.26,total postings,Insurance
+2022-04-07,CA,75.78,total postings,Insurance
+2022-04-08,CA,76.27,total postings,Insurance
+2022-04-09,CA,75.86,total postings,Insurance
+2022-04-10,CA,74.39,total postings,Insurance
+2022-04-11,CA,72.89,total postings,Insurance
+2022-04-12,CA,71.58,total postings,Insurance
+2022-04-13,CA,70.21,total postings,Insurance
+2022-04-14,CA,68.9,total postings,Insurance
+2022-04-15,CA,67.89,total postings,Insurance
 2020-02-01,CA,0,total postings,Legal
 2020-02-02,CA,0.12,total postings,Legal
 2020-02-03,CA,0.42,total postings,Legal
@@ -13445,7 +13669,21 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-29,CA,78.3,total postings,Legal
 2022-03-30,CA,78.7,total postings,Legal
 2022-03-31,CA,78.99,total postings,Legal
-2022-04-01,CA,79.5,total postings,Legal
+2022-04-01,CA,79.52,total postings,Legal
+2022-04-02,CA,79.79,total postings,Legal
+2022-04-03,CA,80.15,total postings,Legal
+2022-04-04,CA,80.27,total postings,Legal
+2022-04-05,CA,80.06,total postings,Legal
+2022-04-06,CA,80.11,total postings,Legal
+2022-04-07,CA,79.6,total postings,Legal
+2022-04-08,CA,78.96,total postings,Legal
+2022-04-09,CA,77.7,total postings,Legal
+2022-04-10,CA,76.44,total postings,Legal
+2022-04-11,CA,75.29,total postings,Legal
+2022-04-12,CA,74.51,total postings,Legal
+2022-04-13,CA,73.42,total postings,Legal
+2022-04-14,CA,73.1,total postings,Legal
+2022-04-15,CA,72.8,total postings,Legal
 2020-02-01,CA,0,total postings,Management
 2020-02-02,CA,-0.13,total postings,Management
 2020-02-03,CA,-0.07,total postings,Management
@@ -14212,7 +14450,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-05,CA,64.34,total postings,Management
 2022-03-06,CA,64.45,total postings,Management
 2022-03-07,CA,64.61,total postings,Management
-2022-03-08,CA,65.07,total postings,Management
+2022-03-08,CA,65.08,total postings,Management
 2022-03-09,CA,65.41,total postings,Management
 2022-03-10,CA,65.78,total postings,Management
 2022-03-11,CA,66.03,total postings,Management
@@ -14226,17 +14464,31 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-19,CA,68.3,total postings,Management
 2022-03-20,CA,68.58,total postings,Management
 2022-03-21,CA,68.9,total postings,Management
-2022-03-22,CA,68.96,total postings,Management
-2022-03-23,CA,69.11,total postings,Management
+2022-03-22,CA,68.97,total postings,Management
+2022-03-23,CA,69.12,total postings,Management
 2022-03-24,CA,69.21,total postings,Management
-2022-03-25,CA,69.53,total postings,Management
-2022-03-26,CA,69.89,total postings,Management
-2022-03-27,CA,70.43,total postings,Management
-2022-03-28,CA,71.28,total postings,Management
-2022-03-29,CA,72.2,total postings,Management
+2022-03-25,CA,69.54,total postings,Management
+2022-03-26,CA,69.9,total postings,Management
+2022-03-27,CA,70.44,total postings,Management
+2022-03-28,CA,71.29,total postings,Management
+2022-03-29,CA,72.21,total postings,Management
 2022-03-30,CA,73.47,total postings,Management
-2022-03-31,CA,74.91,total postings,Management
-2022-04-01,CA,75.99,total postings,Management
+2022-03-31,CA,74.93,total postings,Management
+2022-04-01,CA,76.02,total postings,Management
+2022-04-02,CA,77.28,total postings,Management
+2022-04-03,CA,78.39,total postings,Management
+2022-04-04,CA,79.14,total postings,Management
+2022-04-05,CA,79.95,total postings,Management
+2022-04-06,CA,80.31,total postings,Management
+2022-04-07,CA,80.08,total postings,Management
+2022-04-08,CA,79.97,total postings,Management
+2022-04-09,CA,79.08,total postings,Management
+2022-04-10,CA,78.26,total postings,Management
+2022-04-11,CA,77.61,total postings,Management
+2022-04-12,CA,76.93,total postings,Management
+2022-04-13,CA,76.15,total postings,Management
+2022-04-14,CA,76.03,total postings,Management
+2022-04-15,CA,76.03,total postings,Management
 2020-02-01,CA,0,total postings,Production & Manufacturing
 2020-02-02,CA,0.47,total postings,Production & Manufacturing
 2020-02-03,CA,1.08,total postings,Production & Manufacturing
@@ -14955,11 +15207,11 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-01-16,CA,58.28,total postings,Production & Manufacturing
 2022-01-17,CA,59.06,total postings,Production & Manufacturing
 2022-01-18,CA,59.71,total postings,Production & Manufacturing
-2022-01-19,CA,60.23,total postings,Production & Manufacturing
+2022-01-19,CA,60.24,total postings,Production & Manufacturing
 2022-01-20,CA,60.51,total postings,Production & Manufacturing
-2022-01-21,CA,61.03,total postings,Production & Manufacturing
-2022-01-22,CA,60.93,total postings,Production & Manufacturing
-2022-01-23,CA,61.42,total postings,Production & Manufacturing
+2022-01-21,CA,61.04,total postings,Production & Manufacturing
+2022-01-22,CA,60.94,total postings,Production & Manufacturing
+2022-01-23,CA,61.43,total postings,Production & Manufacturing
 2022-01-24,CA,61.96,total postings,Production & Manufacturing
 2022-01-25,CA,62.59,total postings,Production & Manufacturing
 2022-01-26,CA,63.11,total postings,Production & Manufacturing
@@ -15010,24 +15262,38 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-12,CA,82.47,total postings,Production & Manufacturing
 2022-03-13,CA,82.63,total postings,Production & Manufacturing
 2022-03-14,CA,82.73,total postings,Production & Manufacturing
-2022-03-15,CA,82.98,total postings,Production & Manufacturing
-2022-03-16,CA,83.03,total postings,Production & Manufacturing
+2022-03-15,CA,82.99,total postings,Production & Manufacturing
+2022-03-16,CA,83.04,total postings,Production & Manufacturing
 2022-03-17,CA,83.03,total postings,Production & Manufacturing
 2022-03-18,CA,82.89,total postings,Production & Manufacturing
 2022-03-19,CA,82.47,total postings,Production & Manufacturing
-2022-03-20,CA,82.18,total postings,Production & Manufacturing
+2022-03-20,CA,82.19,total postings,Production & Manufacturing
 2022-03-21,CA,82.13,total postings,Production & Manufacturing
 2022-03-22,CA,81.85,total postings,Production & Manufacturing
-2022-03-23,CA,81.71,total postings,Production & Manufacturing
-2022-03-24,CA,81.48,total postings,Production & Manufacturing
-2022-03-25,CA,81.55,total postings,Production & Manufacturing
-2022-03-26,CA,81.85,total postings,Production & Manufacturing
-2022-03-27,CA,82.16,total postings,Production & Manufacturing
-2022-03-28,CA,82.51,total postings,Production & Manufacturing
-2022-03-29,CA,83.01,total postings,Production & Manufacturing
+2022-03-23,CA,81.72,total postings,Production & Manufacturing
+2022-03-24,CA,81.5,total postings,Production & Manufacturing
+2022-03-25,CA,81.57,total postings,Production & Manufacturing
+2022-03-26,CA,81.86,total postings,Production & Manufacturing
+2022-03-27,CA,82.18,total postings,Production & Manufacturing
+2022-03-28,CA,82.53,total postings,Production & Manufacturing
+2022-03-29,CA,83.02,total postings,Production & Manufacturing
 2022-03-30,CA,83.55,total postings,Production & Manufacturing
-2022-03-31,CA,84.12,total postings,Production & Manufacturing
-2022-04-01,CA,84.77,total postings,Production & Manufacturing
+2022-03-31,CA,84.13,total postings,Production & Manufacturing
+2022-04-01,CA,84.78,total postings,Production & Manufacturing
+2022-04-02,CA,85.5,total postings,Production & Manufacturing
+2022-04-03,CA,86.2,total postings,Production & Manufacturing
+2022-04-04,CA,86.76,total postings,Production & Manufacturing
+2022-04-05,CA,87.15,total postings,Production & Manufacturing
+2022-04-06,CA,87.72,total postings,Production & Manufacturing
+2022-04-07,CA,87.92,total postings,Production & Manufacturing
+2022-04-08,CA,87.95,total postings,Production & Manufacturing
+2022-04-09,CA,87.48,total postings,Production & Manufacturing
+2022-04-10,CA,86.92,total postings,Production & Manufacturing
+2022-04-11,CA,86.44,total postings,Production & Manufacturing
+2022-04-12,CA,85.78,total postings,Production & Manufacturing
+2022-04-13,CA,84.7,total postings,Production & Manufacturing
+2022-04-14,CA,84.4,total postings,Production & Manufacturing
+2022-04-15,CA,84.09,total postings,Production & Manufacturing
 2020-02-01,CA,0,total postings,Marketing
 2020-02-02,CA,0.17,total postings,Marketing
 2020-02-03,CA,0.62,total postings,Marketing
@@ -15643,10 +15909,10 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-05,CA,41.23,total postings,Marketing
 2021-10-06,CA,41.56,total postings,Marketing
 2021-10-07,CA,41.91,total postings,Marketing
-2021-10-08,CA,42.16,total postings,Marketing
-2021-10-09,CA,42.57,total postings,Marketing
-2021-10-10,CA,43.07,total postings,Marketing
-2021-10-11,CA,43.49,total postings,Marketing
+2021-10-08,CA,42.17,total postings,Marketing
+2021-10-09,CA,42.58,total postings,Marketing
+2021-10-10,CA,43.08,total postings,Marketing
+2021-10-11,CA,43.5,total postings,Marketing
 2021-10-12,CA,43.58,total postings,Marketing
 2021-10-13,CA,43.44,total postings,Marketing
 2021-10-14,CA,43.28,total postings,Marketing
@@ -15768,13 +16034,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-02-07,CA,63.01,total postings,Marketing
 2022-02-08,CA,64.13,total postings,Marketing
 2022-02-09,CA,64.79,total postings,Marketing
-2022-02-10,CA,65.35,total postings,Marketing
-2022-02-11,CA,65.45,total postings,Marketing
-2022-02-12,CA,65.38,total postings,Marketing
-2022-02-13,CA,65.16,total postings,Marketing
-2022-02-14,CA,64.8,total postings,Marketing
-2022-02-15,CA,62.69,total postings,Marketing
-2022-02-16,CA,62.01,total postings,Marketing
+2022-02-10,CA,65.37,total postings,Marketing
+2022-02-11,CA,65.47,total postings,Marketing
+2022-02-12,CA,65.4,total postings,Marketing
+2022-02-13,CA,65.18,total postings,Marketing
+2022-02-14,CA,64.81,total postings,Marketing
+2022-02-15,CA,62.71,total postings,Marketing
+2022-02-16,CA,62.03,total postings,Marketing
 2022-02-17,CA,61.4,total postings,Marketing
 2022-02-18,CA,61.13,total postings,Marketing
 2022-02-19,CA,60.6,total postings,Marketing
@@ -15819,6 +16085,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,CA,58.66,total postings,Marketing
 2022-03-31,CA,58.53,total postings,Marketing
 2022-04-01,CA,58.17,total postings,Marketing
+2022-04-02,CA,57.83,total postings,Marketing
+2022-04-03,CA,57.69,total postings,Marketing
+2022-04-04,CA,57.66,total postings,Marketing
+2022-04-05,CA,58.03,total postings,Marketing
+2022-04-06,CA,58.22,total postings,Marketing
+2022-04-07,CA,58.09,total postings,Marketing
+2022-04-08,CA,58.3,total postings,Marketing
+2022-04-09,CA,57.95,total postings,Marketing
+2022-04-10,CA,57.41,total postings,Marketing
+2022-04-11,CA,56.86,total postings,Marketing
+2022-04-12,CA,56.34,total postings,Marketing
+2022-04-13,CA,55.69,total postings,Marketing
+2022-04-14,CA,55.58,total postings,Marketing
+2022-04-15,CA,55.58,total postings,Marketing
 2020-02-01,CA,0,total postings,Dental
 2020-02-02,CA,0.29,total postings,Dental
 2020-02-03,CA,0.43,total postings,Dental
@@ -16591,15 +16871,15 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-11,CA,39.74,total postings,Dental
 2022-03-12,CA,39.57,total postings,Dental
 2022-03-13,CA,39.4,total postings,Dental
-2022-03-14,CA,38.71,total postings,Dental
-2022-03-15,CA,38.28,total postings,Dental
-2022-03-16,CA,37.86,total postings,Dental
-2022-03-17,CA,37.4,total postings,Dental
-2022-03-18,CA,36.87,total postings,Dental
-2022-03-19,CA,36.54,total postings,Dental
-2022-03-20,CA,36.6,total postings,Dental
-2022-03-21,CA,37.47,total postings,Dental
-2022-03-22,CA,37.74,total postings,Dental
+2022-03-14,CA,38.72,total postings,Dental
+2022-03-15,CA,38.3,total postings,Dental
+2022-03-16,CA,37.89,total postings,Dental
+2022-03-17,CA,37.43,total postings,Dental
+2022-03-18,CA,36.89,total postings,Dental
+2022-03-19,CA,36.56,total postings,Dental
+2022-03-20,CA,36.63,total postings,Dental
+2022-03-21,CA,37.49,total postings,Dental
+2022-03-22,CA,37.75,total postings,Dental
 2022-03-23,CA,38.2,total postings,Dental
 2022-03-24,CA,38.8,total postings,Dental
 2022-03-25,CA,39.9,total postings,Dental
@@ -16610,6 +16890,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,CA,44.05,total postings,Dental
 2022-03-31,CA,44.7,total postings,Dental
 2022-04-01,CA,45.06,total postings,Dental
+2022-04-02,CA,45.24,total postings,Dental
+2022-04-03,CA,45.37,total postings,Dental
+2022-04-04,CA,45.36,total postings,Dental
+2022-04-05,CA,45.24,total postings,Dental
+2022-04-06,CA,44.91,total postings,Dental
+2022-04-07,CA,44.57,total postings,Dental
+2022-04-08,CA,44.16,total postings,Dental
+2022-04-09,CA,43.8,total postings,Dental
+2022-04-10,CA,43.67,total postings,Dental
+2022-04-11,CA,43.73,total postings,Dental
+2022-04-12,CA,43.66,total postings,Dental
+2022-04-13,CA,43.65,total postings,Dental
+2022-04-14,CA,43.74,total postings,Dental
+2022-04-15,CA,44.05,total postings,Dental
 2020-02-01,CA,0,total postings,Physicians & Surgeons
 2020-02-02,CA,-0.1,total postings,Physicians & Surgeons
 2020-02-03,CA,-0.22,total postings,Physicians & Surgeons
@@ -17400,7 +17694,21 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-29,CA,42.93,total postings,Physicians & Surgeons
 2022-03-30,CA,43,total postings,Physicians & Surgeons
 2022-03-31,CA,43.15,total postings,Physicians & Surgeons
-2022-04-01,CA,43.52,total postings,Physicians & Surgeons
+2022-04-01,CA,43.53,total postings,Physicians & Surgeons
+2022-04-02,CA,43.91,total postings,Physicians & Surgeons
+2022-04-03,CA,44.5,total postings,Physicians & Surgeons
+2022-04-04,CA,44.68,total postings,Physicians & Surgeons
+2022-04-05,CA,44.42,total postings,Physicians & Surgeons
+2022-04-06,CA,44.35,total postings,Physicians & Surgeons
+2022-04-07,CA,44.21,total postings,Physicians & Surgeons
+2022-04-08,CA,44.11,total postings,Physicians & Surgeons
+2022-04-09,CA,43.71,total postings,Physicians & Surgeons
+2022-04-10,CA,43.29,total postings,Physicians & Surgeons
+2022-04-11,CA,43.15,total postings,Physicians & Surgeons
+2022-04-12,CA,42.94,total postings,Physicians & Surgeons
+2022-04-13,CA,42.78,total postings,Physicians & Surgeons
+2022-04-14,CA,42.63,total postings,Physicians & Surgeons
+2022-04-15,CA,43.01,total postings,Physicians & Surgeons
 2020-02-01,CA,0,total postings,Media & Communications
 2020-02-02,CA,-0.14,total postings,Media & Communications
 2020-02-03,CA,-0.25,total postings,Media & Communications
@@ -18192,6 +18500,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,CA,50.92,total postings,Media & Communications
 2022-03-31,CA,51.2,total postings,Media & Communications
 2022-04-01,CA,51.04,total postings,Media & Communications
+2022-04-02,CA,50.75,total postings,Media & Communications
+2022-04-03,CA,50.54,total postings,Media & Communications
+2022-04-04,CA,50.09,total postings,Media & Communications
+2022-04-05,CA,50.14,total postings,Media & Communications
+2022-04-06,CA,50.19,total postings,Media & Communications
+2022-04-07,CA,49.65,total postings,Media & Communications
+2022-04-08,CA,49.04,total postings,Media & Communications
+2022-04-09,CA,48.21,total postings,Media & Communications
+2022-04-10,CA,47.27,total postings,Media & Communications
+2022-04-11,CA,46.24,total postings,Media & Communications
+2022-04-12,CA,45.03,total postings,Media & Communications
+2022-04-13,CA,44.17,total postings,Media & Communications
+2022-04-14,CA,43.86,total postings,Media & Communications
+2022-04-15,CA,44.11,total postings,Media & Communications
 2020-02-01,CA,0,total postings,Nursing
 2020-02-02,CA,-0.12,total postings,Nursing
 2020-02-03,CA,-0.19,total postings,Nursing
@@ -18983,6 +19305,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,CA,70.27,total postings,Nursing
 2022-03-31,CA,70.58,total postings,Nursing
 2022-04-01,CA,70.72,total postings,Nursing
+2022-04-02,CA,70.91,total postings,Nursing
+2022-04-03,CA,71.55,total postings,Nursing
+2022-04-04,CA,71.98,total postings,Nursing
+2022-04-05,CA,72.18,total postings,Nursing
+2022-04-06,CA,72.16,total postings,Nursing
+2022-04-07,CA,71.57,total postings,Nursing
+2022-04-08,CA,71.04,total postings,Nursing
+2022-04-09,CA,70.2,total postings,Nursing
+2022-04-10,CA,69.15,total postings,Nursing
+2022-04-11,CA,68.12,total postings,Nursing
+2022-04-12,CA,67.17,total postings,Nursing
+2022-04-13,CA,66.45,total postings,Nursing
+2022-04-14,CA,66.18,total postings,Nursing
+2022-04-15,CA,66.08,total postings,Nursing
 2020-02-01,CA,0,total postings,Medical Technician
 2020-02-02,CA,0.19,total postings,Medical Technician
 2020-02-03,CA,0.38,total postings,Medical Technician
@@ -19773,7 +20109,21 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-29,CA,58.92,total postings,Medical Technician
 2022-03-30,CA,59.37,total postings,Medical Technician
 2022-03-31,CA,60,total postings,Medical Technician
-2022-04-01,CA,60.51,total postings,Medical Technician
+2022-04-01,CA,60.52,total postings,Medical Technician
+2022-04-02,CA,61.3,total postings,Medical Technician
+2022-04-03,CA,62.42,total postings,Medical Technician
+2022-04-04,CA,63.61,total postings,Medical Technician
+2022-04-05,CA,64.41,total postings,Medical Technician
+2022-04-06,CA,64.71,total postings,Medical Technician
+2022-04-07,CA,64.37,total postings,Medical Technician
+2022-04-08,CA,64.15,total postings,Medical Technician
+2022-04-09,CA,63.86,total postings,Medical Technician
+2022-04-10,CA,63.15,total postings,Medical Technician
+2022-04-11,CA,62.31,total postings,Medical Technician
+2022-04-12,CA,61.68,total postings,Medical Technician
+2022-04-13,CA,61.17,total postings,Medical Technician
+2022-04-14,CA,60.75,total postings,Medical Technician
+2022-04-15,CA,60.17,total postings,Medical Technician
 2020-02-01,CA,0,total postings,Beauty & Wellness
 2020-02-02,CA,-0.25,total postings,Beauty & Wellness
 2020-02-03,CA,-0.43,total postings,Beauty & Wellness
@@ -20565,6 +20915,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,CA,14.08,total postings,Beauty & Wellness
 2022-03-31,CA,14.03,total postings,Beauty & Wellness
 2022-04-01,CA,13.93,total postings,Beauty & Wellness
+2022-04-02,CA,13.73,total postings,Beauty & Wellness
+2022-04-03,CA,13.56,total postings,Beauty & Wellness
+2022-04-04,CA,13.18,total postings,Beauty & Wellness
+2022-04-05,CA,13.66,total postings,Beauty & Wellness
+2022-04-06,CA,13.42,total postings,Beauty & Wellness
+2022-04-07,CA,13.16,total postings,Beauty & Wellness
+2022-04-08,CA,13.06,total postings,Beauty & Wellness
+2022-04-09,CA,13.1,total postings,Beauty & Wellness
+2022-04-10,CA,13.31,total postings,Beauty & Wellness
+2022-04-11,CA,13.64,total postings,Beauty & Wellness
+2022-04-12,CA,14.07,total postings,Beauty & Wellness
+2022-04-13,CA,14.45,total postings,Beauty & Wellness
+2022-04-14,CA,14.81,total postings,Beauty & Wellness
+2022-04-15,CA,15.05,total postings,Beauty & Wellness
 2020-02-01,CA,0,total postings,Project Management
 2020-02-02,CA,-0.07,total postings,Project Management
 2020-02-03,CA,0.07,total postings,Project Management
@@ -21355,7 +21719,21 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-29,CA,83.27,total postings,Project Management
 2022-03-30,CA,83.6,total postings,Project Management
 2022-03-31,CA,83.64,total postings,Project Management
-2022-04-01,CA,83.86,total postings,Project Management
+2022-04-01,CA,83.87,total postings,Project Management
+2022-04-02,CA,84.07,total postings,Project Management
+2022-04-03,CA,84.46,total postings,Project Management
+2022-04-04,CA,84.7,total postings,Project Management
+2022-04-05,CA,85.05,total postings,Project Management
+2022-04-06,CA,85.06,total postings,Project Management
+2022-04-07,CA,84.86,total postings,Project Management
+2022-04-08,CA,84.72,total postings,Project Management
+2022-04-09,CA,84.06,total postings,Project Management
+2022-04-10,CA,82.92,total postings,Project Management
+2022-04-11,CA,81.74,total postings,Project Management
+2022-04-12,CA,80.54,total postings,Project Management
+2022-04-13,CA,79.32,total postings,Project Management
+2022-04-14,CA,78.64,total postings,Project Management
+2022-04-15,CA,77.98,total postings,Project Management
 2020-02-01,CA,0,total postings,Security & Public Safety
 2020-02-02,CA,-0.85,total postings,Security & Public Safety
 2020-02-03,CA,-0.85,total postings,Security & Public Safety
@@ -22131,22 +22509,36 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-14,CA,58.31,total postings,Security & Public Safety
 2022-03-15,CA,58.58,total postings,Security & Public Safety
 2022-03-16,CA,58.65,total postings,Security & Public Safety
-2022-03-17,CA,59.15,total postings,Security & Public Safety
-2022-03-18,CA,59.56,total postings,Security & Public Safety
+2022-03-17,CA,59.16,total postings,Security & Public Safety
+2022-03-18,CA,59.57,total postings,Security & Public Safety
 2022-03-19,CA,59.97,total postings,Security & Public Safety
 2022-03-20,CA,60.28,total postings,Security & Public Safety
 2022-03-21,CA,61.07,total postings,Security & Public Safety
 2022-03-22,CA,61.11,total postings,Security & Public Safety
-2022-03-23,CA,61.06,total postings,Security & Public Safety
-2022-03-24,CA,60.75,total postings,Security & Public Safety
-2022-03-25,CA,60.66,total postings,Security & Public Safety
-2022-03-26,CA,60.5,total postings,Security & Public Safety
-2022-03-27,CA,60.31,total postings,Security & Public Safety
-2022-03-28,CA,59.92,total postings,Security & Public Safety
-2022-03-29,CA,59.95,total postings,Security & Public Safety
-2022-03-30,CA,60.27,total postings,Security & Public Safety
-2022-03-31,CA,60.28,total postings,Security & Public Safety
-2022-04-01,CA,59.87,total postings,Security & Public Safety
+2022-03-23,CA,61.07,total postings,Security & Public Safety
+2022-03-24,CA,60.77,total postings,Security & Public Safety
+2022-03-25,CA,60.68,total postings,Security & Public Safety
+2022-03-26,CA,60.53,total postings,Security & Public Safety
+2022-03-27,CA,60.33,total postings,Security & Public Safety
+2022-03-28,CA,59.94,total postings,Security & Public Safety
+2022-03-29,CA,59.98,total postings,Security & Public Safety
+2022-03-30,CA,60.29,total postings,Security & Public Safety
+2022-03-31,CA,60.3,total postings,Security & Public Safety
+2022-04-01,CA,59.9,total postings,Security & Public Safety
+2022-04-02,CA,59.3,total postings,Security & Public Safety
+2022-04-03,CA,58.87,total postings,Security & Public Safety
+2022-04-04,CA,58.56,total postings,Security & Public Safety
+2022-04-05,CA,58.14,total postings,Security & Public Safety
+2022-04-06,CA,57.49,total postings,Security & Public Safety
+2022-04-07,CA,56.84,total postings,Security & Public Safety
+2022-04-08,CA,55.35,total postings,Security & Public Safety
+2022-04-09,CA,53.58,total postings,Security & Public Safety
+2022-04-10,CA,51.61,total postings,Security & Public Safety
+2022-04-11,CA,49.43,total postings,Security & Public Safety
+2022-04-12,CA,47.14,total postings,Security & Public Safety
+2022-04-13,CA,45.57,total postings,Security & Public Safety
+2022-04-14,CA,44.31,total postings,Security & Public Safety
+2022-04-15,CA,44.11,total postings,Security & Public Safety
 2020-02-01,CA,0,total postings,Retail
 2020-02-02,CA,-0.09,total postings,Retail
 2020-02-03,CA,-0.15,total postings,Retail
@@ -22919,25 +23311,39 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-11,CA,45.13,total postings,Retail
 2022-03-12,CA,45.73,total postings,Retail
 2022-03-13,CA,47.64,total postings,Retail
-2022-03-14,CA,48.32,total postings,Retail
+2022-03-14,CA,48.33,total postings,Retail
 2022-03-15,CA,47.97,total postings,Retail
 2022-03-16,CA,48.4,total postings,Retail
 2022-03-17,CA,48.82,total postings,Retail
 2022-03-18,CA,50.36,total postings,Retail
 2022-03-19,CA,50.69,total postings,Retail
-2022-03-20,CA,49.59,total postings,Retail
-2022-03-21,CA,49.31,total postings,Retail
-2022-03-22,CA,48.94,total postings,Retail
-2022-03-23,CA,49.08,total postings,Retail
-2022-03-24,CA,48.85,total postings,Retail
-2022-03-25,CA,48.18,total postings,Retail
-2022-03-26,CA,48.35,total postings,Retail
-2022-03-27,CA,48.87,total postings,Retail
-2022-03-28,CA,49.16,total postings,Retail
-2022-03-29,CA,48.83,total postings,Retail
-2022-03-30,CA,49.25,total postings,Retail
-2022-03-31,CA,50.13,total postings,Retail
-2022-04-01,CA,50.84,total postings,Retail
+2022-03-20,CA,49.6,total postings,Retail
+2022-03-21,CA,49.32,total postings,Retail
+2022-03-22,CA,48.95,total postings,Retail
+2022-03-23,CA,49.09,total postings,Retail
+2022-03-24,CA,48.87,total postings,Retail
+2022-03-25,CA,48.2,total postings,Retail
+2022-03-26,CA,48.36,total postings,Retail
+2022-03-27,CA,48.88,total postings,Retail
+2022-03-28,CA,49.17,total postings,Retail
+2022-03-29,CA,48.84,total postings,Retail
+2022-03-30,CA,49.26,total postings,Retail
+2022-03-31,CA,50.14,total postings,Retail
+2022-04-01,CA,50.86,total postings,Retail
+2022-04-02,CA,51.12,total postings,Retail
+2022-04-03,CA,52.06,total postings,Retail
+2022-04-04,CA,52.49,total postings,Retail
+2022-04-05,CA,53.43,total postings,Retail
+2022-04-06,CA,53.54,total postings,Retail
+2022-04-07,CA,53.61,total postings,Retail
+2022-04-08,CA,53.92,total postings,Retail
+2022-04-09,CA,53.9,total postings,Retail
+2022-04-10,CA,52.82,total postings,Retail
+2022-04-11,CA,52.82,total postings,Retail
+2022-04-12,CA,53.28,total postings,Retail
+2022-04-13,CA,53.76,total postings,Retail
+2022-04-14,CA,54.45,total postings,Retail
+2022-04-15,CA,54.18,total postings,Retail
 2020-02-01,CA,0,total postings,Sales
 2020-02-02,CA,-0.24,total postings,Sales
 2020-02-03,CA,-0.2,total postings,Sales
@@ -23714,11 +24120,11 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-15,CA,33.66,total postings,Sales
 2022-03-16,CA,33.63,total postings,Sales
 2022-03-17,CA,33.74,total postings,Sales
-2022-03-18,CA,33.92,total postings,Sales
+2022-03-18,CA,33.93,total postings,Sales
 2022-03-19,CA,34.22,total postings,Sales
 2022-03-20,CA,34.66,total postings,Sales
-2022-03-21,CA,34.99,total postings,Sales
-2022-03-22,CA,35.04,total postings,Sales
+2022-03-21,CA,35,total postings,Sales
+2022-03-22,CA,35.05,total postings,Sales
 2022-03-23,CA,35.14,total postings,Sales
 2022-03-24,CA,35.19,total postings,Sales
 2022-03-25,CA,35.29,total postings,Sales
@@ -23727,8 +24133,22 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-28,CA,35.21,total postings,Sales
 2022-03-29,CA,35.4,total postings,Sales
 2022-03-30,CA,35.85,total postings,Sales
-2022-03-31,CA,36.39,total postings,Sales
-2022-04-01,CA,36.66,total postings,Sales
+2022-03-31,CA,36.4,total postings,Sales
+2022-04-01,CA,36.67,total postings,Sales
+2022-04-02,CA,37.07,total postings,Sales
+2022-04-03,CA,37.57,total postings,Sales
+2022-04-04,CA,38,total postings,Sales
+2022-04-05,CA,38.41,total postings,Sales
+2022-04-06,CA,38.58,total postings,Sales
+2022-04-07,CA,38.62,total postings,Sales
+2022-04-08,CA,38.78,total postings,Sales
+2022-04-09,CA,38.65,total postings,Sales
+2022-04-10,CA,38.22,total postings,Sales
+2022-04-11,CA,37.87,total postings,Sales
+2022-04-12,CA,37.62,total postings,Sales
+2022-04-13,CA,37.28,total postings,Sales
+2022-04-14,CA,37.16,total postings,Sales
+2022-04-15,CA,37.05,total postings,Sales
 2020-02-01,CA,0,total postings,Cleaning & Sanitation
 2020-02-02,CA,1.11,total postings,Cleaning & Sanitation
 2020-02-03,CA,2.36,total postings,Cleaning & Sanitation
@@ -24257,13 +24677,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-07-10,CA,46.2,total postings,Cleaning & Sanitation
 2021-07-11,CA,47.42,total postings,Cleaning & Sanitation
 2021-07-12,CA,48.6,total postings,Cleaning & Sanitation
-2021-07-13,CA,49.73,total postings,Cleaning & Sanitation
-2021-07-14,CA,50.72,total postings,Cleaning & Sanitation
-2021-07-15,CA,51.36,total postings,Cleaning & Sanitation
-2021-07-16,CA,51.67,total postings,Cleaning & Sanitation
-2021-07-17,CA,52.03,total postings,Cleaning & Sanitation
-2021-07-18,CA,52.57,total postings,Cleaning & Sanitation
-2021-07-19,CA,53.33,total postings,Cleaning & Sanitation
+2021-07-13,CA,49.74,total postings,Cleaning & Sanitation
+2021-07-14,CA,50.73,total postings,Cleaning & Sanitation
+2021-07-15,CA,51.37,total postings,Cleaning & Sanitation
+2021-07-16,CA,51.68,total postings,Cleaning & Sanitation
+2021-07-17,CA,52.04,total postings,Cleaning & Sanitation
+2021-07-18,CA,52.58,total postings,Cleaning & Sanitation
+2021-07-19,CA,53.34,total postings,Cleaning & Sanitation
 2021-07-20,CA,53.83,total postings,Cleaning & Sanitation
 2021-07-21,CA,54.52,total postings,Cleaning & Sanitation
 2021-07-22,CA,55.36,total postings,Cleaning & Sanitation
@@ -24335,7 +24755,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-09-26,CA,87.09,total postings,Cleaning & Sanitation
 2021-09-27,CA,87.05,total postings,Cleaning & Sanitation
 2021-09-28,CA,87.21,total postings,Cleaning & Sanitation
-2021-09-29,CA,87.27,total postings,Cleaning & Sanitation
+2021-09-29,CA,87.28,total postings,Cleaning & Sanitation
 2021-09-30,CA,86.88,total postings,Cleaning & Sanitation
 2021-10-01,CA,86.14,total postings,Cleaning & Sanitation
 2021-10-02,CA,85.31,total postings,Cleaning & Sanitation
@@ -24507,19 +24927,33 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-17,CA,93.33,total postings,Cleaning & Sanitation
 2022-03-18,CA,93.17,total postings,Cleaning & Sanitation
 2022-03-19,CA,92.43,total postings,Cleaning & Sanitation
-2022-03-20,CA,92.01,total postings,Cleaning & Sanitation
-2022-03-21,CA,91.75,total postings,Cleaning & Sanitation
-2022-03-22,CA,91.21,total postings,Cleaning & Sanitation
-2022-03-23,CA,90.85,total postings,Cleaning & Sanitation
-2022-03-24,CA,90.46,total postings,Cleaning & Sanitation
-2022-03-25,CA,90.38,total postings,Cleaning & Sanitation
-2022-03-26,CA,90.72,total postings,Cleaning & Sanitation
-2022-03-27,CA,90.9,total postings,Cleaning & Sanitation
+2022-03-20,CA,92.02,total postings,Cleaning & Sanitation
+2022-03-21,CA,91.76,total postings,Cleaning & Sanitation
+2022-03-22,CA,91.22,total postings,Cleaning & Sanitation
+2022-03-23,CA,90.86,total postings,Cleaning & Sanitation
+2022-03-24,CA,90.47,total postings,Cleaning & Sanitation
+2022-03-25,CA,90.39,total postings,Cleaning & Sanitation
+2022-03-26,CA,90.73,total postings,Cleaning & Sanitation
+2022-03-27,CA,90.91,total postings,Cleaning & Sanitation
 2022-03-28,CA,91.31,total postings,Cleaning & Sanitation
 2022-03-29,CA,92.25,total postings,Cleaning & Sanitation
 2022-03-30,CA,92.46,total postings,Cleaning & Sanitation
-2022-03-31,CA,92.47,total postings,Cleaning & Sanitation
+2022-03-31,CA,92.48,total postings,Cleaning & Sanitation
 2022-04-01,CA,92.52,total postings,Cleaning & Sanitation
+2022-04-02,CA,92.36,total postings,Cleaning & Sanitation
+2022-04-03,CA,92.26,total postings,Cleaning & Sanitation
+2022-04-04,CA,91.89,total postings,Cleaning & Sanitation
+2022-04-05,CA,91.56,total postings,Cleaning & Sanitation
+2022-04-06,CA,91.63,total postings,Cleaning & Sanitation
+2022-04-07,CA,91.85,total postings,Cleaning & Sanitation
+2022-04-08,CA,91.75,total postings,Cleaning & Sanitation
+2022-04-09,CA,91.69,total postings,Cleaning & Sanitation
+2022-04-10,CA,91.57,total postings,Cleaning & Sanitation
+2022-04-11,CA,91.68,total postings,Cleaning & Sanitation
+2022-04-12,CA,91.69,total postings,Cleaning & Sanitation
+2022-04-13,CA,91.99,total postings,Cleaning & Sanitation
+2022-04-14,CA,92.48,total postings,Cleaning & Sanitation
+2022-04-15,CA,92.97,total postings,Cleaning & Sanitation
 2020-02-01,CA,0,total postings,Scientific Research & Development
 2020-02-02,CA,-0.38,total postings,Scientific Research & Development
 2020-02-03,CA,-0.74,total postings,Scientific Research & Development
@@ -25311,6 +25745,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,CA,84.02,total postings,Scientific Research & Development
 2022-03-31,CA,83.89,total postings,Scientific Research & Development
 2022-04-01,CA,83.81,total postings,Scientific Research & Development
+2022-04-02,CA,83.02,total postings,Scientific Research & Development
+2022-04-03,CA,82.9,total postings,Scientific Research & Development
+2022-04-04,CA,82.42,total postings,Scientific Research & Development
+2022-04-05,CA,81.67,total postings,Scientific Research & Development
+2022-04-06,CA,81.19,total postings,Scientific Research & Development
+2022-04-07,CA,80.37,total postings,Scientific Research & Development
+2022-04-08,CA,79.4,total postings,Scientific Research & Development
+2022-04-09,CA,77.79,total postings,Scientific Research & Development
+2022-04-10,CA,75.82,total postings,Scientific Research & Development
+2022-04-11,CA,74,total postings,Scientific Research & Development
+2022-04-12,CA,72.48,total postings,Scientific Research & Development
+2022-04-13,CA,70.99,total postings,Scientific Research & Development
+2022-04-14,CA,69.75,total postings,Scientific Research & Development
+2022-04-15,CA,68.79,total postings,Scientific Research & Development
 2020-02-01,CA,0,total postings,Community & Social Service
 2020-02-02,CA,0.35,total postings,Community & Social Service
 2020-02-03,CA,0.86,total postings,Community & Social Service
@@ -26094,14 +26542,28 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-22,CA,54.81,total postings,Community & Social Service
 2022-03-23,CA,54.97,total postings,Community & Social Service
 2022-03-24,CA,55.17,total postings,Community & Social Service
-2022-03-25,CA,55.45,total postings,Community & Social Service
+2022-03-25,CA,55.46,total postings,Community & Social Service
 2022-03-26,CA,55.77,total postings,Community & Social Service
-2022-03-27,CA,55.88,total postings,Community & Social Service
-2022-03-28,CA,56.11,total postings,Community & Social Service
+2022-03-27,CA,55.89,total postings,Community & Social Service
+2022-03-28,CA,56.12,total postings,Community & Social Service
 2022-03-29,CA,56.52,total postings,Community & Social Service
 2022-03-30,CA,57.18,total postings,Community & Social Service
 2022-03-31,CA,57.62,total postings,Community & Social Service
-2022-04-01,CA,57.85,total postings,Community & Social Service
+2022-04-01,CA,57.86,total postings,Community & Social Service
+2022-04-02,CA,58.18,total postings,Community & Social Service
+2022-04-03,CA,58.8,total postings,Community & Social Service
+2022-04-04,CA,59.23,total postings,Community & Social Service
+2022-04-05,CA,59.49,total postings,Community & Social Service
+2022-04-06,CA,59.79,total postings,Community & Social Service
+2022-04-07,CA,59.87,total postings,Community & Social Service
+2022-04-08,CA,60.07,total postings,Community & Social Service
+2022-04-09,CA,59.8,total postings,Community & Social Service
+2022-04-10,CA,59.42,total postings,Community & Social Service
+2022-04-11,CA,59.18,total postings,Community & Social Service
+2022-04-12,CA,59.18,total postings,Community & Social Service
+2022-04-13,CA,58.85,total postings,Community & Social Service
+2022-04-14,CA,59.15,total postings,Community & Social Service
+2022-04-15,CA,59.6,total postings,Community & Social Service
 2020-02-01,CA,0,total postings,IT Operations & Helpdesk
 2020-02-02,CA,0.01,total postings,IT Operations & Helpdesk
 2020-02-03,CA,0.13,total postings,IT Operations & Helpdesk
@@ -26893,6 +27355,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,CA,81.99,total postings,IT Operations & Helpdesk
 2022-03-31,CA,83.16,total postings,IT Operations & Helpdesk
 2022-04-01,CA,84.34,total postings,IT Operations & Helpdesk
+2022-04-02,CA,85.5,total postings,IT Operations & Helpdesk
+2022-04-03,CA,86.73,total postings,IT Operations & Helpdesk
+2022-04-04,CA,87.84,total postings,IT Operations & Helpdesk
+2022-04-05,CA,88.81,total postings,IT Operations & Helpdesk
+2022-04-06,CA,89.44,total postings,IT Operations & Helpdesk
+2022-04-07,CA,89.39,total postings,IT Operations & Helpdesk
+2022-04-08,CA,89.46,total postings,IT Operations & Helpdesk
+2022-04-09,CA,88.89,total postings,IT Operations & Helpdesk
+2022-04-10,CA,88.22,total postings,IT Operations & Helpdesk
+2022-04-11,CA,87.15,total postings,IT Operations & Helpdesk
+2022-04-12,CA,86.2,total postings,IT Operations & Helpdesk
+2022-04-13,CA,85.56,total postings,IT Operations & Helpdesk
+2022-04-14,CA,85.66,total postings,IT Operations & Helpdesk
+2022-04-15,CA,85.54,total postings,IT Operations & Helpdesk
 2020-02-01,CA,0,total postings,Information Design & Documentation
 2020-02-02,CA,-0.12,total postings,Information Design & Documentation
 2020-02-03,CA,0.02,total postings,Information Design & Documentation
@@ -27612,12 +28088,12 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-01-17,CA,103.19,total postings,Information Design & Documentation
 2022-01-18,CA,104.38,total postings,Information Design & Documentation
 2022-01-19,CA,104.93,total postings,Information Design & Documentation
-2022-01-20,CA,105.26,total postings,Information Design & Documentation
+2022-01-20,CA,105.27,total postings,Information Design & Documentation
 2022-01-21,CA,105.68,total postings,Information Design & Documentation
-2022-01-22,CA,105.03,total postings,Information Design & Documentation
-2022-01-23,CA,104.83,total postings,Information Design & Documentation
+2022-01-22,CA,105.04,total postings,Information Design & Documentation
+2022-01-23,CA,104.84,total postings,Information Design & Documentation
 2022-01-24,CA,104.6,total postings,Information Design & Documentation
-2022-01-25,CA,104.38,total postings,Information Design & Documentation
+2022-01-25,CA,104.39,total postings,Information Design & Documentation
 2022-01-26,CA,104.55,total postings,Information Design & Documentation
 2022-01-27,CA,104.61,total postings,Information Design & Documentation
 2022-01-28,CA,104.57,total postings,Information Design & Documentation
@@ -27675,15 +28151,29 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-21,CA,115.15,total postings,Information Design & Documentation
 2022-03-22,CA,115.17,total postings,Information Design & Documentation
 2022-03-23,CA,115.16,total postings,Information Design & Documentation
-2022-03-24,CA,114.84,total postings,Information Design & Documentation
-2022-03-25,CA,114.61,total postings,Information Design & Documentation
-2022-03-26,CA,114.23,total postings,Information Design & Documentation
-2022-03-27,CA,113.65,total postings,Information Design & Documentation
-2022-03-28,CA,113.58,total postings,Information Design & Documentation
-2022-03-29,CA,113.61,total postings,Information Design & Documentation
+2022-03-24,CA,114.85,total postings,Information Design & Documentation
+2022-03-25,CA,114.62,total postings,Information Design & Documentation
+2022-03-26,CA,114.24,total postings,Information Design & Documentation
+2022-03-27,CA,113.66,total postings,Information Design & Documentation
+2022-03-28,CA,113.6,total postings,Information Design & Documentation
+2022-03-29,CA,113.62,total postings,Information Design & Documentation
 2022-03-30,CA,113.64,total postings,Information Design & Documentation
-2022-03-31,CA,113.83,total postings,Information Design & Documentation
-2022-04-01,CA,113.88,total postings,Information Design & Documentation
+2022-03-31,CA,113.85,total postings,Information Design & Documentation
+2022-04-01,CA,113.93,total postings,Information Design & Documentation
+2022-04-02,CA,114.02,total postings,Information Design & Documentation
+2022-04-03,CA,114.53,total postings,Information Design & Documentation
+2022-04-04,CA,114.59,total postings,Information Design & Documentation
+2022-04-05,CA,114.99,total postings,Information Design & Documentation
+2022-04-06,CA,115.26,total postings,Information Design & Documentation
+2022-04-07,CA,114.97,total postings,Information Design & Documentation
+2022-04-08,CA,114.76,total postings,Information Design & Documentation
+2022-04-09,CA,113.77,total postings,Information Design & Documentation
+2022-04-10,CA,112.34,total postings,Information Design & Documentation
+2022-04-11,CA,110.99,total postings,Information Design & Documentation
+2022-04-12,CA,109.44,total postings,Information Design & Documentation
+2022-04-13,CA,107.95,total postings,Information Design & Documentation
+2022-04-14,CA,107.04,total postings,Information Design & Documentation
+2022-04-15,CA,106.13,total postings,Information Design & Documentation
 2020-02-01,CA,0,total postings,Software Development
 2020-02-02,CA,0.06,total postings,Software Development
 2020-02-03,CA,0.33,total postings,Software Development
@@ -28457,24 +28947,38 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-12,CA,120.77,total postings,Software Development
 2022-03-13,CA,120.74,total postings,Software Development
 2022-03-14,CA,120.76,total postings,Software Development
-2022-03-15,CA,120.85,total postings,Software Development
-2022-03-16,CA,120.98,total postings,Software Development
+2022-03-15,CA,120.86,total postings,Software Development
+2022-03-16,CA,120.99,total postings,Software Development
 2022-03-17,CA,121.29,total postings,Software Development
 2022-03-18,CA,121.56,total postings,Software Development
 2022-03-19,CA,121.62,total postings,Software Development
 2022-03-20,CA,121.95,total postings,Software Development
-2022-03-21,CA,122.16,total postings,Software Development
-2022-03-22,CA,121.88,total postings,Software Development
-2022-03-23,CA,121.61,total postings,Software Development
-2022-03-24,CA,121.44,total postings,Software Development
-2022-03-25,CA,121.49,total postings,Software Development
-2022-03-26,CA,121.4,total postings,Software Development
-2022-03-27,CA,120.93,total postings,Software Development
-2022-03-28,CA,121.08,total postings,Software Development
+2022-03-21,CA,122.17,total postings,Software Development
+2022-03-22,CA,121.89,total postings,Software Development
+2022-03-23,CA,121.62,total postings,Software Development
+2022-03-24,CA,121.45,total postings,Software Development
+2022-03-25,CA,121.51,total postings,Software Development
+2022-03-26,CA,121.41,total postings,Software Development
+2022-03-27,CA,120.94,total postings,Software Development
+2022-03-28,CA,121.09,total postings,Software Development
 2022-03-29,CA,121.47,total postings,Software Development
 2022-03-30,CA,122.02,total postings,Software Development
-2022-03-31,CA,122.71,total postings,Software Development
-2022-04-01,CA,123.34,total postings,Software Development
+2022-03-31,CA,122.72,total postings,Software Development
+2022-04-01,CA,123.36,total postings,Software Development
+2022-04-02,CA,123.96,total postings,Software Development
+2022-04-03,CA,124.96,total postings,Software Development
+2022-04-04,CA,125.43,total postings,Software Development
+2022-04-05,CA,126.02,total postings,Software Development
+2022-04-06,CA,126.5,total postings,Software Development
+2022-04-07,CA,125.97,total postings,Software Development
+2022-04-08,CA,125.41,total postings,Software Development
+2022-04-09,CA,124.41,total postings,Software Development
+2022-04-10,CA,122.86,total postings,Software Development
+2022-04-11,CA,121.3,total postings,Software Development
+2022-04-12,CA,119.81,total postings,Software Development
+2022-04-13,CA,118.57,total postings,Software Development
+2022-04-14,CA,118.18,total postings,Software Development
+2022-04-15,CA,117.72,total postings,Software Development
 2020-02-01,CA,0,total postings,Therapy
 2020-02-02,CA,-0.24,total postings,Therapy
 2020-02-03,CA,-0.36,total postings,Therapy
@@ -29266,6 +29770,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,CA,37.75,total postings,Therapy
 2022-03-31,CA,37.76,total postings,Therapy
 2022-04-01,CA,37.62,total postings,Therapy
+2022-04-02,CA,37.42,total postings,Therapy
+2022-04-03,CA,37.25,total postings,Therapy
+2022-04-04,CA,36.8,total postings,Therapy
+2022-04-05,CA,36.14,total postings,Therapy
+2022-04-06,CA,35.54,total postings,Therapy
+2022-04-07,CA,35.2,total postings,Therapy
+2022-04-08,CA,35.1,total postings,Therapy
+2022-04-09,CA,34.9,total postings,Therapy
+2022-04-10,CA,34.92,total postings,Therapy
+2022-04-11,CA,35.13,total postings,Therapy
+2022-04-12,CA,35.49,total postings,Therapy
+2022-04-13,CA,35.91,total postings,Therapy
+2022-04-14,CA,36.18,total postings,Therapy
+2022-04-15,CA,36.34,total postings,Therapy
 2020-02-01,CA,0,total postings,Logistic Support
 2020-02-02,CA,-0.61,total postings,Logistic Support
 2020-02-03,CA,-0.95,total postings,Logistic Support
@@ -30057,6 +30575,20 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,CA,88.51,total postings,Logistic Support
 2022-03-31,CA,89.3,total postings,Logistic Support
 2022-04-01,CA,89.71,total postings,Logistic Support
+2022-04-02,CA,90.17,total postings,Logistic Support
+2022-04-03,CA,90.36,total postings,Logistic Support
+2022-04-04,CA,90.63,total postings,Logistic Support
+2022-04-05,CA,90.67,total postings,Logistic Support
+2022-04-06,CA,90.1,total postings,Logistic Support
+2022-04-07,CA,89.81,total postings,Logistic Support
+2022-04-08,CA,89.98,total postings,Logistic Support
+2022-04-09,CA,89.61,total postings,Logistic Support
+2022-04-10,CA,89.17,total postings,Logistic Support
+2022-04-11,CA,88.71,total postings,Logistic Support
+2022-04-12,CA,88.57,total postings,Logistic Support
+2022-04-13,CA,88.56,total postings,Logistic Support
+2022-04-14,CA,89.24,total postings,Logistic Support
+2022-04-15,CA,90.07,total postings,Logistic Support
 2020-02-01,CA,0,total postings,Loading & Stocking
 2020-02-02,CA,0.19,total postings,Loading & Stocking
 2020-02-03,CA,0.45,total postings,Loading & Stocking
@@ -30830,21 +31362,35 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-12,CA,105.67,total postings,Loading & Stocking
 2022-03-13,CA,106.52,total postings,Loading & Stocking
 2022-03-14,CA,107.07,total postings,Loading & Stocking
-2022-03-15,CA,107.2,total postings,Loading & Stocking
-2022-03-16,CA,107.5,total postings,Loading & Stocking
+2022-03-15,CA,107.21,total postings,Loading & Stocking
+2022-03-16,CA,107.51,total postings,Loading & Stocking
 2022-03-17,CA,107.91,total postings,Loading & Stocking
 2022-03-18,CA,108.63,total postings,Loading & Stocking
 2022-03-19,CA,108.72,total postings,Loading & Stocking
-2022-03-20,CA,108.46,total postings,Loading & Stocking
+2022-03-20,CA,108.47,total postings,Loading & Stocking
 2022-03-21,CA,108.39,total postings,Loading & Stocking
 2022-03-22,CA,108.28,total postings,Loading & Stocking
-2022-03-23,CA,108,total postings,Loading & Stocking
-2022-03-24,CA,107.73,total postings,Loading & Stocking
-2022-03-25,CA,107.3,total postings,Loading & Stocking
-2022-03-26,CA,107.26,total postings,Loading & Stocking
-2022-03-27,CA,107.34,total postings,Loading & Stocking
-2022-03-28,CA,107.42,total postings,Loading & Stocking
-2022-03-29,CA,106.97,total postings,Loading & Stocking
-2022-03-30,CA,107.18,total postings,Loading & Stocking
-2022-03-31,CA,107.48,total postings,Loading & Stocking
-2022-04-01,CA,107.82,total postings,Loading & Stocking
+2022-03-23,CA,108.01,total postings,Loading & Stocking
+2022-03-24,CA,107.74,total postings,Loading & Stocking
+2022-03-25,CA,107.32,total postings,Loading & Stocking
+2022-03-26,CA,107.28,total postings,Loading & Stocking
+2022-03-27,CA,107.36,total postings,Loading & Stocking
+2022-03-28,CA,107.44,total postings,Loading & Stocking
+2022-03-29,CA,106.99,total postings,Loading & Stocking
+2022-03-30,CA,107.2,total postings,Loading & Stocking
+2022-03-31,CA,107.52,total postings,Loading & Stocking
+2022-04-01,CA,107.89,total postings,Loading & Stocking
+2022-04-02,CA,108.48,total postings,Loading & Stocking
+2022-04-03,CA,108.83,total postings,Loading & Stocking
+2022-04-04,CA,108.96,total postings,Loading & Stocking
+2022-04-05,CA,109.97,total postings,Loading & Stocking
+2022-04-06,CA,110.49,total postings,Loading & Stocking
+2022-04-07,CA,110.96,total postings,Loading & Stocking
+2022-04-08,CA,111.23,total postings,Loading & Stocking
+2022-04-09,CA,110.36,total postings,Loading & Stocking
+2022-04-10,CA,110,total postings,Loading & Stocking
+2022-04-11,CA,110.1,total postings,Loading & Stocking
+2022-04-12,CA,109.74,total postings,Loading & Stocking
+2022-04-13,CA,108.99,total postings,Loading & Stocking
+2022-04-14,CA,109.46,total postings,Loading & Stocking
+2022-04-15,CA,109.38,total postings,Loading & Stocking
