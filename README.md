@@ -13,7 +13,7 @@ For Frequently Asked Questions regarding Indeed's data, click [here](https://www
 ## Job Postings
 ### Methodology
 
-All data in this repository are the percentage change in seasonally-adjusted job postings since February 1, 2020, using a seven-day trailing average. February 1, 2020, is our pre-pandemic baseline. We seasonally adjust each series based on historical patterns in 2017, 2018, and 2019. Each series, including the national trend, occupational sectors, and sub-national geographies, is seasonally adjusted separately. We adopted this new methodology in January 2021. Historical numbers have been revised and may differ from originally reported values.
+The data in this repository are the percentage change in seasonally-adjusted job postings since February 1, 2020, using a seven-day trailing average. February 1, 2020, is our pre-pandemic baseline. We seasonally adjust each series based on historical patterns in 2017, 2018, and 2019. Each series, including the national trend, occupational sectors, and sub-national geographies, is seasonally adjusted separately. We adopted this new methodology in January 2021. Historical numbers have been revised and may differ from originally reported values. Non-seasonally adjusted data is included for total postings.
 
 
 This blog post is based on publicly available information on the Indeed websites and is not a projection of future events, and includes both paid and unpaid job solicitations. US Armed Forces job postings are excluded for US postings.
@@ -23,7 +23,7 @@ This blog post is based on publicly available information on the Indeed websites
 Each market covered by a Hiring Lab economist has a folder in this repo. Each folder contains the following files:
 
 * **aggregate_job_postings_{country_code}.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings and new jobs postings (on Indeed for 7 days or fewer) for that market.
+This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings and new jobs postings (on Indeed for 7 days or fewer) for that market, as well as non-seasonally adjusted postings since February 1, 2020 for total job postings.
 
 * **job_postings_by_sector_{country_code}.csv**
 This file contains the % change in seasonally-adjusted postings since February 1, 2020 for occupational sectors for that market. We do not share sectoral data for Ireland.
