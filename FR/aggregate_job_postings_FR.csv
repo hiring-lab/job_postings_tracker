@@ -15,7 +15,7 @@ date,jobcountry,seasonally_adjusted_pct_chng_feb_1,non_seasonally_adjusted_pct_c
 2020-02-07,FR,-2.66,-2.65,new postings
 2020-02-08,FR,-0.86,0.33,total postings
 2020-02-08,FR,-2.56,-2,new postings
-2020-02-09,FR,-1.06,0.38,total postings
+2020-02-09,FR,-1.06,0.37,total postings
 2020-02-09,FR,-2.56,-1.36,new postings
 2020-02-10,FR,-1.34,0.34,total postings
 2020-02-10,FR,-2.71,-0.77,new postings
@@ -1721,3 +1721,17 @@ date,jobcountry,seasonally_adjusted_pct_chng_feb_1,non_seasonally_adjusted_pct_c
 2022-06-09,FR,22.54,37.59,new postings
 2022-06-10,FR,42.12,65.04,total postings
 2022-06-10,FR,20.27,36.62,new postings
+2022-06-11,FR,41.69,65.34,total postings
+2022-06-11,FR,19.38,36.8,new postings
+2022-06-12,FR,41.16,65.55,total postings
+2022-06-12,FR,19.31,37.44,new postings
+2022-06-13,FR,40.57,65.71,total postings
+2022-06-13,FR,17.59,36.18,new postings
+2022-06-14,FR,40.18,66.03,total postings
+2022-06-14,FR,19.43,38.97,new postings
+2022-06-15,FR,39.61,66.07,total postings
+2022-06-15,FR,21.84,42.35,new postings
+2022-06-16,FR,39.37,66.45,total postings
+2022-06-16,FR,23.78,45.19,new postings
+2022-06-17,FR,38.99,66.64,total postings
+2022-06-17,FR,24.68,46.64,new postings

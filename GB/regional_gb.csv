@@ -25,35 +25,35 @@ date,region,pct_chng_feb_1
 2020-02-02,Yorkshire & the Humber,0.21
 2020-02-03,East Midlands,-0.1
 2020-02-03,East of England,-0.26
-2020-02-03,London,0.08
-2020-02-03,North East,0.88
+2020-02-03,London,0.07
+2020-02-03,North East,0.87
 2020-02-03,North West,0.4
-2020-02-03,Northern Ireland,-0.33
-2020-02-03,Scotland,0.2
-2020-02-03,South East,-0.21
+2020-02-03,Northern Ireland,-0.34
+2020-02-03,Scotland,0.19
+2020-02-03,South East,-0.22
 2020-02-03,South West,0.07
 2020-02-03,Wales,0.3
 2020-02-03,West Midlands,0.94
-2020-02-03,Yorkshire & the Humber,0.54
+2020-02-03,Yorkshire & the Humber,0.53
 2020-02-04,East Midlands,-0.31
 2020-02-04,East of England,-0.49
 2020-02-04,London,0.08
-2020-02-04,North East,1.23
+2020-02-04,North East,1.22
 2020-02-04,North West,0.59
 2020-02-04,Northern Ireland,-0.54
 2020-02-04,Scotland,0.36
-2020-02-04,South East,-0.45
+2020-02-04,South East,-0.46
 2020-02-04,South West,-0.04
 2020-02-04,Wales,0.41
 2020-02-04,West Midlands,1.45
 2020-02-04,Yorkshire & the Humber,0.75
-2020-02-05,East Midlands,-0.55
+2020-02-05,East Midlands,-0.56
 2020-02-05,East of England,-0.71
-2020-02-05,London,0.25
+2020-02-05,London,0.24
 2020-02-05,North East,1.38
 2020-02-05,North West,0.88
 2020-02-05,Northern Ireland,-0.49
-2020-02-05,Scotland,0.72
+2020-02-05,Scotland,0.71
 2020-02-05,South East,-0.5
 2020-02-05,South West,0.03
 2020-02-05,Wales,0.77
@@ -62,35 +62,35 @@ date,region,pct_chng_feb_1
 2020-02-06,East Midlands,-0.78
 2020-02-06,East of England,-0.91
 2020-02-06,London,0.24
-2020-02-06,North East,1.36
-2020-02-06,North West,1
+2020-02-06,North East,1.35
+2020-02-06,North West,0.99
 2020-02-06,Northern Ireland,-0.68
 2020-02-06,Scotland,0.74
-2020-02-06,South East,-0.59
+2020-02-06,South East,-0.6
 2020-02-06,South West,-0.08
 2020-02-06,Wales,0.62
 2020-02-06,West Midlands,2.27
 2020-02-06,Yorkshire & the Humber,1.09
-2020-02-07,East Midlands,-0.95
+2020-02-07,East Midlands,-0.96
 2020-02-07,East of England,-1.11
 2020-02-07,London,0.34
 2020-02-07,North East,1.45
 2020-02-07,North West,1.21
 2020-02-07,Northern Ireland,-0.85
-2020-02-07,Scotland,0.9
+2020-02-07,Scotland,0.89
 2020-02-07,South East,-0.56
 2020-02-07,South West,0
 2020-02-07,Wales,0.83
 2020-02-07,West Midlands,2.6
 2020-02-07,Yorkshire & the Humber,1.18
-2020-02-08,East Midlands,-1.01
+2020-02-08,East Midlands,-1.02
 2020-02-08,East of England,-1.1
-2020-02-08,London,0.59
+2020-02-08,London,0.58
 2020-02-08,North East,1.67
 2020-02-08,North West,1.43
 2020-02-08,Northern Ireland,-0.87
 2020-02-08,Scotland,1.11
-2020-02-08,South East,-0.45
+2020-02-08,South East,-0.46
 2020-02-08,South West,0.15
 2020-02-08,Wales,0.96
 2020-02-08,West Midlands,2.92
@@ -98,11 +98,11 @@ date,region,pct_chng_feb_1
 2020-02-09,East Midlands,-1.2
 2020-02-09,East of England,-1.16
 2020-02-09,London,0.83
-2020-02-09,North East,1.72
+2020-02-09,North East,1.71
 2020-02-09,North West,1.57
 2020-02-09,Northern Ireland,-0.96
 2020-02-09,Scotland,1.22
-2020-02-09,South East,-0.44
+2020-02-09,South East,-0.45
 2020-02-09,South West,0.21
 2020-02-09,Wales,1.02
 2020-02-09,West Midlands,3.18
@@ -10331,3 +10331,87 @@ date,region,pct_chng_feb_1
 2022-06-10,Wales,54.46
 2022-06-10,West Midlands,54.07
 2022-06-10,Yorkshire & the Humber,50.2
+2022-06-11,East Midlands,44.15
+2022-06-11,East of England,50.47
+2022-06-11,London,30.81
+2022-06-11,North East,71.33
+2022-06-11,North West,44
+2022-06-11,Northern Ireland,31.21
+2022-06-11,Scotland,57.74
+2022-06-11,South East,32.73
+2022-06-11,South West,45.21
+2022-06-11,Wales,54.02
+2022-06-11,West Midlands,54.03
+2022-06-11,Yorkshire & the Humber,49.6
+2022-06-12,East Midlands,43.9
+2022-06-12,East of England,50.26
+2022-06-12,London,30.3
+2022-06-12,North East,70.66
+2022-06-12,North West,43.42
+2022-06-12,Northern Ireland,30.88
+2022-06-12,Scotland,57.56
+2022-06-12,South East,32.21
+2022-06-12,South West,44.76
+2022-06-12,Wales,53.47
+2022-06-12,West Midlands,53.66
+2022-06-12,Yorkshire & the Humber,48.74
+2022-06-13,East Midlands,43.91
+2022-06-13,East of England,50.1
+2022-06-13,London,30.17
+2022-06-13,North East,70.51
+2022-06-13,North West,43.07
+2022-06-13,Northern Ireland,30.58
+2022-06-13,Scotland,57.61
+2022-06-13,South East,31.91
+2022-06-13,South West,44.55
+2022-06-13,Wales,53.27
+2022-06-13,West Midlands,53.65
+2022-06-13,Yorkshire & the Humber,48.11
+2022-06-14,East Midlands,43.94
+2022-06-14,East of England,49.98
+2022-06-14,London,30
+2022-06-14,North East,70.6
+2022-06-14,North West,42.89
+2022-06-14,Northern Ireland,30.98
+2022-06-14,Scotland,57.65
+2022-06-14,South East,31.59
+2022-06-14,South West,44.35
+2022-06-14,Wales,53.21
+2022-06-14,West Midlands,53.55
+2022-06-14,Yorkshire & the Humber,47.49
+2022-06-15,East Midlands,43.93
+2022-06-15,East of England,49.95
+2022-06-15,London,29.62
+2022-06-15,North East,70.48
+2022-06-15,North West,42.55
+2022-06-15,Northern Ireland,30.7
+2022-06-15,Scotland,57.6
+2022-06-15,South East,31.43
+2022-06-15,South West,43.96
+2022-06-15,Wales,52.99
+2022-06-15,West Midlands,53.39
+2022-06-15,Yorkshire & the Humber,46.99
+2022-06-16,East Midlands,44.1
+2022-06-16,East of England,50.06
+2022-06-16,London,29.7
+2022-06-16,North East,70.65
+2022-06-16,North West,42.69
+2022-06-16,Northern Ireland,30.63
+2022-06-16,Scotland,57.7
+2022-06-16,South East,31.56
+2022-06-16,South West,43.9
+2022-06-16,Wales,53.24
+2022-06-16,West Midlands,53.55
+2022-06-16,Yorkshire & the Humber,46.96
+2022-06-17,East Midlands,44.38
+2022-06-17,East of England,50.14
+2022-06-17,London,29.98
+2022-06-17,North East,71.03
+2022-06-17,North West,42.78
+2022-06-17,Northern Ireland,31.14
+2022-06-17,Scotland,57.93
+2022-06-17,South East,31.88
+2022-06-17,South West,43.94
+2022-06-17,Wales,53.45
+2022-06-17,West Midlands,53.8
+2022-06-17,Yorkshire & the Humber,46.97
