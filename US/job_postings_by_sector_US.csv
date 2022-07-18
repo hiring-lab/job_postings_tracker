@@ -862,14 +862,14 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-10,US,100.58,total postings,Accounting
 2022-06-11,US,100.76,total postings,Accounting
 2022-06-12,US,100.65,total postings,Accounting
-2022-06-13,US,100.67,total postings,Accounting
-2022-06-14,US,100.65,total postings,Accounting
+2022-06-13,US,100.68,total postings,Accounting
+2022-06-14,US,100.66,total postings,Accounting
 2022-06-15,US,100.47,total postings,Accounting
 2022-06-16,US,100.31,total postings,Accounting
 2022-06-17,US,100.35,total postings,Accounting
 2022-06-18,US,100.09,total postings,Accounting
-2022-06-19,US,100.09,total postings,Accounting
-2022-06-20,US,100.12,total postings,Accounting
+2022-06-19,US,100.1,total postings,Accounting
+2022-06-20,US,100.13,total postings,Accounting
 2022-06-21,US,100.07,total postings,Accounting
 2022-06-22,US,100.2,total postings,Accounting
 2022-06-23,US,100.41,total postings,Accounting
@@ -888,6 +888,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,101.75,total postings,Accounting
 2022-07-07,US,101.66,total postings,Accounting
 2022-07-08,US,101.79,total postings,Accounting
+2022-07-09,US,101.62,total postings,Accounting
+2022-07-10,US,101.62,total postings,Accounting
+2022-07-11,US,101.94,total postings,Accounting
+2022-07-12,US,102,total postings,Accounting
+2022-07-13,US,102.14,total postings,Accounting
+2022-07-14,US,102.26,total postings,Accounting
+2022-07-15,US,102.06,total postings,Accounting
 2020-02-01,US,0,total postings,Administrative Assistance
 2020-02-02,US,-0.13,total postings,Administrative Assistance
 2020-02-03,US,-0.1,total postings,Administrative Assistance
@@ -1458,7 +1465,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-08-21,US,55.89,total postings,Administrative Assistance
 2021-08-22,US,56.19,total postings,Administrative Assistance
 2021-08-23,US,56.52,total postings,Administrative Assistance
-2021-08-24,US,56.68,total postings,Administrative Assistance
+2021-08-24,US,56.69,total postings,Administrative Assistance
 2021-08-25,US,56.96,total postings,Administrative Assistance
 2021-08-26,US,57.16,total postings,Administrative Assistance
 2021-08-27,US,57.4,total postings,Administrative Assistance
@@ -1764,7 +1771,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-23,US,77.13,total postings,Administrative Assistance
 2022-06-24,US,76.96,total postings,Administrative Assistance
 2022-06-25,US,76.58,total postings,Administrative Assistance
-2022-06-26,US,76.33,total postings,Administrative Assistance
+2022-06-26,US,76.34,total postings,Administrative Assistance
 2022-06-27,US,76.05,total postings,Administrative Assistance
 2022-06-28,US,75.94,total postings,Administrative Assistance
 2022-06-29,US,75.95,total postings,Administrative Assistance
@@ -1777,6 +1784,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,74.89,total postings,Administrative Assistance
 2022-07-07,US,74.6,total postings,Administrative Assistance
 2022-07-08,US,74.51,total postings,Administrative Assistance
+2022-07-09,US,74.23,total postings,Administrative Assistance
+2022-07-10,US,74.08,total postings,Administrative Assistance
+2022-07-11,US,73.99,total postings,Administrative Assistance
+2022-07-12,US,73.96,total postings,Administrative Assistance
+2022-07-13,US,74.08,total postings,Administrative Assistance
+2022-07-14,US,74.19,total postings,Administrative Assistance
+2022-07-15,US,74.19,total postings,Administrative Assistance
 2020-02-01,US,0,total postings,Architecture
 2020-02-02,US,-0.09,total postings,Architecture
 2020-02-03,US,-0.15,total postings,Architecture
@@ -2652,10 +2666,10 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-22,US,57.01,total postings,Architecture
 2022-06-23,US,57.19,total postings,Architecture
 2022-06-24,US,57.12,total postings,Architecture
-2022-06-25,US,56.76,total postings,Architecture
-2022-06-26,US,56.36,total postings,Architecture
+2022-06-25,US,56.77,total postings,Architecture
+2022-06-26,US,56.37,total postings,Architecture
 2022-06-27,US,56.01,total postings,Architecture
-2022-06-28,US,55.7,total postings,Architecture
+2022-06-28,US,55.71,total postings,Architecture
 2022-06-29,US,55.41,total postings,Architecture
 2022-06-30,US,55.13,total postings,Architecture
 2022-07-01,US,54.79,total postings,Architecture
@@ -2666,6 +2680,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,53.59,total postings,Architecture
 2022-07-07,US,53.03,total postings,Architecture
 2022-07-08,US,52.75,total postings,Architecture
+2022-07-09,US,52.34,total postings,Architecture
+2022-07-10,US,52.12,total postings,Architecture
+2022-07-11,US,51.86,total postings,Architecture
+2022-07-12,US,51.48,total postings,Architecture
+2022-07-13,US,51.14,total postings,Architecture
+2022-07-14,US,50.97,total postings,Architecture
+2022-07-15,US,50.78,total postings,Architecture
 2020-02-01,US,0,total postings,Arts & Entertainment
 2020-02-02,US,-0.43,total postings,Arts & Entertainment
 2020-02-03,US,-0.8,total postings,Arts & Entertainment
@@ -3555,6 +3576,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,50.62,total postings,Arts & Entertainment
 2022-07-07,US,50.06,total postings,Arts & Entertainment
 2022-07-08,US,49.65,total postings,Arts & Entertainment
+2022-07-09,US,49.09,total postings,Arts & Entertainment
+2022-07-10,US,48.72,total postings,Arts & Entertainment
+2022-07-11,US,48.59,total postings,Arts & Entertainment
+2022-07-12,US,48.32,total postings,Arts & Entertainment
+2022-07-13,US,47.95,total postings,Arts & Entertainment
+2022-07-14,US,47.73,total postings,Arts & Entertainment
+2022-07-15,US,47.54,total postings,Arts & Entertainment
 2020-02-01,US,0,total postings,Personal Care & Home Health
 2020-02-02,US,0.21,total postings,Personal Care & Home Health
 2020-02-03,US,0.48,total postings,Personal Care & Home Health
@@ -4409,7 +4437,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-01,US,74.34,total postings,Personal Care & Home Health
 2022-06-02,US,74.18,total postings,Personal Care & Home Health
 2022-06-03,US,73.99,total postings,Personal Care & Home Health
-2022-06-04,US,73.89,total postings,Personal Care & Home Health
+2022-06-04,US,73.9,total postings,Personal Care & Home Health
 2022-06-05,US,73.62,total postings,Personal Care & Home Health
 2022-06-06,US,73.38,total postings,Personal Care & Home Health
 2022-06-07,US,73.03,total postings,Personal Care & Home Health
@@ -4444,6 +4472,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,74.78,total postings,Personal Care & Home Health
 2022-07-07,US,75.09,total postings,Personal Care & Home Health
 2022-07-08,US,75.53,total postings,Personal Care & Home Health
+2022-07-09,US,75.58,total postings,Personal Care & Home Health
+2022-07-10,US,75.55,total postings,Personal Care & Home Health
+2022-07-11,US,75.47,total postings,Personal Care & Home Health
+2022-07-12,US,75.34,total postings,Personal Care & Home Health
+2022-07-13,US,75.17,total postings,Personal Care & Home Health
+2022-07-14,US,74.95,total postings,Personal Care & Home Health
+2022-07-15,US,74.61,total postings,Personal Care & Home Health
 2020-02-01,US,0,total postings,Childcare
 2020-02-02,US,-0.54,total postings,Childcare
 2020-02-03,US,-1.06,total postings,Childcare
@@ -5333,6 +5368,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,65.19,total postings,Childcare
 2022-07-07,US,65.47,total postings,Childcare
 2022-07-08,US,66.07,total postings,Childcare
+2022-07-09,US,66.25,total postings,Childcare
+2022-07-10,US,66.65,total postings,Childcare
+2022-07-11,US,67.03,total postings,Childcare
+2022-07-12,US,67.71,total postings,Childcare
+2022-07-13,US,68.1,total postings,Childcare
+2022-07-14,US,68.2,total postings,Childcare
+2022-07-15,US,68.17,total postings,Childcare
 2020-02-01,US,0,total postings,Construction
 2020-02-02,US,-0.48,total postings,Construction
 2020-02-03,US,-0.85,total postings,Construction
@@ -6198,11 +6240,11 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-12,US,58.56,total postings,Construction
 2022-06-13,US,58.44,total postings,Construction
 2022-06-14,US,58.34,total postings,Construction
-2022-06-15,US,58.12,total postings,Construction
+2022-06-15,US,58.13,total postings,Construction
 2022-06-16,US,57.9,total postings,Construction
 2022-06-17,US,57.74,total postings,Construction
 2022-06-18,US,57.62,total postings,Construction
-2022-06-19,US,57.72,total postings,Construction
+2022-06-19,US,57.73,total postings,Construction
 2022-06-20,US,57.78,total postings,Construction
 2022-06-21,US,57.57,total postings,Construction
 2022-06-22,US,57.53,total postings,Construction
@@ -6222,6 +6264,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,59.14,total postings,Construction
 2022-07-07,US,59.41,total postings,Construction
 2022-07-08,US,59.81,total postings,Construction
+2022-07-09,US,59.75,total postings,Construction
+2022-07-10,US,59.74,total postings,Construction
+2022-07-11,US,59.72,total postings,Construction
+2022-07-12,US,59.7,total postings,Construction
+2022-07-13,US,59.8,total postings,Construction
+2022-07-14,US,59.78,total postings,Construction
+2022-07-15,US,59.9,total postings,Construction
 2020-02-01,US,0,total postings,Customer Service
 2020-02-02,US,0.05,total postings,Customer Service
 2020-02-03,US,0.18,total postings,Customer Service
@@ -7111,6 +7160,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,32.88,total postings,Customer Service
 2022-07-07,US,32.58,total postings,Customer Service
 2022-07-08,US,32.5,total postings,Customer Service
+2022-07-09,US,32.28,total postings,Customer Service
+2022-07-10,US,32.08,total postings,Customer Service
+2022-07-11,US,31.94,total postings,Customer Service
+2022-07-12,US,31.82,total postings,Customer Service
+2022-07-13,US,31.68,total postings,Customer Service
+2022-07-14,US,31.49,total postings,Customer Service
+2022-07-15,US,31.3,total postings,Customer Service
 2020-02-01,US,0,total postings,Driving
 2020-02-02,US,-0.61,total postings,Driving
 2020-02-03,US,-1.16,total postings,Driving
@@ -8000,6 +8056,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,47.64,total postings,Driving
 2022-07-07,US,47.91,total postings,Driving
 2022-07-08,US,48.45,total postings,Driving
+2022-07-09,US,48.55,total postings,Driving
+2022-07-10,US,48.7,total postings,Driving
+2022-07-11,US,48.73,total postings,Driving
+2022-07-12,US,48.85,total postings,Driving
+2022-07-13,US,48.87,total postings,Driving
+2022-07-14,US,48.75,total postings,Driving
+2022-07-15,US,48.66,total postings,Driving
 2020-02-01,US,0,total postings,Education & Instruction
 2020-02-02,US,0.18,total postings,Education & Instruction
 2020-02-03,US,0.33,total postings,Education & Instruction
@@ -8866,7 +8929,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-13,US,53.53,total postings,Education & Instruction
 2022-06-14,US,53.9,total postings,Education & Instruction
 2022-06-15,US,54.19,total postings,Education & Instruction
-2022-06-16,US,54.35,total postings,Education & Instruction
+2022-06-16,US,54.36,total postings,Education & Instruction
 2022-06-17,US,54.41,total postings,Education & Instruction
 2022-06-18,US,54.46,total postings,Education & Instruction
 2022-06-19,US,54.66,total postings,Education & Instruction
@@ -8878,7 +8941,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-25,US,55.08,total postings,Education & Instruction
 2022-06-26,US,55.05,total postings,Education & Instruction
 2022-06-27,US,54.97,total postings,Education & Instruction
-2022-06-28,US,55.04,total postings,Education & Instruction
+2022-06-28,US,55.05,total postings,Education & Instruction
 2022-06-29,US,55.11,total postings,Education & Instruction
 2022-06-30,US,55.12,total postings,Education & Instruction
 2022-07-01,US,55.06,total postings,Education & Instruction
@@ -8889,6 +8952,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,54.64,total postings,Education & Instruction
 2022-07-07,US,54.56,total postings,Education & Instruction
 2022-07-08,US,54.8,total postings,Education & Instruction
+2022-07-09,US,54.89,total postings,Education & Instruction
+2022-07-10,US,55.14,total postings,Education & Instruction
+2022-07-11,US,55.42,total postings,Education & Instruction
+2022-07-12,US,55.82,total postings,Education & Instruction
+2022-07-13,US,56.14,total postings,Education & Instruction
+2022-07-14,US,56.41,total postings,Education & Instruction
+2022-07-15,US,56.6,total postings,Education & Instruction
 2020-02-01,US,0,total postings,Civil Engineering
 2020-02-02,US,-0.09,total postings,Civil Engineering
 2020-02-03,US,-0.07,total postings,Civil Engineering
@@ -9778,6 +9848,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,78.78,total postings,Civil Engineering
 2022-07-07,US,78.72,total postings,Civil Engineering
 2022-07-08,US,78.72,total postings,Civil Engineering
+2022-07-09,US,78.59,total postings,Civil Engineering
+2022-07-10,US,78.56,total postings,Civil Engineering
+2022-07-11,US,78.66,total postings,Civil Engineering
+2022-07-12,US,78.62,total postings,Civil Engineering
+2022-07-13,US,78.63,total postings,Civil Engineering
+2022-07-14,US,78.58,total postings,Civil Engineering
+2022-07-15,US,78.56,total postings,Civil Engineering
 2020-02-01,US,0,total postings,Industrial Engineering
 2020-02-02,US,-0.12,total postings,Industrial Engineering
 2020-02-03,US,-0.26,total postings,Industrial Engineering
@@ -10545,7 +10622,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-06,US,84.4,total postings,Industrial Engineering
 2022-03-07,US,83.92,total postings,Industrial Engineering
 2022-03-08,US,84.05,total postings,Industrial Engineering
-2022-03-09,US,84.39,total postings,Industrial Engineering
+2022-03-09,US,84.4,total postings,Industrial Engineering
 2022-03-10,US,84.78,total postings,Industrial Engineering
 2022-03-11,US,85.06,total postings,Industrial Engineering
 2022-03-12,US,85.68,total postings,Industrial Engineering
@@ -10667,6 +10744,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,81.31,total postings,Industrial Engineering
 2022-07-07,US,80.97,total postings,Industrial Engineering
 2022-07-08,US,80.68,total postings,Industrial Engineering
+2022-07-09,US,80.19,total postings,Industrial Engineering
+2022-07-10,US,79.86,total postings,Industrial Engineering
+2022-07-11,US,79.61,total postings,Industrial Engineering
+2022-07-12,US,79.38,total postings,Industrial Engineering
+2022-07-13,US,79.48,total postings,Industrial Engineering
+2022-07-14,US,79.32,total postings,Industrial Engineering
+2022-07-15,US,79.24,total postings,Industrial Engineering
 2020-02-01,US,0,total postings,Electrical Engineering
 2020-02-02,US,-0.01,total postings,Electrical Engineering
 2020-02-03,US,-0.04,total postings,Electrical Engineering
@@ -11535,7 +11619,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-15,US,78.61,total postings,Electrical Engineering
 2022-06-16,US,78.24,total postings,Electrical Engineering
 2022-06-17,US,78.13,total postings,Electrical Engineering
-2022-06-18,US,77.95,total postings,Electrical Engineering
+2022-06-18,US,77.96,total postings,Electrical Engineering
 2022-06-19,US,78.18,total postings,Electrical Engineering
 2022-06-20,US,78.34,total postings,Electrical Engineering
 2022-06-21,US,78.49,total postings,Electrical Engineering
@@ -11556,6 +11640,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,80.24,total postings,Electrical Engineering
 2022-07-07,US,80.34,total postings,Electrical Engineering
 2022-07-08,US,80.46,total postings,Electrical Engineering
+2022-07-09,US,80.31,total postings,Electrical Engineering
+2022-07-10,US,80.26,total postings,Electrical Engineering
+2022-07-11,US,80.36,total postings,Electrical Engineering
+2022-07-12,US,80.65,total postings,Electrical Engineering
+2022-07-13,US,80.88,total postings,Electrical Engineering
+2022-07-14,US,81.13,total postings,Electrical Engineering
+2022-07-15,US,81.28,total postings,Electrical Engineering
 2020-02-01,US,0,total postings,Banking & Finance
 2020-02-02,US,0.11,total postings,Banking & Finance
 2020-02-03,US,0.16,total postings,Banking & Finance
@@ -12266,7 +12357,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-01-08,US,81.83,total postings,Banking & Finance
 2022-01-09,US,81.67,total postings,Banking & Finance
 2022-01-10,US,82.03,total postings,Banking & Finance
-2022-01-11,US,82.06,total postings,Banking & Finance
+2022-01-11,US,82.07,total postings,Banking & Finance
 2022-01-12,US,82.16,total postings,Banking & Finance
 2022-01-13,US,82.4,total postings,Banking & Finance
 2022-01-14,US,82.26,total postings,Banking & Finance
@@ -12337,7 +12428,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-20,US,89.78,total postings,Banking & Finance
 2022-03-21,US,89.63,total postings,Banking & Finance
 2022-03-22,US,89.42,total postings,Banking & Finance
-2022-03-23,US,88.97,total postings,Banking & Finance
+2022-03-23,US,88.98,total postings,Banking & Finance
 2022-03-24,US,88.65,total postings,Banking & Finance
 2022-03-25,US,88.5,total postings,Banking & Finance
 2022-03-26,US,88.23,total postings,Banking & Finance
@@ -12445,6 +12536,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,86.24,total postings,Banking & Finance
 2022-07-07,US,85.79,total postings,Banking & Finance
 2022-07-08,US,85.59,total postings,Banking & Finance
+2022-07-09,US,84.93,total postings,Banking & Finance
+2022-07-10,US,84.3,total postings,Banking & Finance
+2022-07-11,US,84.07,total postings,Banking & Finance
+2022-07-12,US,83.58,total postings,Banking & Finance
+2022-07-13,US,83.18,total postings,Banking & Finance
+2022-07-14,US,82.73,total postings,Banking & Finance
+2022-07-15,US,82.15,total postings,Banking & Finance
 2020-02-01,US,0,total postings,Food Preparation & Service
 2020-02-02,US,-0.2,total postings,Food Preparation & Service
 2020-02-03,US,-0.33,total postings,Food Preparation & Service
@@ -13334,6 +13432,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,42.07,total postings,Food Preparation & Service
 2022-07-07,US,41.93,total postings,Food Preparation & Service
 2022-07-08,US,41.89,total postings,Food Preparation & Service
+2022-07-09,US,41.57,total postings,Food Preparation & Service
+2022-07-10,US,41.32,total postings,Food Preparation & Service
+2022-07-11,US,41.06,total postings,Food Preparation & Service
+2022-07-12,US,40.8,total postings,Food Preparation & Service
+2022-07-13,US,40.48,total postings,Food Preparation & Service
+2022-07-14,US,40.28,total postings,Food Preparation & Service
+2022-07-15,US,40.2,total postings,Food Preparation & Service
 2020-02-01,US,0,total postings,Hospitality & Tourism
 2020-02-02,US,0.02,total postings,Hospitality & Tourism
 2020-02-03,US,-0.05,total postings,Hospitality & Tourism
@@ -14200,14 +14305,14 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-13,US,17.39,total postings,Hospitality & Tourism
 2022-06-14,US,17.6,total postings,Hospitality & Tourism
 2022-06-15,US,17.8,total postings,Hospitality & Tourism
-2022-06-16,US,18.12,total postings,Hospitality & Tourism
+2022-06-16,US,18.13,total postings,Hospitality & Tourism
 2022-06-17,US,18.34,total postings,Hospitality & Tourism
 2022-06-18,US,18.52,total postings,Hospitality & Tourism
 2022-06-19,US,18.79,total postings,Hospitality & Tourism
 2022-06-20,US,18.91,total postings,Hospitality & Tourism
 2022-06-21,US,18.67,total postings,Hospitality & Tourism
-2022-06-22,US,18.47,total postings,Hospitality & Tourism
-2022-06-23,US,18.2,total postings,Hospitality & Tourism
+2022-06-22,US,18.48,total postings,Hospitality & Tourism
+2022-06-23,US,18.21,total postings,Hospitality & Tourism
 2022-06-24,US,17.98,total postings,Hospitality & Tourism
 2022-06-25,US,17.36,total postings,Hospitality & Tourism
 2022-06-26,US,16.81,total postings,Hospitality & Tourism
@@ -14223,6 +14328,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,17.64,total postings,Hospitality & Tourism
 2022-07-07,US,17.16,total postings,Hospitality & Tourism
 2022-07-08,US,17.18,total postings,Hospitality & Tourism
+2022-07-09,US,16.83,total postings,Hospitality & Tourism
+2022-07-10,US,16.46,total postings,Hospitality & Tourism
+2022-07-11,US,16.16,total postings,Hospitality & Tourism
+2022-07-12,US,15.83,total postings,Hospitality & Tourism
+2022-07-13,US,15.56,total postings,Hospitality & Tourism
+2022-07-14,US,15.46,total postings,Hospitality & Tourism
+2022-07-15,US,15.44,total postings,Hospitality & Tourism
 2020-02-01,US,0,total postings,Human Resources
 2020-02-02,US,-0.29,total postings,Human Resources
 2020-02-03,US,-0.31,total postings,Human Resources
@@ -15048,7 +15160,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-05-03,US,113.77,total postings,Human Resources
 2022-05-04,US,114.83,total postings,Human Resources
 2022-05-05,US,114.52,total postings,Human Resources
-2022-05-06,US,114.36,total postings,Human Resources
+2022-05-06,US,114.37,total postings,Human Resources
 2022-05-07,US,114.15,total postings,Human Resources
 2022-05-08,US,114.06,total postings,Human Resources
 2022-05-09,US,114.13,total postings,Human Resources
@@ -15112,6 +15224,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,96.9,total postings,Human Resources
 2022-07-07,US,96.47,total postings,Human Resources
 2022-07-08,US,96.39,total postings,Human Resources
+2022-07-09,US,95.9,total postings,Human Resources
+2022-07-10,US,95.53,total postings,Human Resources
+2022-07-11,US,95.51,total postings,Human Resources
+2022-07-12,US,94.87,total postings,Human Resources
+2022-07-13,US,94.41,total postings,Human Resources
+2022-07-14,US,93.98,total postings,Human Resources
+2022-07-15,US,93.44,total postings,Human Resources
 2020-02-01,US,0,total postings,Installation & Maintenance
 2020-02-02,US,-0.01,total postings,Installation & Maintenance
 2020-02-03,US,0.11,total postings,Installation & Maintenance
@@ -15874,7 +15993,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-01,US,55.91,total postings,Installation & Maintenance
 2022-03-02,US,55.66,total postings,Installation & Maintenance
 2022-03-03,US,55.42,total postings,Installation & Maintenance
-2022-03-04,US,55.28,total postings,Installation & Maintenance
+2022-03-04,US,55.29,total postings,Installation & Maintenance
 2022-03-05,US,55.02,total postings,Installation & Maintenance
 2022-03-06,US,54.92,total postings,Installation & Maintenance
 2022-03-07,US,54.83,total postings,Installation & Maintenance
@@ -16001,6 +16120,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,47.93,total postings,Installation & Maintenance
 2022-07-07,US,47.99,total postings,Installation & Maintenance
 2022-07-08,US,48.15,total postings,Installation & Maintenance
+2022-07-09,US,48.04,total postings,Installation & Maintenance
+2022-07-10,US,48.04,total postings,Installation & Maintenance
+2022-07-11,US,48.12,total postings,Installation & Maintenance
+2022-07-12,US,48.25,total postings,Installation & Maintenance
+2022-07-13,US,48.43,total postings,Installation & Maintenance
+2022-07-14,US,48.53,total postings,Installation & Maintenance
+2022-07-15,US,48.68,total postings,Installation & Maintenance
 2020-02-01,US,0,total postings,Insurance
 2020-02-02,US,0.24,total postings,Insurance
 2020-02-03,US,0.53,total postings,Insurance
@@ -16890,6 +17016,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,65.87,total postings,Insurance
 2022-07-07,US,65.49,total postings,Insurance
 2022-07-08,US,65.37,total postings,Insurance
+2022-07-09,US,65.1,total postings,Insurance
+2022-07-10,US,64.87,total postings,Insurance
+2022-07-11,US,64.63,total postings,Insurance
+2022-07-12,US,64.58,total postings,Insurance
+2022-07-13,US,64.6,total postings,Insurance
+2022-07-14,US,64.71,total postings,Insurance
+2022-07-15,US,64.79,total postings,Insurance
 2020-02-01,US,0,total postings,Legal
 2020-02-02,US,-0.05,total postings,Legal
 2020-02-03,US,-0.07,total postings,Legal
@@ -17753,22 +17886,22 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-10,US,70.24,total postings,Legal
 2022-06-11,US,70.36,total postings,Legal
 2022-06-12,US,70.35,total postings,Legal
-2022-06-13,US,70.31,total postings,Legal
+2022-06-13,US,70.32,total postings,Legal
 2022-06-14,US,70.01,total postings,Legal
 2022-06-15,US,69.6,total postings,Legal
 2022-06-16,US,69.32,total postings,Legal
 2022-06-17,US,68.97,total postings,Legal
 2022-06-18,US,68.43,total postings,Legal
 2022-06-19,US,68.23,total postings,Legal
-2022-06-20,US,67.99,total postings,Legal
+2022-06-20,US,68,total postings,Legal
 2022-06-21,US,67.73,total postings,Legal
 2022-06-22,US,67.62,total postings,Legal
 2022-06-23,US,67.28,total postings,Legal
 2022-06-24,US,66.9,total postings,Legal
-2022-06-25,US,66.23,total postings,Legal
+2022-06-25,US,66.24,total postings,Legal
 2022-06-26,US,65.62,total postings,Legal
 2022-06-27,US,65.15,total postings,Legal
-2022-06-28,US,64.94,total postings,Legal
+2022-06-28,US,64.95,total postings,Legal
 2022-06-29,US,64.84,total postings,Legal
 2022-06-30,US,64.99,total postings,Legal
 2022-07-01,US,65.07,total postings,Legal
@@ -17779,6 +17912,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,66.1,total postings,Legal
 2022-07-07,US,65.9,total postings,Legal
 2022-07-08,US,66.24,total postings,Legal
+2022-07-09,US,66.52,total postings,Legal
+2022-07-10,US,66.88,total postings,Legal
+2022-07-11,US,67.34,total postings,Legal
+2022-07-12,US,67.79,total postings,Legal
+2022-07-13,US,68.16,total postings,Legal
+2022-07-14,US,68.64,total postings,Legal
+2022-07-15,US,68.58,total postings,Legal
 2020-02-01,US,0,total postings,Management
 2020-02-02,US,0.17,total postings,Management
 2020-02-03,US,0.33,total postings,Management
@@ -18546,7 +18686,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-06,US,49.6,total postings,Management
 2022-03-07,US,49.47,total postings,Management
 2022-03-08,US,49.51,total postings,Management
-2022-03-09,US,49.7,total postings,Management
+2022-03-09,US,49.71,total postings,Management
 2022-03-10,US,49.94,total postings,Management
 2022-03-11,US,50.26,total postings,Management
 2022-03-12,US,50.66,total postings,Management
@@ -18598,7 +18738,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-04-27,US,48.59,total postings,Management
 2022-04-28,US,48.3,total postings,Management
 2022-04-29,US,47.98,total postings,Management
-2022-04-30,US,47.69,total postings,Management
+2022-04-30,US,47.7,total postings,Management
 2022-05-01,US,48.7,total postings,Management
 2022-05-02,US,48.37,total postings,Management
 2022-05-03,US,47.94,total postings,Management
@@ -18668,6 +18808,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,44.15,total postings,Management
 2022-07-07,US,44.06,total postings,Management
 2022-07-08,US,44.06,total postings,Management
+2022-07-09,US,43.78,total postings,Management
+2022-07-10,US,43.53,total postings,Management
+2022-07-11,US,43.45,total postings,Management
+2022-07-12,US,43.28,total postings,Management
+2022-07-13,US,43.21,total postings,Management
+2022-07-14,US,43.14,total postings,Management
+2022-07-15,US,43.09,total postings,Management
 2020-02-01,US,0,total postings,Production & Manufacturing
 2020-02-02,US,-0.19,total postings,Production & Manufacturing
 2020-02-03,US,-0.3,total postings,Production & Manufacturing
@@ -19532,7 +19679,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-11,US,94.15,total postings,Production & Manufacturing
 2022-06-12,US,93.82,total postings,Production & Manufacturing
 2022-06-13,US,93.6,total postings,Production & Manufacturing
-2022-06-14,US,93.34,total postings,Production & Manufacturing
+2022-06-14,US,93.35,total postings,Production & Manufacturing
 2022-06-15,US,92.87,total postings,Production & Manufacturing
 2022-06-16,US,92.61,total postings,Production & Manufacturing
 2022-06-17,US,92.41,total postings,Production & Manufacturing
@@ -19547,7 +19694,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-26,US,90.68,total postings,Production & Manufacturing
 2022-06-27,US,90.39,total postings,Production & Manufacturing
 2022-06-28,US,90.34,total postings,Production & Manufacturing
-2022-06-29,US,90.31,total postings,Production & Manufacturing
+2022-06-29,US,90.32,total postings,Production & Manufacturing
 2022-06-30,US,90.23,total postings,Production & Manufacturing
 2022-07-01,US,90.05,total postings,Production & Manufacturing
 2022-07-02,US,90.41,total postings,Production & Manufacturing
@@ -19557,6 +19704,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,90.55,total postings,Production & Manufacturing
 2022-07-07,US,90.63,total postings,Production & Manufacturing
 2022-07-08,US,90.81,total postings,Production & Manufacturing
+2022-07-09,US,90.58,total postings,Production & Manufacturing
+2022-07-10,US,90.54,total postings,Production & Manufacturing
+2022-07-11,US,90.54,total postings,Production & Manufacturing
+2022-07-12,US,90.64,total postings,Production & Manufacturing
+2022-07-13,US,90.77,total postings,Production & Manufacturing
+2022-07-14,US,90.8,total postings,Production & Manufacturing
+2022-07-15,US,90.94,total postings,Production & Manufacturing
 2020-02-01,US,0,total postings,Marketing
 2020-02-02,US,0,total postings,Marketing
 2020-02-03,US,0.04,total postings,Marketing
@@ -20446,6 +20600,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,55.75,total postings,Marketing
 2022-07-07,US,55.54,total postings,Marketing
 2022-07-08,US,55.3,total postings,Marketing
+2022-07-09,US,54.67,total postings,Marketing
+2022-07-10,US,54.1,total postings,Marketing
+2022-07-11,US,53.93,total postings,Marketing
+2022-07-12,US,53.25,total postings,Marketing
+2022-07-13,US,52.65,total postings,Marketing
+2022-07-14,US,52.01,total postings,Marketing
+2022-07-15,US,51.42,total postings,Marketing
 2020-02-01,US,0,total postings,Mathematics
 2020-02-02,US,-0.18,total postings,Mathematics
 2020-02-03,US,-0.52,total postings,Mathematics
@@ -21059,7 +21220,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-03,US,58.24,total postings,Mathematics
 2021-10-04,US,58.33,total postings,Mathematics
 2021-10-05,US,58.26,total postings,Mathematics
-2021-10-06,US,58.14,total postings,Mathematics
+2021-10-06,US,58.15,total postings,Mathematics
 2021-10-07,US,58.33,total postings,Mathematics
 2021-10-08,US,58.45,total postings,Mathematics
 2021-10-09,US,58.64,total postings,Mathematics
@@ -21272,7 +21433,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-05-04,US,86.6,total postings,Mathematics
 2022-05-05,US,85.98,total postings,Mathematics
 2022-05-06,US,85.72,total postings,Mathematics
-2022-05-07,US,85.15,total postings,Mathematics
+2022-05-07,US,85.16,total postings,Mathematics
 2022-05-08,US,84.66,total postings,Mathematics
 2022-05-09,US,84.86,total postings,Mathematics
 2022-05-10,US,84.64,total postings,Mathematics
@@ -21335,6 +21496,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,74.51,total postings,Mathematics
 2022-07-07,US,74.15,total postings,Mathematics
 2022-07-08,US,73.94,total postings,Mathematics
+2022-07-09,US,73.47,total postings,Mathematics
+2022-07-10,US,72.94,total postings,Mathematics
+2022-07-11,US,72.8,total postings,Mathematics
+2022-07-12,US,72.14,total postings,Mathematics
+2022-07-13,US,71.43,total postings,Mathematics
+2022-07-14,US,70.6,total postings,Mathematics
+2022-07-15,US,69.69,total postings,Mathematics
 2020-02-01,US,0,total postings,Dental
 2020-02-02,US,0.23,total postings,Dental
 2020-02-03,US,0.42,total postings,Dental
@@ -21950,7 +22118,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-05,US,47.49,total postings,Dental
 2021-10-06,US,47.02,total postings,Dental
 2021-10-07,US,46.63,total postings,Dental
-2021-10-08,US,46.29,total postings,Dental
+2021-10-08,US,46.3,total postings,Dental
 2021-10-09,US,45.94,total postings,Dental
 2021-10-10,US,45.69,total postings,Dental
 2021-10-11,US,45.29,total postings,Dental
@@ -22224,6 +22392,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,69.32,total postings,Dental
 2022-07-07,US,72.62,total postings,Dental
 2022-07-08,US,72.65,total postings,Dental
+2022-07-09,US,72.47,total postings,Dental
+2022-07-10,US,72.29,total postings,Dental
+2022-07-11,US,71.84,total postings,Dental
+2022-07-12,US,71.55,total postings,Dental
+2022-07-13,US,71.23,total postings,Dental
+2022-07-14,US,70.93,total postings,Dental
+2022-07-15,US,70.82,total postings,Dental
 2020-02-01,US,0,total postings,Physicians & Surgeons
 2020-02-02,US,0.22,total postings,Physicians & Surgeons
 2020-02-03,US,0.4,total postings,Physicians & Surgeons
@@ -22942,7 +23117,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-01-16,US,72.39,total postings,Physicians & Surgeons
 2022-01-17,US,72.31,total postings,Physicians & Surgeons
 2022-01-18,US,72.47,total postings,Physicians & Surgeons
-2022-01-19,US,72.59,total postings,Physicians & Surgeons
+2022-01-19,US,72.6,total postings,Physicians & Surgeons
 2022-01-20,US,72.93,total postings,Physicians & Surgeons
 2022-01-21,US,73.58,total postings,Physicians & Surgeons
 2022-01-22,US,73.65,total postings,Physicians & Surgeons
@@ -23113,6 +23288,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,80.78,total postings,Physicians & Surgeons
 2022-07-07,US,80.69,total postings,Physicians & Surgeons
 2022-07-08,US,80.65,total postings,Physicians & Surgeons
+2022-07-09,US,80.43,total postings,Physicians & Surgeons
+2022-07-10,US,80.55,total postings,Physicians & Surgeons
+2022-07-11,US,80.67,total postings,Physicians & Surgeons
+2022-07-12,US,80.95,total postings,Physicians & Surgeons
+2022-07-13,US,81.19,total postings,Physicians & Surgeons
+2022-07-14,US,81.44,total postings,Physicians & Surgeons
+2022-07-15,US,81.75,total postings,Physicians & Surgeons
 2020-02-01,US,0,total postings,Media & Communications
 2020-02-02,US,-0.22,total postings,Media & Communications
 2020-02-03,US,-0.46,total postings,Media & Communications
@@ -23977,16 +24159,16 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-11,US,58.14,total postings,Media & Communications
 2022-06-12,US,57.58,total postings,Media & Communications
 2022-06-13,US,57.14,total postings,Media & Communications
-2022-06-14,US,56.65,total postings,Media & Communications
-2022-06-15,US,56.17,total postings,Media & Communications
-2022-06-16,US,55.81,total postings,Media & Communications
-2022-06-17,US,55.53,total postings,Media & Communications
+2022-06-14,US,56.66,total postings,Media & Communications
+2022-06-15,US,56.18,total postings,Media & Communications
+2022-06-16,US,55.82,total postings,Media & Communications
+2022-06-17,US,55.54,total postings,Media & Communications
 2022-06-18,US,54.61,total postings,Media & Communications
 2022-06-19,US,54.31,total postings,Media & Communications
 2022-06-20,US,53.99,total postings,Media & Communications
 2022-06-21,US,53.73,total postings,Media & Communications
 2022-06-22,US,53.71,total postings,Media & Communications
-2022-06-23,US,53.6,total postings,Media & Communications
+2022-06-23,US,53.61,total postings,Media & Communications
 2022-06-24,US,53.36,total postings,Media & Communications
 2022-06-25,US,53.23,total postings,Media & Communications
 2022-06-26,US,53.02,total postings,Media & Communications
@@ -24002,6 +24184,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,49.86,total postings,Media & Communications
 2022-07-07,US,49.23,total postings,Media & Communications
 2022-07-08,US,48.7,total postings,Media & Communications
+2022-07-09,US,47.79,total postings,Media & Communications
+2022-07-10,US,46.97,total postings,Media & Communications
+2022-07-11,US,46.34,total postings,Media & Communications
+2022-07-12,US,45.79,total postings,Media & Communications
+2022-07-13,US,45.25,total postings,Media & Communications
+2022-07-14,US,44.79,total postings,Media & Communications
+2022-07-15,US,44.4,total postings,Media & Communications
 2020-02-01,US,0,total postings,Medical Information
 2020-02-02,US,0.08,total postings,Medical Information
 2020-02-03,US,0.2,total postings,Medical Information
@@ -24793,11 +24982,11 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-30,US,84.83,total postings,Medical Information
 2022-03-31,US,84.54,total postings,Medical Information
 2022-04-01,US,84.38,total postings,Medical Information
-2022-04-02,US,84.24,total postings,Medical Information
+2022-04-02,US,84.25,total postings,Medical Information
 2022-04-03,US,83.93,total postings,Medical Information
-2022-04-04,US,83.65,total postings,Medical Information
+2022-04-04,US,83.66,total postings,Medical Information
 2022-04-05,US,83.17,total postings,Medical Information
-2022-04-06,US,82.64,total postings,Medical Information
+2022-04-06,US,82.65,total postings,Medical Information
 2022-04-07,US,82.36,total postings,Medical Information
 2022-04-08,US,81.84,total postings,Medical Information
 2022-04-09,US,81.04,total postings,Medical Information
@@ -24868,9 +25057,9 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-13,US,87.4,total postings,Medical Information
 2022-06-14,US,87.05,total postings,Medical Information
 2022-06-15,US,86.49,total postings,Medical Information
-2022-06-16,US,86.29,total postings,Medical Information
+2022-06-16,US,86.3,total postings,Medical Information
 2022-06-17,US,86.3,total postings,Medical Information
-2022-06-18,US,86.13,total postings,Medical Information
+2022-06-18,US,86.14,total postings,Medical Information
 2022-06-19,US,86.12,total postings,Medical Information
 2022-06-20,US,86.11,total postings,Medical Information
 2022-06-21,US,86.23,total postings,Medical Information
@@ -24891,6 +25080,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,81.7,total postings,Medical Information
 2022-07-07,US,83.01,total postings,Medical Information
 2022-07-08,US,82.54,total postings,Medical Information
+2022-07-09,US,81.94,total postings,Medical Information
+2022-07-10,US,81.56,total postings,Medical Information
+2022-07-11,US,81.16,total postings,Medical Information
+2022-07-12,US,80.72,total postings,Medical Information
+2022-07-13,US,80.4,total postings,Medical Information
+2022-07-14,US,80.36,total postings,Medical Information
+2022-07-15,US,80.68,total postings,Medical Information
 2020-02-01,US,0,total postings,Nursing
 2020-02-02,US,-0.16,total postings,Nursing
 2020-02-03,US,-0.28,total postings,Nursing
@@ -25758,7 +25954,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-14,US,62.95,total postings,Nursing
 2022-06-15,US,62.45,total postings,Nursing
 2022-06-16,US,62.35,total postings,Nursing
-2022-06-17,US,62.54,total postings,Nursing
+2022-06-17,US,62.55,total postings,Nursing
 2022-06-18,US,62.64,total postings,Nursing
 2022-06-19,US,62.79,total postings,Nursing
 2022-06-20,US,62.9,total postings,Nursing
@@ -25780,6 +25976,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,62.34,total postings,Nursing
 2022-07-07,US,62.3,total postings,Nursing
 2022-07-08,US,62.63,total postings,Nursing
+2022-07-09,US,62.9,total postings,Nursing
+2022-07-10,US,63.27,total postings,Nursing
+2022-07-11,US,63.62,total postings,Nursing
+2022-07-12,US,63.94,total postings,Nursing
+2022-07-13,US,64.01,total postings,Nursing
+2022-07-14,US,64.09,total postings,Nursing
+2022-07-15,US,64,total postings,Nursing
 2020-02-01,US,0,total postings,Medical Technician
 2020-02-02,US,0.01,total postings,Medical Technician
 2020-02-03,US,0.07,total postings,Medical Technician
@@ -26562,7 +26765,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-03-21,US,80.6,total postings,Medical Technician
 2022-03-22,US,80.57,total postings,Medical Technician
 2022-03-23,US,80.29,total postings,Medical Technician
-2022-03-24,US,79.95,total postings,Medical Technician
+2022-03-24,US,79.96,total postings,Medical Technician
 2022-03-25,US,79.6,total postings,Medical Technician
 2022-03-26,US,79.3,total postings,Medical Technician
 2022-03-27,US,79.17,total postings,Medical Technician
@@ -26669,6 +26872,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,75.53,total postings,Medical Technician
 2022-07-07,US,75.41,total postings,Medical Technician
 2022-07-08,US,75.58,total postings,Medical Technician
+2022-07-09,US,75.64,total postings,Medical Technician
+2022-07-10,US,75.84,total postings,Medical Technician
+2022-07-11,US,75.99,total postings,Medical Technician
+2022-07-12,US,76.08,total postings,Medical Technician
+2022-07-13,US,76.06,total postings,Medical Technician
+2022-07-14,US,76.01,total postings,Medical Technician
+2022-07-15,US,75.78,total postings,Medical Technician
 2020-02-01,US,0,total postings,Beauty & Wellness
 2020-02-02,US,-0.18,total postings,Beauty & Wellness
 2020-02-03,US,-0.32,total postings,Beauty & Wellness
@@ -27558,6 +27768,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,3.14,total postings,Beauty & Wellness
 2022-07-07,US,3.17,total postings,Beauty & Wellness
 2022-07-08,US,3.39,total postings,Beauty & Wellness
+2022-07-09,US,2.67,total postings,Beauty & Wellness
+2022-07-10,US,2.71,total postings,Beauty & Wellness
+2022-07-11,US,2.72,total postings,Beauty & Wellness
+2022-07-12,US,2.5,total postings,Beauty & Wellness
+2022-07-13,US,2.31,total postings,Beauty & Wellness
+2022-07-14,US,2.31,total postings,Beauty & Wellness
+2022-07-15,US,2.28,total postings,Beauty & Wellness
 2020-02-01,US,0,total postings,Pharmacy
 2020-02-02,US,0.19,total postings,Pharmacy
 2020-02-03,US,-3.25,total postings,Pharmacy
@@ -28434,7 +28651,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-23,US,82.23,total postings,Pharmacy
 2022-06-24,US,82.3,total postings,Pharmacy
 2022-06-25,US,82.09,total postings,Pharmacy
-2022-06-26,US,81.85,total postings,Pharmacy
+2022-06-26,US,81.86,total postings,Pharmacy
 2022-06-27,US,81.31,total postings,Pharmacy
 2022-06-28,US,80.84,total postings,Pharmacy
 2022-06-29,US,80.33,total postings,Pharmacy
@@ -28447,6 +28664,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,78.12,total postings,Pharmacy
 2022-07-07,US,78.14,total postings,Pharmacy
 2022-07-08,US,78.39,total postings,Pharmacy
+2022-07-09,US,78.78,total postings,Pharmacy
+2022-07-10,US,79.15,total postings,Pharmacy
+2022-07-11,US,79.48,total postings,Pharmacy
+2022-07-12,US,79.75,total postings,Pharmacy
+2022-07-13,US,80.12,total postings,Pharmacy
+2022-07-14,US,80.37,total postings,Pharmacy
+2022-07-15,US,80.64,total postings,Pharmacy
 2020-02-01,US,0,total postings,Project Management
 2020-02-02,US,-0.04,total postings,Project Management
 2020-02-03,US,-0.05,total postings,Project Management
@@ -29336,6 +29560,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,71.66,total postings,Project Management
 2022-07-07,US,71.47,total postings,Project Management
 2022-07-08,US,71.39,total postings,Project Management
+2022-07-09,US,71.13,total postings,Project Management
+2022-07-10,US,70.98,total postings,Project Management
+2022-07-11,US,70.96,total postings,Project Management
+2022-07-12,US,70.94,total postings,Project Management
+2022-07-13,US,71.01,total postings,Project Management
+2022-07-14,US,71.09,total postings,Project Management
+2022-07-15,US,71.16,total postings,Project Management
 2020-02-01,US,0,total postings,Security & Public Safety
 2020-02-02,US,-0.17,total postings,Security & Public Safety
 2020-02-03,US,-0.36,total postings,Security & Public Safety
@@ -30159,12 +30390,12 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-05-01,US,70.08,total postings,Security & Public Safety
 2022-05-02,US,69.88,total postings,Security & Public Safety
 2022-05-03,US,69.85,total postings,Security & Public Safety
-2022-05-04,US,69.95,total postings,Security & Public Safety
+2022-05-04,US,69.96,total postings,Security & Public Safety
 2022-05-05,US,69.87,total postings,Security & Public Safety
 2022-05-06,US,69.62,total postings,Security & Public Safety
 2022-05-07,US,69.25,total postings,Security & Public Safety
 2022-05-08,US,68.99,total postings,Security & Public Safety
-2022-05-09,US,68.74,total postings,Security & Public Safety
+2022-05-09,US,68.75,total postings,Security & Public Safety
 2022-05-10,US,68.34,total postings,Security & Public Safety
 2022-05-11,US,67.79,total postings,Security & Public Safety
 2022-05-12,US,67.26,total postings,Security & Public Safety
@@ -30210,8 +30441,8 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-21,US,60.59,total postings,Security & Public Safety
 2022-06-22,US,60.23,total postings,Security & Public Safety
 2022-06-23,US,60,total postings,Security & Public Safety
-2022-06-24,US,59.82,total postings,Security & Public Safety
-2022-06-25,US,59.56,total postings,Security & Public Safety
+2022-06-24,US,59.83,total postings,Security & Public Safety
+2022-06-25,US,59.57,total postings,Security & Public Safety
 2022-06-26,US,59.42,total postings,Security & Public Safety
 2022-06-27,US,59.4,total postings,Security & Public Safety
 2022-06-28,US,59.52,total postings,Security & Public Safety
@@ -30225,6 +30456,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,57.18,total postings,Security & Public Safety
 2022-07-07,US,56.61,total postings,Security & Public Safety
 2022-07-08,US,56.75,total postings,Security & Public Safety
+2022-07-09,US,56.58,total postings,Security & Public Safety
+2022-07-10,US,56.48,total postings,Security & Public Safety
+2022-07-11,US,56.45,total postings,Security & Public Safety
+2022-07-12,US,56.3,total postings,Security & Public Safety
+2022-07-13,US,56.29,total postings,Security & Public Safety
+2022-07-14,US,56.27,total postings,Security & Public Safety
+2022-07-15,US,56.15,total postings,Security & Public Safety
 2020-02-01,US,0,total postings,Retail
 2020-02-02,US,-0.34,total postings,Retail
 2020-02-03,US,-0.87,total postings,Retail
@@ -31114,6 +31352,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,38.28,total postings,Retail
 2022-07-07,US,37.94,total postings,Retail
 2022-07-08,US,37.67,total postings,Retail
+2022-07-09,US,37.57,total postings,Retail
+2022-07-10,US,37.5,total postings,Retail
+2022-07-11,US,37.42,total postings,Retail
+2022-07-12,US,37.28,total postings,Retail
+2022-07-13,US,37.09,total postings,Retail
+2022-07-14,US,36.9,total postings,Retail
+2022-07-15,US,36.7,total postings,Retail
 2020-02-01,US,0,total postings,Sales
 2020-02-02,US,-0.17,total postings,Sales
 2020-02-03,US,-0.29,total postings,Sales
@@ -31979,7 +32224,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-12,US,29.67,total postings,Sales
 2022-06-13,US,29.72,total postings,Sales
 2022-06-14,US,29.89,total postings,Sales
-2022-06-15,US,30.25,total postings,Sales
+2022-06-15,US,30.26,total postings,Sales
 2022-06-16,US,30.66,total postings,Sales
 2022-06-17,US,31,total postings,Sales
 2022-06-18,US,31.15,total postings,Sales
@@ -32003,6 +32248,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,29.67,total postings,Sales
 2022-07-07,US,29.62,total postings,Sales
 2022-07-08,US,29.66,total postings,Sales
+2022-07-09,US,29.54,total postings,Sales
+2022-07-10,US,29.54,total postings,Sales
+2022-07-11,US,29.52,total postings,Sales
+2022-07-12,US,29.45,total postings,Sales
+2022-07-13,US,29.45,total postings,Sales
+2022-07-14,US,29.23,total postings,Sales
+2022-07-15,US,29.06,total postings,Sales
 2020-02-01,US,0,total postings,Cleaning & Sanitation
 2020-02-02,US,-0.15,total postings,Cleaning & Sanitation
 2020-02-03,US,-0.17,total postings,Cleaning & Sanitation
@@ -32870,7 +33122,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-14,US,57.11,total postings,Cleaning & Sanitation
 2022-06-15,US,56.9,total postings,Cleaning & Sanitation
 2022-06-16,US,56.86,total postings,Cleaning & Sanitation
-2022-06-17,US,56.95,total postings,Cleaning & Sanitation
+2022-06-17,US,56.96,total postings,Cleaning & Sanitation
 2022-06-18,US,57.13,total postings,Cleaning & Sanitation
 2022-06-19,US,57.46,total postings,Cleaning & Sanitation
 2022-06-20,US,57.78,total postings,Cleaning & Sanitation
@@ -32892,6 +33144,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,59.14,total postings,Cleaning & Sanitation
 2022-07-07,US,58.8,total postings,Cleaning & Sanitation
 2022-07-08,US,58.76,total postings,Cleaning & Sanitation
+2022-07-09,US,58.55,total postings,Cleaning & Sanitation
+2022-07-10,US,58.43,total postings,Cleaning & Sanitation
+2022-07-11,US,58.34,total postings,Cleaning & Sanitation
+2022-07-12,US,58.36,total postings,Cleaning & Sanitation
+2022-07-13,US,58.38,total postings,Cleaning & Sanitation
+2022-07-14,US,58.54,total postings,Cleaning & Sanitation
+2022-07-15,US,58.74,total postings,Cleaning & Sanitation
 2020-02-01,US,0,total postings,Scientific Research & Development
 2020-02-02,US,0.01,total postings,Scientific Research & Development
 2020-02-03,US,0.02,total postings,Scientific Research & Development
@@ -33690,13 +33949,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-04-06,US,87.2,total postings,Scientific Research & Development
 2022-04-07,US,86.89,total postings,Scientific Research & Development
 2022-04-08,US,86.71,total postings,Scientific Research & Development
-2022-04-09,US,86.07,total postings,Scientific Research & Development
+2022-04-09,US,86.08,total postings,Scientific Research & Development
 2022-04-10,US,85.06,total postings,Scientific Research & Development
 2022-04-11,US,84.17,total postings,Scientific Research & Development
 2022-04-12,US,83.31,total postings,Scientific Research & Development
 2022-04-13,US,82.71,total postings,Scientific Research & Development
 2022-04-14,US,82.22,total postings,Scientific Research & Development
-2022-04-15,US,81.77,total postings,Scientific Research & Development
+2022-04-15,US,81.78,total postings,Scientific Research & Development
 2022-04-16,US,81.56,total postings,Scientific Research & Development
 2022-04-17,US,81.78,total postings,Scientific Research & Development
 2022-04-18,US,82.04,total postings,Scientific Research & Development
@@ -33712,8 +33971,8 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-04-28,US,79.7,total postings,Scientific Research & Development
 2022-04-29,US,79.41,total postings,Scientific Research & Development
 2022-04-30,US,78.95,total postings,Scientific Research & Development
-2022-05-01,US,78.94,total postings,Scientific Research & Development
-2022-05-02,US,78.81,total postings,Scientific Research & Development
+2022-05-01,US,78.95,total postings,Scientific Research & Development
+2022-05-02,US,78.82,total postings,Scientific Research & Development
 2022-05-03,US,78.7,total postings,Scientific Research & Development
 2022-05-04,US,79.17,total postings,Scientific Research & Development
 2022-05-05,US,78.8,total postings,Scientific Research & Development
@@ -33756,7 +34015,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-11,US,69.71,total postings,Scientific Research & Development
 2022-06-12,US,69.43,total postings,Scientific Research & Development
 2022-06-13,US,69.31,total postings,Scientific Research & Development
-2022-06-14,US,69.13,total postings,Scientific Research & Development
+2022-06-14,US,69.14,total postings,Scientific Research & Development
 2022-06-15,US,68.91,total postings,Scientific Research & Development
 2022-06-16,US,68.8,total postings,Scientific Research & Development
 2022-06-17,US,68.73,total postings,Scientific Research & Development
@@ -33781,6 +34040,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,68.35,total postings,Scientific Research & Development
 2022-07-07,US,68.11,total postings,Scientific Research & Development
 2022-07-08,US,68,total postings,Scientific Research & Development
+2022-07-09,US,67.71,total postings,Scientific Research & Development
+2022-07-10,US,67.55,total postings,Scientific Research & Development
+2022-07-11,US,67.43,total postings,Scientific Research & Development
+2022-07-12,US,67.19,total postings,Scientific Research & Development
+2022-07-13,US,66.91,total postings,Scientific Research & Development
+2022-07-14,US,66.64,total postings,Scientific Research & Development
+2022-07-15,US,66.56,total postings,Scientific Research & Development
 2020-02-01,US,0,total postings,Community & Social Service
 2020-02-02,US,0.04,total postings,Community & Social Service
 2020-02-03,US,0.12,total postings,Community & Social Service
@@ -34670,6 +34936,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,54.17,total postings,Community & Social Service
 2022-07-07,US,54.39,total postings,Community & Social Service
 2022-07-08,US,54.78,total postings,Community & Social Service
+2022-07-09,US,54.82,total postings,Community & Social Service
+2022-07-10,US,55.05,total postings,Community & Social Service
+2022-07-11,US,55.3,total postings,Community & Social Service
+2022-07-12,US,55.6,total postings,Community & Social Service
+2022-07-13,US,55.84,total postings,Community & Social Service
+2022-07-14,US,56.01,total postings,Community & Social Service
+2022-07-15,US,56.1,total postings,Community & Social Service
 2020-02-01,US,0,total postings,Sports
 2020-02-02,US,-0.2,total postings,Sports
 2020-02-03,US,-0.42,total postings,Sports
@@ -35559,6 +35832,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,36.2,total postings,Sports
 2022-07-07,US,36.09,total postings,Sports
 2022-07-08,US,36.26,total postings,Sports
+2022-07-09,US,36.23,total postings,Sports
+2022-07-10,US,36.32,total postings,Sports
+2022-07-11,US,36.44,total postings,Sports
+2022-07-12,US,36.69,total postings,Sports
+2022-07-13,US,36.91,total postings,Sports
+2022-07-14,US,37.09,total postings,Sports
+2022-07-15,US,37.15,total postings,Sports
 2020-02-01,US,0,total postings,IT Operations & Helpdesk
 2020-02-02,US,-0.11,total postings,IT Operations & Helpdesk
 2020-02-03,US,-0.18,total postings,IT Operations & Helpdesk
@@ -36420,17 +36700,17 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-08,US,60.22,total postings,IT Operations & Helpdesk
 2022-06-09,US,60.44,total postings,IT Operations & Helpdesk
 2022-06-10,US,60.53,total postings,IT Operations & Helpdesk
-2022-06-11,US,60.58,total postings,IT Operations & Helpdesk
-2022-06-12,US,60.37,total postings,IT Operations & Helpdesk
-2022-06-13,US,60.34,total postings,IT Operations & Helpdesk
-2022-06-14,US,60.2,total postings,IT Operations & Helpdesk
-2022-06-15,US,60.05,total postings,IT Operations & Helpdesk
-2022-06-16,US,59.85,total postings,IT Operations & Helpdesk
-2022-06-17,US,59.77,total postings,IT Operations & Helpdesk
-2022-06-18,US,59.45,total postings,IT Operations & Helpdesk
-2022-06-19,US,59.28,total postings,IT Operations & Helpdesk
-2022-06-20,US,59,total postings,IT Operations & Helpdesk
-2022-06-21,US,58.56,total postings,IT Operations & Helpdesk
+2022-06-11,US,60.59,total postings,IT Operations & Helpdesk
+2022-06-12,US,60.38,total postings,IT Operations & Helpdesk
+2022-06-13,US,60.35,total postings,IT Operations & Helpdesk
+2022-06-14,US,60.22,total postings,IT Operations & Helpdesk
+2022-06-15,US,60.07,total postings,IT Operations & Helpdesk
+2022-06-16,US,59.88,total postings,IT Operations & Helpdesk
+2022-06-17,US,59.8,total postings,IT Operations & Helpdesk
+2022-06-18,US,59.48,total postings,IT Operations & Helpdesk
+2022-06-19,US,59.29,total postings,IT Operations & Helpdesk
+2022-06-20,US,59.01,total postings,IT Operations & Helpdesk
+2022-06-21,US,58.57,total postings,IT Operations & Helpdesk
 2022-06-22,US,58.29,total postings,IT Operations & Helpdesk
 2022-06-23,US,58.03,total postings,IT Operations & Helpdesk
 2022-06-24,US,57.49,total postings,IT Operations & Helpdesk
@@ -36448,6 +36728,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,50.28,total postings,IT Operations & Helpdesk
 2022-07-07,US,50.02,total postings,IT Operations & Helpdesk
 2022-07-08,US,49.82,total postings,IT Operations & Helpdesk
+2022-07-09,US,49.47,total postings,IT Operations & Helpdesk
+2022-07-10,US,49.29,total postings,IT Operations & Helpdesk
+2022-07-11,US,49.34,total postings,IT Operations & Helpdesk
+2022-07-12,US,49.15,total postings,IT Operations & Helpdesk
+2022-07-13,US,49.12,total postings,IT Operations & Helpdesk
+2022-07-14,US,49.12,total postings,IT Operations & Helpdesk
+2022-07-15,US,49.1,total postings,IT Operations & Helpdesk
 2020-02-01,US,0,total postings,Information Design & Documentation
 2020-02-02,US,-0.38,total postings,Information Design & Documentation
 2020-02-03,US,-0.56,total postings,Information Design & Documentation
@@ -37306,7 +37593,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-05,US,83.87,total postings,Information Design & Documentation
 2022-06-06,US,83.58,total postings,Information Design & Documentation
 2022-06-07,US,83.66,total postings,Information Design & Documentation
-2022-06-08,US,83.5,total postings,Information Design & Documentation
+2022-06-08,US,83.51,total postings,Information Design & Documentation
 2022-06-09,US,83.46,total postings,Information Design & Documentation
 2022-06-10,US,83.34,total postings,Information Design & Documentation
 2022-06-11,US,83.33,total postings,Information Design & Documentation
@@ -37320,7 +37607,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-19,US,79.88,total postings,Information Design & Documentation
 2022-06-20,US,79.55,total postings,Information Design & Documentation
 2022-06-21,US,79.09,total postings,Information Design & Documentation
-2022-06-22,US,78.8,total postings,Information Design & Documentation
+2022-06-22,US,78.81,total postings,Information Design & Documentation
 2022-06-23,US,78.49,total postings,Information Design & Documentation
 2022-06-24,US,78.13,total postings,Information Design & Documentation
 2022-06-25,US,77.74,total postings,Information Design & Documentation
@@ -37337,6 +37624,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,77.01,total postings,Information Design & Documentation
 2022-07-07,US,76.46,total postings,Information Design & Documentation
 2022-07-08,US,76.14,total postings,Information Design & Documentation
+2022-07-09,US,75.76,total postings,Information Design & Documentation
+2022-07-10,US,75.42,total postings,Information Design & Documentation
+2022-07-11,US,75.59,total postings,Information Design & Documentation
+2022-07-12,US,75.17,total postings,Information Design & Documentation
+2022-07-13,US,74.98,total postings,Information Design & Documentation
+2022-07-14,US,74.84,total postings,Information Design & Documentation
+2022-07-15,US,74.6,total postings,Information Design & Documentation
 2020-02-01,US,0,total postings,Software Development
 2020-02-02,US,-0.25,total postings,Software Development
 2020-02-03,US,-0.45,total postings,Software Development
@@ -38207,7 +38501,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-06-17,US,114.06,total postings,Software Development
 2022-06-18,US,113.64,total postings,Software Development
 2022-06-19,US,113.73,total postings,Software Development
-2022-06-20,US,113.77,total postings,Software Development
+2022-06-20,US,113.78,total postings,Software Development
 2022-06-21,US,113.72,total postings,Software Development
 2022-06-22,US,113.77,total postings,Software Development
 2022-06-23,US,113.9,total postings,Software Development
@@ -38226,6 +38520,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,104.22,total postings,Software Development
 2022-07-07,US,103.67,total postings,Software Development
 2022-07-08,US,103.13,total postings,Software Development
+2022-07-09,US,102.46,total postings,Software Development
+2022-07-10,US,101.88,total postings,Software Development
+2022-07-11,US,101.66,total postings,Software Development
+2022-07-12,US,101.06,total postings,Software Development
+2022-07-13,US,100.68,total postings,Software Development
+2022-07-14,US,100.25,total postings,Software Development
+2022-07-15,US,99.81,total postings,Software Development
 2020-02-01,US,0,total postings,Therapy
 2020-02-02,US,0.03,total postings,Therapy
 2020-02-03,US,-0,total postings,Therapy
@@ -38864,7 +39165,7 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2021-10-28,US,50.59,total postings,Therapy
 2021-10-29,US,50.82,total postings,Therapy
 2021-10-30,US,50.88,total postings,Therapy
-2021-10-31,US,50.81,total postings,Therapy
+2021-10-31,US,50.82,total postings,Therapy
 2021-11-01,US,50.87,total postings,Therapy
 2021-11-02,US,50.85,total postings,Therapy
 2021-11-03,US,50.87,total postings,Therapy
@@ -39115,6 +39416,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,52.92,total postings,Therapy
 2022-07-07,US,53.14,total postings,Therapy
 2022-07-08,US,53.68,total postings,Therapy
+2022-07-09,US,54.1,total postings,Therapy
+2022-07-10,US,54.53,total postings,Therapy
+2022-07-11,US,54.92,total postings,Therapy
+2022-07-12,US,55.33,total postings,Therapy
+2022-07-13,US,55.58,total postings,Therapy
+2022-07-14,US,55.75,total postings,Therapy
+2022-07-15,US,55.92,total postings,Therapy
 2020-02-01,US,0,total postings,Logistic Support
 2020-02-02,US,-0.37,total postings,Logistic Support
 2020-02-03,US,-0.78,total postings,Logistic Support
@@ -40004,6 +40312,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,78.3,total postings,Logistic Support
 2022-07-07,US,77.88,total postings,Logistic Support
 2022-07-08,US,78.08,total postings,Logistic Support
+2022-07-09,US,77.96,total postings,Logistic Support
+2022-07-10,US,77.82,total postings,Logistic Support
+2022-07-11,US,77.99,total postings,Logistic Support
+2022-07-12,US,77.94,total postings,Logistic Support
+2022-07-13,US,78.17,total postings,Logistic Support
+2022-07-14,US,78.23,total postings,Logistic Support
+2022-07-15,US,78.03,total postings,Logistic Support
 2020-02-01,US,0,total postings,Veterinary
 2020-02-02,US,-0.11,total postings,Veterinary
 2020-02-03,US,-0.11,total postings,Veterinary
@@ -40893,6 +41208,13 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,67.62,total postings,Veterinary
 2022-07-07,US,67.84,total postings,Veterinary
 2022-07-08,US,67.99,total postings,Veterinary
+2022-07-09,US,68.18,total postings,Veterinary
+2022-07-10,US,68.38,total postings,Veterinary
+2022-07-11,US,68.57,total postings,Veterinary
+2022-07-12,US,68.76,total postings,Veterinary
+2022-07-13,US,69.05,total postings,Veterinary
+2022-07-14,US,69.41,total postings,Veterinary
+2022-07-15,US,69.88,total postings,Veterinary
 2020-02-01,US,0,total postings,Loading & Stocking
 2020-02-02,US,-0.26,total postings,Loading & Stocking
 2020-02-03,US,-0.4,total postings,Loading & Stocking
@@ -41782,3 +42104,10 @@ date,jobcountry,pct_chng_feb_1,variable,display_name
 2022-07-06,US,89.28,total postings,Loading & Stocking
 2022-07-07,US,90.22,total postings,Loading & Stocking
 2022-07-08,US,91.24,total postings,Loading & Stocking
+2022-07-09,US,91.77,total postings,Loading & Stocking
+2022-07-10,US,92.19,total postings,Loading & Stocking
+2022-07-11,US,92.3,total postings,Loading & Stocking
+2022-07-12,US,91.91,total postings,Loading & Stocking
+2022-07-13,US,91.71,total postings,Loading & Stocking
+2022-07-14,US,90.59,total postings,Loading & Stocking
+2022-07-15,US,89.06,total postings,Loading & Stocking
