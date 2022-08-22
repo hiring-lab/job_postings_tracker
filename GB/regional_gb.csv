@@ -10907,15 +10907,183 @@ date,region,pct_chng_feb_1
 2022-07-28,Wales,69.33
 2022-07-28,West Midlands,66.52
 2022-07-28,Yorkshire & the Humber,55.25
-2022-07-29,East Midlands,53.81
-2022-07-29,East of England,56.87
-2022-07-29,London,29.19
-2022-07-29,North East,87.8
-2022-07-29,North West,47.7
-2022-07-29,Northern Ireland,35.36
-2022-07-29,Scotland,68.96
-2022-07-29,South East,39.66
-2022-07-29,South West,51.78
-2022-07-29,Wales,68.58
-2022-07-29,West Midlands,66.1
-2022-07-29,Yorkshire & the Humber,54.73
+2022-07-29,East Midlands,54.18
+2022-07-29,East of England,57.24
+2022-07-29,London,29.45
+2022-07-29,North East,88.21
+2022-07-29,North West,48.01
+2022-07-29,Northern Ireland,35.67
+2022-07-29,Scotland,69.43
+2022-07-29,South East,40
+2022-07-29,South West,52.15
+2022-07-29,Wales,68.98
+2022-07-29,West Midlands,66.46
+2022-07-29,Yorkshire & the Humber,55.11
+2022-07-30,East Midlands,54.14
+2022-07-30,East of England,57.17
+2022-07-30,London,29.37
+2022-07-30,North East,88.49
+2022-07-30,North West,48.56
+2022-07-30,Northern Ireland,35.61
+2022-07-30,Scotland,69.46
+2022-07-30,South East,40.05
+2022-07-30,South West,51.75
+2022-07-30,Wales,68.68
+2022-07-30,West Midlands,66.54
+2022-07-30,Yorkshire & the Humber,55.08
+2022-07-31,East Midlands,53.99
+2022-07-31,East of England,56.94
+2022-07-31,London,29.15
+2022-07-31,North East,88.45
+2022-07-31,North West,48.9
+2022-07-31,Northern Ireland,35.54
+2022-07-31,Scotland,69.19
+2022-07-31,South East,39.94
+2022-07-31,South West,51.31
+2022-07-31,Wales,68.33
+2022-07-31,West Midlands,66.45
+2022-07-31,Yorkshire & the Humber,55
+2022-08-01,East Midlands,53.85
+2022-08-01,East of England,56.53
+2022-08-01,London,29.11
+2022-08-01,North East,88.74
+2022-08-01,North West,49
+2022-08-01,Northern Ireland,35.29
+2022-08-01,Scotland,68.9
+2022-08-01,South East,39.76
+2022-08-01,South West,50.91
+2022-08-01,Wales,68.03
+2022-08-01,West Midlands,66.25
+2022-08-01,Yorkshire & the Humber,54.98
+2022-08-02,East Midlands,53.23
+2022-08-02,East of England,55.84
+2022-08-02,London,29.09
+2022-08-02,North East,88.84
+2022-08-02,North West,48.68
+2022-08-02,Northern Ireland,35.28
+2022-08-02,Scotland,68.61
+2022-08-02,South East,39.42
+2022-08-02,South West,50.38
+2022-08-02,Wales,67.8
+2022-08-02,West Midlands,65.78
+2022-08-02,Yorkshire & the Humber,54.63
+2022-08-03,East Midlands,52.53
+2022-08-03,East of England,55.21
+2022-08-03,London,29.19
+2022-08-03,North East,88.7
+2022-08-03,North West,48.37
+2022-08-03,Northern Ireland,35.35
+2022-08-03,Scotland,68.03
+2022-08-03,South East,39.04
+2022-08-03,South West,49.86
+2022-08-03,Wales,67.59
+2022-08-03,West Midlands,65.29
+2022-08-03,Yorkshire & the Humber,54.22
+2022-08-04,East Midlands,52.1
+2022-08-04,East of England,54.78
+2022-08-04,London,29.22
+2022-08-04,North East,88.52
+2022-08-04,North West,48.26
+2022-08-04,Northern Ireland,35.66
+2022-08-04,Scotland,67.59
+2022-08-04,South East,38.87
+2022-08-04,South West,49.55
+2022-08-04,Wales,67.77
+2022-08-04,West Midlands,65.22
+2022-08-04,Yorkshire & the Humber,54.1
+2022-08-05,East Midlands,51.94
+2022-08-05,East of England,54.66
+2022-08-05,London,29.48
+2022-08-05,North East,88.86
+2022-08-05,North West,48.37
+2022-08-05,Northern Ireland,36.1
+2022-08-05,Scotland,67.46
+2022-08-05,South East,38.95
+2022-08-05,South West,49.56
+2022-08-05,Wales,68.21
+2022-08-05,West Midlands,65.46
+2022-08-05,Yorkshire & the Humber,54.12
+2022-08-06,East Midlands,52.32
+2022-08-06,East of England,54.8
+2022-08-06,London,29.87
+2022-08-06,North East,89.15
+2022-08-06,North West,48.52
+2022-08-06,Northern Ireland,36.7
+2022-08-06,Scotland,67.46
+2022-08-06,South East,39.1
+2022-08-06,South West,49.81
+2022-08-06,Wales,68.97
+2022-08-06,West Midlands,65.8
+2022-08-06,Yorkshire & the Humber,54.29
+2022-08-07,East Midlands,52.71
+2022-08-07,East of England,55.11
+2022-08-07,London,30.31
+2022-08-07,North East,89.66
+2022-08-07,North West,48.57
+2022-08-07,Northern Ireland,37.12
+2022-08-07,Scotland,67.46
+2022-08-07,South East,39.29
+2022-08-07,South West,50.11
+2022-08-07,Wales,69.66
+2022-08-07,West Midlands,66.1
+2022-08-07,Yorkshire & the Humber,54.42
+2022-08-08,East Midlands,53.21
+2022-08-08,East of England,55.42
+2022-08-08,London,30.57
+2022-08-08,North East,90.03
+2022-08-08,North West,48.64
+2022-08-08,Northern Ireland,38.07
+2022-08-08,Scotland,67.37
+2022-08-08,South East,39.32
+2022-08-08,South West,50.37
+2022-08-08,Wales,70.48
+2022-08-08,West Midlands,66.47
+2022-08-08,Yorkshire & the Humber,54.73
+2022-08-09,East Midlands,53.43
+2022-08-09,East of England,55.52
+2022-08-09,London,30.35
+2022-08-09,North East,89.9
+2022-08-09,North West,48.47
+2022-08-09,Northern Ireland,38.63
+2022-08-09,Scotland,67
+2022-08-09,South East,39.01
+2022-08-09,South West,50.25
+2022-08-09,Wales,70.88
+2022-08-09,West Midlands,66.37
+2022-08-09,Yorkshire & the Humber,54.72
+2022-08-10,East Midlands,53.63
+2022-08-10,East of England,55.38
+2022-08-10,London,29.82
+2022-08-10,North East,89.48
+2022-08-10,North West,48.07
+2022-08-10,Northern Ireland,38.89
+2022-08-10,Scotland,66.77
+2022-08-10,South East,38.62
+2022-08-10,South West,50.08
+2022-08-10,Wales,70.91
+2022-08-10,West Midlands,66.27
+2022-08-10,Yorkshire & the Humber,54.47
+2022-08-11,East Midlands,53.73
+2022-08-11,East of England,55.26
+2022-08-11,London,29.63
+2022-08-11,North East,89.12
+2022-08-11,North West,47.63
+2022-08-11,Northern Ireland,38.84
+2022-08-11,Scotland,66.48
+2022-08-11,South East,38.32
+2022-08-11,South West,49.87
+2022-08-11,Wales,70.76
+2022-08-11,West Midlands,66.17
+2022-08-11,Yorkshire & the Humber,54.15
+2022-08-12,East Midlands,53.59
+2022-08-12,East of England,54.84
+2022-08-12,London,29.16
+2022-08-12,North East,88.82
+2022-08-12,North West,47.13
+2022-08-12,Northern Ireland,38.64
+2022-08-12,Scotland,66.01
+2022-08-12,South East,37.79
+2022-08-12,South West,49.61
+2022-08-12,Wales,70.49
+2022-08-12,West Midlands,65.97
+2022-08-12,Yorkshire & the Humber,53.8
