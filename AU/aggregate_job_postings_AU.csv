@@ -1014,6 +1014,13 @@ date,jobcountry,seasonally_adjusted_pct_chng_feb_1,non_seasonally_adjusted_pct_c
 2022-11-09,AU,141.32,146.38,total postings
 2022-11-10,AU,141.74,146.65,total postings
 2022-11-11,AU,142.14,146.86,total postings
+2022-11-12,AU,142.22,146.66,total postings
+2022-11-13,AU,142.92,147.16,total postings
+2022-11-14,AU,143.29,147.42,total postings
+2022-11-15,AU,143.06,147.03,total postings
+2022-11-16,AU,142.76,146.56,total postings
+2022-11-17,AU,142.69,146.29,total postings
+2022-11-18,AU,142.65,146.05,total postings
 2020-02-01,AU,0,0,new postings
 2020-02-02,AU,-2.2,-3.07,new postings
 2020-02-03,AU,-2.08,-2.96,new postings
@@ -2029,3 +2036,10 @@ date,jobcountry,seasonally_adjusted_pct_chng_feb_1,non_seasonally_adjusted_pct_c
 2022-11-09,AU,113.74,142.19,new postings
 2022-11-10,AU,116.42,143.26,new postings
 2022-11-11,AU,119.02,144.37,new postings
+2022-11-12,AU,121.61,145.92,new postings
+2022-11-13,AU,123.96,147.75,new postings
+2022-11-14,AU,125.11,148.86,new postings
+2022-11-15,AU,123.93,148.35,new postings
+2022-11-16,AU,120.31,145.87,new postings
+2022-11-17,AU,117.89,144.56,new postings
+2022-11-18,AU,115.1,142.74,new postings

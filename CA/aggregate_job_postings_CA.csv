@@ -1014,6 +1014,13 @@ date,jobcountry,seasonally_adjusted_pct_chng_feb_1,non_seasonally_adjusted_pct_c
 2022-11-09,CA,62.34,69.53,total postings
 2022-11-10,CA,62.69,69.71,total postings
 2022-11-11,CA,62.96,69.81,total postings
+2022-11-12,CA,63.1,69.7,total postings
+2022-11-13,CA,63.32,69.59,total postings
+2022-11-14,CA,63.61,69.51,total postings
+2022-11-15,CA,63.76,69.22,total postings
+2022-11-16,CA,63.79,68.74,total postings
+2022-11-17,CA,63.86,68.25,total postings
+2022-11-18,CA,63.76,67.55,total postings
 2020-02-01,CA,0,0,new postings
 2020-02-02,CA,0.17,0.03,new postings
 2020-02-03,CA,0.37,0.14,new postings
@@ -2029,3 +2036,10 @@ date,jobcountry,seasonally_adjusted_pct_chng_feb_1,non_seasonally_adjusted_pct_c
 2022-11-09,CA,48.06,63.48,new postings
 2022-11-10,CA,48.69,64.25,new postings
 2022-11-11,CA,48.8,64.01,new postings
+2022-11-12,CA,47.92,62.12,new postings
+2022-11-13,CA,47.43,60.19,new postings
+2022-11-14,CA,47.35,58.34,new postings
+2022-11-15,CA,46.95,55.78,new postings
+2022-11-16,CA,46.36,52.83,new postings
+2022-11-17,CA,46.29,50.61,new postings
+2022-11-18,CA,46.23,48.81,new postings
