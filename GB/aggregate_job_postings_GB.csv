@@ -1014,6 +1014,13 @@ date,jobcountry,seasonally_adjusted_pct_chng_feb_1,non_seasonally_adjusted_pct_c
 2022-11-09,GB,44.43,47.85,total postings
 2022-11-10,GB,44.67,48.05,total postings
 2022-11-11,GB,44.77,48.13,total postings
+2022-11-12,GB,45.04,48.4,total postings
+2022-11-13,GB,44.95,48.27,total postings
+2022-11-14,GB,44.93,48.23,total postings
+2022-11-15,GB,45.13,48.31,total postings
+2022-11-16,GB,45.33,48.35,total postings
+2022-11-17,GB,45.57,48.41,total postings
+2022-11-18,GB,45.82,48.42,total postings
 2020-02-01,GB,0,0,new postings
 2020-02-02,GB,0.24,-0.1,new postings
 2020-02-03,GB,0.43,-0.05,new postings
@@ -2029,3 +2036,10 @@ date,jobcountry,seasonally_adjusted_pct_chng_feb_1,non_seasonally_adjusted_pct_c
 2022-11-09,GB,39.9,53.09,new postings
 2022-11-10,GB,39.41,53.38,new postings
 2022-11-11,GB,38.79,53.36,new postings
+2022-11-12,GB,38.13,52.82,new postings
+2022-11-13,GB,37.54,52.14,new postings
+2022-11-14,GB,36.7,50.95,new postings
+2022-11-15,GB,36.42,49.94,new postings
+2022-11-16,GB,36.91,49.44,new postings
+2022-11-17,GB,37.62,49.03,new postings
+2022-11-18,GB,38.32,48.4,new postings
