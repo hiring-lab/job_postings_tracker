@@ -1021,6 +1021,13 @@ date,region,pct_chng_feb_1
 2022-11-16,East Midlands,59.71
 2022-11-17,East Midlands,60.16
 2022-11-18,East Midlands,60.57
+2022-11-19,East Midlands,60.72
+2022-11-20,East Midlands,61.36
+2022-11-21,East Midlands,62.03
+2022-11-22,East Midlands,62.24
+2022-11-23,East Midlands,62.18
+2022-11-24,East Midlands,62.21
+2022-11-25,East Midlands,62.29
 2020-02-01,East of England,0
 2020-02-02,East of England,-0.18
 2020-02-03,East of England,-0.26
@@ -2043,6 +2050,13 @@ date,region,pct_chng_feb_1
 2022-11-16,East of England,59.27
 2022-11-17,East of England,59.61
 2022-11-18,East of England,59.83
+2022-11-19,East of England,60
+2022-11-20,East of England,60.67
+2022-11-21,East of England,61.26
+2022-11-22,East of England,61.57
+2022-11-23,East of England,61.63
+2022-11-24,East of England,61.57
+2022-11-25,East of England,61.5
 2020-02-01,London,0
 2020-02-02,London,-0.02
 2020-02-03,London,0.07
@@ -3065,6 +3079,13 @@ date,region,pct_chng_feb_1
 2022-11-16,London,26.38
 2022-11-17,London,26.5
 2022-11-18,London,26.75
+2022-11-19,London,26.93
+2022-11-20,London,27.51
+2022-11-21,London,27.85
+2022-11-22,London,28.1
+2022-11-23,London,28.3
+2022-11-24,London,28.44
+2022-11-25,London,28.61
 2020-02-01,North East,0
 2020-02-02,North East,0.38
 2020-02-03,North East,0.87
@@ -4087,6 +4108,13 @@ date,region,pct_chng_feb_1
 2022-11-16,North East,88.86
 2022-11-17,North East,89.1
 2022-11-18,North East,89.28
+2022-11-19,North East,89.16
+2022-11-20,North East,89.64
+2022-11-21,North East,90.23
+2022-11-22,North East,90.47
+2022-11-23,North East,90.75
+2022-11-24,North East,91.05
+2022-11-25,North East,91.33
 2020-02-01,North West,0
 2020-02-02,North West,0.13
 2020-02-03,North West,0.4
@@ -5109,6 +5137,13 @@ date,region,pct_chng_feb_1
 2022-11-16,North West,47.26
 2022-11-17,North West,47.45
 2022-11-18,North West,47.58
+2022-11-19,North West,47.61
+2022-11-20,North West,48
+2022-11-21,North West,48.48
+2022-11-22,North West,48.67
+2022-11-23,North West,48.81
+2022-11-24,North West,48.97
+2022-11-25,North West,49.11
 2020-02-01,Northern Ireland,0
 2020-02-02,Northern Ireland,-0.19
 2020-02-03,Northern Ireland,-0.34
@@ -6131,6 +6166,13 @@ date,region,pct_chng_feb_1
 2022-11-16,Northern Ireland,37.43
 2022-11-17,Northern Ireland,37.64
 2022-11-18,Northern Ireland,37.68
+2022-11-19,Northern Ireland,37.79
+2022-11-20,Northern Ireland,38.16
+2022-11-21,Northern Ireland,38.88
+2022-11-22,Northern Ireland,39.28
+2022-11-23,Northern Ireland,39.31
+2022-11-24,Northern Ireland,39.42
+2022-11-25,Northern Ireland,39.53
 2020-02-01,Scotland,0
 2020-02-02,Scotland,0.02
 2020-02-03,Scotland,0.19
@@ -7153,6 +7195,13 @@ date,region,pct_chng_feb_1
 2022-11-16,Scotland,66.75
 2022-11-17,Scotland,67.03
 2022-11-18,Scotland,67.22
+2022-11-19,Scotland,67.08
+2022-11-20,Scotland,67.26
+2022-11-21,Scotland,67.48
+2022-11-22,Scotland,67.42
+2022-11-23,Scotland,67.51
+2022-11-24,Scotland,67.49
+2022-11-25,Scotland,67.45
 2020-02-01,South East,0
 2020-02-02,South East,-0.19
 2020-02-03,South East,-0.22
@@ -8175,6 +8224,13 @@ date,region,pct_chng_feb_1
 2022-11-16,South East,39.44
 2022-11-17,South East,39.66
 2022-11-18,South East,39.82
+2022-11-19,South East,39.73
+2022-11-20,South East,40.08
+2022-11-21,South East,40.36
+2022-11-22,South East,40.44
+2022-11-23,South East,40.39
+2022-11-24,South East,40.32
+2022-11-25,South East,40.35
 2020-02-01,South West,0
 2020-02-02,South West,-0.02
 2020-02-03,South West,0.07
@@ -9197,6 +9253,13 @@ date,region,pct_chng_feb_1
 2022-11-16,South West,52.77
 2022-11-17,South West,52.79
 2022-11-18,South West,52.78
+2022-11-19,South West,52.65
+2022-11-20,South West,52.96
+2022-11-21,South West,53.41
+2022-11-22,South West,53.65
+2022-11-23,South West,53.79
+2022-11-24,South West,53.92
+2022-11-25,South West,54.14
 2020-02-01,Wales,0
 2020-02-02,Wales,0.08
 2020-02-03,Wales,0.3
@@ -10219,6 +10282,13 @@ date,region,pct_chng_feb_1
 2022-11-16,Wales,70.27
 2022-11-17,Wales,70.38
 2022-11-18,Wales,70.51
+2022-11-19,Wales,70.46
+2022-11-20,Wales,70.85
+2022-11-21,Wales,71.21
+2022-11-22,Wales,71.25
+2022-11-23,Wales,71.28
+2022-11-24,Wales,71.35
+2022-11-25,Wales,71.16
 2020-02-01,West Midlands,0
 2020-02-02,West Midlands,0.38
 2020-02-03,West Midlands,0.94
@@ -11241,6 +11311,13 @@ date,region,pct_chng_feb_1
 2022-11-16,West Midlands,64.75
 2022-11-17,West Midlands,65.12
 2022-11-18,West Midlands,65.32
+2022-11-19,West Midlands,65.45
+2022-11-20,West Midlands,65.96
+2022-11-21,West Midlands,66.48
+2022-11-22,West Midlands,66.62
+2022-11-23,West Midlands,66.59
+2022-11-24,West Midlands,66.72
+2022-11-25,West Midlands,66.9
 2020-02-01,Yorkshire & the Humber,0
 2020-02-02,Yorkshire & the Humber,0.21
 2020-02-03,Yorkshire & the Humber,0.53
@@ -12263,3 +12340,10 @@ date,region,pct_chng_feb_1
 2022-11-16,Yorkshire & the Humber,56.16
 2022-11-17,Yorkshire & the Humber,56.62
 2022-11-18,Yorkshire & the Humber,57.09
+2022-11-19,Yorkshire & the Humber,57.33
+2022-11-20,Yorkshire & the Humber,57.91
+2022-11-21,Yorkshire & the Humber,58.52
+2022-11-22,Yorkshire & the Humber,58.69
+2022-11-23,Yorkshire & the Humber,58.88
+2022-11-24,Yorkshire & the Humber,59.13
+2022-11-25,Yorkshire & the Humber,59.49
