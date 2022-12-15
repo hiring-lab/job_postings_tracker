@@ -1,4 +1,5 @@
 # Indeed Hiring Lab Data Repository
+Note: As of 12/9/2022, Hiring Lab is re-releasing the Job Postings Tracker as the Indeed Job Postings Index.  The level is set to 100 on Feb 1, 2020. More detail is available here: [Introducing the Indeed Job Postings Index](https://www.hiringlab.org/2022/12/15/introducing-the-indeed-job-postings-index/) 
 
 The [Indeed Hiring Lab](http://hiringlab.org) is an international team of economists and researchers dedicated to delivering insights that help drive the global labor market conversation.
 
