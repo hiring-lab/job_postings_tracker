@@ -1140,6 +1140,13 @@ date,region,indeed_job_postings_index
 2023-03-15,East Midlands,129.08
 2023-03-16,East Midlands,129.28
 2023-03-17,East Midlands,129.04
+2023-03-18,East Midlands,129.01
+2023-03-19,East Midlands,129.09
+2023-03-20,East Midlands,129.43
+2023-03-21,East Midlands,129.57
+2023-03-22,East Midlands,129.39
+2023-03-23,East Midlands,129.14
+2023-03-24,East Midlands,128.96
 2020-02-01,East of England,100
 2020-02-02,East of England,99.82
 2020-02-03,East of England,99.74
@@ -2281,6 +2288,13 @@ date,region,indeed_job_postings_index
 2023-03-15,East of England,139.68
 2023-03-16,East of England,139.65
 2023-03-17,East of England,139.17
+2023-03-18,East of England,138.9
+2023-03-19,East of England,138.75
+2023-03-20,East of England,138.99
+2023-03-21,East of England,139.15
+2023-03-22,East of England,139.14
+2023-03-23,East of England,139.14
+2023-03-24,East of England,139.19
 2020-02-01,London,100
 2020-02-02,London,99.98
 2020-02-03,London,100.07
@@ -3422,6 +3436,13 @@ date,region,indeed_job_postings_index
 2023-03-15,London,105.03
 2023-03-16,London,105.21
 2023-03-17,London,105.18
+2023-03-18,London,105.22
+2023-03-19,London,105.34
+2023-03-20,London,105.7
+2023-03-21,London,105.9
+2023-03-22,London,105.84
+2023-03-23,London,105.79
+2023-03-24,London,105.66
 2020-02-01,North East,100
 2020-02-02,North East,100.38
 2020-02-03,North East,100.87
@@ -4563,6 +4584,13 @@ date,region,indeed_job_postings_index
 2023-03-15,North East,163.71
 2023-03-16,North East,164.39
 2023-03-17,North East,164.79
+2023-03-18,North East,165.26
+2023-03-19,North East,165.92
+2023-03-20,North East,166.81
+2023-03-21,North East,167.11
+2023-03-22,North East,166.99
+2023-03-23,North East,166.74
+2023-03-24,North East,165.95
 2020-02-01,North West,100
 2020-02-02,North West,100.13
 2020-02-03,North West,100.4
@@ -5704,6 +5732,13 @@ date,region,indeed_job_postings_index
 2023-03-15,North West,130.96
 2023-03-16,North West,131.12
 2023-03-17,North West,130.95
+2023-03-18,North West,130.98
+2023-03-19,North West,131.08
+2023-03-20,North West,131.57
+2023-03-21,North West,131.76
+2023-03-22,North West,131.75
+2023-03-23,North West,131.61
+2023-03-24,North West,131.41
 2020-02-01,Northern Ireland,100
 2020-02-02,Northern Ireland,99.81
 2020-02-03,Northern Ireland,99.66
@@ -6845,6 +6880,13 @@ date,region,indeed_job_postings_index
 2023-03-15,Northern Ireland,126.01
 2023-03-16,Northern Ireland,125.94
 2023-03-17,Northern Ireland,125.23
+2023-03-18,Northern Ireland,124.37
+2023-03-19,Northern Ireland,123.6
+2023-03-20,Northern Ireland,123.08
+2023-03-21,Northern Ireland,122.7
+2023-03-22,Northern Ireland,122.29
+2023-03-23,Northern Ireland,121.89
+2023-03-24,Northern Ireland,121.55
 2020-02-01,Scotland,100
 2020-02-02,Scotland,100.02
 2020-02-03,Scotland,100.2
@@ -7986,6 +8028,13 @@ date,region,indeed_job_postings_index
 2023-03-15,Scotland,146.43
 2023-03-16,Scotland,146.55
 2023-03-17,Scotland,146.29
+2023-03-18,Scotland,146.36
+2023-03-19,Scotland,146.41
+2023-03-20,Scotland,146.57
+2023-03-21,Scotland,146.85
+2023-03-22,Scotland,146.87
+2023-03-23,Scotland,146.82
+2023-03-24,Scotland,146.89
 2020-02-01,South East,100
 2020-02-02,South East,99.81
 2020-02-03,South East,99.78
@@ -9127,6 +9176,13 @@ date,region,indeed_job_postings_index
 2023-03-15,South East,127
 2023-03-16,South East,127.25
 2023-03-17,South East,127.03
+2023-03-18,South East,126.96
+2023-03-19,South East,126.97
+2023-03-20,South East,127.27
+2023-03-21,South East,127.45
+2023-03-22,South East,127.34
+2023-03-23,South East,127.1
+2023-03-24,South East,127.14
 2020-02-01,South West,100
 2020-02-02,South West,99.98
 2020-02-03,South West,100.07
@@ -10268,6 +10324,13 @@ date,region,indeed_job_postings_index
 2023-03-15,South West,136.11
 2023-03-16,South West,136.24
 2023-03-17,South West,136.01
+2023-03-18,South West,135.92
+2023-03-19,South West,136.04
+2023-03-20,South West,136.33
+2023-03-21,South West,136.48
+2023-03-22,South West,136.34
+2023-03-23,South West,136.16
+2023-03-24,South West,135.97
 2020-02-01,Wales,100
 2020-02-02,Wales,100.08
 2020-02-03,Wales,100.3
@@ -11409,6 +11472,13 @@ date,region,indeed_job_postings_index
 2023-03-15,Wales,140.75
 2023-03-16,Wales,140.96
 2023-03-17,Wales,140.94
+2023-03-18,Wales,141.06
+2023-03-19,Wales,141.33
+2023-03-20,Wales,141.86
+2023-03-21,Wales,142.23
+2023-03-22,Wales,142.48
+2023-03-23,Wales,142.76
+2023-03-24,Wales,142.81
 2020-02-01,West Midlands,100
 2020-02-02,West Midlands,100.38
 2020-02-03,West Midlands,100.94
@@ -12550,6 +12620,13 @@ date,region,indeed_job_postings_index
 2023-03-15,West Midlands,142.15
 2023-03-16,West Midlands,142.22
 2023-03-17,West Midlands,141.98
+2023-03-18,West Midlands,141.91
+2023-03-19,West Midlands,141.89
+2023-03-20,West Midlands,142.29
+2023-03-21,West Midlands,142.39
+2023-03-22,West Midlands,142.19
+2023-03-23,West Midlands,142.07
+2023-03-24,West Midlands,141.82
 2020-02-01,Yorkshire & the Humber,100
 2020-02-02,Yorkshire & the Humber,100.21
 2020-02-03,Yorkshire & the Humber,100.54
@@ -13691,3 +13768,10 @@ date,region,indeed_job_postings_index
 2023-03-15,Yorkshire & the Humber,136.98
 2023-03-16,Yorkshire & the Humber,137.35
 2023-03-17,Yorkshire & the Humber,137.21
+2023-03-18,Yorkshire & the Humber,137.27
+2023-03-19,Yorkshire & the Humber,137.28
+2023-03-20,Yorkshire & the Humber,137.53
+2023-03-21,Yorkshire & the Humber,137.58
+2023-03-22,Yorkshire & the Humber,137.14
+2023-03-23,Yorkshire & the Humber,136.6
+2023-03-24,Yorkshire & the Humber,136.15
