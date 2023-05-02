@@ -5,7 +5,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2020-02-04,JP,99.15,100.93,total postings
 2020-02-05,JP,98.89,101.15,total postings
 2020-02-06,JP,98.76,101.34,total postings
-2020-02-07,JP,98.64,101.45,total postings
+2020-02-07,JP,98.64,101.44,total postings
 2020-02-08,JP,98.73,101.65,total postings
 2020-02-09,JP,98.88,101.83,total postings
 2020-02-10,JP,98.84,101.81,total postings
@@ -380,7 +380,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2021-02-13,JP,77.6,79.87,total postings
 2021-02-14,JP,77.92,80.14,total postings
 2021-02-15,JP,78.27,80.41,total postings
-2021-02-16,JP,78.58,80.65,total postings
+2021-02-16,JP,78.57,80.65,total postings
 2021-02-17,JP,78.88,80.86,total postings
 2021-02-18,JP,79.13,80.97,total postings
 2021-02-19,JP,79.34,81.12,total postings
@@ -661,7 +661,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2021-11-21,JP,134,135.91,total postings
 2021-11-22,JP,134.2,136.67,total postings
 2021-11-23,JP,134.62,137.57,total postings
-2021-11-24,JP,134.85,138.16,total postings
+2021-11-24,JP,134.84,138.16,total postings
 2021-11-25,JP,135.41,139.04,total postings
 2021-11-26,JP,135.5,139.35,total postings
 2021-11-27,JP,135.65,139.58,total postings
@@ -700,7 +700,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2021-12-30,JP,143.71,135.57,total postings
 2021-12-31,JP,144.01,135.54,total postings
 2022-01-01,JP,144.08,135.27,total postings
-2022-01-02,JP,144.1,135.05,total postings
+2022-01-02,JP,144.09,135.05,total postings
 2022-01-03,JP,144.15,134.99,total postings
 2022-01-04,JP,144.26,135.07,total postings
 2022-01-05,JP,144.68,135.41,total postings
@@ -753,7 +753,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-02-21,JP,136.22,138.9,total postings
 2022-02-22,JP,137.41,139.96,total postings
 2022-02-23,JP,138.46,140.81,total postings
-2022-02-24,JP,138.75,140.9,total postings
+2022-02-24,JP,138.74,140.9,total postings
 2022-02-25,JP,138.95,141.06,total postings
 2022-02-26,JP,139.04,141.1,total postings
 2022-02-27,JP,138.72,140.87,total postings
@@ -878,7 +878,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-06-26,JP,152.73,141.6,total postings
 2022-06-27,JP,153.44,141.98,total postings
 2022-06-28,JP,153.75,141.95,total postings
-2022-06-29,JP,153.99,141.81,total postings
+2022-06-29,JP,153.98,141.81,total postings
 2022-06-30,JP,154.37,141.69,total postings
 2022-07-01,JP,154.81,141.58,total postings
 2022-07-02,JP,155.32,141.54,total postings
@@ -930,7 +930,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-08-17,JP,146.91,137.35,total postings
 2022-08-18,JP,146.68,137.14,total postings
 2022-08-19,JP,146.55,136.98,total postings
-2022-08-20,JP,146.02,136.65,total postings
+2022-08-20,JP,146.02,136.64,total postings
 2022-08-21,JP,145.44,136.39,total postings
 2022-08-22,JP,145.09,136.37,total postings
 2022-08-23,JP,144.68,136.22,total postings
@@ -1175,6 +1175,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-04-19,JP,135.13,128.33,total postings
 2023-04-20,JP,134.92,128.12,total postings
 2023-04-21,JP,134.65,127.84,total postings
+2023-04-22,JP,134.51,127.68,total postings
+2023-04-23,JP,134.28,127.52,total postings
+2023-04-24,JP,134.01,127.2,total postings
+2023-04-25,JP,133.78,126.9,total postings
+2023-04-26,JP,133.87,126.8,total postings
+2023-04-27,JP,134.17,126.81,total postings
+2023-04-28,JP,134.61,126.88,total postings
 2020-02-01,JP,100,100,new postings
 2020-02-02,JP,100.43,100.87,new postings
 2020-02-03,JP,102.56,103.8,new postings
@@ -1188,7 +1195,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2020-02-11,JP,98.77,103.38,new postings
 2020-02-12,JP,99.02,102.11,new postings
 2020-02-13,JP,99.76,101.2,new postings
-2020-02-14,JP,100.94,100.62,new postings
+2020-02-14,JP,100.94,100.61,new postings
 2020-02-15,JP,102.75,100.83,new postings
 2020-02-16,JP,105.43,101.82,new postings
 2020-02-17,JP,106.68,101.52,new postings
@@ -1256,7 +1263,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2020-04-19,JP,107.17,89.41,new postings
 2020-04-20,JP,105.75,87.7,new postings
 2020-04-21,JP,104.52,86.61,new postings
-2020-04-22,JP,103.34,85.97,new postings
+2020-04-22,JP,103.34,85.98,new postings
 2020-04-23,JP,100.36,84.02,new postings
 2020-04-24,JP,97.54,82.3,new postings
 2020-04-25,JP,95.64,81.2,new postings
@@ -1281,7 +1288,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2020-05-14,JP,78.29,57.66,new postings
 2020-05-15,JP,79.8,60.56,new postings
 2020-05-16,JP,82.95,64.07,new postings
-2020-05-17,JP,86.74,67.58,new postings
+2020-05-17,JP,86.74,67.57,new postings
 2020-05-18,JP,90.92,70.93,new postings
 2020-05-19,JP,94.3,73.49,new postings
 2020-05-20,JP,96.8,75.14,new postings
@@ -1566,7 +1573,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2021-02-23,JP,132.52,122.95,new postings
 2021-02-24,JP,131.37,122.28,new postings
 2021-02-25,JP,130.22,121.94,new postings
-2021-02-26,JP,128,120.85,new postings
+2021-02-26,JP,128.01,120.85,new postings
 2021-02-27,JP,125.87,120.14,new postings
 2021-02-28,JP,123.89,119.71,new postings
 2021-03-01,JP,122.49,120.09,new postings
@@ -1908,7 +1915,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-01-31,JP,210.62,209.69,new postings
 2022-02-01,JP,224.7,224.33,new postings
 2022-02-02,JP,238.94,239.78,new postings
-2022-02-03,JP,246.1,248.89,new postings
+2022-02-03,JP,246.1,248.88,new postings
 2022-02-04,JP,245.24,250.22,new postings
 2022-02-05,JP,246,254.36,new postings
 2022-02-06,JP,247.17,258.3,new postings
@@ -1946,7 +1953,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-03-10,JP,236.66,263.35,new postings
 2022-03-11,JP,234.29,259.78,new postings
 2022-03-12,JP,231.45,254.04,new postings
-2022-03-13,JP,227.86,247.06,new postings
+2022-03-13,JP,227.86,247.07,new postings
 2022-03-14,JP,223.71,238.76,new postings
 2022-03-15,JP,220.28,230.73,new postings
 2022-03-16,JP,221.5,227.27,new postings
@@ -2022,7 +2029,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-05-25,JP,271.99,207.32,new postings
 2022-05-26,JP,273.51,208.83,new postings
 2022-05-27,JP,273.03,208.89,new postings
-2022-05-28,JP,274.2,210.33,new postings
+2022-05-28,JP,274.2,210.32,new postings
 2022-05-29,JP,274.36,210.94,new postings
 2022-05-30,JP,271.78,210.02,new postings
 2022-05-31,JP,270.83,211.28,new postings
@@ -2051,7 +2058,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-06-23,JP,277.76,216.44,new postings
 2022-06-24,JP,280.38,216.36,new postings
 2022-06-25,JP,282.47,216.03,new postings
-2022-06-26,JP,286.24,216.97,new postings
+2022-06-26,JP,286.25,216.97,new postings
 2022-06-27,JP,288.57,216.49,new postings
 2022-06-28,JP,291,216.18,new postings
 2022-06-29,JP,291.24,215.21,new postings
@@ -2060,7 +2067,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-07-02,JP,296.09,219.22,new postings
 2022-07-03,JP,296.02,221.23,new postings
 2022-07-04,JP,295.36,224.42,new postings
-2022-07-05,JP,295.65,229.21,new postings
+2022-07-05,JP,295.65,229.22,new postings
 2022-07-06,JP,297.53,234.65,new postings
 2022-07-07,JP,298.67,239.86,new postings
 2022-07-08,JP,293.91,241.02,new postings
@@ -2114,7 +2121,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-08-25,JP,278.54,185.11,new postings
 2022-08-26,JP,273.12,188.92,new postings
 2022-08-27,JP,266.73,191,new postings
-2022-08-28,JP,261.25,192.08,new postings
+2022-08-28,JP,261.24,192.08,new postings
 2022-08-29,JP,254.2,190.03,new postings
 2022-08-30,JP,248.96,188.8,new postings
 2022-08-31,JP,245.04,188.99,new postings
@@ -2142,7 +2149,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-09-22,JP,216.5,203.26,new postings
 2022-09-23,JP,215.88,200.41,new postings
 2022-09-24,JP,216.76,199.69,new postings
-2022-09-25,JP,214.31,196.73,new postings
+2022-09-25,JP,214.32,196.73,new postings
 2022-09-26,JP,215.82,197.58,new postings
 2022-09-27,JP,216.84,197.83,new postings
 2022-09-28,JP,216.18,198.63,new postings
@@ -2169,7 +2176,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-10-19,JP,241.67,209.62,new postings
 2022-10-20,JP,245.91,214.1,new postings
 2022-10-21,JP,248.48,217.08,new postings
-2022-10-22,JP,252.67,221.64,new postings
+2022-10-22,JP,252.67,221.65,new postings
 2022-10-23,JP,254.87,224.83,new postings
 2022-10-24,JP,256.31,226.83,new postings
 2022-10-25,JP,257.92,228.78,new postings
@@ -2193,7 +2200,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-11-12,JP,236.91,211.83,new postings
 2022-11-13,JP,236.33,211.11,new postings
 2022-11-14,JP,234.64,210.88,new postings
-2022-11-15,JP,233.7,212.07,new postings
+2022-11-15,JP,233.7,212.08,new postings
 2022-11-16,JP,233.53,214.26,new postings
 2022-11-17,JP,232.67,216.04,new postings
 2022-11-18,JP,227.64,214.01,new postings
@@ -2205,7 +2212,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-11-24,JP,205.01,199.98,new postings
 2022-11-25,JP,199.7,193.99,new postings
 2022-11-26,JP,193.07,186.38,new postings
-2022-11-27,JP,187.07,179.14,new postings
+2022-11-27,JP,187.08,179.14,new postings
 2022-11-28,JP,181.65,172.61,new postings
 2022-11-29,JP,176.93,167.2,new postings
 2022-11-30,JP,173.76,163.86,new postings
@@ -2213,9 +2220,9 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-12-02,JP,179.65,171.01,new postings
 2022-12-03,JP,182.6,175.26,new postings
 2022-12-04,JP,185.48,180.04,new postings
-2022-12-05,JP,189.39,186.04,new postings
+2022-12-05,JP,189.39,186.05,new postings
 2022-12-06,JP,194.38,192.89,new postings
-2022-12-07,JP,198.97,198.96,new postings
+2022-12-07,JP,198.97,198.97,new postings
 2022-12-08,JP,196.09,197.16,new postings
 2022-12-09,JP,197.32,198.79,new postings
 2022-12-10,JP,199.23,200.54,new postings
@@ -2344,10 +2351,17 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-04-12,JP,152.72,151.34,new postings
 2023-04-13,JP,152.73,148.61,new postings
 2023-04-14,JP,155,146.95,new postings
-2023-04-15,JP,159.84,147.02,new postings
+2023-04-15,JP,159.84,147.01,new postings
 2023-04-16,JP,164.98,147.24,new postings
 2023-04-17,JP,172.05,149.03,new postings
 2023-04-18,JP,177.96,150.61,new postings
 2023-04-19,JP,180.4,150.25,new postings
 2023-04-20,JP,180.44,149.52,new postings
 2023-04-21,JP,178.6,147.9,new postings
+2023-04-22,JP,177.44,147.48,new postings
+2023-04-23,JP,175.23,146.55,new postings
+2023-04-24,JP,171.16,144.34,new postings
+2023-04-25,JP,168.76,143.31,new postings
+2023-04-26,JP,168.65,143.62,new postings
+2023-04-27,JP,170.74,144.45,new postings
+2023-04-28,JP,173.68,145.34,new postings
