@@ -456,13 +456,13 @@ date,Metro,indeed_job_postings_index
 2021-04-30,"Abbotsford, BC",152.27
 2021-05-01,"Abbotsford, BC",151.8
 2021-05-02,"Abbotsford, BC",151.36
-2021-05-03,"Abbotsford, BC",150.91
-2021-05-04,"Abbotsford, BC",150.49
-2021-05-05,"Abbotsford, BC",150
-2021-05-06,"Abbotsford, BC",150.01
-2021-05-07,"Abbotsford, BC",150.22
-2021-05-08,"Abbotsford, BC",150.28
-2021-05-09,"Abbotsford, BC",150.9
+2021-05-03,"Abbotsford, BC",150.89
+2021-05-04,"Abbotsford, BC",150.47
+2021-05-05,"Abbotsford, BC",149.98
+2021-05-06,"Abbotsford, BC",149.99
+2021-05-07,"Abbotsford, BC",150.2
+2021-05-08,"Abbotsford, BC",150.26
+2021-05-09,"Abbotsford, BC",150.88
 2021-05-10,"Abbotsford, BC",150.95
 2021-05-11,"Abbotsford, BC",151.34
 2021-05-12,"Abbotsford, BC",152.04
@@ -520,23 +520,23 @@ date,Metro,indeed_job_postings_index
 2021-07-03,"Abbotsford, BC",157.48
 2021-07-04,"Abbotsford, BC",157.29
 2021-07-05,"Abbotsford, BC",157.09
-2021-07-06,"Abbotsford, BC",157.1
-2021-07-07,"Abbotsford, BC",157.23
-2021-07-08,"Abbotsford, BC",157.81
-2021-07-09,"Abbotsford, BC",158.65
-2021-07-10,"Abbotsford, BC",159.22
-2021-07-11,"Abbotsford, BC",159.71
-2021-07-12,"Abbotsford, BC",160.37
+2021-07-06,"Abbotsford, BC",157.08
+2021-07-07,"Abbotsford, BC",157.21
+2021-07-08,"Abbotsford, BC",157.79
+2021-07-09,"Abbotsford, BC",158.63
+2021-07-10,"Abbotsford, BC",159.2
+2021-07-11,"Abbotsford, BC",159.69
+2021-07-12,"Abbotsford, BC",160.35
 2021-07-13,"Abbotsford, BC",160.81
 2021-07-14,"Abbotsford, BC",161.41
 2021-07-15,"Abbotsford, BC",161.88
-2021-07-16,"Abbotsford, BC",161.86
-2021-07-17,"Abbotsford, BC",162.2
-2021-07-18,"Abbotsford, BC",162.56
-2021-07-19,"Abbotsford, BC",162.64
-2021-07-20,"Abbotsford, BC",162.79
-2021-07-21,"Abbotsford, BC",162.95
-2021-07-22,"Abbotsford, BC",163.09
+2021-07-16,"Abbotsford, BC",161.84
+2021-07-17,"Abbotsford, BC",162.18
+2021-07-18,"Abbotsford, BC",162.54
+2021-07-19,"Abbotsford, BC",162.62
+2021-07-20,"Abbotsford, BC",162.77
+2021-07-21,"Abbotsford, BC",162.93
+2021-07-22,"Abbotsford, BC",163.07
 2021-07-23,"Abbotsford, BC",163.69
 2021-07-24,"Abbotsford, BC",164.33
 2021-07-25,"Abbotsford, BC",165.3
@@ -571,13 +571,13 @@ date,Metro,indeed_job_postings_index
 2021-08-23,"Abbotsford, BC",151.69
 2021-08-24,"Abbotsford, BC",151.94
 2021-08-25,"Abbotsford, BC",152.35
-2021-08-26,"Abbotsford, BC",152.7
-2021-08-27,"Abbotsford, BC",152.85
-2021-08-28,"Abbotsford, BC",153.38
-2021-08-29,"Abbotsford, BC",154.16
-2021-08-30,"Abbotsford, BC",154.75
-2021-08-31,"Abbotsford, BC",154.9
-2021-09-01,"Abbotsford, BC",155.08
+2021-08-26,"Abbotsford, BC",152.68
+2021-08-27,"Abbotsford, BC",152.83
+2021-08-28,"Abbotsford, BC",153.36
+2021-08-29,"Abbotsford, BC",154.14
+2021-08-30,"Abbotsford, BC",154.73
+2021-08-31,"Abbotsford, BC",154.88
+2021-09-01,"Abbotsford, BC",155.06
 2021-09-02,"Abbotsford, BC",155.02
 2021-09-03,"Abbotsford, BC",155.25
 2021-09-04,"Abbotsford, BC",155.09
@@ -1294,6 +1294,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Abbotsford, BC",144.2
 2023-08-17,"Abbotsford, BC",143.61
 2023-08-18,"Abbotsford, BC",143.31
+2023-08-19,"Abbotsford, BC",143.14
+2023-08-20,"Abbotsford, BC",143.06
+2023-08-21,"Abbotsford, BC",142.63
+2023-08-22,"Abbotsford, BC",142.51
+2023-08-23,"Abbotsford, BC",142.34
+2023-08-24,"Abbotsford, BC",142.5
+2023-08-25,"Abbotsford, BC",142.63
 2020-02-01,"Banff, AB",100
 2020-02-02,"Banff, AB",99.25
 2020-02-03,"Banff, AB",98.99
@@ -1746,13 +1753,13 @@ date,Metro,indeed_job_postings_index
 2021-04-25,"Banff, AB",66.56
 2021-04-26,"Banff, AB",65.75
 2021-04-27,"Banff, AB",65.87
-2021-04-28,"Banff, AB",66.04
-2021-04-29,"Banff, AB",66.2
-2021-04-30,"Banff, AB",66.48
-2021-05-01,"Banff, AB",66.88
-2021-05-02,"Banff, AB",67.33
-2021-05-03,"Banff, AB",67.59
-2021-05-04,"Banff, AB",68.35
+2021-04-28,"Banff, AB",65.96
+2021-04-29,"Banff, AB",66.12
+2021-04-30,"Banff, AB",66.4
+2021-05-01,"Banff, AB",66.8
+2021-05-02,"Banff, AB",67.25
+2021-05-03,"Banff, AB",67.51
+2021-05-04,"Banff, AB",68.28
 2021-05-05,"Banff, AB",69.02
 2021-05-06,"Banff, AB",70.02
 2021-05-07,"Banff, AB",70.69
@@ -1776,13 +1783,13 @@ date,Metro,indeed_job_postings_index
 2021-05-25,"Banff, AB",75.37
 2021-05-26,"Banff, AB",76.59
 2021-05-27,"Banff, AB",78.67
-2021-05-28,"Banff, AB",80.6
-2021-05-29,"Banff, AB",82.75
-2021-05-30,"Banff, AB",85.05
-2021-05-31,"Banff, AB",87.72
-2021-06-01,"Banff, AB",90.8
-2021-06-02,"Banff, AB",94.07
-2021-06-03,"Banff, AB",96.54
+2021-05-28,"Banff, AB",80.51
+2021-05-29,"Banff, AB",82.67
+2021-05-30,"Banff, AB",84.96
+2021-05-31,"Banff, AB",87.63
+2021-06-01,"Banff, AB",90.72
+2021-06-02,"Banff, AB",93.99
+2021-06-03,"Banff, AB",96.45
 2021-06-04,"Banff, AB",99.07
 2021-06-05,"Banff, AB",101.52
 2021-06-06,"Banff, AB",103.72
@@ -1822,13 +1829,13 @@ date,Metro,indeed_job_postings_index
 2021-07-10,"Banff, AB",123.18
 2021-07-11,"Banff, AB",123.52
 2021-07-12,"Banff, AB",124
-2021-07-13,"Banff, AB",125.19
-2021-07-14,"Banff, AB",125.14
-2021-07-15,"Banff, AB",124.99
-2021-07-16,"Banff, AB",124.24
-2021-07-17,"Banff, AB",124.31
-2021-07-18,"Banff, AB",124.61
-2021-07-19,"Banff, AB",124.9
+2021-07-13,"Banff, AB",124.88
+2021-07-14,"Banff, AB",124.84
+2021-07-15,"Banff, AB",124.69
+2021-07-16,"Banff, AB",123.93
+2021-07-17,"Banff, AB",124
+2021-07-18,"Banff, AB",124.31
+2021-07-19,"Banff, AB",124.6
 2021-07-20,"Banff, AB",124.65
 2021-07-21,"Banff, AB",125.33
 2021-07-22,"Banff, AB",125.67
@@ -1837,26 +1844,26 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Banff, AB",128.68
 2021-07-26,"Banff, AB",129.87
 2021-07-27,"Banff, AB",130.83
-2021-07-28,"Banff, AB",131.1
-2021-07-29,"Banff, AB",131.7
-2021-07-30,"Banff, AB",130.95
-2021-07-31,"Banff, AB",129.41
-2021-08-01,"Banff, AB",127.31
-2021-08-02,"Banff, AB",124.99
-2021-08-03,"Banff, AB",123.05
-2021-08-04,"Banff, AB",122.83
-2021-08-05,"Banff, AB",123.19
-2021-08-06,"Banff, AB",124.39
-2021-08-07,"Banff, AB",126.14
-2021-08-08,"Banff, AB",127.59
-2021-08-09,"Banff, AB",129.52
-2021-08-10,"Banff, AB",131.38
-2021-08-11,"Banff, AB",131.31
-2021-08-12,"Banff, AB",130.24
-2021-08-13,"Banff, AB",129.19
-2021-08-14,"Banff, AB",128.32
-2021-08-15,"Banff, AB",127.7
-2021-08-16,"Banff, AB",126.93
+2021-07-28,"Banff, AB",131.02
+2021-07-29,"Banff, AB",131.55
+2021-07-30,"Banff, AB",130.73
+2021-07-31,"Banff, AB",129.19
+2021-08-01,"Banff, AB",127.09
+2021-08-02,"Banff, AB",124.77
+2021-08-03,"Banff, AB",122.82
+2021-08-04,"Banff, AB",122.68
+2021-08-05,"Banff, AB",122.9
+2021-08-06,"Banff, AB",124.17
+2021-08-07,"Banff, AB",125.93
+2021-08-08,"Banff, AB",127.38
+2021-08-09,"Banff, AB",129.31
+2021-08-10,"Banff, AB",131.03
+2021-08-11,"Banff, AB",130.96
+2021-08-12,"Banff, AB",130.11
+2021-08-13,"Banff, AB",129.06
+2021-08-14,"Banff, AB",128.18
+2021-08-15,"Banff, AB",127.56
+2021-08-16,"Banff, AB",126.79
 2021-08-17,"Banff, AB",126.08
 2021-08-18,"Banff, AB",126.06
 2021-08-19,"Banff, AB",125.88
@@ -2589,6 +2596,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Banff, AB",135.62
 2023-08-17,"Banff, AB",134.62
 2023-08-18,"Banff, AB",134.36
+2023-08-19,"Banff, AB",134.13
+2023-08-20,"Banff, AB",134.48
+2023-08-21,"Banff, AB",134.51
+2023-08-22,"Banff, AB",133.5
+2023-08-23,"Banff, AB",132.13
+2023-08-24,"Banff, AB",131.15
+2023-08-25,"Banff, AB",129.83
 2020-02-01,"Barrie, ON",100
 2020-02-02,"Barrie, ON",99.82
 2020-02-03,"Barrie, ON",99.6
@@ -3070,24 +3084,24 @@ date,Metro,indeed_job_postings_index
 2021-05-24,"Barrie, ON",117.48
 2021-05-25,"Barrie, ON",117.6
 2021-05-26,"Barrie, ON",117.33
-2021-05-27,"Barrie, ON",117.52
-2021-05-28,"Barrie, ON",117.74
-2021-05-29,"Barrie, ON",118.31
-2021-05-30,"Barrie, ON",118.98
-2021-05-31,"Barrie, ON",119.53
-2021-06-01,"Barrie, ON",120.44
-2021-06-02,"Barrie, ON",121.47
+2021-05-27,"Barrie, ON",117.5
+2021-05-28,"Barrie, ON",117.72
+2021-05-29,"Barrie, ON",118.29
+2021-05-30,"Barrie, ON",118.96
+2021-05-31,"Barrie, ON",119.51
+2021-06-01,"Barrie, ON",120.42
+2021-06-02,"Barrie, ON",121.45
 2021-06-03,"Barrie, ON",122.52
 2021-06-04,"Barrie, ON",123.41
 2021-06-05,"Barrie, ON",124.02
 2021-06-06,"Barrie, ON",124.39
-2021-06-07,"Barrie, ON",124.77
-2021-06-08,"Barrie, ON",125.08
-2021-06-09,"Barrie, ON",125.55
-2021-06-10,"Barrie, ON",126.34
-2021-06-11,"Barrie, ON",126.9
-2021-06-12,"Barrie, ON",127.42
-2021-06-13,"Barrie, ON",128.4
+2021-06-07,"Barrie, ON",124.75
+2021-06-08,"Barrie, ON",125.07
+2021-06-09,"Barrie, ON",125.54
+2021-06-10,"Barrie, ON",126.33
+2021-06-11,"Barrie, ON",126.88
+2021-06-12,"Barrie, ON",127.4
+2021-06-13,"Barrie, ON",128.39
 2021-06-14,"Barrie, ON",129.42
 2021-06-15,"Barrie, ON",130.48
 2021-06-16,"Barrie, ON",131.5
@@ -3110,13 +3124,13 @@ date,Metro,indeed_job_postings_index
 2021-07-03,"Barrie, ON",144
 2021-07-04,"Barrie, ON",143.85
 2021-07-05,"Barrie, ON",143.48
-2021-07-06,"Barrie, ON",143.39
-2021-07-07,"Barrie, ON",143.51
-2021-07-08,"Barrie, ON",143.9
-2021-07-09,"Barrie, ON",144.35
-2021-07-10,"Barrie, ON",145
-2021-07-11,"Barrie, ON",145.94
-2021-07-12,"Barrie, ON",147.1
+2021-07-06,"Barrie, ON",143.37
+2021-07-07,"Barrie, ON",143.5
+2021-07-08,"Barrie, ON",143.89
+2021-07-09,"Barrie, ON",144.34
+2021-07-10,"Barrie, ON",144.98
+2021-07-11,"Barrie, ON",145.92
+2021-07-12,"Barrie, ON",147.08
 2021-07-13,"Barrie, ON",147.95
 2021-07-14,"Barrie, ON",148.5
 2021-07-15,"Barrie, ON",148.54
@@ -3132,48 +3146,48 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Barrie, ON",152.08
 2021-07-26,"Barrie, ON",152.48
 2021-07-27,"Barrie, ON",153.18
-2021-07-28,"Barrie, ON",154.09
-2021-07-29,"Barrie, ON",155.02
-2021-07-30,"Barrie, ON",155.28
-2021-07-31,"Barrie, ON",155.7
-2021-08-01,"Barrie, ON",155.64
-2021-08-02,"Barrie, ON",155.6
-2021-08-03,"Barrie, ON",154.76
-2021-08-04,"Barrie, ON",153.43
-2021-08-05,"Barrie, ON",152.66
-2021-08-06,"Barrie, ON",152.5
-2021-08-07,"Barrie, ON",152.1
-2021-08-08,"Barrie, ON",151.9
+2021-07-28,"Barrie, ON",154.07
+2021-07-29,"Barrie, ON",154.99
+2021-07-30,"Barrie, ON",155.23
+2021-07-31,"Barrie, ON",155.64
+2021-08-01,"Barrie, ON",155.56
+2021-08-02,"Barrie, ON",155.5
+2021-08-03,"Barrie, ON",154.66
+2021-08-04,"Barrie, ON",153.35
+2021-08-05,"Barrie, ON",152.59
+2021-08-06,"Barrie, ON",152.45
+2021-08-07,"Barrie, ON",152.07
+2021-08-08,"Barrie, ON",151.88
 2021-08-09,"Barrie, ON",151.93
 2021-08-10,"Barrie, ON",152.54
 2021-08-11,"Barrie, ON",153.3
 2021-08-12,"Barrie, ON",153.62
-2021-08-13,"Barrie, ON",153.61
-2021-08-14,"Barrie, ON",153.96
-2021-08-15,"Barrie, ON",154.28
-2021-08-16,"Barrie, ON",154.58
-2021-08-17,"Barrie, ON",155.08
-2021-08-18,"Barrie, ON",155.94
-2021-08-19,"Barrie, ON",156.68
-2021-08-20,"Barrie, ON",157.46
+2021-08-13,"Barrie, ON",153.59
+2021-08-14,"Barrie, ON",153.93
+2021-08-15,"Barrie, ON",154.25
+2021-08-16,"Barrie, ON",154.54
+2021-08-17,"Barrie, ON",155.05
+2021-08-18,"Barrie, ON",155.91
+2021-08-19,"Barrie, ON",156.64
+2021-08-20,"Barrie, ON",157.44
 2021-08-21,"Barrie, ON",157.74
 2021-08-22,"Barrie, ON",158.12
-2021-08-23,"Barrie, ON",158.49
-2021-08-24,"Barrie, ON",158.33
-2021-08-25,"Barrie, ON",158
-2021-08-26,"Barrie, ON",157.84
-2021-08-27,"Barrie, ON",157.52
-2021-08-28,"Barrie, ON",157.58
-2021-08-29,"Barrie, ON",157.3
+2021-08-23,"Barrie, ON",158.48
+2021-08-24,"Barrie, ON",158.31
+2021-08-25,"Barrie, ON",157.98
+2021-08-26,"Barrie, ON",157.83
+2021-08-27,"Barrie, ON",157.5
+2021-08-28,"Barrie, ON",157.56
+2021-08-29,"Barrie, ON",157.29
 2021-08-30,"Barrie, ON",157
 2021-08-31,"Barrie, ON",157.08
-2021-09-01,"Barrie, ON",157.21
-2021-09-02,"Barrie, ON",157.28
-2021-09-03,"Barrie, ON",157.41
-2021-09-04,"Barrie, ON",157.71
-2021-09-05,"Barrie, ON",158.17
-2021-09-06,"Barrie, ON",158.74
-2021-09-07,"Barrie, ON",158.63
+2021-09-01,"Barrie, ON",157.19
+2021-09-02,"Barrie, ON",157.27
+2021-09-03,"Barrie, ON",157.4
+2021-09-04,"Barrie, ON",157.7
+2021-09-05,"Barrie, ON",158.15
+2021-09-06,"Barrie, ON",158.73
+2021-09-07,"Barrie, ON",158.62
 2021-09-08,"Barrie, ON",158.17
 2021-09-09,"Barrie, ON",157.67
 2021-09-10,"Barrie, ON",157.33
@@ -3884,6 +3898,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Barrie, ON",129.83
 2023-08-17,"Barrie, ON",130.6
 2023-08-18,"Barrie, ON",131.31
+2023-08-19,"Barrie, ON",132
+2023-08-20,"Barrie, ON",132.8
+2023-08-21,"Barrie, ON",133.6
+2023-08-22,"Barrie, ON",133.99
+2023-08-23,"Barrie, ON",134.22
+2023-08-24,"Barrie, ON",134.45
+2023-08-25,"Barrie, ON",134.9
 2020-02-01,"Belleville, ON",100
 2020-02-02,"Belleville, ON",100.46
 2020-02-03,"Belleville, ON",101.05
@@ -4372,13 +4393,13 @@ date,Metro,indeed_job_postings_index
 2021-05-31,"Belleville, ON",133.25
 2021-06-01,"Belleville, ON",134.91
 2021-06-02,"Belleville, ON",136.74
-2021-06-03,"Belleville, ON",138.72
-2021-06-04,"Belleville, ON",140.43
-2021-06-05,"Belleville, ON",141.47
-2021-06-06,"Belleville, ON",142.71
-2021-06-07,"Belleville, ON",142.96
-2021-06-08,"Belleville, ON",142.77
-2021-06-09,"Belleville, ON",142.84
+2021-06-03,"Belleville, ON",138.64
+2021-06-04,"Belleville, ON",140.35
+2021-06-05,"Belleville, ON",141.39
+2021-06-06,"Belleville, ON",142.63
+2021-06-07,"Belleville, ON",142.88
+2021-06-08,"Belleville, ON",142.69
+2021-06-09,"Belleville, ON",142.76
 2021-06-10,"Belleville, ON",142.41
 2021-06-11,"Belleville, ON",142.11
 2021-06-12,"Belleville, ON",141.76
@@ -4453,13 +4474,13 @@ date,Metro,indeed_job_postings_index
 2021-08-20,"Belleville, ON",146.58
 2021-08-21,"Belleville, ON",147.4
 2021-08-22,"Belleville, ON",148.49
-2021-08-23,"Belleville, ON",149.55
-2021-08-24,"Belleville, ON",150.55
-2021-08-25,"Belleville, ON",151.05
-2021-08-26,"Belleville, ON",151.83
-2021-08-27,"Belleville, ON",153.28
-2021-08-28,"Belleville, ON",154.42
-2021-08-29,"Belleville, ON",155.06
+2021-08-23,"Belleville, ON",149.47
+2021-08-24,"Belleville, ON",150.48
+2021-08-25,"Belleville, ON",150.97
+2021-08-26,"Belleville, ON",151.75
+2021-08-27,"Belleville, ON",153.2
+2021-08-28,"Belleville, ON",154.34
+2021-08-29,"Belleville, ON",154.98
 2021-08-30,"Belleville, ON",155.78
 2021-08-31,"Belleville, ON",156.45
 2021-09-01,"Belleville, ON",157.29
@@ -5179,6 +5200,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Belleville, ON",133.92
 2023-08-17,"Belleville, ON",134.78
 2023-08-18,"Belleville, ON",135.82
+2023-08-19,"Belleville, ON",136.68
+2023-08-20,"Belleville, ON",137.53
+2023-08-21,"Belleville, ON",138.33
+2023-08-22,"Belleville, ON",139.14
+2023-08-23,"Belleville, ON",139.18
+2023-08-24,"Belleville, ON",139.3
+2023-08-25,"Belleville, ON",138.92
 2020-02-01,"Brandon, MB",100
 2020-02-02,"Brandon, MB",99.16
 2020-02-03,"Brandon, MB",98.3
@@ -5722,18 +5750,18 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Brandon, MB",126.42
 2021-07-26,"Brandon, MB",128.42
 2021-07-27,"Brandon, MB",130.36
-2021-07-28,"Brandon, MB",132.02
-2021-07-29,"Brandon, MB",133.38
-2021-07-30,"Brandon, MB",134.38
-2021-07-31,"Brandon, MB",135.25
-2021-08-01,"Brandon, MB",136.1
-2021-08-02,"Brandon, MB",137.3
-2021-08-03,"Brandon, MB",138.32
-2021-08-04,"Brandon, MB",139.98
-2021-08-05,"Brandon, MB",140.8
-2021-08-06,"Brandon, MB",142.26
-2021-08-07,"Brandon, MB",143.34
-2021-08-08,"Brandon, MB",143.67
+2021-07-28,"Brandon, MB",131.96
+2021-07-29,"Brandon, MB",133.26
+2021-07-30,"Brandon, MB",134.2
+2021-07-31,"Brandon, MB",135.01
+2021-08-01,"Brandon, MB",135.79
+2021-08-02,"Brandon, MB",136.94
+2021-08-03,"Brandon, MB",137.95
+2021-08-04,"Brandon, MB",139.68
+2021-08-05,"Brandon, MB",140.56
+2021-08-06,"Brandon, MB",142.08
+2021-08-07,"Brandon, MB",143.21
+2021-08-08,"Brandon, MB",143.61
 2021-08-09,"Brandon, MB",143.1
 2021-08-10,"Brandon, MB",142.24
 2021-08-11,"Brandon, MB",140.91
@@ -6474,6 +6502,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Brandon, MB",130.47
 2023-08-17,"Brandon, MB",131.54
 2023-08-18,"Brandon, MB",132.21
+2023-08-19,"Brandon, MB",131.83
+2023-08-20,"Brandon, MB",131.55
+2023-08-21,"Brandon, MB",131.49
+2023-08-22,"Brandon, MB",130.76
+2023-08-23,"Brandon, MB",129.37
+2023-08-24,"Brandon, MB",128.32
+2023-08-25,"Brandon, MB",128.13
 2020-02-01,"Brantford, ON",100
 2020-02-02,"Brantford, ON",99.74
 2020-02-03,"Brantford, ON",99.63
@@ -6940,13 +6975,13 @@ date,Metro,indeed_job_postings_index
 2021-05-09,"Brantford, ON",121.84
 2021-05-10,"Brantford, ON",121.42
 2021-05-11,"Brantford, ON",121.18
-2021-05-12,"Brantford, ON",120.88
-2021-05-13,"Brantford, ON",120.14
-2021-05-14,"Brantford, ON",119.57
-2021-05-15,"Brantford, ON",119.31
-2021-05-16,"Brantford, ON",119.18
-2021-05-17,"Brantford, ON",119.04
-2021-05-18,"Brantford, ON",118.87
+2021-05-12,"Brantford, ON",120.85
+2021-05-13,"Brantford, ON",120.1
+2021-05-14,"Brantford, ON",119.54
+2021-05-15,"Brantford, ON",119.27
+2021-05-16,"Brantford, ON",119.14
+2021-05-17,"Brantford, ON",119
+2021-05-18,"Brantford, ON",118.84
 2021-05-19,"Brantford, ON",118.83
 2021-05-20,"Brantford, ON",118.99
 2021-05-21,"Brantford, ON",120.06
@@ -6998,13 +7033,13 @@ date,Metro,indeed_job_postings_index
 2021-07-06,"Brantford, ON",146.3
 2021-07-07,"Brantford, ON",146.08
 2021-07-08,"Brantford, ON",145.93
-2021-07-09,"Brantford, ON",145.67
-2021-07-10,"Brantford, ON",145.57
-2021-07-11,"Brantford, ON",145.46
-2021-07-12,"Brantford, ON",145.67
-2021-07-13,"Brantford, ON",146.1
-2021-07-14,"Brantford, ON",146.13
-2021-07-15,"Brantford, ON",146.38
+2021-07-09,"Brantford, ON",145.63
+2021-07-10,"Brantford, ON",145.54
+2021-07-11,"Brantford, ON",145.43
+2021-07-12,"Brantford, ON",145.64
+2021-07-13,"Brantford, ON",146.07
+2021-07-14,"Brantford, ON",146.09
+2021-07-15,"Brantford, ON",146.34
 2021-07-16,"Brantford, ON",146.54
 2021-07-17,"Brantford, ON",146.5
 2021-07-18,"Brantford, ON",147.3
@@ -7017,18 +7052,18 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Brantford, ON",149.45
 2021-07-26,"Brantford, ON",149.57
 2021-07-27,"Brantford, ON",149.14
-2021-07-28,"Brantford, ON",149.14
-2021-07-29,"Brantford, ON",148.72
-2021-07-30,"Brantford, ON",148.5
-2021-07-31,"Brantford, ON",148.26
-2021-08-01,"Brantford, ON",148.03
-2021-08-02,"Brantford, ON",147.98
-2021-08-03,"Brantford, ON",147.7
-2021-08-04,"Brantford, ON",147.58
-2021-08-05,"Brantford, ON",147.67
-2021-08-06,"Brantford, ON",147.97
-2021-08-07,"Brantford, ON",148.09
-2021-08-08,"Brantford, ON",148.22
+2021-07-28,"Brantford, ON",149.04
+2021-07-29,"Brantford, ON",148.48
+2021-07-30,"Brantford, ON",148.13
+2021-07-31,"Brantford, ON",147.76
+2021-08-01,"Brantford, ON",147.39
+2021-08-02,"Brantford, ON",147.21
+2021-08-03,"Brantford, ON",146.93
+2021-08-04,"Brantford, ON",146.91
+2021-08-05,"Brantford, ON",147.14
+2021-08-06,"Brantford, ON",147.57
+2021-08-07,"Brantford, ON",147.83
+2021-08-08,"Brantford, ON",148.09
 2021-08-09,"Brantford, ON",148.28
 2021-08-10,"Brantford, ON",148.39
 2021-08-11,"Brantford, ON",148.29
@@ -7769,6 +7804,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Brantford, ON",127.55
 2023-08-17,"Brantford, ON",126.9
 2023-08-18,"Brantford, ON",127.03
+2023-08-19,"Brantford, ON",127.2
+2023-08-20,"Brantford, ON",127.36
+2023-08-21,"Brantford, ON",127.53
+2023-08-22,"Brantford, ON",127.45
+2023-08-23,"Brantford, ON",127.69
+2023-08-24,"Brantford, ON",128.08
+2023-08-25,"Brantford, ON",128.05
 2020-02-01,"Brockville, ON",100
 2020-02-02,"Brockville, ON",99.94
 2020-02-03,"Brockville, ON",100.41
@@ -9064,6 +9106,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Brockville, ON",184.43
 2023-08-17,"Brockville, ON",184.86
 2023-08-18,"Brockville, ON",185.28
+2023-08-19,"Brockville, ON",185.47
+2023-08-20,"Brockville, ON",185.61
+2023-08-21,"Brockville, ON",185.75
+2023-08-22,"Brockville, ON",186.84
+2023-08-23,"Brockville, ON",188.3
+2023-08-24,"Brockville, ON",190.04
+2023-08-25,"Brockville, ON",191.18
 2020-02-01,"Calgary, AB",100
 2020-02-02,"Calgary, AB",100.28
 2020-02-03,"Calgary, AB",100.56
@@ -9503,7 +9552,7 @@ date,Metro,indeed_job_postings_index
 2021-04-12,"Calgary, AB",106.39
 2021-04-13,"Calgary, AB",106.48
 2021-04-14,"Calgary, AB",106.88
-2021-04-15,"Calgary, AB",107.41
+2021-04-15,"Calgary, AB",107.4
 2021-04-16,"Calgary, AB",107.88
 2021-04-17,"Calgary, AB",108.36
 2021-04-18,"Calgary, AB",108.82
@@ -9518,7 +9567,7 @@ date,Metro,indeed_job_postings_index
 2021-04-27,"Calgary, AB",109.81
 2021-04-28,"Calgary, AB",109.84
 2021-04-29,"Calgary, AB",109.91
-2021-04-30,"Calgary, AB",109.87
+2021-04-30,"Calgary, AB",109.86
 2021-05-01,"Calgary, AB",109.67
 2021-05-02,"Calgary, AB",109.36
 2021-05-03,"Calgary, AB",109.17
@@ -9531,16 +9580,16 @@ date,Metro,indeed_job_postings_index
 2021-05-10,"Calgary, AB",109.56
 2021-05-11,"Calgary, AB",109.73
 2021-05-12,"Calgary, AB",109.83
-2021-05-13,"Calgary, AB",109.95
-2021-05-14,"Calgary, AB",110.1
-2021-05-15,"Calgary, AB",110.33
-2021-05-16,"Calgary, AB",110.2
-2021-05-17,"Calgary, AB",110.11
-2021-05-18,"Calgary, AB",109.9
+2021-05-13,"Calgary, AB",109.94
+2021-05-14,"Calgary, AB",110.09
+2021-05-15,"Calgary, AB",110.32
+2021-05-16,"Calgary, AB",110.19
+2021-05-17,"Calgary, AB",110.1
+2021-05-18,"Calgary, AB",109.88
 2021-05-19,"Calgary, AB",109.88
 2021-05-20,"Calgary, AB",110.26
 2021-05-21,"Calgary, AB",110.7
-2021-05-22,"Calgary, AB",111.08
+2021-05-22,"Calgary, AB",111.07
 2021-05-23,"Calgary, AB",111.77
 2021-05-24,"Calgary, AB",112.54
 2021-05-25,"Calgary, AB",113.26
@@ -9551,20 +9600,20 @@ date,Metro,indeed_job_postings_index
 2021-05-30,"Calgary, AB",114.7
 2021-05-31,"Calgary, AB",114.82
 2021-06-01,"Calgary, AB",115.07
-2021-06-02,"Calgary, AB",115.63
-2021-06-03,"Calgary, AB",116.35
-2021-06-04,"Calgary, AB",117.19
-2021-06-05,"Calgary, AB",118
-2021-06-06,"Calgary, AB",118.75
-2021-06-07,"Calgary, AB",119.62
-2021-06-08,"Calgary, AB",120.53
-2021-06-09,"Calgary, AB",121.48
+2021-06-02,"Calgary, AB",115.61
+2021-06-03,"Calgary, AB",116.32
+2021-06-04,"Calgary, AB",117.15
+2021-06-05,"Calgary, AB",117.97
+2021-06-06,"Calgary, AB",118.72
+2021-06-07,"Calgary, AB",119.59
+2021-06-08,"Calgary, AB",120.5
+2021-06-09,"Calgary, AB",121.47
 2021-06-10,"Calgary, AB",122.61
 2021-06-11,"Calgary, AB",123.57
 2021-06-12,"Calgary, AB",124.37
 2021-06-13,"Calgary, AB",125.21
 2021-06-14,"Calgary, AB",126.04
-2021-06-15,"Calgary, AB",126.71
+2021-06-15,"Calgary, AB",126.7
 2021-06-16,"Calgary, AB",127.31
 2021-06-17,"Calgary, AB",127.65
 2021-06-18,"Calgary, AB",127.96
@@ -9575,21 +9624,21 @@ date,Metro,indeed_job_postings_index
 2021-06-23,"Calgary, AB",128.91
 2021-06-24,"Calgary, AB",129.09
 2021-06-25,"Calgary, AB",129.24
-2021-06-26,"Calgary, AB",129.85
-2021-06-27,"Calgary, AB",130.38
-2021-06-28,"Calgary, AB",131.31
-2021-06-29,"Calgary, AB",132.27
-2021-06-30,"Calgary, AB",132.88
-2021-07-01,"Calgary, AB",133.48
-2021-07-02,"Calgary, AB",134.01
-2021-07-03,"Calgary, AB",134.04
-2021-07-04,"Calgary, AB",133.89
-2021-07-05,"Calgary, AB",133.59
-2021-07-06,"Calgary, AB",133.4
-2021-07-07,"Calgary, AB",133.16
-2021-07-08,"Calgary, AB",133.03
-2021-07-09,"Calgary, AB",133.07
-2021-07-10,"Calgary, AB",133.18
+2021-06-26,"Calgary, AB",129.84
+2021-06-27,"Calgary, AB",130.37
+2021-06-28,"Calgary, AB",131.29
+2021-06-29,"Calgary, AB",132.25
+2021-06-30,"Calgary, AB",132.86
+2021-07-01,"Calgary, AB",133.46
+2021-07-02,"Calgary, AB",133.99
+2021-07-03,"Calgary, AB",134.02
+2021-07-04,"Calgary, AB",133.88
+2021-07-05,"Calgary, AB",133.58
+2021-07-06,"Calgary, AB",133.38
+2021-07-07,"Calgary, AB",133.15
+2021-07-08,"Calgary, AB",133.02
+2021-07-09,"Calgary, AB",133.06
+2021-07-10,"Calgary, AB",133.17
 2021-07-11,"Calgary, AB",133.49
 2021-07-12,"Calgary, AB",133.77
 2021-07-13,"Calgary, AB",134.07
@@ -9606,49 +9655,49 @@ date,Metro,indeed_job_postings_index
 2021-07-24,"Calgary, AB",137.38
 2021-07-25,"Calgary, AB",138.05
 2021-07-26,"Calgary, AB",138.55
-2021-07-27,"Calgary, AB",139.03
-2021-07-28,"Calgary, AB",139.63
-2021-07-29,"Calgary, AB",140.09
-2021-07-30,"Calgary, AB",140.63
-2021-07-31,"Calgary, AB",140.8
-2021-08-01,"Calgary, AB",140.78
-2021-08-02,"Calgary, AB",140.76
-2021-08-03,"Calgary, AB",140.38
-2021-08-04,"Calgary, AB",139.87
-2021-08-05,"Calgary, AB",139.68
-2021-08-06,"Calgary, AB",139.65
-2021-08-07,"Calgary, AB",139.66
-2021-08-08,"Calgary, AB",139.73
+2021-07-27,"Calgary, AB",139.02
+2021-07-28,"Calgary, AB",139.62
+2021-07-29,"Calgary, AB",140.08
+2021-07-30,"Calgary, AB",140.6
+2021-07-31,"Calgary, AB",140.77
+2021-08-01,"Calgary, AB",140.74
+2021-08-02,"Calgary, AB",140.71
+2021-08-03,"Calgary, AB",140.33
+2021-08-04,"Calgary, AB",139.83
+2021-08-05,"Calgary, AB",139.65
+2021-08-06,"Calgary, AB",139.63
+2021-08-07,"Calgary, AB",139.64
+2021-08-08,"Calgary, AB",139.72
 2021-08-09,"Calgary, AB",139.85
 2021-08-10,"Calgary, AB",140.23
-2021-08-11,"Calgary, AB",140.62
+2021-08-11,"Calgary, AB",140.61
 2021-08-12,"Calgary, AB",140.87
 2021-08-13,"Calgary, AB",140.99
 2021-08-14,"Calgary, AB",141.2
 2021-08-15,"Calgary, AB",141.47
 2021-08-16,"Calgary, AB",141.73
-2021-08-17,"Calgary, AB",142.2
-2021-08-18,"Calgary, AB",142.62
-2021-08-19,"Calgary, AB",142.93
-2021-08-20,"Calgary, AB",143.25
-2021-08-21,"Calgary, AB",143.78
-2021-08-22,"Calgary, AB",144.34
-2021-08-23,"Calgary, AB",144.91
+2021-08-17,"Calgary, AB",142.18
+2021-08-18,"Calgary, AB",142.6
+2021-08-19,"Calgary, AB",142.92
+2021-08-20,"Calgary, AB",143.24
+2021-08-21,"Calgary, AB",143.77
+2021-08-22,"Calgary, AB",144.33
+2021-08-23,"Calgary, AB",144.9
 2021-08-24,"Calgary, AB",145.33
 2021-08-25,"Calgary, AB",145.44
-2021-08-26,"Calgary, AB",145.7
+2021-08-26,"Calgary, AB",145.69
 2021-08-27,"Calgary, AB",145.89
 2021-08-28,"Calgary, AB",146.02
-2021-08-29,"Calgary, AB",146.15
-2021-08-30,"Calgary, AB",146.2
-2021-08-31,"Calgary, AB",146.21
-2021-09-01,"Calgary, AB",146.38
-2021-09-02,"Calgary, AB",146.49
-2021-09-03,"Calgary, AB",146.52
-2021-09-04,"Calgary, AB",146.2
+2021-08-29,"Calgary, AB",146.14
+2021-08-30,"Calgary, AB",146.19
+2021-08-31,"Calgary, AB",146.2
+2021-09-01,"Calgary, AB",146.37
+2021-09-02,"Calgary, AB",146.48
+2021-09-03,"Calgary, AB",146.51
+2021-09-04,"Calgary, AB",146.19
 2021-09-05,"Calgary, AB",145.92
-2021-09-06,"Calgary, AB",145.83
-2021-09-07,"Calgary, AB",145.42
+2021-09-06,"Calgary, AB",145.82
+2021-09-07,"Calgary, AB",145.41
 2021-09-08,"Calgary, AB",145.04
 2021-09-09,"Calgary, AB",144.58
 2021-09-10,"Calgary, AB",144.02
@@ -10359,6 +10408,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Calgary, AB",138.97
 2023-08-17,"Calgary, AB",138.78
 2023-08-18,"Calgary, AB",138.74
+2023-08-19,"Calgary, AB",138.91
+2023-08-20,"Calgary, AB",138.99
+2023-08-21,"Calgary, AB",139.06
+2023-08-22,"Calgary, AB",139.07
+2023-08-23,"Calgary, AB",139.16
+2023-08-24,"Calgary, AB",139.15
+2023-08-25,"Calgary, AB",139.2
 2020-02-01,"Canmore, AB",100
 2020-02-02,"Canmore, AB",99.94
 2020-02-03,"Canmore, AB",100.62
@@ -10910,13 +10966,13 @@ date,Metro,indeed_job_postings_index
 2021-08-02,"Canmore, AB",188.55
 2021-08-03,"Canmore, AB",189.18
 2021-08-04,"Canmore, AB",189.89
-2021-08-05,"Canmore, AB",190.58
-2021-08-06,"Canmore, AB",190.24
-2021-08-07,"Canmore, AB",188.76
-2021-08-08,"Canmore, AB",187.37
-2021-08-09,"Canmore, AB",186.58
-2021-08-10,"Canmore, AB",185.53
-2021-08-11,"Canmore, AB",184.17
+2021-08-05,"Canmore, AB",189.97
+2021-08-06,"Canmore, AB",189.63
+2021-08-07,"Canmore, AB",188.15
+2021-08-08,"Canmore, AB",186.76
+2021-08-09,"Canmore, AB",185.96
+2021-08-10,"Canmore, AB",184.92
+2021-08-11,"Canmore, AB",183.56
 2021-08-12,"Canmore, AB",181.95
 2021-08-13,"Canmore, AB",180.92
 2021-08-14,"Canmore, AB",179.07
@@ -11654,6 +11710,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Canmore, AB",170.74
 2023-08-17,"Canmore, AB",169.66
 2023-08-18,"Canmore, AB",167.9
+2023-08-19,"Canmore, AB",166.98
+2023-08-20,"Canmore, AB",166.2
+2023-08-21,"Canmore, AB",165.64
+2023-08-22,"Canmore, AB",165.3
+2023-08-23,"Canmore, AB",165.29
+2023-08-24,"Canmore, AB",165.93
+2023-08-25,"Canmore, AB",166.36
 2020-02-01,"Chilliwack, BC",100
 2020-02-02,"Chilliwack, BC",100.3
 2020-02-03,"Chilliwack, BC",100.82
@@ -12142,13 +12205,13 @@ date,Metro,indeed_job_postings_index
 2021-05-31,"Chilliwack, BC",122.09
 2021-06-01,"Chilliwack, BC",123.03
 2021-06-02,"Chilliwack, BC",123.35
-2021-06-03,"Chilliwack, BC",124.46
-2021-06-04,"Chilliwack, BC",124.77
-2021-06-05,"Chilliwack, BC",125.04
-2021-06-06,"Chilliwack, BC",125.52
-2021-06-07,"Chilliwack, BC",126.31
-2021-06-08,"Chilliwack, BC",127.42
-2021-06-09,"Chilliwack, BC",128.68
+2021-06-03,"Chilliwack, BC",124.42
+2021-06-04,"Chilliwack, BC",124.73
+2021-06-05,"Chilliwack, BC",125.01
+2021-06-06,"Chilliwack, BC",125.48
+2021-06-07,"Chilliwack, BC",126.27
+2021-06-08,"Chilliwack, BC",127.38
+2021-06-09,"Chilliwack, BC",128.64
 2021-06-10,"Chilliwack, BC",129.09
 2021-06-11,"Chilliwack, BC",129.29
 2021-06-12,"Chilliwack, BC",129.41
@@ -12949,6 +13012,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Chilliwack, BC",143.75
 2023-08-17,"Chilliwack, BC",143.4
 2023-08-18,"Chilliwack, BC",143.39
+2023-08-19,"Chilliwack, BC",143.99
+2023-08-20,"Chilliwack, BC",144.39
+2023-08-21,"Chilliwack, BC",144.45
+2023-08-22,"Chilliwack, BC",144.38
+2023-08-23,"Chilliwack, BC",144.11
+2023-08-24,"Chilliwack, BC",143.28
+2023-08-25,"Chilliwack, BC",142.26
 2020-02-01,"Collingwood, ON",100
 2020-02-02,"Collingwood, ON",100
 2020-02-03,"Collingwood, ON",100.54
@@ -14244,6 +14314,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Collingwood, ON",140.14
 2023-08-17,"Collingwood, ON",140.65
 2023-08-18,"Collingwood, ON",141.15
+2023-08-19,"Collingwood, ON",142.19
+2023-08-20,"Collingwood, ON",143.16
+2023-08-21,"Collingwood, ON",144.4
+2023-08-22,"Collingwood, ON",144.95
+2023-08-23,"Collingwood, ON",145.52
+2023-08-24,"Collingwood, ON",146.41
+2023-08-25,"Collingwood, ON",147.76
 2020-02-01,"Drummondville, QC",100
 2020-02-02,"Drummondville, QC",98.95
 2020-02-03,"Drummondville, QC",97.88
@@ -15539,6 +15616,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Drummondville, QC",149.17
 2023-08-17,"Drummondville, QC",150.55
 2023-08-18,"Drummondville, QC",151.83
+2023-08-19,"Drummondville, QC",153.14
+2023-08-20,"Drummondville, QC",154.25
+2023-08-21,"Drummondville, QC",154.89
+2023-08-22,"Drummondville, QC",155.16
+2023-08-23,"Drummondville, QC",155.35
+2023-08-24,"Drummondville, QC",154.99
+2023-08-25,"Drummondville, QC",154.58
 2020-02-01,"Edmonton, AB",100
 2020-02-02,"Edmonton, AB",99.4
 2020-02-03,"Edmonton, AB",99.01
@@ -15970,34 +16054,34 @@ date,Metro,indeed_job_postings_index
 2021-04-04,"Edmonton, AB",115.3
 2021-04-05,"Edmonton, AB",115.59
 2021-04-06,"Edmonton, AB",115.67
-2021-04-07,"Edmonton, AB",115.57
-2021-04-08,"Edmonton, AB",115.52
+2021-04-07,"Edmonton, AB",115.56
+2021-04-08,"Edmonton, AB",115.51
 2021-04-09,"Edmonton, AB",115.56
 2021-04-10,"Edmonton, AB",115.48
 2021-04-11,"Edmonton, AB",115.6
 2021-04-12,"Edmonton, AB",115.62
-2021-04-13,"Edmonton, AB",115.77
-2021-04-14,"Edmonton, AB",116.15
+2021-04-13,"Edmonton, AB",115.76
+2021-04-14,"Edmonton, AB",116.14
 2021-04-15,"Edmonton, AB",116.55
 2021-04-16,"Edmonton, AB",116.9
-2021-04-17,"Edmonton, AB",117.61
+2021-04-17,"Edmonton, AB",117.6
 2021-04-18,"Edmonton, AB",118.1
 2021-04-19,"Edmonton, AB",118.72
 2021-04-20,"Edmonton, AB",119.26
-2021-04-21,"Edmonton, AB",119.76
-2021-04-22,"Edmonton, AB",120.33
-2021-04-23,"Edmonton, AB",120.82
-2021-04-24,"Edmonton, AB",121.07
+2021-04-21,"Edmonton, AB",119.75
+2021-04-22,"Edmonton, AB",120.32
+2021-04-23,"Edmonton, AB",120.81
+2021-04-24,"Edmonton, AB",121.06
 2021-04-25,"Edmonton, AB",121.23
 2021-04-26,"Edmonton, AB",121.21
 2021-04-27,"Edmonton, AB",121.24
-2021-04-28,"Edmonton, AB",121.34
-2021-04-29,"Edmonton, AB",121.31
-2021-04-30,"Edmonton, AB",121.13
-2021-05-01,"Edmonton, AB",120.87
-2021-05-02,"Edmonton, AB",120.64
-2021-05-03,"Edmonton, AB",120.58
-2021-05-04,"Edmonton, AB",120.57
+2021-04-28,"Edmonton, AB",121.31
+2021-04-29,"Edmonton, AB",121.29
+2021-04-30,"Edmonton, AB",121.1
+2021-05-01,"Edmonton, AB",120.85
+2021-05-02,"Edmonton, AB",120.62
+2021-05-03,"Edmonton, AB",120.55
+2021-05-04,"Edmonton, AB",120.55
 2021-05-05,"Edmonton, AB",120.61
 2021-05-06,"Edmonton, AB",120.73
 2021-05-07,"Edmonton, AB",120.86
@@ -16007,18 +16091,18 @@ date,Metro,indeed_job_postings_index
 2021-05-11,"Edmonton, AB",122.14
 2021-05-12,"Edmonton, AB",121.97
 2021-05-13,"Edmonton, AB",121.61
-2021-05-14,"Edmonton, AB",121.35
+2021-05-14,"Edmonton, AB",121.34
 2021-05-15,"Edmonton, AB",120.93
-2021-05-16,"Edmonton, AB",120.23
+2021-05-16,"Edmonton, AB",120.22
 2021-05-17,"Edmonton, AB",119.69
-2021-05-18,"Edmonton, AB",119.11
-2021-05-19,"Edmonton, AB",118.78
+2021-05-18,"Edmonton, AB",119.1
+2021-05-19,"Edmonton, AB",118.77
 2021-05-20,"Edmonton, AB",118.82
 2021-05-21,"Edmonton, AB",118.84
 2021-05-22,"Edmonton, AB",118.82
 2021-05-23,"Edmonton, AB",119.14
 2021-05-24,"Edmonton, AB",119.35
-2021-05-25,"Edmonton, AB",119.61
+2021-05-25,"Edmonton, AB",119.6
 2021-05-26,"Edmonton, AB",119.54
 2021-05-27,"Edmonton, AB",119.25
 2021-05-28,"Edmonton, AB",119.08
@@ -16026,19 +16110,19 @@ date,Metro,indeed_job_postings_index
 2021-05-30,"Edmonton, AB",119.84
 2021-05-31,"Edmonton, AB",120.23
 2021-06-01,"Edmonton, AB",120.8
-2021-06-02,"Edmonton, AB",121.96
-2021-06-03,"Edmonton, AB",123.42
-2021-06-04,"Edmonton, AB",124.87
-2021-06-05,"Edmonton, AB",125.97
-2021-06-06,"Edmonton, AB",126.85
-2021-06-07,"Edmonton, AB",127.69
-2021-06-08,"Edmonton, AB",128.52
-2021-06-09,"Edmonton, AB",129.12
+2021-06-02,"Edmonton, AB",121.95
+2021-06-03,"Edmonton, AB",123.39
+2021-06-04,"Edmonton, AB",124.83
+2021-06-05,"Edmonton, AB",125.93
+2021-06-06,"Edmonton, AB",126.81
+2021-06-07,"Edmonton, AB",127.65
+2021-06-08,"Edmonton, AB",128.48
+2021-06-09,"Edmonton, AB",129.09
 2021-06-10,"Edmonton, AB",129.7
 2021-06-11,"Edmonton, AB",130.16
-2021-06-12,"Edmonton, AB",130.73
-2021-06-13,"Edmonton, AB",131.51
-2021-06-14,"Edmonton, AB",132.42
+2021-06-12,"Edmonton, AB",130.72
+2021-06-13,"Edmonton, AB",131.5
+2021-06-14,"Edmonton, AB",132.41
 2021-06-15,"Edmonton, AB",133.06
 2021-06-16,"Edmonton, AB",133.76
 2021-06-17,"Edmonton, AB",134.39
@@ -16047,17 +16131,17 @@ date,Metro,indeed_job_postings_index
 2021-06-20,"Edmonton, AB",135.69
 2021-06-21,"Edmonton, AB",135.77
 2021-06-22,"Edmonton, AB",135.96
-2021-06-23,"Edmonton, AB",136.16
+2021-06-23,"Edmonton, AB",136.15
 2021-06-24,"Edmonton, AB",136.06
-2021-06-25,"Edmonton, AB",135.95
-2021-06-26,"Edmonton, AB",136.3
-2021-06-27,"Edmonton, AB",136.6
-2021-06-28,"Edmonton, AB",137.19
-2021-06-29,"Edmonton, AB",138
-2021-06-30,"Edmonton, AB",138.46
+2021-06-25,"Edmonton, AB",135.94
+2021-06-26,"Edmonton, AB",136.29
+2021-06-27,"Edmonton, AB",136.59
+2021-06-28,"Edmonton, AB",137.18
+2021-06-29,"Edmonton, AB",137.98
+2021-06-30,"Edmonton, AB",138.44
 2021-07-01,"Edmonton, AB",138.91
-2021-07-02,"Edmonton, AB",139.63
-2021-07-03,"Edmonton, AB",139.81
+2021-07-02,"Edmonton, AB",139.62
+2021-07-03,"Edmonton, AB",139.8
 2021-07-04,"Edmonton, AB",139.85
 2021-07-05,"Edmonton, AB",139.81
 2021-07-06,"Edmonton, AB",140.04
@@ -16070,7 +16154,7 @@ date,Metro,indeed_job_postings_index
 2021-07-13,"Edmonton, AB",144.86
 2021-07-14,"Edmonton, AB",145.29
 2021-07-15,"Edmonton, AB",145.76
-2021-07-16,"Edmonton, AB",145.96
+2021-07-16,"Edmonton, AB",145.95
 2021-07-17,"Edmonton, AB",146.15
 2021-07-18,"Edmonton, AB",146.4
 2021-07-19,"Edmonton, AB",146.57
@@ -16082,45 +16166,45 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Edmonton, AB",147.85
 2021-07-26,"Edmonton, AB",148.08
 2021-07-27,"Edmonton, AB",148.44
-2021-07-28,"Edmonton, AB",149.08
-2021-07-29,"Edmonton, AB",149.72
-2021-07-30,"Edmonton, AB",150.3
-2021-07-31,"Edmonton, AB",150.87
-2021-08-01,"Edmonton, AB",151.02
-2021-08-02,"Edmonton, AB",151.03
-2021-08-03,"Edmonton, AB",150.58
-2021-08-04,"Edmonton, AB",149.86
-2021-08-05,"Edmonton, AB",149.19
-2021-08-06,"Edmonton, AB",148.85
-2021-08-07,"Edmonton, AB",148.47
-2021-08-08,"Edmonton, AB",148.36
-2021-08-09,"Edmonton, AB",148.3
-2021-08-10,"Edmonton, AB",148.57
-2021-08-11,"Edmonton, AB",148.97
-2021-08-12,"Edmonton, AB",149.31
-2021-08-13,"Edmonton, AB",149.8
-2021-08-14,"Edmonton, AB",149.97
-2021-08-15,"Edmonton, AB",150.14
-2021-08-16,"Edmonton, AB",150.29
-2021-08-17,"Edmonton, AB",150.49
-2021-08-18,"Edmonton, AB",150.8
+2021-07-28,"Edmonton, AB",149.04
+2021-07-29,"Edmonton, AB",149.63
+2021-07-30,"Edmonton, AB",150.16
+2021-07-31,"Edmonton, AB",150.69
+2021-08-01,"Edmonton, AB",150.79
+2021-08-02,"Edmonton, AB",150.76
+2021-08-03,"Edmonton, AB",150.31
+2021-08-04,"Edmonton, AB",149.63
+2021-08-05,"Edmonton, AB",149
+2021-08-06,"Edmonton, AB",148.7
+2021-08-07,"Edmonton, AB",148.38
+2021-08-08,"Edmonton, AB",148.3
+2021-08-09,"Edmonton, AB",148.29
+2021-08-10,"Edmonton, AB",148.56
+2021-08-11,"Edmonton, AB",148.95
+2021-08-12,"Edmonton, AB",149.3
+2021-08-13,"Edmonton, AB",149.79
+2021-08-14,"Edmonton, AB",149.96
+2021-08-15,"Edmonton, AB",150.12
+2021-08-16,"Edmonton, AB",150.28
+2021-08-17,"Edmonton, AB",150.48
+2021-08-18,"Edmonton, AB",150.79
 2021-08-19,"Edmonton, AB",150.92
 2021-08-20,"Edmonton, AB",150.75
-2021-08-21,"Edmonton, AB",150.98
-2021-08-22,"Edmonton, AB",151.34
-2021-08-23,"Edmonton, AB",151.65
+2021-08-21,"Edmonton, AB",150.97
+2021-08-22,"Edmonton, AB",151.33
+2021-08-23,"Edmonton, AB",151.64
 2021-08-24,"Edmonton, AB",152.1
-2021-08-25,"Edmonton, AB",152.17
+2021-08-25,"Edmonton, AB",152.16
 2021-08-26,"Edmonton, AB",152.41
-2021-08-27,"Edmonton, AB",152.66
-2021-08-28,"Edmonton, AB",152.87
-2021-08-29,"Edmonton, AB",153
-2021-08-30,"Edmonton, AB",153.24
-2021-08-31,"Edmonton, AB",153.36
-2021-09-01,"Edmonton, AB",153.38
-2021-09-02,"Edmonton, AB",153.35
-2021-09-03,"Edmonton, AB",153.21
-2021-09-04,"Edmonton, AB",153.13
+2021-08-27,"Edmonton, AB",152.64
+2021-08-28,"Edmonton, AB",152.85
+2021-08-29,"Edmonton, AB",152.99
+2021-08-30,"Edmonton, AB",153.22
+2021-08-31,"Edmonton, AB",153.34
+2021-09-01,"Edmonton, AB",153.37
+2021-09-02,"Edmonton, AB",153.34
+2021-09-03,"Edmonton, AB",153.2
+2021-09-04,"Edmonton, AB",153.12
 2021-09-05,"Edmonton, AB",153.1
 2021-09-06,"Edmonton, AB",153.12
 2021-09-07,"Edmonton, AB",152.91
@@ -16834,6 +16918,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Edmonton, AB",144.86
 2023-08-17,"Edmonton, AB",144.94
 2023-08-18,"Edmonton, AB",145.16
+2023-08-19,"Edmonton, AB",145.25
+2023-08-20,"Edmonton, AB",145.35
+2023-08-21,"Edmonton, AB",145.42
+2023-08-22,"Edmonton, AB",145.68
+2023-08-23,"Edmonton, AB",145.87
+2023-08-24,"Edmonton, AB",145.94
+2023-08-25,"Edmonton, AB",145.98
 2020-02-01,"Fort McMurray, AB",100
 2020-02-02,"Fort McMurray, AB",99.81
 2020-02-03,"Fort McMurray, AB",99.75
@@ -17329,13 +17420,13 @@ date,Metro,indeed_job_postings_index
 2021-06-07,"Fort McMurray, AB",126.9
 2021-06-08,"Fort McMurray, AB",127.52
 2021-06-09,"Fort McMurray, AB",127.67
-2021-06-10,"Fort McMurray, AB",127.99
-2021-06-11,"Fort McMurray, AB",127.67
-2021-06-12,"Fort McMurray, AB",126.95
-2021-06-13,"Fort McMurray, AB",126.57
-2021-06-14,"Fort McMurray, AB",126.66
-2021-06-15,"Fort McMurray, AB",127.41
-2021-06-16,"Fort McMurray, AB",128.6
+2021-06-10,"Fort McMurray, AB",127.96
+2021-06-11,"Fort McMurray, AB",127.64
+2021-06-12,"Fort McMurray, AB",126.92
+2021-06-13,"Fort McMurray, AB",126.54
+2021-06-14,"Fort McMurray, AB",126.64
+2021-06-15,"Fort McMurray, AB",127.38
+2021-06-16,"Fort McMurray, AB",128.57
 2021-06-17,"Fort McMurray, AB",129.36
 2021-06-18,"Fort McMurray, AB",130.36
 2021-06-19,"Fort McMurray, AB",131.83
@@ -17410,13 +17501,13 @@ date,Metro,indeed_job_postings_index
 2021-08-27,"Fort McMurray, AB",144.4
 2021-08-28,"Fort McMurray, AB",144.57
 2021-08-29,"Fort McMurray, AB",144.95
-2021-08-30,"Fort McMurray, AB",145.58
-2021-08-31,"Fort McMurray, AB",146.19
-2021-09-01,"Fort McMurray, AB",146.63
-2021-09-02,"Fort McMurray, AB",147.23
-2021-09-03,"Fort McMurray, AB",147.4
-2021-09-04,"Fort McMurray, AB",147.92
-2021-09-05,"Fort McMurray, AB",148.08
+2021-08-30,"Fort McMurray, AB",145.53
+2021-08-31,"Fort McMurray, AB",146.13
+2021-09-01,"Fort McMurray, AB",146.58
+2021-09-02,"Fort McMurray, AB",147.18
+2021-09-03,"Fort McMurray, AB",147.35
+2021-09-04,"Fort McMurray, AB",147.87
+2021-09-05,"Fort McMurray, AB",148.03
 2021-09-06,"Fort McMurray, AB",148.03
 2021-09-07,"Fort McMurray, AB",147.68
 2021-09-08,"Fort McMurray, AB",146.97
@@ -18129,6 +18220,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Fort McMurray, AB",111.82
 2023-08-17,"Fort McMurray, AB",112.09
 2023-08-18,"Fort McMurray, AB",112.24
+2023-08-19,"Fort McMurray, AB",112.34
+2023-08-20,"Fort McMurray, AB",112.22
+2023-08-21,"Fort McMurray, AB",112.26
+2023-08-22,"Fort McMurray, AB",112.38
+2023-08-23,"Fort McMurray, AB",112.2
+2023-08-24,"Fort McMurray, AB",111.97
+2023-08-25,"Fort McMurray, AB",111.83
 2020-02-01,"Fredericton, NB",100
 2020-02-02,"Fredericton, NB",100.04
 2020-02-03,"Fredericton, NB",100.37
@@ -18606,13 +18704,13 @@ date,Metro,indeed_job_postings_index
 2021-05-20,"Fredericton, NB",136.36
 2021-05-21,"Fredericton, NB",137.52
 2021-05-22,"Fredericton, NB",138
-2021-05-23,"Fredericton, NB",138.9
-2021-05-24,"Fredericton, NB",139.8
-2021-05-25,"Fredericton, NB",139.11
-2021-05-26,"Fredericton, NB",138.35
-2021-05-27,"Fredericton, NB",137.4
-2021-05-28,"Fredericton, NB",136.97
-2021-05-29,"Fredericton, NB",136.94
+2021-05-23,"Fredericton, NB",138.87
+2021-05-24,"Fredericton, NB",139.76
+2021-05-25,"Fredericton, NB",139.07
+2021-05-26,"Fredericton, NB",138.32
+2021-05-27,"Fredericton, NB",137.36
+2021-05-28,"Fredericton, NB",136.94
+2021-05-29,"Fredericton, NB",136.9
 2021-05-30,"Fredericton, NB",136.31
 2021-05-31,"Fredericton, NB",135.41
 2021-06-01,"Fredericton, NB",135.43
@@ -19424,6 +19522,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Fredericton, NB",134.36
 2023-08-17,"Fredericton, NB",134.05
 2023-08-18,"Fredericton, NB",133.3
+2023-08-19,"Fredericton, NB",132.71
+2023-08-20,"Fredericton, NB",132.07
+2023-08-21,"Fredericton, NB",131.36
+2023-08-22,"Fredericton, NB",130.69
+2023-08-23,"Fredericton, NB",129.75
+2023-08-24,"Fredericton, NB",128.97
+2023-08-25,"Fredericton, NB",128.54
 2020-02-01,"Gatineau, QC",100
 2020-02-02,"Gatineau, QC",99.55
 2020-02-03,"Gatineau, QC",99.17
@@ -19864,13 +19969,13 @@ date,Metro,indeed_job_postings_index
 2021-04-13,"Gatineau, QC",116.23
 2021-04-14,"Gatineau, QC",115.28
 2021-04-15,"Gatineau, QC",114.88
-2021-04-16,"Gatineau, QC",114.55
-2021-04-17,"Gatineau, QC",114.86
-2021-04-18,"Gatineau, QC",115.4
-2021-04-19,"Gatineau, QC",116.23
-2021-04-20,"Gatineau, QC",117.56
-2021-04-21,"Gatineau, QC",118.71
-2021-04-22,"Gatineau, QC",119.62
+2021-04-16,"Gatineau, QC",114.54
+2021-04-17,"Gatineau, QC",114.85
+2021-04-18,"Gatineau, QC",115.39
+2021-04-19,"Gatineau, QC",116.22
+2021-04-20,"Gatineau, QC",117.54
+2021-04-21,"Gatineau, QC",118.69
+2021-04-22,"Gatineau, QC",119.61
 2021-04-23,"Gatineau, QC",120.58
 2021-04-24,"Gatineau, QC",121.62
 2021-04-25,"Gatineau, QC",122.14
@@ -19919,13 +20024,13 @@ date,Metro,indeed_job_postings_index
 2021-06-07,"Gatineau, QC",129.04
 2021-06-08,"Gatineau, QC",130.03
 2021-06-09,"Gatineau, QC",130.32
-2021-06-10,"Gatineau, QC",130.54
-2021-06-11,"Gatineau, QC",130.88
-2021-06-12,"Gatineau, QC",131.04
-2021-06-13,"Gatineau, QC",131.26
-2021-06-14,"Gatineau, QC",131.48
-2021-06-15,"Gatineau, QC",131.76
-2021-06-16,"Gatineau, QC",132.2
+2021-06-10,"Gatineau, QC",130.52
+2021-06-11,"Gatineau, QC",130.86
+2021-06-12,"Gatineau, QC",131.03
+2021-06-13,"Gatineau, QC",131.24
+2021-06-14,"Gatineau, QC",131.46
+2021-06-15,"Gatineau, QC",131.74
+2021-06-16,"Gatineau, QC",132.19
 2021-06-17,"Gatineau, QC",132.67
 2021-06-18,"Gatineau, QC",133.79
 2021-06-19,"Gatineau, QC",134.61
@@ -19993,13 +20098,13 @@ date,Metro,indeed_job_postings_index
 2021-08-20,"Gatineau, QC",146.32
 2021-08-21,"Gatineau, QC",145.37
 2021-08-22,"Gatineau, QC",144.9
-2021-08-23,"Gatineau, QC",144.88
-2021-08-24,"Gatineau, QC",145.04
-2021-08-25,"Gatineau, QC",145.81
-2021-08-26,"Gatineau, QC",146.88
-2021-08-27,"Gatineau, QC",147.82
-2021-08-28,"Gatineau, QC",149.11
-2021-08-29,"Gatineau, QC",150.1
+2021-08-23,"Gatineau, QC",144.74
+2021-08-24,"Gatineau, QC",144.89
+2021-08-25,"Gatineau, QC",145.66
+2021-08-26,"Gatineau, QC",146.74
+2021-08-27,"Gatineau, QC",147.67
+2021-08-28,"Gatineau, QC",148.97
+2021-08-29,"Gatineau, QC",149.95
 2021-08-30,"Gatineau, QC",150.83
 2021-08-31,"Gatineau, QC",152.63
 2021-09-01,"Gatineau, QC",153.74
@@ -20719,6 +20824,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Gatineau, QC",124.61
 2023-08-17,"Gatineau, QC",124.63
 2023-08-18,"Gatineau, QC",124.63
+2023-08-19,"Gatineau, QC",124.51
+2023-08-20,"Gatineau, QC",124.63
+2023-08-21,"Gatineau, QC",124.57
+2023-08-22,"Gatineau, QC",124.35
+2023-08-23,"Gatineau, QC",124.3
+2023-08-24,"Gatineau, QC",124.12
+2023-08-25,"Gatineau, QC",124.28
 2020-02-01,"Grande Prairie, AB",100
 2020-02-02,"Grande Prairie, AB",99.26
 2020-02-03,"Grande Prairie, AB",98.44
@@ -22014,6 +22126,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Grande Prairie, AB",137.09
 2023-08-17,"Grande Prairie, AB",137.03
 2023-08-18,"Grande Prairie, AB",137.14
+2023-08-19,"Grande Prairie, AB",137.21
+2023-08-20,"Grande Prairie, AB",137.58
+2023-08-21,"Grande Prairie, AB",138.03
+2023-08-22,"Grande Prairie, AB",138.23
+2023-08-23,"Grande Prairie, AB",138.27
+2023-08-24,"Grande Prairie, AB",138.48
+2023-08-25,"Grande Prairie, AB",138.73
 2020-02-01,"Guelph, ON",100
 2020-02-02,"Guelph, ON",100.25
 2020-02-03,"Guelph, ON",100.68
@@ -23309,6 +23428,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Guelph, ON",122.98
 2023-08-17,"Guelph, ON",122.52
 2023-08-18,"Guelph, ON",122.58
+2023-08-19,"Guelph, ON",122.93
+2023-08-20,"Guelph, ON",123.12
+2023-08-21,"Guelph, ON",123.22
+2023-08-22,"Guelph, ON",123.1
+2023-08-23,"Guelph, ON",122.5
+2023-08-24,"Guelph, ON",122.27
+2023-08-25,"Guelph, ON",121.84
 2020-02-01,"Halifax, NS",100
 2020-02-02,"Halifax, NS",99.96
 2020-02-03,"Halifax, NS",99.96
@@ -23771,20 +23897,20 @@ date,Metro,indeed_job_postings_index
 2021-05-05,"Halifax, NS",124.85
 2021-05-06,"Halifax, NS",124.1
 2021-05-07,"Halifax, NS",123.47
-2021-05-08,"Halifax, NS",122.95
-2021-05-09,"Halifax, NS",122.52
-2021-05-10,"Halifax, NS",121.99
+2021-05-08,"Halifax, NS",122.94
+2021-05-09,"Halifax, NS",122.51
+2021-05-10,"Halifax, NS",121.98
 2021-05-11,"Halifax, NS",121.33
-2021-05-12,"Halifax, NS",120.95
+2021-05-12,"Halifax, NS",120.94
 2021-05-13,"Halifax, NS",120.54
-2021-05-14,"Halifax, NS",120.68
+2021-05-14,"Halifax, NS",120.67
 2021-05-15,"Halifax, NS",121.1
 2021-05-16,"Halifax, NS",121.31
-2021-05-17,"Halifax, NS",121.43
-2021-05-18,"Halifax, NS",121.99
-2021-05-19,"Halifax, NS",122.54
-2021-05-20,"Halifax, NS",123.7
-2021-05-21,"Halifax, NS",124.49
+2021-05-17,"Halifax, NS",121.42
+2021-05-18,"Halifax, NS",121.98
+2021-05-19,"Halifax, NS",122.53
+2021-05-20,"Halifax, NS",123.69
+2021-05-21,"Halifax, NS",124.48
 2021-05-22,"Halifax, NS",124.79
 2021-05-23,"Halifax, NS",125.48
 2021-05-24,"Halifax, NS",126.45
@@ -23838,12 +23964,12 @@ date,Metro,indeed_job_postings_index
 2021-07-11,"Halifax, NS",153.22
 2021-07-12,"Halifax, NS",153.27
 2021-07-13,"Halifax, NS",153.19
-2021-07-14,"Halifax, NS",152.75
-2021-07-15,"Halifax, NS",151.99
-2021-07-16,"Halifax, NS",151.17
-2021-07-17,"Halifax, NS",150.87
-2021-07-18,"Halifax, NS",150.98
-2021-07-19,"Halifax, NS",151.11
+2021-07-14,"Halifax, NS",152.74
+2021-07-15,"Halifax, NS",151.98
+2021-07-16,"Halifax, NS",151.16
+2021-07-17,"Halifax, NS",150.86
+2021-07-18,"Halifax, NS",150.97
+2021-07-19,"Halifax, NS",151.1
 2021-07-20,"Halifax, NS",151.55
 2021-07-21,"Halifax, NS",152.1
 2021-07-22,"Halifax, NS",152.65
@@ -23852,20 +23978,20 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Halifax, NS",153.7
 2021-07-26,"Halifax, NS",153.95
 2021-07-27,"Halifax, NS",154.11
-2021-07-28,"Halifax, NS",154.15
-2021-07-29,"Halifax, NS",154.42
-2021-07-30,"Halifax, NS",154.62
-2021-07-31,"Halifax, NS",154.37
-2021-08-01,"Halifax, NS",153.73
-2021-08-02,"Halifax, NS",153.05
-2021-08-03,"Halifax, NS",151.72
-2021-08-04,"Halifax, NS",150.91
-2021-08-05,"Halifax, NS",150.21
-2021-08-06,"Halifax, NS",150
-2021-08-07,"Halifax, NS",150.13
-2021-08-08,"Halifax, NS",150.47
-2021-08-09,"Halifax, NS",150.7
-2021-08-10,"Halifax, NS",151.53
+2021-07-28,"Halifax, NS",154.14
+2021-07-29,"Halifax, NS",154.41
+2021-07-30,"Halifax, NS",154.6
+2021-07-31,"Halifax, NS",154.35
+2021-08-01,"Halifax, NS",153.72
+2021-08-02,"Halifax, NS",153.04
+2021-08-03,"Halifax, NS",151.7
+2021-08-04,"Halifax, NS",150.88
+2021-08-05,"Halifax, NS",150.2
+2021-08-06,"Halifax, NS",149.99
+2021-08-07,"Halifax, NS",150.11
+2021-08-08,"Halifax, NS",150.45
+2021-08-09,"Halifax, NS",150.68
+2021-08-10,"Halifax, NS",151.51
 2021-08-11,"Halifax, NS",152.22
 2021-08-12,"Halifax, NS",152.72
 2021-08-13,"Halifax, NS",153.04
@@ -24604,6 +24730,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Halifax, NS",140.87
 2023-08-17,"Halifax, NS",140.6
 2023-08-18,"Halifax, NS",140.49
+2023-08-19,"Halifax, NS",140.66
+2023-08-20,"Halifax, NS",140.74
+2023-08-21,"Halifax, NS",140.92
+2023-08-22,"Halifax, NS",141.26
+2023-08-23,"Halifax, NS",141.5
+2023-08-24,"Halifax, NS",141.74
+2023-08-25,"Halifax, NS",141.77
 2020-02-01,"Hamilton, ON",100
 2020-02-02,"Hamilton, ON",100.1
 2020-02-03,"Hamilton, ON",100.25
@@ -25047,13 +25180,13 @@ date,Metro,indeed_job_postings_index
 2021-04-16,"Hamilton, ON",106.94
 2021-04-17,"Hamilton, ON",107.8
 2021-04-18,"Hamilton, ON",108.31
-2021-04-19,"Hamilton, ON",108.98
-2021-04-20,"Hamilton, ON",109.01
+2021-04-19,"Hamilton, ON",108.97
+2021-04-20,"Hamilton, ON",109
 2021-04-21,"Hamilton, ON",108.99
 2021-04-22,"Hamilton, ON",109.06
-2021-04-23,"Hamilton, ON",109.13
+2021-04-23,"Hamilton, ON",109.12
 2021-04-24,"Hamilton, ON",109.07
-2021-04-25,"Hamilton, ON",109.07
+2021-04-25,"Hamilton, ON",109.06
 2021-04-26,"Hamilton, ON",108.85
 2021-04-27,"Hamilton, ON",108.67
 2021-04-28,"Hamilton, ON",108.48
@@ -25061,21 +25194,21 @@ date,Metro,indeed_job_postings_index
 2021-04-30,"Hamilton, ON",107.81
 2021-05-01,"Hamilton, ON",107.16
 2021-05-02,"Hamilton, ON",106.48
-2021-05-03,"Hamilton, ON",106.09
-2021-05-04,"Hamilton, ON",105.89
-2021-05-05,"Hamilton, ON",105.88
+2021-05-03,"Hamilton, ON",106.08
+2021-05-04,"Hamilton, ON",105.88
+2021-05-05,"Hamilton, ON",105.87
 2021-05-06,"Hamilton, ON",105.92
 2021-05-07,"Hamilton, ON",105.96
-2021-05-08,"Hamilton, ON",106.01
-2021-05-09,"Hamilton, ON",106.23
+2021-05-08,"Hamilton, ON",106
+2021-05-09,"Hamilton, ON",106.22
 2021-05-10,"Hamilton, ON",106.24
 2021-05-11,"Hamilton, ON",106.26
-2021-05-12,"Hamilton, ON",106.06
+2021-05-12,"Hamilton, ON",106.05
 2021-05-13,"Hamilton, ON",105.95
 2021-05-14,"Hamilton, ON",106.04
-2021-05-15,"Hamilton, ON",106.42
+2021-05-15,"Hamilton, ON",106.41
 2021-05-16,"Hamilton, ON",106.54
-2021-05-17,"Hamilton, ON",106.7
+2021-05-17,"Hamilton, ON",106.69
 2021-05-18,"Hamilton, ON",106.6
 2021-05-19,"Hamilton, ON",106.83
 2021-05-20,"Hamilton, ON",107.21
@@ -25091,14 +25224,14 @@ date,Metro,indeed_job_postings_index
 2021-05-30,"Hamilton, ON",110.62
 2021-05-31,"Hamilton, ON",110.59
 2021-06-01,"Hamilton, ON",110.77
-2021-06-02,"Hamilton, ON",111.13
-2021-06-03,"Hamilton, ON",111.76
-2021-06-04,"Hamilton, ON",112.43
-2021-06-05,"Hamilton, ON",113.27
-2021-06-06,"Hamilton, ON",113.82
-2021-06-07,"Hamilton, ON",114.41
-2021-06-08,"Hamilton, ON",114.96
-2021-06-09,"Hamilton, ON",115.5
+2021-06-02,"Hamilton, ON",111.12
+2021-06-03,"Hamilton, ON",111.75
+2021-06-04,"Hamilton, ON",112.41
+2021-06-05,"Hamilton, ON",113.25
+2021-06-06,"Hamilton, ON",113.8
+2021-06-07,"Hamilton, ON",114.39
+2021-06-08,"Hamilton, ON",114.94
+2021-06-09,"Hamilton, ON",115.49
 2021-06-10,"Hamilton, ON",115.91
 2021-06-11,"Hamilton, ON",116.33
 2021-06-12,"Hamilton, ON",116.35
@@ -25111,28 +25244,28 @@ date,Metro,indeed_job_postings_index
 2021-06-19,"Hamilton, ON",121.27
 2021-06-20,"Hamilton, ON",121.81
 2021-06-21,"Hamilton, ON",122.34
-2021-06-22,"Hamilton, ON",122.76
-2021-06-23,"Hamilton, ON",123.48
-2021-06-24,"Hamilton, ON",124.01
-2021-06-25,"Hamilton, ON",124.58
-2021-06-26,"Hamilton, ON",125.58
-2021-06-27,"Hamilton, ON",126.62
-2021-06-28,"Hamilton, ON",127.88
-2021-06-29,"Hamilton, ON",129.1
-2021-06-30,"Hamilton, ON",129.92
-2021-07-01,"Hamilton, ON",130.74
-2021-07-02,"Hamilton, ON",131.5
-2021-07-03,"Hamilton, ON",132.04
+2021-06-22,"Hamilton, ON",122.75
+2021-06-23,"Hamilton, ON",123.46
+2021-06-24,"Hamilton, ON",123.98
+2021-06-25,"Hamilton, ON",124.55
+2021-06-26,"Hamilton, ON",125.54
+2021-06-27,"Hamilton, ON",126.57
+2021-06-28,"Hamilton, ON",127.83
+2021-06-29,"Hamilton, ON",129.06
+2021-06-30,"Hamilton, ON",129.89
+2021-07-01,"Hamilton, ON",130.71
+2021-07-02,"Hamilton, ON",131.49
+2021-07-03,"Hamilton, ON",132.03
 2021-07-04,"Hamilton, ON",132.33
 2021-07-05,"Hamilton, ON",132.17
-2021-07-06,"Hamilton, ON",131.92
-2021-07-07,"Hamilton, ON",131.6
-2021-07-08,"Hamilton, ON",131.57
-2021-07-09,"Hamilton, ON",131.69
-2021-07-10,"Hamilton, ON",131.65
-2021-07-11,"Hamilton, ON",131.8
-2021-07-12,"Hamilton, ON",132.26
-2021-07-13,"Hamilton, ON",132.99
+2021-07-06,"Hamilton, ON",131.9
+2021-07-07,"Hamilton, ON",131.58
+2021-07-08,"Hamilton, ON",131.54
+2021-07-09,"Hamilton, ON",131.66
+2021-07-10,"Hamilton, ON",131.63
+2021-07-11,"Hamilton, ON",131.77
+2021-07-12,"Hamilton, ON",132.24
+2021-07-13,"Hamilton, ON",132.98
 2021-07-14,"Hamilton, ON",133.71
 2021-07-15,"Hamilton, ON",134.15
 2021-07-16,"Hamilton, ON",134.52
@@ -25149,23 +25282,23 @@ date,Metro,indeed_job_postings_index
 2021-07-27,"Hamilton, ON",140.18
 2021-07-28,"Hamilton, ON",140.93
 2021-07-29,"Hamilton, ON",141.57
-2021-07-30,"Hamilton, ON",141.61
-2021-07-31,"Hamilton, ON",141.54
-2021-08-01,"Hamilton, ON",141.22
-2021-08-02,"Hamilton, ON",140.78
-2021-08-03,"Hamilton, ON",140.18
-2021-08-04,"Hamilton, ON",139.67
-2021-08-05,"Hamilton, ON",139.89
-2021-08-06,"Hamilton, ON",140.66
-2021-08-07,"Hamilton, ON",141.41
-2021-08-08,"Hamilton, ON",142.23
-2021-08-09,"Hamilton, ON",143.18
-2021-08-10,"Hamilton, ON",144.15
+2021-07-30,"Hamilton, ON",141.6
+2021-07-31,"Hamilton, ON",141.53
+2021-08-01,"Hamilton, ON",141.21
+2021-08-02,"Hamilton, ON",140.76
+2021-08-03,"Hamilton, ON",140.15
+2021-08-04,"Hamilton, ON",139.64
+2021-08-05,"Hamilton, ON",139.87
+2021-08-06,"Hamilton, ON",140.63
+2021-08-07,"Hamilton, ON",141.4
+2021-08-08,"Hamilton, ON",142.21
+2021-08-09,"Hamilton, ON",143.16
+2021-08-10,"Hamilton, ON",144.14
 2021-08-11,"Hamilton, ON",145.11
 2021-08-12,"Hamilton, ON",145.58
 2021-08-13,"Hamilton, ON",145.91
-2021-08-14,"Hamilton, ON",146.04
-2021-08-15,"Hamilton, ON",146.17
+2021-08-14,"Hamilton, ON",146.03
+2021-08-15,"Hamilton, ON",146.16
 2021-08-16,"Hamilton, ON",146.23
 2021-08-17,"Hamilton, ON",146.26
 2021-08-18,"Hamilton, ON",146.43
@@ -25899,6 +26032,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Hamilton, ON",116.48
 2023-08-17,"Hamilton, ON",116.43
 2023-08-18,"Hamilton, ON",116.46
+2023-08-19,"Hamilton, ON",116.56
+2023-08-20,"Hamilton, ON",116.65
+2023-08-21,"Hamilton, ON",116.6
+2023-08-22,"Hamilton, ON",116.72
+2023-08-23,"Hamilton, ON",116.97
+2023-08-24,"Hamilton, ON",117.18
+2023-08-25,"Hamilton, ON",117.39
 2020-02-01,"KWC, ON",100
 2020-02-02,"KWC, ON",99.8
 2020-02-03,"KWC, ON",99.63
@@ -26416,15 +26556,15 @@ date,Metro,indeed_job_postings_index
 2021-06-29,"KWC, ON",134.88
 2021-06-30,"KWC, ON",135.55
 2021-07-01,"KWC, ON",136.21
-2021-07-02,"KWC, ON",136.76
-2021-07-03,"KWC, ON",137.11
-2021-07-04,"KWC, ON",137.3
-2021-07-05,"KWC, ON",137.15
-2021-07-06,"KWC, ON",137.19
-2021-07-07,"KWC, ON",137.19
-2021-07-08,"KWC, ON",137.44
-2021-07-09,"KWC, ON",137.86
-2021-07-10,"KWC, ON",138.21
+2021-07-02,"KWC, ON",136.74
+2021-07-03,"KWC, ON",137.08
+2021-07-04,"KWC, ON",137.27
+2021-07-05,"KWC, ON",137.12
+2021-07-06,"KWC, ON",137.15
+2021-07-07,"KWC, ON",137.15
+2021-07-08,"KWC, ON",137.4
+2021-07-09,"KWC, ON",137.83
+2021-07-10,"KWC, ON",138.2
 2021-07-11,"KWC, ON",138.51
 2021-07-12,"KWC, ON",139.13
 2021-07-13,"KWC, ON",139.63
@@ -26443,34 +26583,34 @@ date,Metro,indeed_job_postings_index
 2021-07-26,"KWC, ON",147.95
 2021-07-27,"KWC, ON",148.19
 2021-07-28,"KWC, ON",148.59
-2021-07-29,"KWC, ON",148.85
-2021-07-30,"KWC, ON",148.92
-2021-07-31,"KWC, ON",149.16
-2021-08-01,"KWC, ON",149.38
-2021-08-02,"KWC, ON",149.56
-2021-08-03,"KWC, ON",149.62
-2021-08-04,"KWC, ON",149.46
-2021-08-05,"KWC, ON",149.53
-2021-08-06,"KWC, ON",149.88
-2021-08-07,"KWC, ON",150.1
-2021-08-08,"KWC, ON",150.16
-2021-08-09,"KWC, ON",150.46
-2021-08-10,"KWC, ON",150.9
-2021-08-11,"KWC, ON",151.28
-2021-08-12,"KWC, ON",151.46
-2021-08-13,"KWC, ON",151.53
-2021-08-14,"KWC, ON",151.55
-2021-08-15,"KWC, ON",151.6
-2021-08-16,"KWC, ON",151.51
+2021-07-29,"KWC, ON",148.84
+2021-07-30,"KWC, ON",148.89
+2021-07-31,"KWC, ON",149.13
+2021-08-01,"KWC, ON",149.33
+2021-08-02,"KWC, ON",149.51
+2021-08-03,"KWC, ON",149.57
+2021-08-04,"KWC, ON",149.4
+2021-08-05,"KWC, ON",149.48
+2021-08-06,"KWC, ON",149.85
+2021-08-07,"KWC, ON",150.07
+2021-08-08,"KWC, ON",150.15
+2021-08-09,"KWC, ON",150.45
+2021-08-10,"KWC, ON",150.88
+2021-08-11,"KWC, ON",151.27
+2021-08-12,"KWC, ON",151.45
+2021-08-13,"KWC, ON",151.51
+2021-08-14,"KWC, ON",151.53
+2021-08-15,"KWC, ON",151.58
+2021-08-16,"KWC, ON",151.5
 2021-08-17,"KWC, ON",151.36
 2021-08-18,"KWC, ON",151.33
-2021-08-19,"KWC, ON",151.26
-2021-08-20,"KWC, ON",151.25
-2021-08-21,"KWC, ON",151.4
-2021-08-22,"KWC, ON",151.71
-2021-08-23,"KWC, ON",151.96
-2021-08-24,"KWC, ON",152.43
-2021-08-25,"KWC, ON",152.75
+2021-08-19,"KWC, ON",151.25
+2021-08-20,"KWC, ON",151.24
+2021-08-21,"KWC, ON",151.39
+2021-08-22,"KWC, ON",151.7
+2021-08-23,"KWC, ON",151.95
+2021-08-24,"KWC, ON",152.42
+2021-08-25,"KWC, ON",152.74
 2021-08-26,"KWC, ON",153.09
 2021-08-27,"KWC, ON",153.36
 2021-08-28,"KWC, ON",153.49
@@ -27194,6 +27334,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"KWC, ON",107.77
 2023-08-17,"KWC, ON",107.24
 2023-08-18,"KWC, ON",106.82
+2023-08-19,"KWC, ON",106.55
+2023-08-20,"KWC, ON",106.29
+2023-08-21,"KWC, ON",106.04
+2023-08-22,"KWC, ON",105.93
+2023-08-23,"KWC, ON",105.89
+2023-08-24,"KWC, ON",106.19
+2023-08-25,"KWC, ON",106.65
 2020-02-01,"Kamloops, BC",100
 2020-02-02,"Kamloops, BC",99.74
 2020-02-03,"Kamloops, BC",99.41
@@ -28489,6 +28636,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Kamloops, BC",136.81
 2023-08-17,"Kamloops, BC",136.35
 2023-08-18,"Kamloops, BC",135.53
+2023-08-19,"Kamloops, BC",134.93
+2023-08-20,"Kamloops, BC",134.12
+2023-08-21,"Kamloops, BC",133.07
+2023-08-22,"Kamloops, BC",132.6
+2023-08-23,"Kamloops, BC",132.01
+2023-08-24,"Kamloops, BC",131.21
+2023-08-25,"Kamloops, BC",130.71
 2020-02-01,"Kelowna, BC",100
 2020-02-02,"Kelowna, BC",100.08
 2020-02-03,"Kelowna, BC",100.02
@@ -28919,35 +29073,35 @@ date,Metro,indeed_job_postings_index
 2021-04-03,"Kelowna, BC",131.75
 2021-04-04,"Kelowna, BC",131.53
 2021-04-05,"Kelowna, BC",131.42
-2021-04-06,"Kelowna, BC",131.74
-2021-04-07,"Kelowna, BC",131.55
-2021-04-08,"Kelowna, BC",131.66
-2021-04-09,"Kelowna, BC",131.93
-2021-04-10,"Kelowna, BC",131.97
-2021-04-11,"Kelowna, BC",132.12
-2021-04-12,"Kelowna, BC",132.29
+2021-04-06,"Kelowna, BC",131.59
+2021-04-07,"Kelowna, BC",131.39
+2021-04-08,"Kelowna, BC",131.5
+2021-04-09,"Kelowna, BC",131.78
+2021-04-10,"Kelowna, BC",131.81
+2021-04-11,"Kelowna, BC",131.97
+2021-04-12,"Kelowna, BC",132.14
 2021-04-13,"Kelowna, BC",131.96
 2021-04-14,"Kelowna, BC",132.23
-2021-04-15,"Kelowna, BC",132.84
-2021-04-16,"Kelowna, BC",132.72
-2021-04-17,"Kelowna, BC",133.16
-2021-04-18,"Kelowna, BC",133.52
-2021-04-19,"Kelowna, BC",133.75
-2021-04-20,"Kelowna, BC",134.03
-2021-04-21,"Kelowna, BC",134.24
+2021-04-15,"Kelowna, BC",132.67
+2021-04-16,"Kelowna, BC",132.55
+2021-04-17,"Kelowna, BC",132.99
+2021-04-18,"Kelowna, BC",133.36
+2021-04-19,"Kelowna, BC",133.58
+2021-04-20,"Kelowna, BC",133.86
+2021-04-21,"Kelowna, BC",134.07
 2021-04-22,"Kelowna, BC",133.62
 2021-04-23,"Kelowna, BC",133.62
 2021-04-24,"Kelowna, BC",133.44
 2021-04-25,"Kelowna, BC",133.14
 2021-04-26,"Kelowna, BC",132.79
 2021-04-27,"Kelowna, BC",132.32
-2021-04-28,"Kelowna, BC",132.17
-2021-04-29,"Kelowna, BC",131.9
-2021-04-30,"Kelowna, BC",131.65
-2021-05-01,"Kelowna, BC",131.21
-2021-05-02,"Kelowna, BC",130.65
-2021-05-03,"Kelowna, BC",130.17
-2021-05-04,"Kelowna, BC",129.92
+2021-04-28,"Kelowna, BC",132.16
+2021-04-29,"Kelowna, BC",131.89
+2021-04-30,"Kelowna, BC",131.64
+2021-05-01,"Kelowna, BC",131.19
+2021-05-02,"Kelowna, BC",130.64
+2021-05-03,"Kelowna, BC",130.16
+2021-05-04,"Kelowna, BC",129.91
 2021-05-05,"Kelowna, BC",129.58
 2021-05-06,"Kelowna, BC",129.64
 2021-05-07,"Kelowna, BC",129.62
@@ -28964,13 +29118,13 @@ date,Metro,indeed_job_postings_index
 2021-05-18,"Kelowna, BC",132.18
 2021-05-19,"Kelowna, BC",132.03
 2021-05-20,"Kelowna, BC",132.08
-2021-05-21,"Kelowna, BC",132.21
-2021-05-22,"Kelowna, BC",132.13
-2021-05-23,"Kelowna, BC",132.31
-2021-05-24,"Kelowna, BC",132.44
-2021-05-25,"Kelowna, BC",132.41
-2021-05-26,"Kelowna, BC",132.46
-2021-05-27,"Kelowna, BC",132.2
+2021-05-21,"Kelowna, BC",132.17
+2021-05-22,"Kelowna, BC",132.09
+2021-05-23,"Kelowna, BC",132.28
+2021-05-24,"Kelowna, BC",132.4
+2021-05-25,"Kelowna, BC",132.37
+2021-05-26,"Kelowna, BC",132.43
+2021-05-27,"Kelowna, BC",132.16
 2021-05-28,"Kelowna, BC",132.25
 2021-05-29,"Kelowna, BC",132.79
 2021-05-30,"Kelowna, BC",133.15
@@ -28996,13 +29150,13 @@ date,Metro,indeed_job_postings_index
 2021-06-19,"Kelowna, BC",139.72
 2021-06-20,"Kelowna, BC",139.55
 2021-06-21,"Kelowna, BC",139.19
-2021-06-22,"Kelowna, BC",138.92
-2021-06-23,"Kelowna, BC",139.05
-2021-06-24,"Kelowna, BC",139.26
-2021-06-25,"Kelowna, BC",139.4
-2021-06-26,"Kelowna, BC",139.87
-2021-06-27,"Kelowna, BC",140.69
-2021-06-28,"Kelowna, BC",141.9
+2021-06-22,"Kelowna, BC",138.91
+2021-06-23,"Kelowna, BC",139.04
+2021-06-24,"Kelowna, BC",139.25
+2021-06-25,"Kelowna, BC",139.39
+2021-06-26,"Kelowna, BC",139.86
+2021-06-27,"Kelowna, BC",140.68
+2021-06-28,"Kelowna, BC",141.88
 2021-06-29,"Kelowna, BC",143.12
 2021-06-30,"Kelowna, BC",144.03
 2021-07-01,"Kelowna, BC",144.95
@@ -29027,25 +29181,25 @@ date,Metro,indeed_job_postings_index
 2021-07-20,"Kelowna, BC",150.82
 2021-07-21,"Kelowna, BC",151.35
 2021-07-22,"Kelowna, BC",151.91
-2021-07-23,"Kelowna, BC",152.96
-2021-07-24,"Kelowna, BC",153.63
-2021-07-25,"Kelowna, BC",154.25
-2021-07-26,"Kelowna, BC",154.7
-2021-07-27,"Kelowna, BC",155.54
-2021-07-28,"Kelowna, BC",156.55
-2021-07-29,"Kelowna, BC",157.77
-2021-07-30,"Kelowna, BC",158.65
-2021-07-31,"Kelowna, BC",159.52
-2021-08-01,"Kelowna, BC",160.06
-2021-08-02,"Kelowna, BC",160.38
-2021-08-03,"Kelowna, BC",160.02
-2021-08-04,"Kelowna, BC",159.89
-2021-08-05,"Kelowna, BC",159.36
-2021-08-06,"Kelowna, BC",158.9
-2021-08-07,"Kelowna, BC",158.6
-2021-08-08,"Kelowna, BC",158.25
-2021-08-09,"Kelowna, BC",157.93
-2021-08-10,"Kelowna, BC",157.86
+2021-07-23,"Kelowna, BC",152.95
+2021-07-24,"Kelowna, BC",153.62
+2021-07-25,"Kelowna, BC",154.24
+2021-07-26,"Kelowna, BC",154.67
+2021-07-27,"Kelowna, BC",155.51
+2021-07-28,"Kelowna, BC",156.5
+2021-07-29,"Kelowna, BC",157.66
+2021-07-30,"Kelowna, BC",158.49
+2021-07-31,"Kelowna, BC",159.3
+2021-08-01,"Kelowna, BC",159.78
+2021-08-02,"Kelowna, BC",160.05
+2021-08-03,"Kelowna, BC",159.69
+2021-08-04,"Kelowna, BC",159.57
+2021-08-05,"Kelowna, BC",159.1
+2021-08-06,"Kelowna, BC",158.7
+2021-08-07,"Kelowna, BC",158.46
+2021-08-08,"Kelowna, BC",158.18
+2021-08-09,"Kelowna, BC",157.92
+2021-08-10,"Kelowna, BC",157.85
 2021-08-11,"Kelowna, BC",157.55
 2021-08-12,"Kelowna, BC",157.11
 2021-08-13,"Kelowna, BC",156.6
@@ -29784,6 +29938,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Kelowna, BC",151.61
 2023-08-17,"Kelowna, BC",150.89
 2023-08-18,"Kelowna, BC",150.48
+2023-08-19,"Kelowna, BC",150.23
+2023-08-20,"Kelowna, BC",150.21
+2023-08-21,"Kelowna, BC",149.97
+2023-08-22,"Kelowna, BC",149.97
+2023-08-23,"Kelowna, BC",150.13
+2023-08-24,"Kelowna, BC",150.24
+2023-08-25,"Kelowna, BC",150.32
 2020-02-01,"Kingston, ON",100
 2020-02-02,"Kingston, ON",100.11
 2020-02-03,"Kingston, ON",100.3
@@ -30267,16 +30428,16 @@ date,Metro,indeed_job_postings_index
 2021-05-26,"Kingston, ON",115.71
 2021-05-27,"Kingston, ON",114.76
 2021-05-28,"Kingston, ON",113.84
-2021-05-29,"Kingston, ON",113.84
-2021-05-30,"Kingston, ON",113.49
-2021-05-31,"Kingston, ON",112.8
-2021-06-01,"Kingston, ON",112.87
-2021-06-02,"Kingston, ON",112.04
-2021-06-03,"Kingston, ON",112.3
-2021-06-04,"Kingston, ON",112.96
-2021-06-05,"Kingston, ON",113.81
-2021-06-06,"Kingston, ON",114.44
-2021-06-07,"Kingston, ON",115.51
+2021-05-29,"Kingston, ON",113.82
+2021-05-30,"Kingston, ON",113.47
+2021-05-31,"Kingston, ON",112.78
+2021-06-01,"Kingston, ON",112.83
+2021-06-02,"Kingston, ON",111.99
+2021-06-03,"Kingston, ON",112.26
+2021-06-04,"Kingston, ON",112.92
+2021-06-05,"Kingston, ON",113.79
+2021-06-06,"Kingston, ON",114.42
+2021-06-07,"Kingston, ON",115.49
 2021-06-08,"Kingston, ON",116.48
 2021-06-09,"Kingston, ON",117.77
 2021-06-10,"Kingston, ON",119.18
@@ -30301,14 +30462,14 @@ date,Metro,indeed_job_postings_index
 2021-06-29,"Kingston, ON",127.57
 2021-06-30,"Kingston, ON",128.51
 2021-07-01,"Kingston, ON",129.44
-2021-07-02,"Kingston, ON",130.3
-2021-07-03,"Kingston, ON",131.04
-2021-07-04,"Kingston, ON",130.68
-2021-07-05,"Kingston, ON",130.58
-2021-07-06,"Kingston, ON",130.44
-2021-07-07,"Kingston, ON",130.53
-2021-07-08,"Kingston, ON",130.61
-2021-07-09,"Kingston, ON",130.81
+2021-07-02,"Kingston, ON",130.28
+2021-07-03,"Kingston, ON",131
+2021-07-04,"Kingston, ON",130.64
+2021-07-05,"Kingston, ON",130.54
+2021-07-06,"Kingston, ON",130.4
+2021-07-07,"Kingston, ON",130.49
+2021-07-08,"Kingston, ON",130.57
+2021-07-09,"Kingston, ON",130.79
 2021-07-10,"Kingston, ON",131.2
 2021-07-11,"Kingston, ON",132.46
 2021-07-12,"Kingston, ON",133.24
@@ -31079,6 +31240,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Kingston, ON",155.56
 2023-08-17,"Kingston, ON",155.76
 2023-08-18,"Kingston, ON",155.54
+2023-08-19,"Kingston, ON",154.77
+2023-08-20,"Kingston, ON",153.87
+2023-08-21,"Kingston, ON",152.98
+2023-08-22,"Kingston, ON",152.42
+2023-08-23,"Kingston, ON",152.4
+2023-08-24,"Kingston, ON",152.18
+2023-08-25,"Kingston, ON",151.92
 2020-02-01,"Lethbridge, AB",100
 2020-02-02,"Lethbridge, AB",99.12
 2020-02-03,"Lethbridge, AB",98.45
@@ -31515,13 +31683,13 @@ date,Metro,indeed_job_postings_index
 2021-04-09,"Lethbridge, AB",129.92
 2021-04-10,"Lethbridge, AB",129.57
 2021-04-11,"Lethbridge, AB",129.41
-2021-04-12,"Lethbridge, AB",129.09
-2021-04-13,"Lethbridge, AB",128.3
-2021-04-14,"Lethbridge, AB",127.08
-2021-04-15,"Lethbridge, AB",126.26
-2021-04-16,"Lethbridge, AB",126.18
-2021-04-17,"Lethbridge, AB",126.55
-2021-04-18,"Lethbridge, AB",127.14
+2021-04-12,"Lethbridge, AB",129.05
+2021-04-13,"Lethbridge, AB",128.25
+2021-04-14,"Lethbridge, AB",127.04
+2021-04-15,"Lethbridge, AB",126.21
+2021-04-16,"Lethbridge, AB",126.14
+2021-04-17,"Lethbridge, AB",126.5
+2021-04-18,"Lethbridge, AB",127.09
 2021-04-19,"Lethbridge, AB",127.89
 2021-04-20,"Lethbridge, AB",129.24
 2021-04-21,"Lethbridge, AB",130.46
@@ -32374,6 +32542,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Lethbridge, AB",188.65
 2023-08-17,"Lethbridge, AB",187.67
 2023-08-18,"Lethbridge, AB",187.71
+2023-08-19,"Lethbridge, AB",188.14
+2023-08-20,"Lethbridge, AB",188.55
+2023-08-21,"Lethbridge, AB",188.82
+2023-08-22,"Lethbridge, AB",190.01
+2023-08-23,"Lethbridge, AB",190.65
+2023-08-24,"Lethbridge, AB",191.26
+2023-08-25,"Lethbridge, AB",191.41
 2020-02-01,"London, ON",100
 2020-02-02,"London, ON",100.47
 2020-02-03,"London, ON",100.86
@@ -32840,13 +33015,13 @@ date,Metro,indeed_job_postings_index
 2021-05-09,"London, ON",118.84
 2021-05-10,"London, ON",119.15
 2021-05-11,"London, ON",119.75
-2021-05-12,"London, ON",120.3
-2021-05-13,"London, ON",120.52
-2021-05-14,"London, ON",120.42
-2021-05-15,"London, ON",120.34
-2021-05-16,"London, ON",119.84
-2021-05-17,"London, ON",119.37
-2021-05-18,"London, ON",118.89
+2021-05-12,"London, ON",120.28
+2021-05-13,"London, ON",120.51
+2021-05-14,"London, ON",120.41
+2021-05-15,"London, ON",120.33
+2021-05-16,"London, ON",119.82
+2021-05-17,"London, ON",119.35
+2021-05-18,"London, ON",118.87
 2021-05-19,"London, ON",118.4
 2021-05-20,"London, ON",118.29
 2021-05-21,"London, ON",118.13
@@ -32861,26 +33036,26 @@ date,Metro,indeed_job_postings_index
 2021-05-30,"London, ON",113.83
 2021-05-31,"London, ON",113.53
 2021-06-01,"London, ON",113.47
-2021-06-02,"London, ON",114.51
-2021-06-03,"London, ON",115.95
-2021-06-04,"London, ON",117.42
-2021-06-05,"London, ON",118.63
-2021-06-06,"London, ON",120.52
-2021-06-07,"London, ON",121.5
-2021-06-08,"London, ON",122.58
-2021-06-09,"London, ON",123.5
-2021-06-10,"London, ON",124.4
-2021-06-11,"London, ON",125.18
-2021-06-12,"London, ON",125.83
-2021-06-13,"London, ON",126.77
-2021-06-14,"London, ON",127.65
-2021-06-15,"London, ON",128.59
-2021-06-16,"London, ON",129.57
-2021-06-17,"London, ON",130.31
-2021-06-18,"London, ON",131.04
-2021-06-19,"London, ON",131.78
-2021-06-20,"London, ON",132.16
-2021-06-21,"London, ON",132.56
+2021-06-02,"London, ON",114.5
+2021-06-03,"London, ON",115.93
+2021-06-04,"London, ON",117.4
+2021-06-05,"London, ON",118.61
+2021-06-06,"London, ON",120.5
+2021-06-07,"London, ON",121.49
+2021-06-08,"London, ON",122.56
+2021-06-09,"London, ON",123.49
+2021-06-10,"London, ON",124.39
+2021-06-11,"London, ON",125.17
+2021-06-12,"London, ON",125.82
+2021-06-13,"London, ON",126.76
+2021-06-14,"London, ON",127.64
+2021-06-15,"London, ON",128.57
+2021-06-16,"London, ON",129.56
+2021-06-17,"London, ON",130.3
+2021-06-18,"London, ON",131.03
+2021-06-19,"London, ON",131.77
+2021-06-20,"London, ON",132.15
+2021-06-21,"London, ON",132.55
 2021-06-22,"London, ON",132.46
 2021-06-23,"London, ON",132.67
 2021-06-24,"London, ON",132.73
@@ -32892,53 +33067,53 @@ date,Metro,indeed_job_postings_index
 2021-06-30,"London, ON",135.22
 2021-07-01,"London, ON",135.48
 2021-07-02,"London, ON",135.59
-2021-07-03,"London, ON",135.52
-2021-07-04,"London, ON",135.28
-2021-07-05,"London, ON",134.92
-2021-07-06,"London, ON",134.66
-2021-07-07,"London, ON",134.7
-2021-07-08,"London, ON",135.05
-2021-07-09,"London, ON",135.9
+2021-07-03,"London, ON",135.5
+2021-07-04,"London, ON",135.27
+2021-07-05,"London, ON",134.9
+2021-07-06,"London, ON",134.64
+2021-07-07,"London, ON",134.68
+2021-07-08,"London, ON",135.04
+2021-07-09,"London, ON",135.89
 2021-07-10,"London, ON",136.82
 2021-07-11,"London, ON",137.61
 2021-07-12,"London, ON",138.54
 2021-07-13,"London, ON",139.35
 2021-07-14,"London, ON",140.02
 2021-07-15,"London, ON",140.69
-2021-07-16,"London, ON",140.98
-2021-07-17,"London, ON",141.12
-2021-07-18,"London, ON",141.56
-2021-07-19,"London, ON",141.76
-2021-07-20,"London, ON",141.97
-2021-07-21,"London, ON",142.38
-2021-07-22,"London, ON",142.65
+2021-07-16,"London, ON",140.96
+2021-07-17,"London, ON",141.1
+2021-07-18,"London, ON",141.54
+2021-07-19,"London, ON",141.75
+2021-07-20,"London, ON",141.95
+2021-07-21,"London, ON",142.37
+2021-07-22,"London, ON",142.64
 2021-07-23,"London, ON",142.96
 2021-07-24,"London, ON",143.39
 2021-07-25,"London, ON",144.03
 2021-07-26,"London, ON",144.58
 2021-07-27,"London, ON",145.43
-2021-07-28,"London, ON",146.19
-2021-07-29,"London, ON",146.81
-2021-07-30,"London, ON",147.32
-2021-07-31,"London, ON",147.83
-2021-08-01,"London, ON",147.97
-2021-08-02,"London, ON",147.91
-2021-08-03,"London, ON",147.25
-2021-08-04,"London, ON",146.52
-2021-08-05,"London, ON",146.11
-2021-08-06,"London, ON",146.09
-2021-08-07,"London, ON",145.81
-2021-08-08,"London, ON",145.54
-2021-08-09,"London, ON",145.64
-2021-08-10,"London, ON",146.03
-2021-08-11,"London, ON",146.48
-2021-08-12,"London, ON",146.64
-2021-08-13,"London, ON",146.67
-2021-08-14,"London, ON",146.47
-2021-08-15,"London, ON",146.64
-2021-08-16,"London, ON",146.69
+2021-07-28,"London, ON",146.16
+2021-07-29,"London, ON",146.75
+2021-07-30,"London, ON",147.23
+2021-07-31,"London, ON",147.7
+2021-08-01,"London, ON",147.81
+2021-08-02,"London, ON",147.72
+2021-08-03,"London, ON",147.06
+2021-08-04,"London, ON",146.35
+2021-08-05,"London, ON",145.97
+2021-08-06,"London, ON",145.99
+2021-08-07,"London, ON",145.74
+2021-08-08,"London, ON",145.5
+2021-08-09,"London, ON",145.63
+2021-08-10,"London, ON",146.02
+2021-08-11,"London, ON",146.47
+2021-08-12,"London, ON",146.62
+2021-08-13,"London, ON",146.65
+2021-08-14,"London, ON",146.45
+2021-08-15,"London, ON",146.63
+2021-08-16,"London, ON",146.68
 2021-08-17,"London, ON",146.82
-2021-08-18,"London, ON",146.88
+2021-08-18,"London, ON",146.87
 2021-08-19,"London, ON",147.09
 2021-08-20,"London, ON",147.05
 2021-08-21,"London, ON",147.36
@@ -33669,6 +33844,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"London, ON",123.9
 2023-08-17,"London, ON",124.18
 2023-08-18,"London, ON",124.61
+2023-08-19,"London, ON",124.92
+2023-08-20,"London, ON",125.24
+2023-08-21,"London, ON",125.52
+2023-08-22,"London, ON",125.59
+2023-08-23,"London, ON",125.62
+2023-08-24,"London, ON",125.52
+2023-08-25,"London, ON",125.33
 2020-02-01,"Medicine Hat, AB",100
 2020-02-02,"Medicine Hat, AB",99.65
 2020-02-03,"Medicine Hat, AB",99.68
@@ -34135,13 +34317,13 @@ date,Metro,indeed_job_postings_index
 2021-05-09,"Medicine Hat, AB",127.41
 2021-05-10,"Medicine Hat, AB",127.91
 2021-05-11,"Medicine Hat, AB",128.58
-2021-05-12,"Medicine Hat, AB",129.46
-2021-05-13,"Medicine Hat, AB",130.83
-2021-05-14,"Medicine Hat, AB",131.46
-2021-05-15,"Medicine Hat, AB",132.65
-2021-05-16,"Medicine Hat, AB",133.07
-2021-05-17,"Medicine Hat, AB",133.19
-2021-05-18,"Medicine Hat, AB",133.94
+2021-05-12,"Medicine Hat, AB",129.38
+2021-05-13,"Medicine Hat, AB",130.75
+2021-05-14,"Medicine Hat, AB",131.38
+2021-05-15,"Medicine Hat, AB",132.57
+2021-05-16,"Medicine Hat, AB",132.99
+2021-05-17,"Medicine Hat, AB",133.1
+2021-05-18,"Medicine Hat, AB",133.86
 2021-05-19,"Medicine Hat, AB",134.2
 2021-05-20,"Medicine Hat, AB",134.89
 2021-05-21,"Medicine Hat, AB",136.4
@@ -34964,6 +35146,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Medicine Hat, AB",175.09
 2023-08-17,"Medicine Hat, AB",174.69
 2023-08-18,"Medicine Hat, AB",173.8
+2023-08-19,"Medicine Hat, AB",173.67
+2023-08-20,"Medicine Hat, AB",173.04
+2023-08-21,"Medicine Hat, AB",172.62
+2023-08-22,"Medicine Hat, AB",172.15
+2023-08-23,"Medicine Hat, AB",171.44
+2023-08-24,"Medicine Hat, AB",170.45
+2023-08-25,"Medicine Hat, AB",169.73
 2020-02-01,"Moncton, NB",100
 2020-02-02,"Moncton, NB",99.67
 2020-02-03,"Moncton, NB",99.7
@@ -35400,13 +35589,13 @@ date,Metro,indeed_job_postings_index
 2021-04-09,"Moncton, NB",134.77
 2021-04-10,"Moncton, NB",133.53
 2021-04-11,"Moncton, NB",132.57
-2021-04-12,"Moncton, NB",131.3
-2021-04-13,"Moncton, NB",130.05
-2021-04-14,"Moncton, NB",129.74
-2021-04-15,"Moncton, NB",130.13
-2021-04-16,"Moncton, NB",130.17
-2021-04-17,"Moncton, NB",130.86
-2021-04-18,"Moncton, NB",130.93
+2021-04-12,"Moncton, NB",131.25
+2021-04-13,"Moncton, NB",130
+2021-04-14,"Moncton, NB",129.69
+2021-04-15,"Moncton, NB",130.08
+2021-04-16,"Moncton, NB",130.13
+2021-04-17,"Moncton, NB",130.81
+2021-04-18,"Moncton, NB",130.89
 2021-04-19,"Moncton, NB",131.59
 2021-04-20,"Moncton, NB",132.54
 2021-04-21,"Moncton, NB",133.11
@@ -35422,13 +35611,13 @@ date,Metro,indeed_job_postings_index
 2021-05-01,"Moncton, NB",133.1
 2021-05-02,"Moncton, NB",132.34
 2021-05-03,"Moncton, NB",132.12
-2021-05-04,"Moncton, NB",132.47
-2021-05-05,"Moncton, NB",132.72
-2021-05-06,"Moncton, NB",133.79
-2021-05-07,"Moncton, NB",134.72
-2021-05-08,"Moncton, NB",135.92
-2021-05-09,"Moncton, NB",137.33
-2021-05-10,"Moncton, NB",138.39
+2021-05-04,"Moncton, NB",132.45
+2021-05-05,"Moncton, NB",132.7
+2021-05-06,"Moncton, NB",133.77
+2021-05-07,"Moncton, NB",134.69
+2021-05-08,"Moncton, NB",135.9
+2021-05-09,"Moncton, NB",137.31
+2021-05-10,"Moncton, NB",138.37
 2021-05-11,"Moncton, NB",139.1
 2021-05-12,"Moncton, NB",139.62
 2021-05-13,"Moncton, NB",139.58
@@ -35485,13 +35674,13 @@ date,Metro,indeed_job_postings_index
 2021-07-03,"Moncton, NB",143.35
 2021-07-04,"Moncton, NB",143.22
 2021-07-05,"Moncton, NB",143.09
-2021-07-06,"Moncton, NB",143.22
-2021-07-07,"Moncton, NB",143.63
-2021-07-08,"Moncton, NB",144.14
-2021-07-09,"Moncton, NB",144.63
-2021-07-10,"Moncton, NB",144.58
-2021-07-11,"Moncton, NB",145.16
-2021-07-12,"Moncton, NB",145.44
+2021-07-06,"Moncton, NB",143.19
+2021-07-07,"Moncton, NB",143.6
+2021-07-08,"Moncton, NB",144.12
+2021-07-09,"Moncton, NB",144.6
+2021-07-10,"Moncton, NB",144.56
+2021-07-11,"Moncton, NB",145.14
+2021-07-12,"Moncton, NB",145.42
 2021-07-13,"Moncton, NB",145.76
 2021-07-14,"Moncton, NB",145.82
 2021-07-15,"Moncton, NB",146.38
@@ -35507,24 +35696,24 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Moncton, NB",155.65
 2021-07-26,"Moncton, NB",156.32
 2021-07-27,"Moncton, NB",156.97
-2021-07-28,"Moncton, NB",157.6
-2021-07-29,"Moncton, NB",158.04
-2021-07-30,"Moncton, NB",158.27
-2021-07-31,"Moncton, NB",157.75
-2021-08-01,"Moncton, NB",156.94
-2021-08-02,"Moncton, NB",156.35
-2021-08-03,"Moncton, NB",155.34
-2021-08-04,"Moncton, NB",154.32
-2021-08-05,"Moncton, NB",153.8
-2021-08-06,"Moncton, NB",153.92
-2021-08-07,"Moncton, NB",154.42
-2021-08-08,"Moncton, NB",155.28
-2021-08-09,"Moncton, NB",156.04
-2021-08-10,"Moncton, NB",157.3
-2021-08-11,"Moncton, NB",158.57
-2021-08-12,"Moncton, NB",159.9
-2021-08-13,"Moncton, NB",161.24
-2021-08-14,"Moncton, NB",162.54
+2021-07-28,"Moncton, NB",157.55
+2021-07-29,"Moncton, NB",157.95
+2021-07-30,"Moncton, NB",158.16
+2021-07-31,"Moncton, NB",157.61
+2021-08-01,"Moncton, NB",156.79
+2021-08-02,"Moncton, NB",156.17
+2021-08-03,"Moncton, NB",155.16
+2021-08-04,"Moncton, NB",154.19
+2021-08-05,"Moncton, NB",153.71
+2021-08-06,"Moncton, NB",153.85
+2021-08-07,"Moncton, NB",154.38
+2021-08-08,"Moncton, NB",155.24
+2021-08-09,"Moncton, NB",156.02
+2021-08-10,"Moncton, NB",157.28
+2021-08-11,"Moncton, NB",158.55
+2021-08-12,"Moncton, NB",159.87
+2021-08-13,"Moncton, NB",161.22
+2021-08-14,"Moncton, NB",162.51
 2021-08-15,"Moncton, NB",163.43
 2021-08-16,"Moncton, NB",164.25
 2021-08-17,"Moncton, NB",165.05
@@ -36259,6 +36448,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Moncton, NB",137.87
 2023-08-17,"Moncton, NB",137.89
 2023-08-18,"Moncton, NB",137.85
+2023-08-19,"Moncton, NB",137.89
+2023-08-20,"Moncton, NB",137.94
+2023-08-21,"Moncton, NB",137.62
+2023-08-22,"Moncton, NB",137.23
+2023-08-23,"Moncton, NB",136.76
+2023-08-24,"Moncton, NB",136.56
+2023-08-25,"Moncton, NB",136.19
 2020-02-01,"Montréal, QC",100
 2020-02-02,"Montréal, QC",100.25
 2020-02-03,"Montréal, QC",100.43
@@ -36693,7 +36889,7 @@ date,Metro,indeed_job_postings_index
 2021-04-07,"Montréal, QC",121.75
 2021-04-08,"Montréal, QC",121.51
 2021-04-09,"Montréal, QC",121.27
-2021-04-10,"Montréal, QC",120.69
+2021-04-10,"Montréal, QC",120.68
 2021-04-11,"Montréal, QC",120.1
 2021-04-12,"Montréal, QC",119.61
 2021-04-13,"Montréal, QC",119.16
@@ -36711,16 +36907,16 @@ date,Metro,indeed_job_postings_index
 2021-04-25,"Montréal, QC",122.58
 2021-04-26,"Montréal, QC",122.61
 2021-04-27,"Montréal, QC",122.56
-2021-04-28,"Montréal, QC",122.38
+2021-04-28,"Montréal, QC",122.37
 2021-04-29,"Montréal, QC",122.09
-2021-04-30,"Montréal, QC",121.77
-2021-05-01,"Montréal, QC",120.91
-2021-05-02,"Montréal, QC",120.42
-2021-05-03,"Montréal, QC",119.95
+2021-04-30,"Montréal, QC",121.76
+2021-05-01,"Montréal, QC",120.9
+2021-05-02,"Montréal, QC",120.41
+2021-05-03,"Montréal, QC",119.94
 2021-05-04,"Montréal, QC",119.62
-2021-05-05,"Montréal, QC",119.4
+2021-05-05,"Montréal, QC",119.39
 2021-05-06,"Montréal, QC",119.3
-2021-05-07,"Montréal, QC",119.25
+2021-05-07,"Montréal, QC",119.24
 2021-05-08,"Montréal, QC",119.45
 2021-05-09,"Montréal, QC",119.69
 2021-05-10,"Montréal, QC",119.9
@@ -36747,49 +36943,49 @@ date,Metro,indeed_job_postings_index
 2021-05-31,"Montréal, QC",121.02
 2021-06-01,"Montréal, QC",121.43
 2021-06-02,"Montréal, QC",122.08
-2021-06-03,"Montréal, QC",122.83
-2021-06-04,"Montréal, QC",123.61
-2021-06-05,"Montréal, QC",124.59
-2021-06-06,"Montréal, QC",125.49
-2021-06-07,"Montréal, QC",126.31
-2021-06-08,"Montréal, QC",127.23
+2021-06-03,"Montréal, QC",122.82
+2021-06-04,"Montréal, QC",123.6
+2021-06-05,"Montréal, QC",124.58
+2021-06-06,"Montréal, QC",125.48
+2021-06-07,"Montréal, QC",126.3
+2021-06-08,"Montréal, QC",127.22
 2021-06-09,"Montréal, QC",127.93
-2021-06-10,"Montréal, QC",128.53
-2021-06-11,"Montréal, QC",129.07
-2021-06-12,"Montréal, QC",129.12
-2021-06-13,"Montréal, QC",129.38
-2021-06-14,"Montréal, QC",129.76
-2021-06-15,"Montréal, QC",130.08
-2021-06-16,"Montréal, QC",130.33
-2021-06-17,"Montréal, QC",130.38
-2021-06-18,"Montréal, QC",130.42
+2021-06-10,"Montréal, QC",128.52
+2021-06-11,"Montréal, QC",129.06
+2021-06-12,"Montréal, QC",129.11
+2021-06-13,"Montréal, QC",129.37
+2021-06-14,"Montréal, QC",129.75
+2021-06-15,"Montréal, QC",130.07
+2021-06-16,"Montréal, QC",130.32
+2021-06-17,"Montréal, QC",130.37
+2021-06-18,"Montréal, QC",130.41
 2021-06-19,"Montréal, QC",130.63
-2021-06-20,"Montréal, QC",130.49
+2021-06-20,"Montréal, QC",130.48
 2021-06-21,"Montréal, QC",130.25
 2021-06-22,"Montréal, QC",130.04
-2021-06-23,"Montréal, QC",130.02
+2021-06-23,"Montréal, QC",130.01
 2021-06-24,"Montréal, QC",130.01
 2021-06-25,"Montréal, QC",129.95
-2021-06-26,"Montréal, QC",130.21
-2021-06-27,"Montréal, QC",130.55
-2021-06-28,"Montréal, QC",131.11
-2021-06-29,"Montréal, QC",131.65
-2021-06-30,"Montréal, QC",131.88
-2021-07-01,"Montréal, QC",132.11
-2021-07-02,"Montréal, QC",132.36
-2021-07-03,"Montréal, QC",132.33
-2021-07-04,"Montréal, QC",132.29
+2021-06-26,"Montréal, QC",130.2
+2021-06-27,"Montréal, QC",130.54
+2021-06-28,"Montréal, QC",131.1
+2021-06-29,"Montréal, QC",131.63
+2021-06-30,"Montréal, QC",131.87
+2021-07-01,"Montréal, QC",132.1
+2021-07-02,"Montréal, QC",132.35
+2021-07-03,"Montréal, QC",132.32
+2021-07-04,"Montréal, QC",132.28
 2021-07-05,"Montréal, QC",132.17
-2021-07-06,"Montréal, QC",132.15
-2021-07-07,"Montréal, QC",132.06
-2021-07-08,"Montréal, QC",132.2
-2021-07-09,"Montréal, QC",132.64
-2021-07-10,"Montréal, QC",132.83
-2021-07-11,"Montréal, QC",133.12
-2021-07-12,"Montréal, QC",133.13
-2021-07-13,"Montréal, QC",133.18
-2021-07-14,"Montréal, QC",133.31
-2021-07-15,"Montréal, QC",133.21
+2021-07-06,"Montréal, QC",132.12
+2021-07-07,"Montréal, QC",132.03
+2021-07-08,"Montréal, QC",132.18
+2021-07-09,"Montréal, QC",132.6
+2021-07-10,"Montréal, QC",132.79
+2021-07-11,"Montréal, QC",133.08
+2021-07-12,"Montréal, QC",133.09
+2021-07-13,"Montréal, QC",133.17
+2021-07-14,"Montréal, QC",133.3
+2021-07-15,"Montréal, QC",133.2
 2021-07-16,"Montréal, QC",132.69
 2021-07-17,"Montréal, QC",132.33
 2021-07-18,"Montréal, QC",132.35
@@ -36798,43 +36994,43 @@ date,Metro,indeed_job_postings_index
 2021-07-21,"Montréal, QC",133.01
 2021-07-22,"Montréal, QC",133.36
 2021-07-23,"Montréal, QC",133.82
-2021-07-24,"Montréal, QC",134.49
+2021-07-24,"Montréal, QC",134.48
 2021-07-25,"Montréal, QC",134.85
-2021-07-26,"Montréal, QC",135.13
+2021-07-26,"Montréal, QC",135.12
 2021-07-27,"Montréal, QC",135.42
-2021-07-28,"Montréal, QC",135.87
-2021-07-29,"Montréal, QC",136.31
-2021-07-30,"Montréal, QC",136.66
-2021-07-31,"Montréal, QC",136.84
-2021-08-01,"Montréal, QC",136.68
-2021-08-02,"Montréal, QC",136.52
-2021-08-03,"Montréal, QC",136.42
-2021-08-04,"Montréal, QC",136.57
-2021-08-05,"Montréal, QC",136.81
-2021-08-06,"Montréal, QC",137.25
-2021-08-07,"Montréal, QC",137.83
-2021-08-08,"Montréal, QC",138.56
+2021-07-28,"Montréal, QC",135.86
+2021-07-29,"Montréal, QC",136.29
+2021-07-30,"Montréal, QC",136.64
+2021-07-31,"Montréal, QC",136.82
+2021-08-01,"Montréal, QC",136.65
+2021-08-02,"Montréal, QC",136.48
+2021-08-03,"Montréal, QC",136.39
+2021-08-04,"Montréal, QC",136.54
+2021-08-05,"Montréal, QC",136.78
+2021-08-06,"Montréal, QC",137.23
+2021-08-07,"Montréal, QC",137.82
+2021-08-08,"Montréal, QC",138.55
 2021-08-09,"Montréal, QC",139.15
-2021-08-10,"Montréal, QC",139.81
-2021-08-11,"Montréal, QC",140.27
+2021-08-10,"Montréal, QC",139.8
+2021-08-11,"Montréal, QC",140.26
 2021-08-12,"Montréal, QC",140.72
 2021-08-13,"Montréal, QC",141.17
 2021-08-14,"Montréal, QC",141.62
-2021-08-15,"Montréal, QC",142.05
-2021-08-16,"Montréal, QC",142.17
-2021-08-17,"Montréal, QC",142.49
+2021-08-15,"Montréal, QC",142.04
+2021-08-16,"Montréal, QC",142.16
+2021-08-17,"Montréal, QC",142.48
 2021-08-18,"Montréal, QC",142.79
 2021-08-19,"Montréal, QC",142.59
 2021-08-20,"Montréal, QC",142.68
 2021-08-21,"Montréal, QC",142.78
-2021-08-22,"Montréal, QC",142.9
+2021-08-22,"Montréal, QC",142.89
 2021-08-23,"Montréal, QC",143.01
-2021-08-24,"Montréal, QC",143.08
+2021-08-24,"Montréal, QC",143.07
 2021-08-25,"Montréal, QC",143.02
 2021-08-26,"Montréal, QC",143.42
-2021-08-27,"Montréal, QC",143.68
+2021-08-27,"Montréal, QC",143.67
 2021-08-28,"Montréal, QC",143.87
-2021-08-29,"Montréal, QC",144.01
+2021-08-29,"Montréal, QC",144
 2021-08-30,"Montréal, QC",144.54
 2021-08-31,"Montréal, QC",144.75
 2021-09-01,"Montréal, QC",144.88
@@ -37554,6 +37750,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Montréal, QC",116.85
 2023-08-17,"Montréal, QC",117.07
 2023-08-18,"Montréal, QC",117.28
+2023-08-19,"Montréal, QC",117.51
+2023-08-20,"Montréal, QC",117.7
+2023-08-21,"Montréal, QC",117.81
+2023-08-22,"Montréal, QC",117.74
+2023-08-23,"Montréal, QC",117.71
+2023-08-24,"Montréal, QC",117.7
+2023-08-25,"Montréal, QC",117.66
 2020-02-01,"Nanaimo, BC",100
 2020-02-02,"Nanaimo, BC",99.21
 2020-02-03,"Nanaimo, BC",98.63
@@ -38849,6 +39052,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Nanaimo, BC",151.15
 2023-08-17,"Nanaimo, BC",150.81
 2023-08-18,"Nanaimo, BC",150.48
+2023-08-19,"Nanaimo, BC",150.37
+2023-08-20,"Nanaimo, BC",150.13
+2023-08-21,"Nanaimo, BC",149.57
+2023-08-22,"Nanaimo, BC",149.31
+2023-08-23,"Nanaimo, BC",149.37
+2023-08-24,"Nanaimo, BC",149.27
+2023-08-25,"Nanaimo, BC",149.14
 2020-02-01,"North Bay, ON",100
 2020-02-02,"North Bay, ON",100.43
 2020-02-03,"North Bay, ON",100.97
@@ -39323,13 +39533,13 @@ date,Metro,indeed_job_postings_index
 2021-05-17,"North Bay, ON",122.79
 2021-05-18,"North Bay, ON",121.33
 2021-05-19,"North Bay, ON",119.36
-2021-05-20,"North Bay, ON",118.12
-2021-05-21,"North Bay, ON",117.52
-2021-05-22,"North Bay, ON",116.7
-2021-05-23,"North Bay, ON",116.5
-2021-05-24,"North Bay, ON",116.77
-2021-05-25,"North Bay, ON",117.26
-2021-05-26,"North Bay, ON",118.79
+2021-05-20,"North Bay, ON",118.07
+2021-05-21,"North Bay, ON",117.47
+2021-05-22,"North Bay, ON",116.65
+2021-05-23,"North Bay, ON",116.45
+2021-05-24,"North Bay, ON",116.72
+2021-05-25,"North Bay, ON",117.21
+2021-05-26,"North Bay, ON",118.74
 2021-05-27,"North Bay, ON",120.03
 2021-05-28,"North Bay, ON",121.58
 2021-05-29,"North Bay, ON",123.92
@@ -40144,6 +40354,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"North Bay, ON",121.12
 2023-08-17,"North Bay, ON",121.27
 2023-08-18,"North Bay, ON",121.43
+2023-08-19,"North Bay, ON",121.85
+2023-08-20,"North Bay, ON",122.25
+2023-08-21,"North Bay, ON",122.75
+2023-08-22,"North Bay, ON",123.62
+2023-08-23,"North Bay, ON",124.69
+2023-08-24,"North Bay, ON",125.84
+2023-08-25,"North Bay, ON",127.1
 2020-02-01,"Orillia, ON",100
 2020-02-02,"Orillia, ON",98.69
 2020-02-03,"Orillia, ON",97.05
@@ -41439,6 +41656,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Orillia, ON",115.56
 2023-08-17,"Orillia, ON",115.05
 2023-08-18,"Orillia, ON",115.17
+2023-08-19,"Orillia, ON",115
+2023-08-20,"Orillia, ON",115.07
+2023-08-21,"Orillia, ON",114.75
+2023-08-22,"Orillia, ON",114.9
+2023-08-23,"Orillia, ON",115.32
+2023-08-24,"Orillia, ON",114.9
+2023-08-25,"Orillia, ON",114.7
 2020-02-01,"Oshawa, ON",100
 2020-02-02,"Oshawa, ON",99.85
 2020-02-03,"Oshawa, ON",99.68
@@ -41926,14 +42150,14 @@ date,Metro,indeed_job_postings_index
 2021-05-30,"Oshawa, ON",118.96
 2021-05-31,"Oshawa, ON",118.84
 2021-06-01,"Oshawa, ON",119.13
-2021-06-02,"Oshawa, ON",119.27
-2021-06-03,"Oshawa, ON",120.07
-2021-06-04,"Oshawa, ON",121.07
-2021-06-05,"Oshawa, ON",122.25
-2021-06-06,"Oshawa, ON",123.38
-2021-06-07,"Oshawa, ON",124.72
-2021-06-08,"Oshawa, ON",126.28
-2021-06-09,"Oshawa, ON",128.16
+2021-06-02,"Oshawa, ON",119.25
+2021-06-03,"Oshawa, ON",120.03
+2021-06-04,"Oshawa, ON",121.04
+2021-06-05,"Oshawa, ON",122.21
+2021-06-06,"Oshawa, ON",123.34
+2021-06-07,"Oshawa, ON",124.69
+2021-06-08,"Oshawa, ON",126.24
+2021-06-09,"Oshawa, ON",128.14
 2021-06-10,"Oshawa, ON",129.67
 2021-06-11,"Oshawa, ON",130.31
 2021-06-12,"Oshawa, ON",130.29
@@ -41960,13 +42184,13 @@ date,Metro,indeed_job_postings_index
 2021-07-03,"Oshawa, ON",139.49
 2021-07-04,"Oshawa, ON",139.26
 2021-07-05,"Oshawa, ON",138.9
-2021-07-06,"Oshawa, ON",138.69
-2021-07-07,"Oshawa, ON",138.83
-2021-07-08,"Oshawa, ON",139.13
-2021-07-09,"Oshawa, ON",139.67
-2021-07-10,"Oshawa, ON",140.44
-2021-07-11,"Oshawa, ON",141.07
-2021-07-12,"Oshawa, ON",142.02
+2021-07-06,"Oshawa, ON",138.67
+2021-07-07,"Oshawa, ON",138.81
+2021-07-08,"Oshawa, ON",139.11
+2021-07-09,"Oshawa, ON",139.65
+2021-07-10,"Oshawa, ON",140.42
+2021-07-11,"Oshawa, ON",141.05
+2021-07-12,"Oshawa, ON",142
 2021-07-13,"Oshawa, ON",142.82
 2021-07-14,"Oshawa, ON",142.98
 2021-07-15,"Oshawa, ON",143.21
@@ -41982,18 +42206,18 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Oshawa, ON",151.17
 2021-07-26,"Oshawa, ON",152.33
 2021-07-27,"Oshawa, ON",153.26
-2021-07-28,"Oshawa, ON",154.18
-2021-07-29,"Oshawa, ON",154.84
-2021-07-30,"Oshawa, ON",155.15
-2021-07-31,"Oshawa, ON",155.39
-2021-08-01,"Oshawa, ON",155.48
-2021-08-02,"Oshawa, ON",155.57
-2021-08-03,"Oshawa, ON",155.37
-2021-08-04,"Oshawa, ON",155.27
-2021-08-05,"Oshawa, ON",155.19
-2021-08-06,"Oshawa, ON",155.73
-2021-08-07,"Oshawa, ON",156.01
-2021-08-08,"Oshawa, ON",156.32
+2021-07-28,"Oshawa, ON",154.16
+2021-07-29,"Oshawa, ON",154.8
+2021-07-30,"Oshawa, ON",155.1
+2021-07-31,"Oshawa, ON",155.31
+2021-08-01,"Oshawa, ON",155.39
+2021-08-02,"Oshawa, ON",155.46
+2021-08-03,"Oshawa, ON",155.26
+2021-08-04,"Oshawa, ON",155.18
+2021-08-05,"Oshawa, ON",155.12
+2021-08-06,"Oshawa, ON",155.67
+2021-08-07,"Oshawa, ON",155.97
+2021-08-08,"Oshawa, ON",156.3
 2021-08-09,"Oshawa, ON",156.54
 2021-08-10,"Oshawa, ON",156.9
 2021-08-11,"Oshawa, ON",157.39
@@ -42734,6 +42958,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Oshawa, ON",138.13
 2023-08-17,"Oshawa, ON",138.13
 2023-08-18,"Oshawa, ON",138.29
+2023-08-19,"Oshawa, ON",138.06
+2023-08-20,"Oshawa, ON",138.12
+2023-08-21,"Oshawa, ON",138.21
+2023-08-22,"Oshawa, ON",137.25
+2023-08-23,"Oshawa, ON",136.78
+2023-08-24,"Oshawa, ON",136.72
+2023-08-25,"Oshawa, ON",136.64
 2020-02-01,"Ottawa, ON",100
 2020-02-02,"Ottawa, ON",99.92
 2020-02-03,"Ottawa, ON",99.91
@@ -43174,11 +43405,11 @@ date,Metro,indeed_job_postings_index
 2021-04-13,"Ottawa, ON",115.04
 2021-04-14,"Ottawa, ON",115.23
 2021-04-15,"Ottawa, ON",115.59
-2021-04-16,"Ottawa, ON",116.1
-2021-04-17,"Ottawa, ON",116.9
-2021-04-18,"Ottawa, ON",117.7
-2021-04-19,"Ottawa, ON",118.52
-2021-04-20,"Ottawa, ON",119.15
+2021-04-16,"Ottawa, ON",116.09
+2021-04-17,"Ottawa, ON",116.89
+2021-04-18,"Ottawa, ON",117.69
+2021-04-19,"Ottawa, ON",118.51
+2021-04-20,"Ottawa, ON",119.14
 2021-04-21,"Ottawa, ON",119.48
 2021-04-22,"Ottawa, ON",119.89
 2021-04-23,"Ottawa, ON",120.14
@@ -43186,29 +43417,29 @@ date,Metro,indeed_job_postings_index
 2021-04-25,"Ottawa, ON",120.26
 2021-04-26,"Ottawa, ON",119.99
 2021-04-27,"Ottawa, ON",119.51
-2021-04-28,"Ottawa, ON",119.1
-2021-04-29,"Ottawa, ON",118.41
-2021-04-30,"Ottawa, ON",117.37
-2021-05-01,"Ottawa, ON",116.05
-2021-05-02,"Ottawa, ON",114.95
-2021-05-03,"Ottawa, ON",114.03
-2021-05-04,"Ottawa, ON",113.3
+2021-04-28,"Ottawa, ON",119.09
+2021-04-29,"Ottawa, ON",118.4
+2021-04-30,"Ottawa, ON",117.36
+2021-05-01,"Ottawa, ON",116.04
+2021-05-02,"Ottawa, ON",114.94
+2021-05-03,"Ottawa, ON",114.01
+2021-05-04,"Ottawa, ON",113.28
 2021-05-05,"Ottawa, ON",112.63
 2021-05-06,"Ottawa, ON",112.1
 2021-05-07,"Ottawa, ON",111.91
-2021-05-08,"Ottawa, ON",111.92
+2021-05-08,"Ottawa, ON",111.91
 2021-05-09,"Ottawa, ON",112.16
 2021-05-10,"Ottawa, ON",112.34
-2021-05-11,"Ottawa, ON",112.48
+2021-05-11,"Ottawa, ON",112.47
 2021-05-12,"Ottawa, ON",112.63
 2021-05-13,"Ottawa, ON",112.82
 2021-05-14,"Ottawa, ON",113.03
 2021-05-15,"Ottawa, ON",113.29
-2021-05-16,"Ottawa, ON",113.22
-2021-05-17,"Ottawa, ON",113.09
-2021-05-18,"Ottawa, ON",113.06
+2021-05-16,"Ottawa, ON",113.21
+2021-05-17,"Ottawa, ON",113.08
+2021-05-18,"Ottawa, ON",113.05
 2021-05-19,"Ottawa, ON",113.02
-2021-05-20,"Ottawa, ON",113.29
+2021-05-20,"Ottawa, ON",113.28
 2021-05-21,"Ottawa, ON",113.54
 2021-05-22,"Ottawa, ON",113.44
 2021-05-23,"Ottawa, ON",113.68
@@ -43229,12 +43460,12 @@ date,Metro,indeed_job_postings_index
 2021-06-07,"Ottawa, ON",120.16
 2021-06-08,"Ottawa, ON",121.07
 2021-06-09,"Ottawa, ON",121.79
-2021-06-10,"Ottawa, ON",122.6
+2021-06-10,"Ottawa, ON",122.59
 2021-06-11,"Ottawa, ON",123.16
-2021-06-12,"Ottawa, ON",123.48
+2021-06-12,"Ottawa, ON",123.47
 2021-06-13,"Ottawa, ON",124.11
-2021-06-14,"Ottawa, ON",124.77
-2021-06-15,"Ottawa, ON",125.34
+2021-06-14,"Ottawa, ON",124.76
+2021-06-15,"Ottawa, ON",125.33
 2021-06-16,"Ottawa, ON",126
 2021-06-17,"Ottawa, ON",126.44
 2021-06-18,"Ottawa, ON",126.94
@@ -43253,68 +43484,68 @@ date,Metro,indeed_job_postings_index
 2021-07-01,"Ottawa, ON",131.51
 2021-07-02,"Ottawa, ON",131.71
 2021-07-03,"Ottawa, ON",131.69
-2021-07-04,"Ottawa, ON",131.52
-2021-07-05,"Ottawa, ON",131.24
-2021-07-06,"Ottawa, ON",131.03
-2021-07-07,"Ottawa, ON",130.94
-2021-07-08,"Ottawa, ON",131.08
-2021-07-09,"Ottawa, ON",131.42
-2021-07-10,"Ottawa, ON",131.69
-2021-07-11,"Ottawa, ON",132.06
-2021-07-12,"Ottawa, ON",132.41
+2021-07-04,"Ottawa, ON",131.51
+2021-07-05,"Ottawa, ON",131.23
+2021-07-06,"Ottawa, ON",131.01
+2021-07-07,"Ottawa, ON",130.92
+2021-07-08,"Ottawa, ON",131.07
+2021-07-09,"Ottawa, ON",131.41
+2021-07-10,"Ottawa, ON",131.67
+2021-07-11,"Ottawa, ON",132.05
+2021-07-12,"Ottawa, ON",132.39
 2021-07-13,"Ottawa, ON",132.58
 2021-07-14,"Ottawa, ON",132.63
-2021-07-15,"Ottawa, ON",132.63
-2021-07-16,"Ottawa, ON",132.63
-2021-07-17,"Ottawa, ON",132.44
-2021-07-18,"Ottawa, ON",132.65
+2021-07-15,"Ottawa, ON",132.62
+2021-07-16,"Ottawa, ON",132.62
+2021-07-17,"Ottawa, ON",132.43
+2021-07-18,"Ottawa, ON",132.64
 2021-07-19,"Ottawa, ON",132.85
 2021-07-20,"Ottawa, ON",133.22
-2021-07-21,"Ottawa, ON",133.64
+2021-07-21,"Ottawa, ON",133.63
 2021-07-22,"Ottawa, ON",134.04
-2021-07-23,"Ottawa, ON",134.55
-2021-07-24,"Ottawa, ON",135.37
+2021-07-23,"Ottawa, ON",134.54
+2021-07-24,"Ottawa, ON",135.36
 2021-07-25,"Ottawa, ON",136.04
-2021-07-26,"Ottawa, ON",136.6
+2021-07-26,"Ottawa, ON",136.59
 2021-07-27,"Ottawa, ON",137.16
-2021-07-28,"Ottawa, ON",137.81
-2021-07-29,"Ottawa, ON",138.37
-2021-07-30,"Ottawa, ON",138.76
-2021-07-31,"Ottawa, ON",139.09
-2021-08-01,"Ottawa, ON",138.83
-2021-08-02,"Ottawa, ON",138.73
-2021-08-03,"Ottawa, ON",138.22
-2021-08-04,"Ottawa, ON",137.79
-2021-08-05,"Ottawa, ON",137.49
-2021-08-06,"Ottawa, ON",137.3
-2021-08-07,"Ottawa, ON",137.05
-2021-08-08,"Ottawa, ON",137.25
-2021-08-09,"Ottawa, ON",137.37
-2021-08-10,"Ottawa, ON",137.85
+2021-07-28,"Ottawa, ON",137.8
+2021-07-29,"Ottawa, ON",138.35
+2021-07-30,"Ottawa, ON",138.73
+2021-07-31,"Ottawa, ON",139.05
+2021-08-01,"Ottawa, ON",138.79
+2021-08-02,"Ottawa, ON",138.68
+2021-08-03,"Ottawa, ON",138.17
+2021-08-04,"Ottawa, ON",137.75
+2021-08-05,"Ottawa, ON",137.46
+2021-08-06,"Ottawa, ON",137.28
+2021-08-07,"Ottawa, ON",137.03
+2021-08-08,"Ottawa, ON",137.24
+2021-08-09,"Ottawa, ON",137.36
+2021-08-10,"Ottawa, ON",137.84
 2021-08-11,"Ottawa, ON",138.16
-2021-08-12,"Ottawa, ON",138.42
-2021-08-13,"Ottawa, ON",138.75
-2021-08-14,"Ottawa, ON",139.08
-2021-08-15,"Ottawa, ON",139.28
-2021-08-16,"Ottawa, ON",139.41
+2021-08-12,"Ottawa, ON",138.41
+2021-08-13,"Ottawa, ON",138.74
+2021-08-14,"Ottawa, ON",139.07
+2021-08-15,"Ottawa, ON",139.27
+2021-08-16,"Ottawa, ON",139.4
 2021-08-17,"Ottawa, ON",139.38
 2021-08-18,"Ottawa, ON",139.4
 2021-08-19,"Ottawa, ON",139.46
 2021-08-20,"Ottawa, ON",139.37
 2021-08-21,"Ottawa, ON",139.13
 2021-08-22,"Ottawa, ON",138.98
-2021-08-23,"Ottawa, ON",138.73
-2021-08-24,"Ottawa, ON",138.74
-2021-08-25,"Ottawa, ON",138.67
-2021-08-26,"Ottawa, ON",138.65
-2021-08-27,"Ottawa, ON",138.69
-2021-08-28,"Ottawa, ON",139.09
-2021-08-29,"Ottawa, ON",139.27
+2021-08-23,"Ottawa, ON",138.71
+2021-08-24,"Ottawa, ON",138.71
+2021-08-25,"Ottawa, ON",138.64
+2021-08-26,"Ottawa, ON",138.62
+2021-08-27,"Ottawa, ON",138.66
+2021-08-28,"Ottawa, ON",139.07
+2021-08-29,"Ottawa, ON",139.24
 2021-08-30,"Ottawa, ON",139.72
 2021-08-31,"Ottawa, ON",140.22
 2021-09-01,"Ottawa, ON",140.77
-2021-09-02,"Ottawa, ON",141.25
-2021-09-03,"Ottawa, ON",141.65
+2021-09-02,"Ottawa, ON",141.24
+2021-09-03,"Ottawa, ON",141.64
 2021-09-04,"Ottawa, ON",141.62
 2021-09-05,"Ottawa, ON",141.92
 2021-09-06,"Ottawa, ON",142.06
@@ -44029,6 +44260,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Ottawa, ON",113.41
 2023-08-17,"Ottawa, ON",113.44
 2023-08-18,"Ottawa, ON",113.45
+2023-08-19,"Ottawa, ON",113.57
+2023-08-20,"Ottawa, ON",113.58
+2023-08-21,"Ottawa, ON",113.47
+2023-08-22,"Ottawa, ON",113.33
+2023-08-23,"Ottawa, ON",113.28
+2023-08-24,"Ottawa, ON",113.03
+2023-08-25,"Ottawa, ON",112.85
 2020-02-01,"Peterborough, ON",100
 2020-02-02,"Peterborough, ON",100.5
 2020-02-03,"Peterborough, ON",101.25
@@ -45324,6 +45562,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Peterborough, ON",150.59
 2023-08-17,"Peterborough, ON",151.11
 2023-08-18,"Peterborough, ON",152.3
+2023-08-19,"Peterborough, ON",153.2
+2023-08-20,"Peterborough, ON",154.06
+2023-08-21,"Peterborough, ON",154.45
+2023-08-22,"Peterborough, ON",155.03
+2023-08-23,"Peterborough, ON",155.7
+2023-08-24,"Peterborough, ON",156.2
+2023-08-25,"Peterborough, ON",156.13
 2020-02-01,"Prince George, BC",100
 2020-02-02,"Prince George, BC",99.87
 2020-02-03,"Prince George, BC",99.63
@@ -45778,13 +46023,13 @@ date,Metro,indeed_job_postings_index
 2021-04-27,"Prince George, BC",110.84
 2021-04-28,"Prince George, BC",111.18
 2021-04-29,"Prince George, BC",111.52
-2021-04-30,"Prince George, BC",112.18
-2021-05-01,"Prince George, BC",112.61
-2021-05-02,"Prince George, BC",112.98
-2021-05-03,"Prince George, BC",113.28
-2021-05-04,"Prince George, BC",113.47
-2021-05-05,"Prince George, BC",113.62
-2021-05-06,"Prince George, BC",113.76
+2021-04-30,"Prince George, BC",112.15
+2021-05-01,"Prince George, BC",112.58
+2021-05-02,"Prince George, BC",112.95
+2021-05-03,"Prince George, BC",113.26
+2021-05-04,"Prince George, BC",113.44
+2021-05-05,"Prince George, BC",113.59
+2021-05-06,"Prince George, BC",113.74
 2021-05-07,"Prince George, BC",113.8
 2021-05-08,"Prince George, BC",114.17
 2021-05-09,"Prince George, BC",115.05
@@ -45811,13 +46056,13 @@ date,Metro,indeed_job_postings_index
 2021-05-30,"Prince George, BC",120.6
 2021-05-31,"Prince George, BC",120.35
 2021-06-01,"Prince George, BC",120.05
-2021-06-02,"Prince George, BC",120.05
-2021-06-03,"Prince George, BC",119.98
-2021-06-04,"Prince George, BC",120.04
-2021-06-05,"Prince George, BC",119.61
-2021-06-06,"Prince George, BC",119.02
-2021-06-07,"Prince George, BC",118.39
-2021-06-08,"Prince George, BC",118.27
+2021-06-02,"Prince George, BC",120.02
+2021-06-03,"Prince George, BC",119.95
+2021-06-04,"Prince George, BC",120.01
+2021-06-05,"Prince George, BC",119.58
+2021-06-06,"Prince George, BC",118.99
+2021-06-07,"Prince George, BC",118.36
+2021-06-08,"Prince George, BC",118.24
 2021-06-09,"Prince George, BC",117.93
 2021-06-10,"Prince George, BC",117.91
 2021-06-11,"Prince George, BC",118.31
@@ -46619,6 +46864,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Prince George, BC",130.07
 2023-08-17,"Prince George, BC",126.57
 2023-08-18,"Prince George, BC",123.38
+2023-08-19,"Prince George, BC",120.09
+2023-08-20,"Prince George, BC",116.93
+2023-08-21,"Prince George, BC",113.53
+2023-08-22,"Prince George, BC",110.77
+2023-08-23,"Prince George, BC",108.32
+2023-08-24,"Prince George, BC",108.87
+2023-08-25,"Prince George, BC",109.38
 2020-02-01,"Quebec City, QC",100
 2020-02-02,"Quebec City, QC",99.91
 2020-02-03,"Quebec City, QC",99.77
@@ -47093,11 +47345,11 @@ date,Metro,indeed_job_postings_index
 2021-05-17,"Quebec City, QC",122.97
 2021-05-18,"Quebec City, QC",123.46
 2021-05-19,"Quebec City, QC",124.11
-2021-05-20,"Quebec City, QC",124.74
-2021-05-21,"Quebec City, QC",125.58
+2021-05-20,"Quebec City, QC",124.73
+2021-05-21,"Quebec City, QC",125.57
 2021-05-22,"Quebec City, QC",125.87
-2021-05-23,"Quebec City, QC",126.78
-2021-05-24,"Quebec City, QC",127.6
+2021-05-23,"Quebec City, QC",126.77
+2021-05-24,"Quebec City, QC",127.59
 2021-05-25,"Quebec City, QC",128.32
 2021-05-26,"Quebec City, QC",128.9
 2021-05-27,"Quebec City, QC",129.44
@@ -47131,22 +47383,22 @@ date,Metro,indeed_job_postings_index
 2021-06-24,"Quebec City, QC",138.04
 2021-06-25,"Quebec City, QC",138.01
 2021-06-26,"Quebec City, QC",138.24
-2021-06-27,"Quebec City, QC",138.46
-2021-06-28,"Quebec City, QC",138.82
-2021-06-29,"Quebec City, QC",139.07
-2021-06-30,"Quebec City, QC",138.86
-2021-07-01,"Quebec City, QC",138.65
-2021-07-02,"Quebec City, QC",138.35
-2021-07-03,"Quebec City, QC",137.57
-2021-07-04,"Quebec City, QC",137.02
-2021-07-05,"Quebec City, QC",136.41
-2021-07-06,"Quebec City, QC",136.14
-2021-07-07,"Quebec City, QC",135.75
-2021-07-08,"Quebec City, QC",135.91
-2021-07-09,"Quebec City, QC",136.47
-2021-07-10,"Quebec City, QC",137.14
-2021-07-11,"Quebec City, QC",137.72
-2021-07-12,"Quebec City, QC",138.02
+2021-06-27,"Quebec City, QC",138.45
+2021-06-28,"Quebec City, QC",138.81
+2021-06-29,"Quebec City, QC",139.06
+2021-06-30,"Quebec City, QC",138.85
+2021-07-01,"Quebec City, QC",138.63
+2021-07-02,"Quebec City, QC",138.33
+2021-07-03,"Quebec City, QC",137.55
+2021-07-04,"Quebec City, QC",137.01
+2021-07-05,"Quebec City, QC",136.39
+2021-07-06,"Quebec City, QC",136.11
+2021-07-07,"Quebec City, QC",135.72
+2021-07-08,"Quebec City, QC",135.89
+2021-07-09,"Quebec City, QC",136.46
+2021-07-10,"Quebec City, QC",137.13
+2021-07-11,"Quebec City, QC",137.71
+2021-07-12,"Quebec City, QC",138
 2021-07-13,"Quebec City, QC",138.26
 2021-07-14,"Quebec City, QC",138.66
 2021-07-15,"Quebec City, QC",138.6
@@ -47162,13 +47414,13 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Quebec City, QC",140.43
 2021-07-26,"Quebec City, QC",140.52
 2021-07-27,"Quebec City, QC",140.66
-2021-07-28,"Quebec City, QC",140.96
-2021-07-29,"Quebec City, QC",141.25
-2021-07-30,"Quebec City, QC",141.47
-2021-07-31,"Quebec City, QC",141.71
-2021-08-01,"Quebec City, QC",141.61
-2021-08-02,"Quebec City, QC",141.61
-2021-08-03,"Quebec City, QC",141.65
+2021-07-28,"Quebec City, QC",140.95
+2021-07-29,"Quebec City, QC",141.23
+2021-07-30,"Quebec City, QC",141.45
+2021-07-31,"Quebec City, QC",141.69
+2021-08-01,"Quebec City, QC",141.6
+2021-08-02,"Quebec City, QC",141.6
+2021-08-03,"Quebec City, QC",141.64
 2021-08-04,"Quebec City, QC",142.07
 2021-08-05,"Quebec City, QC",142.62
 2021-08-06,"Quebec City, QC",143.34
@@ -47914,6 +48166,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Quebec City, QC",127.47
 2023-08-17,"Quebec City, QC",127.96
 2023-08-18,"Quebec City, QC",128.51
+2023-08-19,"Quebec City, QC",129.21
+2023-08-20,"Quebec City, QC",129.94
+2023-08-21,"Quebec City, QC",130.6
+2023-08-22,"Quebec City, QC",131.01
+2023-08-23,"Quebec City, QC",131.17
+2023-08-24,"Quebec City, QC",131.38
+2023-08-25,"Quebec City, QC",131.56
 2020-02-01,"Red Deer, AB",100
 2020-02-02,"Red Deer, AB",99.22
 2020-02-03,"Red Deer, AB",98.31
@@ -48457,18 +48716,18 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Red Deer, AB",169.08
 2021-07-26,"Red Deer, AB",169.14
 2021-07-27,"Red Deer, AB",169.75
-2021-07-28,"Red Deer, AB",170.59
-2021-07-29,"Red Deer, AB",171.2
-2021-07-30,"Red Deer, AB",171.4
-2021-07-31,"Red Deer, AB",170.76
-2021-08-01,"Red Deer, AB",169.95
-2021-08-02,"Red Deer, AB",169.43
-2021-08-03,"Red Deer, AB",168.88
-2021-08-04,"Red Deer, AB",167.63
-2021-08-05,"Red Deer, AB",166.51
-2021-08-06,"Red Deer, AB",166.12
-2021-08-07,"Red Deer, AB",166.5
-2021-08-08,"Red Deer, AB",166.79
+2021-07-28,"Red Deer, AB",170.55
+2021-07-29,"Red Deer, AB",171.13
+2021-07-30,"Red Deer, AB",171.29
+2021-07-31,"Red Deer, AB",170.62
+2021-08-01,"Red Deer, AB",169.77
+2021-08-02,"Red Deer, AB",169.23
+2021-08-03,"Red Deer, AB",168.68
+2021-08-04,"Red Deer, AB",167.46
+2021-08-05,"Red Deer, AB",166.38
+2021-08-06,"Red Deer, AB",166.01
+2021-08-07,"Red Deer, AB",166.43
+2021-08-08,"Red Deer, AB",166.76
 2021-08-09,"Red Deer, AB",167.03
 2021-08-10,"Red Deer, AB",167.32
 2021-08-11,"Red Deer, AB",168.01
@@ -49209,6 +49468,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Red Deer, AB",171.95
 2023-08-17,"Red Deer, AB",172.18
 2023-08-18,"Red Deer, AB",172.35
+2023-08-19,"Red Deer, AB",172.91
+2023-08-20,"Red Deer, AB",173.59
+2023-08-21,"Red Deer, AB",174.31
+2023-08-22,"Red Deer, AB",175.12
+2023-08-23,"Red Deer, AB",175.45
+2023-08-24,"Red Deer, AB",176.17
+2023-08-25,"Red Deer, AB",177.25
 2020-02-01,"Regina, SK",100
 2020-02-02,"Regina, SK",99.73
 2020-02-03,"Regina, SK",99.46
@@ -50504,6 +50770,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Regina, SK",153.11
 2023-08-17,"Regina, SK",152.98
 2023-08-18,"Regina, SK",152.68
+2023-08-19,"Regina, SK",152.81
+2023-08-20,"Regina, SK",152.88
+2023-08-21,"Regina, SK",152.9
+2023-08-22,"Regina, SK",153.1
+2023-08-23,"Regina, SK",153.08
+2023-08-24,"Regina, SK",153.6
+2023-08-25,"Regina, SK",153.86
 2020-02-01,"Saguenay, QC",100
 2020-02-02,"Saguenay, QC",100.96
 2020-02-03,"Saguenay, QC",101.95
@@ -50992,13 +51265,13 @@ date,Metro,indeed_job_postings_index
 2021-05-31,"Saguenay, QC",207.08
 2021-06-01,"Saguenay, QC",206.63
 2021-06-02,"Saguenay, QC",206.74
-2021-06-03,"Saguenay, QC",207.31
-2021-06-04,"Saguenay, QC",207.69
-2021-06-05,"Saguenay, QC",208.21
-2021-06-06,"Saguenay, QC",207.63
-2021-06-07,"Saguenay, QC",207.33
-2021-06-08,"Saguenay, QC",207.76
-2021-06-09,"Saguenay, QC",208.15
+2021-06-03,"Saguenay, QC",207.27
+2021-06-04,"Saguenay, QC",207.65
+2021-06-05,"Saguenay, QC",208.17
+2021-06-06,"Saguenay, QC",207.59
+2021-06-07,"Saguenay, QC",207.29
+2021-06-08,"Saguenay, QC",207.72
+2021-06-09,"Saguenay, QC",208.11
 2021-06-10,"Saguenay, QC",208
 2021-06-11,"Saguenay, QC",207.96
 2021-06-12,"Saguenay, QC",207.42
@@ -51799,6 +52072,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Saguenay, QC",199.58
 2023-08-17,"Saguenay, QC",200.88
 2023-08-18,"Saguenay, QC",201.98
+2023-08-19,"Saguenay, QC",203.51
+2023-08-20,"Saguenay, QC",204.82
+2023-08-21,"Saguenay, QC",206.36
+2023-08-22,"Saguenay, QC",207.28
+2023-08-23,"Saguenay, QC",207.9
+2023-08-24,"Saguenay, QC",208.45
+2023-08-25,"Saguenay, QC",208.66
 2020-02-01,"Saint John, NB",100
 2020-02-02,"Saint John, NB",99.44
 2020-02-03,"Saint John, NB",98.9
@@ -53094,6 +53374,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Saint John, NB",140.44
 2023-08-17,"Saint John, NB",141
 2023-08-18,"Saint John, NB",142.06
+2023-08-19,"Saint John, NB",142.78
+2023-08-20,"Saint John, NB",143.63
+2023-08-21,"Saint John, NB",144.52
+2023-08-22,"Saint John, NB",145.24
+2023-08-23,"Saint John, NB",146.31
+2023-08-24,"Saint John, NB",147.24
+2023-08-25,"Saint John, NB",148.12
 2020-02-01,"Sarnia, ON",100
 2020-02-02,"Sarnia, ON",100.86
 2020-02-03,"Sarnia, ON",101.56
@@ -54389,6 +54676,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Sarnia, ON",100.81
 2023-08-17,"Sarnia, ON",99.4
 2023-08-18,"Sarnia, ON",98.09
+2023-08-19,"Sarnia, ON",97.31
+2023-08-20,"Sarnia, ON",96.41
+2023-08-21,"Sarnia, ON",95.52
+2023-08-22,"Sarnia, ON",94.64
+2023-08-23,"Sarnia, ON",93.71
+2023-08-24,"Sarnia, ON",93.09
+2023-08-25,"Sarnia, ON",93.16
 2020-02-01,"Saskatoon, SK",100
 2020-02-02,"Saskatoon, SK",100.14
 2020-02-03,"Saskatoon, SK",100.22
@@ -54825,13 +55119,13 @@ date,Metro,indeed_job_postings_index
 2021-04-09,"Saskatoon, SK",121.77
 2021-04-10,"Saskatoon, SK",120.83
 2021-04-11,"Saskatoon, SK",120.21
-2021-04-12,"Saskatoon, SK",119.28
-2021-04-13,"Saskatoon, SK",118.55
-2021-04-14,"Saskatoon, SK",118.56
-2021-04-15,"Saskatoon, SK",118.88
-2021-04-16,"Saskatoon, SK",118.85
-2021-04-17,"Saskatoon, SK",119.24
-2021-04-18,"Saskatoon, SK",119.16
+2021-04-12,"Saskatoon, SK",119.27
+2021-04-13,"Saskatoon, SK",118.54
+2021-04-14,"Saskatoon, SK",118.54
+2021-04-15,"Saskatoon, SK",118.86
+2021-04-16,"Saskatoon, SK",118.83
+2021-04-17,"Saskatoon, SK",119.23
+2021-04-18,"Saskatoon, SK",119.14
 2021-04-19,"Saskatoon, SK",119.17
 2021-04-20,"Saskatoon, SK",119.01
 2021-04-21,"Saskatoon, SK",119.04
@@ -54843,24 +55137,24 @@ date,Metro,indeed_job_postings_index
 2021-04-27,"Saskatoon, SK",118.62
 2021-04-28,"Saskatoon, SK",118.92
 2021-04-29,"Saskatoon, SK",119.68
-2021-04-30,"Saskatoon, SK",120.47
-2021-05-01,"Saskatoon, SK",121.16
-2021-05-02,"Saskatoon, SK",121.71
-2021-05-03,"Saskatoon, SK",122.41
-2021-05-04,"Saskatoon, SK",122.92
-2021-05-05,"Saskatoon, SK",123.41
-2021-05-06,"Saskatoon, SK",123.93
-2021-05-07,"Saskatoon, SK",124.62
-2021-05-08,"Saskatoon, SK",125.1
-2021-05-09,"Saskatoon, SK",125.89
-2021-05-10,"Saskatoon, SK",126.33
-2021-05-11,"Saskatoon, SK",126.95
-2021-05-12,"Saskatoon, SK",127.36
-2021-05-13,"Saskatoon, SK",127.65
-2021-05-14,"Saskatoon, SK",127.63
-2021-05-15,"Saskatoon, SK",127.49
-2021-05-16,"Saskatoon, SK",127.15
-2021-05-17,"Saskatoon, SK",126.71
+2021-04-30,"Saskatoon, SK",120.46
+2021-05-01,"Saskatoon, SK",121.12
+2021-05-02,"Saskatoon, SK",121.67
+2021-05-03,"Saskatoon, SK",122.37
+2021-05-04,"Saskatoon, SK",122.88
+2021-05-05,"Saskatoon, SK",123.37
+2021-05-06,"Saskatoon, SK",123.89
+2021-05-07,"Saskatoon, SK",124.56
+2021-05-08,"Saskatoon, SK",125.07
+2021-05-09,"Saskatoon, SK",125.86
+2021-05-10,"Saskatoon, SK",126.3
+2021-05-11,"Saskatoon, SK",126.91
+2021-05-12,"Saskatoon, SK",127.32
+2021-05-13,"Saskatoon, SK",127.61
+2021-05-14,"Saskatoon, SK",127.62
+2021-05-15,"Saskatoon, SK",127.47
+2021-05-16,"Saskatoon, SK",127.14
+2021-05-17,"Saskatoon, SK",126.7
 2021-05-18,"Saskatoon, SK",126.47
 2021-05-19,"Saskatoon, SK",126.19
 2021-05-20,"Saskatoon, SK",126.16
@@ -54889,33 +55183,33 @@ date,Metro,indeed_job_postings_index
 2021-06-12,"Saskatoon, SK",137.84
 2021-06-13,"Saskatoon, SK",138.36
 2021-06-14,"Saskatoon, SK",138.97
-2021-06-15,"Saskatoon, SK",139.8
-2021-06-16,"Saskatoon, SK",140.64
-2021-06-17,"Saskatoon, SK",141.5
-2021-06-18,"Saskatoon, SK",142.41
-2021-06-19,"Saskatoon, SK",143.14
-2021-06-20,"Saskatoon, SK",143.3
-2021-06-21,"Saskatoon, SK",143.06
+2021-06-15,"Saskatoon, SK",139.79
+2021-06-16,"Saskatoon, SK",140.62
+2021-06-17,"Saskatoon, SK",141.48
+2021-06-18,"Saskatoon, SK",142.4
+2021-06-19,"Saskatoon, SK",143.12
+2021-06-20,"Saskatoon, SK",143.28
+2021-06-21,"Saskatoon, SK",143.05
 2021-06-22,"Saskatoon, SK",143.35
 2021-06-23,"Saskatoon, SK",143.98
-2021-06-24,"Saskatoon, SK",144.16
-2021-06-25,"Saskatoon, SK",144.4
-2021-06-26,"Saskatoon, SK",144.78
-2021-06-27,"Saskatoon, SK",145.58
-2021-06-28,"Saskatoon, SK",147.02
-2021-06-29,"Saskatoon, SK",148.03
-2021-06-30,"Saskatoon, SK",148.6
-2021-07-01,"Saskatoon, SK",149.17
-2021-07-02,"Saskatoon, SK",149.42
-2021-07-03,"Saskatoon, SK",149.26
-2021-07-04,"Saskatoon, SK",148.95
-2021-07-05,"Saskatoon, SK",148.12
-2021-07-06,"Saskatoon, SK",147.42
-2021-07-07,"Saskatoon, SK",146.83
-2021-07-08,"Saskatoon, SK",146.69
-2021-07-09,"Saskatoon, SK",147.24
-2021-07-10,"Saskatoon, SK",147.55
-2021-07-11,"Saskatoon, SK",147.77
+2021-06-24,"Saskatoon, SK",144.15
+2021-06-25,"Saskatoon, SK",144.39
+2021-06-26,"Saskatoon, SK",144.76
+2021-06-27,"Saskatoon, SK",145.55
+2021-06-28,"Saskatoon, SK",146.97
+2021-06-29,"Saskatoon, SK",147.96
+2021-06-30,"Saskatoon, SK",148.51
+2021-07-01,"Saskatoon, SK",149.06
+2021-07-02,"Saskatoon, SK",149.29
+2021-07-03,"Saskatoon, SK",149.1
+2021-07-04,"Saskatoon, SK",148.81
+2021-07-05,"Saskatoon, SK",147.99
+2021-07-06,"Saskatoon, SK",147.31
+2021-07-07,"Saskatoon, SK",146.74
+2021-07-08,"Saskatoon, SK",146.62
+2021-07-09,"Saskatoon, SK",147.2
+2021-07-10,"Saskatoon, SK",147.53
+2021-07-11,"Saskatoon, SK",147.76
 2021-07-12,"Saskatoon, SK",148.53
 2021-07-13,"Saskatoon, SK",149.15
 2021-07-14,"Saskatoon, SK",149.48
@@ -54932,18 +55226,18 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Saskatoon, SK",150.87
 2021-07-26,"Saskatoon, SK",150.94
 2021-07-27,"Saskatoon, SK",151.28
-2021-07-28,"Saskatoon, SK",151.68
-2021-07-29,"Saskatoon, SK",151.96
-2021-07-30,"Saskatoon, SK",152.4
-2021-07-31,"Saskatoon, SK",152.76
-2021-08-01,"Saskatoon, SK",152.98
-2021-08-02,"Saskatoon, SK",153.3
-2021-08-03,"Saskatoon, SK",153.01
-2021-08-04,"Saskatoon, SK",152.74
-2021-08-05,"Saskatoon, SK",152.96
-2021-08-06,"Saskatoon, SK",153.24
-2021-08-07,"Saskatoon, SK",153.47
-2021-08-08,"Saskatoon, SK",153.82
+2021-07-28,"Saskatoon, SK",151.66
+2021-07-29,"Saskatoon, SK",151.91
+2021-07-30,"Saskatoon, SK",152.29
+2021-07-31,"Saskatoon, SK",152.6
+2021-08-01,"Saskatoon, SK",152.77
+2021-08-02,"Saskatoon, SK",153.04
+2021-08-03,"Saskatoon, SK",152.74
+2021-08-04,"Saskatoon, SK",152.5
+2021-08-05,"Saskatoon, SK",152.75
+2021-08-06,"Saskatoon, SK",153.09
+2021-08-07,"Saskatoon, SK",153.37
+2021-08-08,"Saskatoon, SK",153.76
 2021-08-09,"Saskatoon, SK",154.32
 2021-08-10,"Saskatoon, SK",155.52
 2021-08-11,"Saskatoon, SK",156.55
@@ -54967,13 +55261,13 @@ date,Metro,indeed_job_postings_index
 2021-08-29,"Saskatoon, SK",162.79
 2021-08-30,"Saskatoon, SK",162.53
 2021-08-31,"Saskatoon, SK",162.05
-2021-09-01,"Saskatoon, SK",161.95
-2021-09-02,"Saskatoon, SK",161.84
-2021-09-03,"Saskatoon, SK",161.95
-2021-09-04,"Saskatoon, SK",162.09
-2021-09-05,"Saskatoon, SK",162.11
-2021-09-06,"Saskatoon, SK",162.43
-2021-09-07,"Saskatoon, SK",162.53
+2021-09-01,"Saskatoon, SK",161.92
+2021-09-02,"Saskatoon, SK",161.81
+2021-09-03,"Saskatoon, SK",161.93
+2021-09-04,"Saskatoon, SK",162.06
+2021-09-05,"Saskatoon, SK",162.09
+2021-09-06,"Saskatoon, SK",162.4
+2021-09-07,"Saskatoon, SK",162.5
 2021-09-08,"Saskatoon, SK",162.77
 2021-09-09,"Saskatoon, SK",163.33
 2021-09-10,"Saskatoon, SK",163.6
@@ -55684,6 +55978,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Saskatoon, SK",139.87
 2023-08-17,"Saskatoon, SK",140.11
 2023-08-18,"Saskatoon, SK",140.38
+2023-08-19,"Saskatoon, SK",140.85
+2023-08-20,"Saskatoon, SK",141.24
+2023-08-21,"Saskatoon, SK",141.54
+2023-08-22,"Saskatoon, SK",141.51
+2023-08-23,"Saskatoon, SK",141.28
+2023-08-24,"Saskatoon, SK",141.11
+2023-08-25,"Saskatoon, SK",140.78
 2020-02-01,"Sault Ste. Marie, ON",100
 2020-02-02,"Sault Ste. Marie, ON",100.19
 2020-02-03,"Sault Ste. Marie, ON",99.8
@@ -56184,13 +56485,13 @@ date,Metro,indeed_job_postings_index
 2021-06-12,"Sault Ste. Marie, ON",146.81
 2021-06-13,"Sault Ste. Marie, ON",149.26
 2021-06-14,"Sault Ste. Marie, ON",151.12
-2021-06-15,"Sault Ste. Marie, ON",153.31
-2021-06-16,"Sault Ste. Marie, ON",156.18
-2021-06-17,"Sault Ste. Marie, ON",158.35
-2021-06-18,"Sault Ste. Marie, ON",160.11
-2021-06-19,"Sault Ste. Marie, ON",161.54
-2021-06-20,"Sault Ste. Marie, ON",163.46
-2021-06-21,"Sault Ste. Marie, ON",165.81
+2021-06-15,"Sault Ste. Marie, ON",153.2
+2021-06-16,"Sault Ste. Marie, ON",156.07
+2021-06-17,"Sault Ste. Marie, ON",158.24
+2021-06-18,"Sault Ste. Marie, ON",160
+2021-06-19,"Sault Ste. Marie, ON",161.43
+2021-06-20,"Sault Ste. Marie, ON",163.35
+2021-06-21,"Sault Ste. Marie, ON",165.7
 2021-06-22,"Sault Ste. Marie, ON",168
 2021-06-23,"Sault Ste. Marie, ON",171.07
 2021-06-24,"Sault Ste. Marie, ON",174.12
@@ -56979,6 +57280,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Sault Ste. Marie, ON",178.5
 2023-08-17,"Sault Ste. Marie, ON",178.18
 2023-08-18,"Sault Ste. Marie, ON",178.02
+2023-08-19,"Sault Ste. Marie, ON",177.71
+2023-08-20,"Sault Ste. Marie, ON",177.35
+2023-08-21,"Sault Ste. Marie, ON",176.97
+2023-08-22,"Sault Ste. Marie, ON",176.32
+2023-08-23,"Sault Ste. Marie, ON",177.11
+2023-08-24,"Sault Ste. Marie, ON",176.3
+2023-08-25,"Sault Ste. Marie, ON",175.47
 2020-02-01,"Sherbrooke, QC",100
 2020-02-02,"Sherbrooke, QC",101.31
 2020-02-03,"Sherbrooke, QC",102.49
@@ -57503,13 +57811,13 @@ date,Metro,indeed_job_postings_index
 2021-07-06,"Sherbrooke, QC",138.4
 2021-07-07,"Sherbrooke, QC",137.74
 2021-07-08,"Sherbrooke, QC",137.52
-2021-07-09,"Sherbrooke, QC",137.39
-2021-07-10,"Sherbrooke, QC",137.05
-2021-07-11,"Sherbrooke, QC",137.1
-2021-07-12,"Sherbrooke, QC",136.72
-2021-07-13,"Sherbrooke, QC",136.29
-2021-07-14,"Sherbrooke, QC",136.42
-2021-07-15,"Sherbrooke, QC",136.27
+2021-07-09,"Sherbrooke, QC",137.24
+2021-07-10,"Sherbrooke, QC",136.9
+2021-07-11,"Sherbrooke, QC",136.94
+2021-07-12,"Sherbrooke, QC",136.57
+2021-07-13,"Sherbrooke, QC",136.13
+2021-07-14,"Sherbrooke, QC",136.27
+2021-07-15,"Sherbrooke, QC",136.12
 2021-07-16,"Sherbrooke, QC",136.06
 2021-07-17,"Sherbrooke, QC",136.37
 2021-07-18,"Sherbrooke, QC",136.9
@@ -58274,6 +58582,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Sherbrooke, QC",144.21
 2023-08-17,"Sherbrooke, QC",144.97
 2023-08-18,"Sherbrooke, QC",145.62
+2023-08-19,"Sherbrooke, QC",146.62
+2023-08-20,"Sherbrooke, QC",147.29
+2023-08-21,"Sherbrooke, QC",147.89
+2023-08-22,"Sherbrooke, QC",148.29
+2023-08-23,"Sherbrooke, QC",148.37
+2023-08-24,"Sherbrooke, QC",148.36
+2023-08-25,"Sherbrooke, QC",148.23
 2020-02-01,"St. Catherines/Niagra, ON",100
 2020-02-02,"St. Catherines/Niagra, ON",99.64
 2020-02-03,"St. Catherines/Niagra, ON",99.49
@@ -58705,20 +59020,20 @@ date,Metro,indeed_job_postings_index
 2021-04-04,"St. Catherines/Niagra, ON",108.32
 2021-04-05,"St. Catherines/Niagra, ON",108.24
 2021-04-06,"St. Catherines/Niagra, ON",107.7
-2021-04-07,"St. Catherines/Niagra, ON",106.66
-2021-04-08,"St. Catherines/Niagra, ON",105.67
-2021-04-09,"St. Catherines/Niagra, ON",104.81
-2021-04-10,"St. Catherines/Niagra, ON",103.67
-2021-04-11,"St. Catherines/Niagra, ON",102.87
-2021-04-12,"St. Catherines/Niagra, ON",102.02
-2021-04-13,"St. Catherines/Niagra, ON",101.18
-2021-04-14,"St. Catherines/Niagra, ON",100.55
-2021-04-15,"St. Catherines/Niagra, ON",99.98
-2021-04-16,"St. Catherines/Niagra, ON",99.52
-2021-04-17,"St. Catherines/Niagra, ON",99.52
-2021-04-18,"St. Catherines/Niagra, ON",99.07
-2021-04-19,"St. Catherines/Niagra, ON",98.64
-2021-04-20,"St. Catherines/Niagra, ON",98.07
+2021-04-07,"St. Catherines/Niagra, ON",106.63
+2021-04-08,"St. Catherines/Niagra, ON",105.63
+2021-04-09,"St. Catherines/Niagra, ON",104.77
+2021-04-10,"St. Catherines/Niagra, ON",103.63
+2021-04-11,"St. Catherines/Niagra, ON",102.83
+2021-04-12,"St. Catherines/Niagra, ON",101.99
+2021-04-13,"St. Catherines/Niagra, ON",101.14
+2021-04-14,"St. Catherines/Niagra, ON",100.54
+2021-04-15,"St. Catherines/Niagra, ON",99.97
+2021-04-16,"St. Catherines/Niagra, ON",99.51
+2021-04-17,"St. Catherines/Niagra, ON",99.51
+2021-04-18,"St. Catherines/Niagra, ON",99.06
+2021-04-19,"St. Catherines/Niagra, ON",98.63
+2021-04-20,"St. Catherines/Niagra, ON",98.06
 2021-04-21,"St. Catherines/Niagra, ON",97.19
 2021-04-22,"St. Catherines/Niagra, ON",96.23
 2021-04-23,"St. Catherines/Niagra, ON",95.21
@@ -58728,13 +59043,13 @@ date,Metro,indeed_job_postings_index
 2021-04-27,"St. Catherines/Niagra, ON",90.5
 2021-04-28,"St. Catherines/Niagra, ON",89.83
 2021-04-29,"St. Catherines/Niagra, ON",89.09
-2021-04-30,"St. Catherines/Niagra, ON",88.42
-2021-05-01,"St. Catherines/Niagra, ON",87.6
-2021-05-02,"St. Catherines/Niagra, ON",86.95
-2021-05-03,"St. Catherines/Niagra, ON",86.52
-2021-05-04,"St. Catherines/Niagra, ON",86.31
-2021-05-05,"St. Catherines/Niagra, ON",86.06
-2021-05-06,"St. Catherines/Niagra, ON",86.33
+2021-04-30,"St. Catherines/Niagra, ON",88.4
+2021-05-01,"St. Catherines/Niagra, ON",87.59
+2021-05-02,"St. Catherines/Niagra, ON",86.94
+2021-05-03,"St. Catherines/Niagra, ON",86.51
+2021-05-04,"St. Catherines/Niagra, ON",86.3
+2021-05-05,"St. Catherines/Niagra, ON",86.05
+2021-05-06,"St. Catherines/Niagra, ON",86.32
 2021-05-07,"St. Catherines/Niagra, ON",86.55
 2021-05-08,"St. Catherines/Niagra, ON",86.93
 2021-05-09,"St. Catherines/Niagra, ON",87.41
@@ -59569,6 +59884,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"St. Catherines/Niagra, ON",104.17
 2023-08-17,"St. Catherines/Niagra, ON",104.12
 2023-08-18,"St. Catherines/Niagra, ON",104.2
+2023-08-19,"St. Catherines/Niagra, ON",103.99
+2023-08-20,"St. Catherines/Niagra, ON",103.85
+2023-08-21,"St. Catherines/Niagra, ON",103.78
+2023-08-22,"St. Catherines/Niagra, ON",104.08
+2023-08-23,"St. Catherines/Niagra, ON",104.71
+2023-08-24,"St. Catherines/Niagra, ON",104.95
+2023-08-25,"St. Catherines/Niagra, ON",105.07
 2020-02-01,"St. John's, NL",100
 2020-02-02,"St. John's, NL",100.1
 2020-02-03,"St. John's, NL",100.4
@@ -60093,13 +60415,13 @@ date,Metro,indeed_job_postings_index
 2021-07-06,"St. John's, NL",161.62
 2021-07-07,"St. John's, NL",160.99
 2021-07-08,"St. John's, NL",161.16
-2021-07-09,"St. John's, NL",161.96
-2021-07-10,"St. John's, NL",162.17
-2021-07-11,"St. John's, NL",162.9
-2021-07-12,"St. John's, NL",163.14
-2021-07-13,"St. John's, NL",162.83
-2021-07-14,"St. John's, NL",162.75
-2021-07-15,"St. John's, NL",162.03
+2021-07-09,"St. John's, NL",161.93
+2021-07-10,"St. John's, NL",162.14
+2021-07-11,"St. John's, NL",162.87
+2021-07-12,"St. John's, NL",163.11
+2021-07-13,"St. John's, NL",162.8
+2021-07-14,"St. John's, NL",162.72
+2021-07-15,"St. John's, NL",162
 2021-07-16,"St. John's, NL",160.52
 2021-07-17,"St. John's, NL",160.31
 2021-07-18,"St. John's, NL",160.3
@@ -60121,13 +60443,13 @@ date,Metro,indeed_job_postings_index
 2021-08-03,"St. John's, NL",171.99
 2021-08-04,"St. John's, NL",171.56
 2021-08-05,"St. John's, NL",171.42
-2021-08-06,"St. John's, NL",171.43
-2021-08-07,"St. John's, NL",171.48
-2021-08-08,"St. John's, NL",172.12
-2021-08-09,"St. John's, NL",172.58
-2021-08-10,"St. John's, NL",173.61
-2021-08-11,"St. John's, NL",174.46
-2021-08-12,"St. John's, NL",175.64
+2021-08-06,"St. John's, NL",171.34
+2021-08-07,"St. John's, NL",171.4
+2021-08-08,"St. John's, NL",172.03
+2021-08-09,"St. John's, NL",172.5
+2021-08-10,"St. John's, NL",173.52
+2021-08-11,"St. John's, NL",174.37
+2021-08-12,"St. John's, NL",175.55
 2021-08-13,"St. John's, NL",177.23
 2021-08-14,"St. John's, NL",178.36
 2021-08-15,"St. John's, NL",178.76
@@ -60864,6 +61186,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"St. John's, NL",157.08
 2023-08-17,"St. John's, NL",156.84
 2023-08-18,"St. John's, NL",156.45
+2023-08-19,"St. John's, NL",155.52
+2023-08-20,"St. John's, NL",154.56
+2023-08-21,"St. John's, NL",153.65
+2023-08-22,"St. John's, NL",153.09
+2023-08-23,"St. John's, NL",152.89
+2023-08-24,"St. John's, NL",152.91
+2023-08-25,"St. John's, NL",152.78
 2020-02-01,"Sudbury, ON",100
 2020-02-02,"Sudbury, ON",99.69
 2020-02-03,"Sudbury, ON",99.35
@@ -61315,14 +61644,14 @@ date,Metro,indeed_job_postings_index
 2021-04-24,"Sudbury, ON",128.83
 2021-04-25,"Sudbury, ON",128.99
 2021-04-26,"Sudbury, ON",128.82
-2021-04-27,"Sudbury, ON",128.79
-2021-04-28,"Sudbury, ON",128.58
-2021-04-29,"Sudbury, ON",128.35
-2021-04-30,"Sudbury, ON",127.81
-2021-05-01,"Sudbury, ON",127.19
-2021-05-02,"Sudbury, ON",126.49
-2021-05-03,"Sudbury, ON",126.02
-2021-05-04,"Sudbury, ON",125.75
+2021-04-27,"Sudbury, ON",128.71
+2021-04-28,"Sudbury, ON",128.48
+2021-04-29,"Sudbury, ON",128.26
+2021-04-30,"Sudbury, ON",127.71
+2021-05-01,"Sudbury, ON",127.09
+2021-05-02,"Sudbury, ON",126.39
+2021-05-03,"Sudbury, ON",125.93
+2021-05-04,"Sudbury, ON",125.73
 2021-05-05,"Sudbury, ON",125.63
 2021-05-06,"Sudbury, ON",125.57
 2021-05-07,"Sudbury, ON",125.59
@@ -61338,35 +61667,35 @@ date,Metro,indeed_job_postings_index
 2021-05-17,"Sudbury, ON",120.8
 2021-05-18,"Sudbury, ON",120.01
 2021-05-19,"Sudbury, ON",119.35
-2021-05-20,"Sudbury, ON",119.02
-2021-05-21,"Sudbury, ON",118.74
-2021-05-22,"Sudbury, ON",118.4
-2021-05-23,"Sudbury, ON",118.12
-2021-05-24,"Sudbury, ON",117.96
-2021-05-25,"Sudbury, ON",117.95
-2021-05-26,"Sudbury, ON",118
+2021-05-20,"Sudbury, ON",119
+2021-05-21,"Sudbury, ON",118.71
+2021-05-22,"Sudbury, ON",118.38
+2021-05-23,"Sudbury, ON",118.1
+2021-05-24,"Sudbury, ON",117.94
+2021-05-25,"Sudbury, ON",117.93
+2021-05-26,"Sudbury, ON",117.97
 2021-05-27,"Sudbury, ON",118.12
 2021-05-28,"Sudbury, ON",118.32
 2021-05-29,"Sudbury, ON",118.88
 2021-05-30,"Sudbury, ON",119.66
 2021-05-31,"Sudbury, ON",120.34
-2021-06-01,"Sudbury, ON",121.59
-2021-06-02,"Sudbury, ON",122.86
-2021-06-03,"Sudbury, ON",123.93
-2021-06-04,"Sudbury, ON",125.14
-2021-06-05,"Sudbury, ON",126.09
-2021-06-06,"Sudbury, ON",126.75
-2021-06-07,"Sudbury, ON",127.41
+2021-06-01,"Sudbury, ON",121.56
+2021-06-02,"Sudbury, ON",122.83
+2021-06-03,"Sudbury, ON",123.91
+2021-06-04,"Sudbury, ON",125.11
+2021-06-05,"Sudbury, ON",126.06
+2021-06-06,"Sudbury, ON",126.73
+2021-06-07,"Sudbury, ON",127.39
 2021-06-08,"Sudbury, ON",127.54
 2021-06-09,"Sudbury, ON",127.4
 2021-06-10,"Sudbury, ON",127.37
-2021-06-11,"Sudbury, ON",127.28
-2021-06-12,"Sudbury, ON",126.84
-2021-06-13,"Sudbury, ON",126.77
-2021-06-14,"Sudbury, ON",126.81
-2021-06-15,"Sudbury, ON",126.99
-2021-06-16,"Sudbury, ON",127.26
-2021-06-17,"Sudbury, ON",127.7
+2021-06-11,"Sudbury, ON",127.23
+2021-06-12,"Sudbury, ON",126.79
+2021-06-13,"Sudbury, ON",126.72
+2021-06-14,"Sudbury, ON",126.76
+2021-06-15,"Sudbury, ON",126.94
+2021-06-16,"Sudbury, ON",127.21
+2021-06-17,"Sudbury, ON",127.65
 2021-06-18,"Sudbury, ON",128.49
 2021-06-19,"Sudbury, ON",129.38
 2021-06-20,"Sudbury, ON",130.06
@@ -61374,21 +61703,21 @@ date,Metro,indeed_job_postings_index
 2021-06-22,"Sudbury, ON",130.35
 2021-06-23,"Sudbury, ON",130.63
 2021-06-24,"Sudbury, ON",130.32
-2021-06-25,"Sudbury, ON",129.56
-2021-06-26,"Sudbury, ON",129.2
-2021-06-27,"Sudbury, ON",128.76
-2021-06-28,"Sudbury, ON",128.58
-2021-06-29,"Sudbury, ON",128.78
-2021-06-30,"Sudbury, ON",128.28
-2021-07-01,"Sudbury, ON",127.79
-2021-07-02,"Sudbury, ON",127.39
-2021-07-03,"Sudbury, ON",126.83
-2021-07-04,"Sudbury, ON",126.5
-2021-07-05,"Sudbury, ON",125.95
-2021-07-06,"Sudbury, ON",125.63
-2021-07-07,"Sudbury, ON",125.71
-2021-07-08,"Sudbury, ON",126.23
-2021-07-09,"Sudbury, ON",127.01
+2021-06-25,"Sudbury, ON",129.55
+2021-06-26,"Sudbury, ON",129.18
+2021-06-27,"Sudbury, ON",128.73
+2021-06-28,"Sudbury, ON",128.53
+2021-06-29,"Sudbury, ON",128.71
+2021-06-30,"Sudbury, ON",128.2
+2021-07-01,"Sudbury, ON",127.68
+2021-07-02,"Sudbury, ON",127.26
+2021-07-03,"Sudbury, ON",126.69
+2021-07-04,"Sudbury, ON",126.38
+2021-07-05,"Sudbury, ON",125.83
+2021-07-06,"Sudbury, ON",125.54
+2021-07-07,"Sudbury, ON",125.63
+2021-07-08,"Sudbury, ON",126.18
+2021-07-09,"Sudbury, ON",126.99
 2021-07-10,"Sudbury, ON",127.98
 2021-07-11,"Sudbury, ON",128.71
 2021-07-12,"Sudbury, ON",129.73
@@ -61407,26 +61736,26 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Sudbury, ON",139.2
 2021-07-26,"Sudbury, ON",140.02
 2021-07-27,"Sudbury, ON",140.39
-2021-07-28,"Sudbury, ON",140.49
-2021-07-29,"Sudbury, ON",140.52
-2021-07-30,"Sudbury, ON",140.18
-2021-07-31,"Sudbury, ON",139.88
-2021-08-01,"Sudbury, ON",139.34
-2021-08-02,"Sudbury, ON",138.65
-2021-08-03,"Sudbury, ON",137.85
-2021-08-04,"Sudbury, ON",137.77
+2021-07-28,"Sudbury, ON",140.45
+2021-07-29,"Sudbury, ON",140.42
+2021-07-30,"Sudbury, ON",140.09
+2021-07-31,"Sudbury, ON",139.78
+2021-08-01,"Sudbury, ON",139.24
+2021-08-02,"Sudbury, ON",138.56
+2021-08-03,"Sudbury, ON",137.75
+2021-08-04,"Sudbury, ON",137.73
 2021-08-05,"Sudbury, ON",137.87
 2021-08-06,"Sudbury, ON",138.49
 2021-08-07,"Sudbury, ON",138.78
 2021-08-08,"Sudbury, ON",138.97
 2021-08-09,"Sudbury, ON",139.29
-2021-08-10,"Sudbury, ON",140.2
-2021-08-11,"Sudbury, ON",140.8
-2021-08-12,"Sudbury, ON",141.53
-2021-08-13,"Sudbury, ON",141.96
-2021-08-14,"Sudbury, ON",142.6
-2021-08-15,"Sudbury, ON",143.39
-2021-08-16,"Sudbury, ON",144.06
+2021-08-10,"Sudbury, ON",140.17
+2021-08-11,"Sudbury, ON",140.77
+2021-08-12,"Sudbury, ON",141.51
+2021-08-13,"Sudbury, ON",141.94
+2021-08-14,"Sudbury, ON",142.58
+2021-08-15,"Sudbury, ON",143.36
+2021-08-16,"Sudbury, ON",144.03
 2021-08-17,"Sudbury, ON",144.52
 2021-08-18,"Sudbury, ON",144.69
 2021-08-19,"Sudbury, ON",144.75
@@ -62159,6 +62488,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Sudbury, ON",143.72
 2023-08-17,"Sudbury, ON",143.77
 2023-08-18,"Sudbury, ON",143.99
+2023-08-19,"Sudbury, ON",144.5
+2023-08-20,"Sudbury, ON",144.93
+2023-08-21,"Sudbury, ON",145.36
+2023-08-22,"Sudbury, ON",145.89
+2023-08-23,"Sudbury, ON",146.43
+2023-08-24,"Sudbury, ON",146.91
+2023-08-25,"Sudbury, ON",146.95
 2020-02-01,"Thunder Bay, ON",100
 2020-02-02,"Thunder Bay, ON",98.75
 2020-02-03,"Thunder Bay, ON",97.39
@@ -62589,13 +62925,13 @@ date,Metro,indeed_job_postings_index
 2021-04-03,"Thunder Bay, ON",101.92
 2021-04-04,"Thunder Bay, ON",101.67
 2021-04-05,"Thunder Bay, ON",101.38
-2021-04-06,"Thunder Bay, ON",100.81
-2021-04-07,"Thunder Bay, ON",100.57
-2021-04-08,"Thunder Bay, ON",100.22
-2021-04-09,"Thunder Bay, ON",99.72
-2021-04-10,"Thunder Bay, ON",99.51
-2021-04-11,"Thunder Bay, ON",99.74
-2021-04-12,"Thunder Bay, ON",99.97
+2021-04-06,"Thunder Bay, ON",100.78
+2021-04-07,"Thunder Bay, ON",100.54
+2021-04-08,"Thunder Bay, ON",100.19
+2021-04-09,"Thunder Bay, ON",99.69
+2021-04-10,"Thunder Bay, ON",99.47
+2021-04-11,"Thunder Bay, ON",99.71
+2021-04-12,"Thunder Bay, ON",99.94
 2021-04-13,"Thunder Bay, ON",100.37
 2021-04-14,"Thunder Bay, ON",100.68
 2021-04-15,"Thunder Bay, ON",101.49
@@ -63454,6 +63790,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Thunder Bay, ON",135.32
 2023-08-17,"Thunder Bay, ON",135.23
 2023-08-18,"Thunder Bay, ON",135.42
+2023-08-19,"Thunder Bay, ON",135.97
+2023-08-20,"Thunder Bay, ON",136.32
+2023-08-21,"Thunder Bay, ON",136.47
+2023-08-22,"Thunder Bay, ON",136.66
+2023-08-23,"Thunder Bay, ON",137.1
+2023-08-24,"Thunder Bay, ON",137.33
+2023-08-25,"Thunder Bay, ON",137.66
 2020-02-01,"Timmins, ON",100
 2020-02-02,"Timmins, ON",101.23
 2020-02-03,"Timmins, ON",102.65
@@ -64749,6 +65092,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Timmins, ON",137.06
 2023-08-17,"Timmins, ON",136.35
 2023-08-18,"Timmins, ON",135.35
+2023-08-19,"Timmins, ON",134.48
+2023-08-20,"Timmins, ON",133.3
+2023-08-21,"Timmins, ON",132.47
+2023-08-22,"Timmins, ON",132.89
+2023-08-23,"Timmins, ON",133.63
+2023-08-24,"Timmins, ON",134.37
+2023-08-25,"Timmins, ON",135.2
 2020-02-01,"Toronto, ON",100
 2020-02-02,"Toronto, ON",99.88
 2020-02-03,"Toronto, ON",99.82
@@ -65187,32 +65537,32 @@ date,Metro,indeed_job_postings_index
 2021-04-11,"Toronto, ON",106.18
 2021-04-12,"Toronto, ON",106.03
 2021-04-13,"Toronto, ON",105.92
-2021-04-14,"Toronto, ON",106.12
-2021-04-15,"Toronto, ON",106.34
+2021-04-14,"Toronto, ON",106.11
+2021-04-15,"Toronto, ON",106.33
 2021-04-16,"Toronto, ON",106.5
 2021-04-17,"Toronto, ON",106.96
 2021-04-18,"Toronto, ON",107.27
-2021-04-19,"Toronto, ON",107.57
+2021-04-19,"Toronto, ON",107.56
 2021-04-20,"Toronto, ON",107.76
 2021-04-21,"Toronto, ON",107.75
-2021-04-22,"Toronto, ON",107.75
+2021-04-22,"Toronto, ON",107.74
 2021-04-23,"Toronto, ON",107.67
 2021-04-24,"Toronto, ON",107.54
 2021-04-25,"Toronto, ON",107.25
 2021-04-26,"Toronto, ON",106.86
 2021-04-27,"Toronto, ON",106.5
 2021-04-28,"Toronto, ON",106.19
-2021-04-29,"Toronto, ON",105.79
-2021-04-30,"Toronto, ON",105.39
-2021-05-01,"Toronto, ON",104.8
+2021-04-29,"Toronto, ON",105.78
+2021-04-30,"Toronto, ON",105.38
+2021-05-01,"Toronto, ON",104.79
 2021-05-02,"Toronto, ON",104.28
-2021-05-03,"Toronto, ON",103.94
-2021-05-04,"Toronto, ON",103.77
+2021-05-03,"Toronto, ON",103.93
+2021-05-04,"Toronto, ON",103.76
 2021-05-05,"Toronto, ON",103.67
 2021-05-06,"Toronto, ON",103.68
 2021-05-07,"Toronto, ON",103.74
 2021-05-08,"Toronto, ON",103.94
-2021-05-09,"Toronto, ON",104.33
+2021-05-09,"Toronto, ON",104.32
 2021-05-10,"Toronto, ON",104.62
 2021-05-11,"Toronto, ON",104.78
 2021-05-12,"Toronto, ON",105
@@ -65221,12 +65571,12 @@ date,Metro,indeed_job_postings_index
 2021-05-15,"Toronto, ON",105.88
 2021-05-16,"Toronto, ON",106.03
 2021-05-17,"Toronto, ON",106.19
-2021-05-18,"Toronto, ON",106.34
+2021-05-18,"Toronto, ON",106.33
 2021-05-19,"Toronto, ON",106.51
 2021-05-20,"Toronto, ON",106.92
 2021-05-21,"Toronto, ON",107.4
 2021-05-22,"Toronto, ON",107.57
-2021-05-23,"Toronto, ON",108.12
+2021-05-23,"Toronto, ON",108.11
 2021-05-24,"Toronto, ON",108.64
 2021-05-25,"Toronto, ON",108.94
 2021-05-26,"Toronto, ON",109.14
@@ -65236,99 +65586,99 @@ date,Metro,indeed_job_postings_index
 2021-05-30,"Toronto, ON",109.61
 2021-05-31,"Toronto, ON",109.7
 2021-06-01,"Toronto, ON",110.01
-2021-06-02,"Toronto, ON",110.38
-2021-06-03,"Toronto, ON",110.83
-2021-06-04,"Toronto, ON",111.31
-2021-06-05,"Toronto, ON",111.84
-2021-06-06,"Toronto, ON",112.22
-2021-06-07,"Toronto, ON",112.66
-2021-06-08,"Toronto, ON",113.12
-2021-06-09,"Toronto, ON",113.67
-2021-06-10,"Toronto, ON",114.29
+2021-06-02,"Toronto, ON",110.37
+2021-06-03,"Toronto, ON",110.81
+2021-06-04,"Toronto, ON",111.29
+2021-06-05,"Toronto, ON",111.81
+2021-06-06,"Toronto, ON",112.19
+2021-06-07,"Toronto, ON",112.64
+2021-06-08,"Toronto, ON",113.1
+2021-06-09,"Toronto, ON",113.65
+2021-06-10,"Toronto, ON",114.28
 2021-06-11,"Toronto, ON",114.81
 2021-06-12,"Toronto, ON",115.08
 2021-06-13,"Toronto, ON",115.65
 2021-06-14,"Toronto, ON",116.27
 2021-06-15,"Toronto, ON",117.01
 2021-06-16,"Toronto, ON",117.61
-2021-06-17,"Toronto, ON",118.08
-2021-06-18,"Toronto, ON",118.56
+2021-06-17,"Toronto, ON",118.07
+2021-06-18,"Toronto, ON",118.55
 2021-06-19,"Toronto, ON",119.03
 2021-06-20,"Toronto, ON",119.25
-2021-06-21,"Toronto, ON",119.38
+2021-06-21,"Toronto, ON",119.37
 2021-06-22,"Toronto, ON",119.31
 2021-06-23,"Toronto, ON",119.54
 2021-06-24,"Toronto, ON",119.7
-2021-06-25,"Toronto, ON",119.86
-2021-06-26,"Toronto, ON",120.52
-2021-06-27,"Toronto, ON",121.06
-2021-06-28,"Toronto, ON",121.89
-2021-06-29,"Toronto, ON",122.8
-2021-06-30,"Toronto, ON",123.3
-2021-07-01,"Toronto, ON",123.81
-2021-07-02,"Toronto, ON",124.16
-2021-07-03,"Toronto, ON",124.17
-2021-07-04,"Toronto, ON",124.18
-2021-07-05,"Toronto, ON",124.04
-2021-07-06,"Toronto, ON",123.96
-2021-07-07,"Toronto, ON",123.98
-2021-07-08,"Toronto, ON",124.21
-2021-07-09,"Toronto, ON",124.65
-2021-07-10,"Toronto, ON",125
+2021-06-25,"Toronto, ON",119.85
+2021-06-26,"Toronto, ON",120.51
+2021-06-27,"Toronto, ON",121.05
+2021-06-28,"Toronto, ON",121.88
+2021-06-29,"Toronto, ON",122.79
+2021-06-30,"Toronto, ON",123.29
+2021-07-01,"Toronto, ON",123.8
+2021-07-02,"Toronto, ON",124.15
+2021-07-03,"Toronto, ON",124.16
+2021-07-04,"Toronto, ON",124.17
+2021-07-05,"Toronto, ON",124.03
+2021-07-06,"Toronto, ON",123.94
+2021-07-07,"Toronto, ON",123.96
+2021-07-08,"Toronto, ON",124.19
+2021-07-09,"Toronto, ON",124.63
+2021-07-10,"Toronto, ON",124.99
 2021-07-11,"Toronto, ON",125.48
-2021-07-12,"Toronto, ON",125.98
+2021-07-12,"Toronto, ON",125.97
 2021-07-13,"Toronto, ON",126.47
 2021-07-14,"Toronto, ON",127.03
 2021-07-15,"Toronto, ON",127.51
 2021-07-16,"Toronto, ON",128.01
 2021-07-17,"Toronto, ON",128.41
 2021-07-18,"Toronto, ON",129.03
-2021-07-19,"Toronto, ON",129.65
-2021-07-20,"Toronto, ON",130.27
-2021-07-21,"Toronto, ON",130.82
-2021-07-22,"Toronto, ON",131.38
+2021-07-19,"Toronto, ON",129.64
+2021-07-20,"Toronto, ON",130.26
+2021-07-21,"Toronto, ON",130.81
+2021-07-22,"Toronto, ON",131.37
 2021-07-23,"Toronto, ON",131.89
 2021-07-24,"Toronto, ON",132.64
 2021-07-25,"Toronto, ON",133.31
-2021-07-26,"Toronto, ON",133.86
-2021-07-27,"Toronto, ON",134.47
-2021-07-28,"Toronto, ON",135.11
-2021-07-29,"Toronto, ON",135.69
-2021-07-30,"Toronto, ON",136.07
-2021-07-31,"Toronto, ON",136.42
-2021-08-01,"Toronto, ON",136.31
-2021-08-02,"Toronto, ON",136.18
-2021-08-03,"Toronto, ON",135.78
-2021-08-04,"Toronto, ON",135.37
-2021-08-05,"Toronto, ON",135.13
-2021-08-06,"Toronto, ON",135.24
-2021-08-07,"Toronto, ON",135.2
-2021-08-08,"Toronto, ON",135.5
-2021-08-09,"Toronto, ON",135.88
-2021-08-10,"Toronto, ON",136.34
-2021-08-11,"Toronto, ON",136.81
-2021-08-12,"Toronto, ON",137.19
-2021-08-13,"Toronto, ON",137.56
-2021-08-14,"Toronto, ON",137.98
-2021-08-15,"Toronto, ON",138.24
+2021-07-26,"Toronto, ON",133.85
+2021-07-27,"Toronto, ON",134.46
+2021-07-28,"Toronto, ON",135.1
+2021-07-29,"Toronto, ON",135.67
+2021-07-30,"Toronto, ON",136.05
+2021-07-31,"Toronto, ON",136.39
+2021-08-01,"Toronto, ON",136.27
+2021-08-02,"Toronto, ON",136.12
+2021-08-03,"Toronto, ON",135.73
+2021-08-04,"Toronto, ON",135.32
+2021-08-05,"Toronto, ON",135.09
+2021-08-06,"Toronto, ON",135.21
+2021-08-07,"Toronto, ON",135.18
+2021-08-08,"Toronto, ON",135.49
+2021-08-09,"Toronto, ON",135.87
+2021-08-10,"Toronto, ON",136.33
+2021-08-11,"Toronto, ON",136.8
+2021-08-12,"Toronto, ON",137.18
+2021-08-13,"Toronto, ON",137.55
+2021-08-14,"Toronto, ON",137.96
+2021-08-15,"Toronto, ON",138.23
 2021-08-16,"Toronto, ON",138.46
-2021-08-17,"Toronto, ON",138.75
+2021-08-17,"Toronto, ON",138.74
 2021-08-18,"Toronto, ON",139.07
 2021-08-19,"Toronto, ON",139.29
 2021-08-20,"Toronto, ON",139.35
 2021-08-21,"Toronto, ON",139.44
-2021-08-22,"Toronto, ON",139.64
-2021-08-23,"Toronto, ON",139.83
+2021-08-22,"Toronto, ON",139.63
+2021-08-23,"Toronto, ON",139.82
 2021-08-24,"Toronto, ON",140.05
-2021-08-25,"Toronto, ON",140.15
+2021-08-25,"Toronto, ON",140.14
 2021-08-26,"Toronto, ON",140.3
 2021-08-27,"Toronto, ON",140.54
-2021-08-28,"Toronto, ON",140.89
+2021-08-28,"Toronto, ON",140.88
 2021-08-29,"Toronto, ON",141.22
 2021-08-30,"Toronto, ON",141.51
-2021-08-31,"Toronto, ON",141.79
+2021-08-31,"Toronto, ON",141.78
 2021-09-01,"Toronto, ON",141.99
-2021-09-02,"Toronto, ON",142.22
+2021-09-02,"Toronto, ON",142.21
 2021-09-03,"Toronto, ON",142.29
 2021-09-04,"Toronto, ON",142.24
 2021-09-05,"Toronto, ON",142.34
@@ -65339,7 +65689,7 @@ date,Metro,indeed_job_postings_index
 2021-09-10,"Toronto, ON",141.99
 2021-09-11,"Toronto, ON",141.96
 2021-09-12,"Toronto, ON",141.57
-2021-09-13,"Toronto, ON",141.23
+2021-09-13,"Toronto, ON",141.22
 2021-09-14,"Toronto, ON",141.12
 2021-09-15,"Toronto, ON",141.1
 2021-09-16,"Toronto, ON",141.08
@@ -66044,6 +66394,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Toronto, ON",102.43
 2023-08-17,"Toronto, ON",102.47
 2023-08-18,"Toronto, ON",102.5
+2023-08-19,"Toronto, ON",102.58
+2023-08-20,"Toronto, ON",102.61
+2023-08-21,"Toronto, ON",102.63
+2023-08-22,"Toronto, ON",102.54
+2023-08-23,"Toronto, ON",102.51
+2023-08-24,"Toronto, ON",102.56
+2023-08-25,"Toronto, ON",102.68
 2020-02-01,"Trois-Rivières, QC",100
 2020-02-02,"Trois-Rivières, QC",100.14
 2020-02-03,"Trois-Rivières, QC",100.53
@@ -66568,13 +66925,13 @@ date,Metro,indeed_job_postings_index
 2021-07-06,"Trois-Rivières, QC",140.77
 2021-07-07,"Trois-Rivières, QC",140.91
 2021-07-08,"Trois-Rivières, QC",142.21
-2021-07-09,"Trois-Rivières, QC",144.26
-2021-07-10,"Trois-Rivières, QC",145.95
-2021-07-11,"Trois-Rivières, QC",148.09
-2021-07-12,"Trois-Rivières, QC",149.85
-2021-07-13,"Trois-Rivières, QC",150.86
-2021-07-14,"Trois-Rivières, QC",152.34
-2021-07-15,"Trois-Rivières, QC",152.55
+2021-07-09,"Trois-Rivières, QC",144.17
+2021-07-10,"Trois-Rivières, QC",145.86
+2021-07-11,"Trois-Rivières, QC",148.01
+2021-07-12,"Trois-Rivières, QC",149.77
+2021-07-13,"Trois-Rivières, QC",150.77
+2021-07-14,"Trois-Rivières, QC",152.26
+2021-07-15,"Trois-Rivières, QC",152.46
 2021-07-16,"Trois-Rivières, QC",152.18
 2021-07-17,"Trois-Rivières, QC",152.26
 2021-07-18,"Trois-Rivières, QC",153.14
@@ -67339,6 +67696,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Trois-Rivières, QC",154.99
 2023-08-17,"Trois-Rivières, QC",155.85
 2023-08-18,"Trois-Rivières, QC",156.58
+2023-08-19,"Trois-Rivières, QC",158.18
+2023-08-20,"Trois-Rivières, QC",159.38
+2023-08-21,"Trois-Rivières, QC",160.4
+2023-08-22,"Trois-Rivières, QC",161.27
+2023-08-23,"Trois-Rivières, QC",162.06
+2023-08-24,"Trois-Rivières, QC",162.54
+2023-08-25,"Trois-Rivières, QC",163.07
 2020-02-01,"Vancouver, BC",100
 2020-02-02,"Vancouver, BC",100.01
 2020-02-03,"Vancouver, BC",100.06
@@ -67777,10 +68141,10 @@ date,Metro,indeed_job_postings_index
 2021-04-11,"Vancouver, BC",100.45
 2021-04-12,"Vancouver, BC",100.4
 2021-04-13,"Vancouver, BC",100.45
-2021-04-14,"Vancouver, BC",100.68
-2021-04-15,"Vancouver, BC",100.9
+2021-04-14,"Vancouver, BC",100.67
+2021-04-15,"Vancouver, BC",100.89
 2021-04-16,"Vancouver, BC",101.03
-2021-04-17,"Vancouver, BC",101.4
+2021-04-17,"Vancouver, BC",101.39
 2021-04-18,"Vancouver, BC",101.69
 2021-04-19,"Vancouver, BC",101.99
 2021-04-20,"Vancouver, BC",102.18
@@ -67792,50 +68156,50 @@ date,Metro,indeed_job_postings_index
 2021-04-26,"Vancouver, BC",102.74
 2021-04-27,"Vancouver, BC",102.76
 2021-04-28,"Vancouver, BC",102.85
-2021-04-29,"Vancouver, BC",102.86
+2021-04-29,"Vancouver, BC",102.85
 2021-04-30,"Vancouver, BC",102.74
-2021-05-01,"Vancouver, BC",102.54
-2021-05-02,"Vancouver, BC",102.42
-2021-05-03,"Vancouver, BC",102.38
-2021-05-04,"Vancouver, BC",102.47
+2021-05-01,"Vancouver, BC",102.53
+2021-05-02,"Vancouver, BC",102.41
+2021-05-03,"Vancouver, BC",102.37
+2021-05-04,"Vancouver, BC",102.46
 2021-05-05,"Vancouver, BC",102.49
-2021-05-06,"Vancouver, BC",102.63
+2021-05-06,"Vancouver, BC",102.62
 2021-05-07,"Vancouver, BC",102.87
-2021-05-08,"Vancouver, BC",103.13
+2021-05-08,"Vancouver, BC",103.12
 2021-05-09,"Vancouver, BC",103.55
 2021-05-10,"Vancouver, BC",103.88
 2021-05-11,"Vancouver, BC",104.12
-2021-05-12,"Vancouver, BC",104.43
-2021-05-13,"Vancouver, BC",104.63
-2021-05-14,"Vancouver, BC",104.83
-2021-05-15,"Vancouver, BC",105.14
-2021-05-16,"Vancouver, BC",105.23
-2021-05-17,"Vancouver, BC",105.33
-2021-05-18,"Vancouver, BC",105.35
-2021-05-19,"Vancouver, BC",105.28
+2021-05-12,"Vancouver, BC",104.42
+2021-05-13,"Vancouver, BC",104.61
+2021-05-14,"Vancouver, BC",104.82
+2021-05-15,"Vancouver, BC",105.12
+2021-05-16,"Vancouver, BC",105.21
+2021-05-17,"Vancouver, BC",105.31
+2021-05-18,"Vancouver, BC",105.33
+2021-05-19,"Vancouver, BC",105.27
 2021-05-20,"Vancouver, BC",105.48
 2021-05-21,"Vancouver, BC",105.76
-2021-05-22,"Vancouver, BC",105.81
+2021-05-22,"Vancouver, BC",105.8
 2021-05-23,"Vancouver, BC",106.19
-2021-05-24,"Vancouver, BC",106.6
+2021-05-24,"Vancouver, BC",106.59
 2021-05-25,"Vancouver, BC",106.88
-2021-05-26,"Vancouver, BC",107.16
+2021-05-26,"Vancouver, BC",107.15
 2021-05-27,"Vancouver, BC",107.2
-2021-05-28,"Vancouver, BC",107.21
-2021-05-29,"Vancouver, BC",107.52
+2021-05-28,"Vancouver, BC",107.2
+2021-05-29,"Vancouver, BC",107.51
 2021-05-30,"Vancouver, BC",107.65
-2021-05-31,"Vancouver, BC",107.73
+2021-05-31,"Vancouver, BC",107.72
 2021-06-01,"Vancouver, BC",107.92
-2021-06-02,"Vancouver, BC",108.19
-2021-06-03,"Vancouver, BC",108.5
+2021-06-02,"Vancouver, BC",108.18
+2021-06-03,"Vancouver, BC",108.49
 2021-06-04,"Vancouver, BC",108.85
-2021-06-05,"Vancouver, BC",109.25
+2021-06-05,"Vancouver, BC",109.24
 2021-06-06,"Vancouver, BC",109.54
-2021-06-07,"Vancouver, BC",109.78
-2021-06-08,"Vancouver, BC",110.09
-2021-06-09,"Vancouver, BC",110.49
+2021-06-07,"Vancouver, BC",109.77
+2021-06-08,"Vancouver, BC",110.08
+2021-06-09,"Vancouver, BC",110.48
 2021-06-10,"Vancouver, BC",110.88
-2021-06-11,"Vancouver, BC",111.23
+2021-06-11,"Vancouver, BC",111.22
 2021-06-12,"Vancouver, BC",111.36
 2021-06-13,"Vancouver, BC",111.62
 2021-06-14,"Vancouver, BC",112.01
@@ -67851,22 +68215,22 @@ date,Metro,indeed_job_postings_index
 2021-06-24,"Vancouver, BC",112.85
 2021-06-25,"Vancouver, BC",112.95
 2021-06-26,"Vancouver, BC",113.32
-2021-06-27,"Vancouver, BC",113.72
+2021-06-27,"Vancouver, BC",113.71
 2021-06-28,"Vancouver, BC",114.33
-2021-06-29,"Vancouver, BC",115.37
+2021-06-29,"Vancouver, BC",115.36
 2021-06-30,"Vancouver, BC",115.81
-2021-07-01,"Vancouver, BC",116.26
+2021-07-01,"Vancouver, BC",116.25
 2021-07-02,"Vancouver, BC",116.61
 2021-07-03,"Vancouver, BC",116.85
-2021-07-04,"Vancouver, BC",117.03
-2021-07-05,"Vancouver, BC",117.05
-2021-07-06,"Vancouver, BC",117.09
-2021-07-07,"Vancouver, BC",117.19
-2021-07-08,"Vancouver, BC",117.45
-2021-07-09,"Vancouver, BC",117.84
+2021-07-04,"Vancouver, BC",117.02
+2021-07-05,"Vancouver, BC",117.04
+2021-07-06,"Vancouver, BC",117.08
+2021-07-07,"Vancouver, BC",117.18
+2021-07-08,"Vancouver, BC",117.44
+2021-07-09,"Vancouver, BC",117.83
 2021-07-10,"Vancouver, BC",118.05
-2021-07-11,"Vancouver, BC",118.3
-2021-07-12,"Vancouver, BC",118.49
+2021-07-11,"Vancouver, BC",118.29
+2021-07-12,"Vancouver, BC",118.48
 2021-07-13,"Vancouver, BC",118.67
 2021-07-14,"Vancouver, BC",118.86
 2021-07-15,"Vancouver, BC",118.95
@@ -67875,24 +68239,24 @@ date,Metro,indeed_job_postings_index
 2021-07-18,"Vancouver, BC",119.13
 2021-07-19,"Vancouver, BC",119.39
 2021-07-20,"Vancouver, BC",119.64
-2021-07-21,"Vancouver, BC",119.86
+2021-07-21,"Vancouver, BC",119.85
 2021-07-22,"Vancouver, BC",120.03
 2021-07-23,"Vancouver, BC",120.23
 2021-07-24,"Vancouver, BC",120.7
-2021-07-25,"Vancouver, BC",120.88
+2021-07-25,"Vancouver, BC",120.87
 2021-07-26,"Vancouver, BC",120.99
 2021-07-27,"Vancouver, BC",121.11
 2021-07-28,"Vancouver, BC",121.15
-2021-07-29,"Vancouver, BC",121.25
-2021-07-30,"Vancouver, BC",121.29
-2021-07-31,"Vancouver, BC",121.25
-2021-08-01,"Vancouver, BC",121.07
-2021-08-02,"Vancouver, BC",120.86
-2021-08-03,"Vancouver, BC",120.46
-2021-08-04,"Vancouver, BC",120.23
-2021-08-05,"Vancouver, BC",120.14
-2021-08-06,"Vancouver, BC",120.23
-2021-08-07,"Vancouver, BC",120.26
+2021-07-29,"Vancouver, BC",121.24
+2021-07-30,"Vancouver, BC",121.28
+2021-07-31,"Vancouver, BC",121.24
+2021-08-01,"Vancouver, BC",121.06
+2021-08-02,"Vancouver, BC",120.84
+2021-08-03,"Vancouver, BC",120.44
+2021-08-04,"Vancouver, BC",120.21
+2021-08-05,"Vancouver, BC",120.13
+2021-08-06,"Vancouver, BC",120.22
+2021-08-07,"Vancouver, BC",120.25
 2021-08-08,"Vancouver, BC",120.41
 2021-08-09,"Vancouver, BC",120.7
 2021-08-10,"Vancouver, BC",121.13
@@ -67907,8 +68271,8 @@ date,Metro,indeed_job_postings_index
 2021-08-19,"Vancouver, BC",122.85
 2021-08-20,"Vancouver, BC",123.03
 2021-08-21,"Vancouver, BC",123.26
-2021-08-22,"Vancouver, BC",123.54
-2021-08-23,"Vancouver, BC",123.78
+2021-08-22,"Vancouver, BC",123.53
+2021-08-23,"Vancouver, BC",123.77
 2021-08-24,"Vancouver, BC",124.05
 2021-08-25,"Vancouver, BC",124.16
 2021-08-26,"Vancouver, BC",124.3
@@ -68634,6 +68998,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Vancouver, BC",95.09
 2023-08-17,"Vancouver, BC",95.12
 2023-08-18,"Vancouver, BC",95.1
+2023-08-19,"Vancouver, BC",95.14
+2023-08-20,"Vancouver, BC",95.17
+2023-08-21,"Vancouver, BC",95.08
+2023-08-22,"Vancouver, BC",95.13
+2023-08-23,"Vancouver, BC",95.17
+2023-08-24,"Vancouver, BC",95.2
+2023-08-25,"Vancouver, BC",95.23
 2020-02-01,"Victoria, BC",100
 2020-02-02,"Victoria, BC",100.37
 2020-02-03,"Victoria, BC",100.76
@@ -69122,13 +69493,13 @@ date,Metro,indeed_job_postings_index
 2021-05-31,"Victoria, BC",121.42
 2021-06-01,"Victoria, BC",122.24
 2021-06-02,"Victoria, BC",123.18
-2021-06-03,"Victoria, BC",124.24
-2021-06-04,"Victoria, BC",125.24
-2021-06-05,"Victoria, BC",126.32
-2021-06-06,"Victoria, BC",127.23
-2021-06-07,"Victoria, BC",127.98
-2021-06-08,"Victoria, BC",128.55
-2021-06-09,"Victoria, BC",128.78
+2021-06-03,"Victoria, BC",124.22
+2021-06-04,"Victoria, BC",125.21
+2021-06-05,"Victoria, BC",126.3
+2021-06-06,"Victoria, BC",127.21
+2021-06-07,"Victoria, BC",127.96
+2021-06-08,"Victoria, BC",128.53
+2021-06-09,"Victoria, BC",128.76
 2021-06-10,"Victoria, BC",128.54
 2021-06-11,"Victoria, BC",128.2
 2021-06-12,"Victoria, BC",127.59
@@ -69172,13 +69543,13 @@ date,Metro,indeed_job_postings_index
 2021-07-20,"Victoria, BC",140.39
 2021-07-21,"Victoria, BC",140.79
 2021-07-22,"Victoria, BC",141.09
-2021-07-23,"Victoria, BC",141.5
-2021-07-24,"Victoria, BC",141.7
-2021-07-25,"Victoria, BC",142.04
-2021-07-26,"Victoria, BC",142.38
-2021-07-27,"Victoria, BC",142.77
-2021-07-28,"Victoria, BC",143.32
-2021-07-29,"Victoria, BC",144.02
+2021-07-23,"Victoria, BC",141.48
+2021-07-24,"Victoria, BC",141.69
+2021-07-25,"Victoria, BC",142.03
+2021-07-26,"Victoria, BC",142.37
+2021-07-27,"Victoria, BC",142.76
+2021-07-28,"Victoria, BC",143.31
+2021-07-29,"Victoria, BC",144.01
 2021-07-30,"Victoria, BC",144.47
 2021-07-31,"Victoria, BC",144.98
 2021-08-01,"Victoria, BC",144.95
@@ -69203,20 +69574,20 @@ date,Metro,indeed_job_postings_index
 2021-08-20,"Victoria, BC",142.97
 2021-08-21,"Victoria, BC",143.16
 2021-08-22,"Victoria, BC",143.36
-2021-08-23,"Victoria, BC",143.56
-2021-08-24,"Victoria, BC",143.86
-2021-08-25,"Victoria, BC",144.02
-2021-08-26,"Victoria, BC",143.76
+2021-08-23,"Victoria, BC",143.55
+2021-08-24,"Victoria, BC",143.85
+2021-08-25,"Victoria, BC",144.01
+2021-08-26,"Victoria, BC",143.75
 2021-08-27,"Victoria, BC",143.42
-2021-08-28,"Victoria, BC",143.32
-2021-08-29,"Victoria, BC",143.32
+2021-08-28,"Victoria, BC",143.31
+2021-08-29,"Victoria, BC",143.31
 2021-08-30,"Victoria, BC",143.24
 2021-08-31,"Victoria, BC",142.98
-2021-09-01,"Victoria, BC",142.86
+2021-09-01,"Victoria, BC",142.85
 2021-09-02,"Victoria, BC",142.96
 2021-09-03,"Victoria, BC",142.94
-2021-09-04,"Victoria, BC",142.7
-2021-09-05,"Victoria, BC",142.41
+2021-09-04,"Victoria, BC",142.69
+2021-09-05,"Victoria, BC",142.4
 2021-09-06,"Victoria, BC",142.38
 2021-09-07,"Victoria, BC",142.35
 2021-09-08,"Victoria, BC",142.16
@@ -69929,6 +70300,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Victoria, BC",121.94
 2023-08-17,"Victoria, BC",121.77
 2023-08-18,"Victoria, BC",121.78
+2023-08-19,"Victoria, BC",121.94
+2023-08-20,"Victoria, BC",122.08
+2023-08-21,"Victoria, BC",122.02
+2023-08-22,"Victoria, BC",122.23
+2023-08-23,"Victoria, BC",122.47
+2023-08-24,"Victoria, BC",122.63
+2023-08-25,"Victoria, BC",122.58
 2020-02-01,"Windsor, ON",100
 2020-02-02,"Windsor, ON",100.06
 2020-02-03,"Windsor, ON",100.17
@@ -70446,17 +70824,17 @@ date,Metro,indeed_job_postings_index
 2021-06-29,"Windsor, ON",130.08
 2021-06-30,"Windsor, ON",130.82
 2021-07-01,"Windsor, ON",131.55
-2021-07-02,"Windsor, ON",132.22
-2021-07-03,"Windsor, ON",132.57
-2021-07-04,"Windsor, ON",132.83
-2021-07-05,"Windsor, ON",132.68
-2021-07-06,"Windsor, ON",132.73
-2021-07-07,"Windsor, ON",132.91
-2021-07-08,"Windsor, ON",133.28
-2021-07-09,"Windsor, ON",133.81
-2021-07-10,"Windsor, ON",134.4
-2021-07-11,"Windsor, ON",134.88
-2021-07-12,"Windsor, ON",135.89
+2021-07-02,"Windsor, ON",132.2
+2021-07-03,"Windsor, ON",132.54
+2021-07-04,"Windsor, ON",132.8
+2021-07-05,"Windsor, ON",132.65
+2021-07-06,"Windsor, ON",132.65
+2021-07-07,"Windsor, ON",132.82
+2021-07-08,"Windsor, ON",133.2
+2021-07-09,"Windsor, ON",133.74
+2021-07-10,"Windsor, ON",134.35
+2021-07-11,"Windsor, ON",134.83
+2021-07-12,"Windsor, ON",135.83
 2021-07-13,"Windsor, ON",136.64
 2021-07-14,"Windsor, ON",137.52
 2021-07-15,"Windsor, ON",138.45
@@ -70472,18 +70850,18 @@ date,Metro,indeed_job_postings_index
 2021-07-25,"Windsor, ON",147.29
 2021-07-26,"Windsor, ON",148.15
 2021-07-27,"Windsor, ON",149.23
-2021-07-28,"Windsor, ON",150.17
-2021-07-29,"Windsor, ON",150.69
-2021-07-30,"Windsor, ON",150.78
-2021-07-31,"Windsor, ON",150.91
-2021-08-01,"Windsor, ON",150.77
-2021-08-02,"Windsor, ON",150.82
-2021-08-03,"Windsor, ON",150.02
-2021-08-04,"Windsor, ON",149.36
-2021-08-05,"Windsor, ON",148.97
-2021-08-06,"Windsor, ON",149
-2021-08-07,"Windsor, ON",148.95
-2021-08-08,"Windsor, ON",148.67
+2021-07-28,"Windsor, ON",150.16
+2021-07-29,"Windsor, ON",150.66
+2021-07-30,"Windsor, ON",150.73
+2021-07-31,"Windsor, ON",150.84
+2021-08-01,"Windsor, ON",150.68
+2021-08-02,"Windsor, ON",150.72
+2021-08-03,"Windsor, ON",149.92
+2021-08-04,"Windsor, ON",149.28
+2021-08-05,"Windsor, ON",148.9
+2021-08-06,"Windsor, ON",148.95
+2021-08-07,"Windsor, ON",148.92
+2021-08-08,"Windsor, ON",148.66
 2021-08-09,"Windsor, ON",148.29
 2021-08-10,"Windsor, ON",148.68
 2021-08-11,"Windsor, ON",149.16
@@ -71224,6 +71602,13 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Windsor, ON",139.84
 2023-08-17,"Windsor, ON",140.49
 2023-08-18,"Windsor, ON",140.43
+2023-08-19,"Windsor, ON",140.46
+2023-08-20,"Windsor, ON",140.65
+2023-08-21,"Windsor, ON",140.73
+2023-08-22,"Windsor, ON",140.28
+2023-08-23,"Windsor, ON",140.37
+2023-08-24,"Windsor, ON",140.69
+2023-08-25,"Windsor, ON",141.33
 2020-02-01,"Winnipeg, MB",100
 2020-02-02,"Winnipeg, MB",99.91
 2020-02-03,"Winnipeg, MB",99.9
@@ -71664,25 +72049,25 @@ date,Metro,indeed_job_postings_index
 2021-04-13,"Winnipeg, MB",103.95
 2021-04-14,"Winnipeg, MB",104.5
 2021-04-15,"Winnipeg, MB",105.16
-2021-04-16,"Winnipeg, MB",105.65
-2021-04-17,"Winnipeg, MB",106.43
-2021-04-18,"Winnipeg, MB",107
-2021-04-19,"Winnipeg, MB",107.57
-2021-04-20,"Winnipeg, MB",108.16
+2021-04-16,"Winnipeg, MB",105.64
+2021-04-17,"Winnipeg, MB",106.42
+2021-04-18,"Winnipeg, MB",106.99
+2021-04-19,"Winnipeg, MB",107.56
+2021-04-20,"Winnipeg, MB",108.15
 2021-04-21,"Winnipeg, MB",108.19
-2021-04-22,"Winnipeg, MB",108.3
+2021-04-22,"Winnipeg, MB",108.29
 2021-04-23,"Winnipeg, MB",108.34
 2021-04-24,"Winnipeg, MB",108.57
 2021-04-25,"Winnipeg, MB",108.74
 2021-04-26,"Winnipeg, MB",108.9
 2021-04-27,"Winnipeg, MB",108.88
-2021-04-28,"Winnipeg, MB",109.18
-2021-04-29,"Winnipeg, MB",109.26
-2021-04-30,"Winnipeg, MB",109.22
-2021-05-01,"Winnipeg, MB",108.85
-2021-05-02,"Winnipeg, MB",108.38
-2021-05-03,"Winnipeg, MB",107.93
-2021-05-04,"Winnipeg, MB",107.7
+2021-04-28,"Winnipeg, MB",109.17
+2021-04-29,"Winnipeg, MB",109.25
+2021-04-30,"Winnipeg, MB",109.21
+2021-05-01,"Winnipeg, MB",108.84
+2021-05-02,"Winnipeg, MB",108.37
+2021-05-03,"Winnipeg, MB",107.92
+2021-05-04,"Winnipeg, MB",107.69
 2021-05-05,"Winnipeg, MB",107.46
 2021-05-06,"Winnipeg, MB",107.31
 2021-05-07,"Winnipeg, MB",107.36
@@ -71724,12 +72109,12 @@ date,Metro,indeed_job_postings_index
 2021-06-12,"Winnipeg, MB",110.61
 2021-06-13,"Winnipeg, MB",110.79
 2021-06-14,"Winnipeg, MB",110.92
-2021-06-15,"Winnipeg, MB",111.06
+2021-06-15,"Winnipeg, MB",111.05
 2021-06-16,"Winnipeg, MB",111.16
-2021-06-17,"Winnipeg, MB",111.3
-2021-06-18,"Winnipeg, MB",111.52
-2021-06-19,"Winnipeg, MB",111.78
-2021-06-20,"Winnipeg, MB",111.91
+2021-06-17,"Winnipeg, MB",111.29
+2021-06-18,"Winnipeg, MB",111.51
+2021-06-19,"Winnipeg, MB",111.77
+2021-06-20,"Winnipeg, MB",111.9
 2021-06-21,"Winnipeg, MB",111.95
 2021-06-22,"Winnipeg, MB",111.93
 2021-06-23,"Winnipeg, MB",112.07
@@ -71745,40 +72130,40 @@ date,Metro,indeed_job_postings_index
 2021-07-03,"Winnipeg, MB",116.25
 2021-07-04,"Winnipeg, MB",116.51
 2021-07-05,"Winnipeg, MB",116.54
-2021-07-06,"Winnipeg, MB",116.67
-2021-07-07,"Winnipeg, MB",116.83
+2021-07-06,"Winnipeg, MB",116.66
+2021-07-07,"Winnipeg, MB",116.82
 2021-07-08,"Winnipeg, MB",117.3
 2021-07-09,"Winnipeg, MB",118.18
-2021-07-10,"Winnipeg, MB",119.01
+2021-07-10,"Winnipeg, MB",119
 2021-07-11,"Winnipeg, MB",120
 2021-07-12,"Winnipeg, MB",121.05
 2021-07-13,"Winnipeg, MB",122.14
 2021-07-14,"Winnipeg, MB",123.25
 2021-07-15,"Winnipeg, MB",124.24
-2021-07-16,"Winnipeg, MB",124.91
-2021-07-17,"Winnipeg, MB",125.47
+2021-07-16,"Winnipeg, MB",124.9
+2021-07-17,"Winnipeg, MB",125.46
 2021-07-18,"Winnipeg, MB",126.09
-2021-07-19,"Winnipeg, MB",126.63
+2021-07-19,"Winnipeg, MB",126.62
 2021-07-20,"Winnipeg, MB",127.02
 2021-07-21,"Winnipeg, MB",127.72
-2021-07-22,"Winnipeg, MB",128.31
+2021-07-22,"Winnipeg, MB",128.3
 2021-07-23,"Winnipeg, MB",128.9
 2021-07-24,"Winnipeg, MB",129.29
 2021-07-25,"Winnipeg, MB",129.52
 2021-07-26,"Winnipeg, MB",129.54
 2021-07-27,"Winnipeg, MB",129.55
-2021-07-28,"Winnipeg, MB",129.21
-2021-07-29,"Winnipeg, MB",128.94
-2021-07-30,"Winnipeg, MB",128.63
-2021-07-31,"Winnipeg, MB",128.68
-2021-08-01,"Winnipeg, MB",128.65
-2021-08-02,"Winnipeg, MB",129
-2021-08-03,"Winnipeg, MB",129.12
-2021-08-04,"Winnipeg, MB",129.32
-2021-08-05,"Winnipeg, MB",129.67
-2021-08-06,"Winnipeg, MB",130.13
-2021-08-07,"Winnipeg, MB",130.39
-2021-08-08,"Winnipeg, MB",130.73
+2021-07-28,"Winnipeg, MB",129.2
+2021-07-29,"Winnipeg, MB",128.91
+2021-07-30,"Winnipeg, MB",128.59
+2021-07-31,"Winnipeg, MB",128.62
+2021-08-01,"Winnipeg, MB",128.58
+2021-08-02,"Winnipeg, MB",128.91
+2021-08-03,"Winnipeg, MB",129.03
+2021-08-04,"Winnipeg, MB",129.25
+2021-08-05,"Winnipeg, MB",129.61
+2021-08-06,"Winnipeg, MB",130.09
+2021-08-07,"Winnipeg, MB",130.36
+2021-08-08,"Winnipeg, MB",130.71
 2021-08-09,"Winnipeg, MB",130.76
 2021-08-10,"Winnipeg, MB",130.96
 2021-08-11,"Winnipeg, MB",131.46
@@ -71786,22 +72171,22 @@ date,Metro,indeed_job_postings_index
 2021-08-13,"Winnipeg, MB",132.49
 2021-08-14,"Winnipeg, MB",132.97
 2021-08-15,"Winnipeg, MB",133.38
-2021-08-16,"Winnipeg, MB",133.83
-2021-08-17,"Winnipeg, MB",134.34
+2021-08-16,"Winnipeg, MB",133.82
+2021-08-17,"Winnipeg, MB",134.33
 2021-08-18,"Winnipeg, MB",134.7
-2021-08-19,"Winnipeg, MB",135.01
-2021-08-20,"Winnipeg, MB",135.1
-2021-08-21,"Winnipeg, MB",135.64
-2021-08-22,"Winnipeg, MB",136.22
+2021-08-19,"Winnipeg, MB",135
+2021-08-20,"Winnipeg, MB",135.09
+2021-08-21,"Winnipeg, MB",135.63
+2021-08-22,"Winnipeg, MB",136.21
 2021-08-23,"Winnipeg, MB",136.82
 2021-08-24,"Winnipeg, MB",137.39
-2021-08-25,"Winnipeg, MB",137.67
-2021-08-26,"Winnipeg, MB",137.66
-2021-08-27,"Winnipeg, MB",137.54
-2021-08-28,"Winnipeg, MB",137.3
-2021-08-29,"Winnipeg, MB",136.97
-2021-08-30,"Winnipeg, MB",136.77
-2021-08-31,"Winnipeg, MB",136.63
+2021-08-25,"Winnipeg, MB",137.65
+2021-08-26,"Winnipeg, MB",137.64
+2021-08-27,"Winnipeg, MB",137.52
+2021-08-28,"Winnipeg, MB",137.28
+2021-08-29,"Winnipeg, MB",136.95
+2021-08-30,"Winnipeg, MB",136.75
+2021-08-31,"Winnipeg, MB",136.62
 2021-09-01,"Winnipeg, MB",136.66
 2021-09-02,"Winnipeg, MB",137.14
 2021-09-03,"Winnipeg, MB",137.94
@@ -72519,3 +72904,10 @@ date,Metro,indeed_job_postings_index
 2023-08-16,"Winnipeg, MB",123.38
 2023-08-17,"Winnipeg, MB",123.17
 2023-08-18,"Winnipeg, MB",122.87
+2023-08-19,"Winnipeg, MB",122.67
+2023-08-20,"Winnipeg, MB",122.54
+2023-08-21,"Winnipeg, MB",122.48
+2023-08-22,"Winnipeg, MB",122.24
+2023-08-23,"Winnipeg, MB",122.06
+2023-08-24,"Winnipeg, MB",121.9
+2023-08-25,"Winnipeg, MB",121.82

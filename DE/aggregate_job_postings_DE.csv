@@ -547,7 +547,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2021-07-30,DE,120.08,122.45,total postings
 2021-07-31,DE,120.3,122.61,total postings
 2021-08-01,DE,120.29,122.61,total postings
-2021-08-02,DE,120.23,122.58,total postings
+2021-08-02,DE,120.22,122.58,total postings
 2021-08-03,DE,120.01,122.4,total postings
 2021-08-04,DE,120.02,122.49,total postings
 2021-08-05,DE,119.82,122.38,total postings
@@ -558,7 +558,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2021-08-10,DE,121.04,123.9,total postings
 2021-08-11,DE,121.33,124.16,total postings
 2021-08-12,DE,121.89,124.61,total postings
-2021-08-13,DE,122.16,124.65,total postings
+2021-08-13,DE,122.15,124.65,total postings
 2021-08-14,DE,122.68,124.86,total postings
 2021-08-15,DE,123.35,125.11,total postings
 2021-08-16,DE,124.15,125.39,total postings
@@ -1294,6 +1294,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-08-16,DE,141.57,142.99,total postings
 2023-08-17,DE,141.55,142.44,total postings
 2023-08-18,DE,142.01,142.45,total postings
+2023-08-19,DE,142.75,142.85,total postings
+2023-08-20,DE,142.87,142.8,total postings
+2023-08-21,DE,142.79,142.71,total postings
+2023-08-22,DE,142.53,142.59,total postings
+2023-08-23,DE,141.97,142.3,total postings
+2023-08-24,DE,141.47,142.09,total postings
+2023-08-25,DE,141.43,142.38,total postings
 2020-02-01,DE,100,100,new postings
 2020-02-02,DE,100.92,100.11,new postings
 2020-02-03,DE,101.7,100.3,new postings
@@ -1840,9 +1847,9 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2021-07-28,DE,131.43,126.08,new postings
 2021-07-29,DE,133.23,126.51,new postings
 2021-07-30,DE,132.98,125.7,new postings
-2021-07-31,DE,132.7,125.39,new postings
-2021-08-01,DE,131.55,125.13,new postings
-2021-08-02,DE,129.47,124.75,new postings
+2021-07-31,DE,132.7,125.38,new postings
+2021-08-01,DE,131.54,125.13,new postings
+2021-08-02,DE,129.46,124.75,new postings
 2021-08-03,DE,126.86,124.44,new postings
 2021-08-04,DE,125.05,124.8,new postings
 2021-08-05,DE,122.82,124.78,new postings
@@ -2589,3 +2596,10 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-08-16,DE,167.01,156.75,new postings
 2023-08-17,DE,168.14,154.98,new postings
 2023-08-18,DE,165.34,150.17,new postings
+2023-08-19,DE,170.7,153.1,new postings
+2023-08-20,DE,170.84,152.06,new postings
+2023-08-21,DE,169.63,150.8,new postings
+2023-08-22,DE,165.72,148.14,new postings
+2023-08-23,DE,162.52,146.69,new postings
+2023-08-24,DE,158.07,144.06,new postings
+2023-08-25,DE,157.65,145.05,new postings
