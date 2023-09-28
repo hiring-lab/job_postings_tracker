@@ -1,5 +1,8 @@
-# Indeed Hiring Lab Data Repository
-Note: As of 12/9/2022, Hiring Lab is re-releasing the Job Postings Tracker as the Indeed Job Postings Index.  The level is set to 100 on Feb 1, 2020. More detail is available here: [Introducing the Indeed Job Postings Index](https://www.hiringlab.org/2022/12/15/introducing-the-indeed-job-postings-index/) 
+# Indeed Job Postings Index data
+
+*Effective Sept. 17, a New York pay transparency law requires employers to disclose certain salary information in job postings for roles that will be performed in the state. On Indeed's site, job postings in New York that do not include employer-provided pay information will not be visible until pay information is added or employers indicate the job is exempt. Indeed Job Postings Index data published Sept. 22, 2023, is the first to cover this period, and users may notice that the level of job postings in New York state has fallen sharply compared to prior versions. In the past, similar declines have been observed in states that have implemented comparable salary transparency regulations. In order for our real-time data to accurately reflect changes in job postings activity related to the newly enacted law, we are intentionally not adjusting the New York series. Hiring Lab will continue to monitor the impact of pay transparency laws on the labor market and publish the Job Postings Index as scheduled.*
+
+As of 12/9/2022, Hiring Lab is re-releasing the Job Postings Tracker as the Indeed Job Postings Index.  The level is set to 100 on Feb 1, 2020. More detail is available here: [Introducing the Indeed Job Postings Index](https://www.hiringlab.org/2022/12/15/introducing-the-indeed-job-postings-index/) 
 
 The [Indeed Hiring Lab](http://hiringlab.org) is an international team of economists and researchers dedicated to delivering insights that help drive the global labor market conversation.
 
