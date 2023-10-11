@@ -1336,6 +1336,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-09-27,DE,136.67,141.26,total postings
 2023-09-28,DE,136.36,141.01,total postings
 2023-09-29,DE,136.17,140.78,total postings
+2023-09-30,DE,135.73,140.18,total postings
+2023-10-01,DE,136.48,140.64,total postings
+2023-10-02,DE,136.72,140.44,total postings
+2023-10-03,DE,136.96,140.12,total postings
+2023-10-04,DE,137.28,139.78,total postings
+2023-10-05,DE,137.37,139.27,total postings
+2023-10-06,DE,137.92,139.25,total postings
 2020-02-01,DE,100,100,new postings
 2020-02-02,DE,100.92,100.11,new postings
 2020-02-03,DE,101.7,100.3,new postings
@@ -1480,9 +1487,9 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2020-06-21,DE,76.97,74.13,new postings
 2020-06-22,DE,77.59,75.04,new postings
 2020-06-23,DE,78.77,76.47,new postings
-2020-06-24,DE,79.53,77.51,new postings
+2020-06-24,DE,79.53,77.5,new postings
 2020-06-25,DE,80.12,78.38,new postings
-2020-06-26,DE,79.39,77.98,new postings
+2020-06-26,DE,79.38,77.98,new postings
 2020-06-27,DE,77.57,76.49,new postings
 2020-06-28,DE,77.32,76.5,new postings
 2020-06-29,DE,77.18,76.57,new postings
@@ -2673,3 +2680,10 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-09-27,DE,170.52,166.58,new postings
 2023-09-28,DE,170.99,167.1,new postings
 2023-09-29,DE,169.7,166.05,new postings
+2023-09-30,DE,164.44,160.94,new postings
+2023-10-01,DE,163.53,159.72,new postings
+2023-10-02,DE,162.19,157.61,new postings
+2023-10-03,DE,160.32,154.68,new postings
+2023-10-04,DE,158.86,151.78,new postings
+2023-10-05,DE,156.33,147.76,new postings
+2023-10-06,DE,155.36,144.65,new postings
