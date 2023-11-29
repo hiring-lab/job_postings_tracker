@@ -909,7 +909,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-07-27,CA,164.16,174.66,total postings
 2022-07-28,CA,164.12,174.66,total postings
 2022-07-29,CA,163.95,174.55,total postings
-2022-07-30,CA,163.95,174.72,total postings
+2022-07-30,CA,163.95,174.71,total postings
 2022-07-31,CA,163.53,174.42,total postings
 2022-08-01,CA,163.21,174.33,total postings
 2022-08-02,CA,162.58,173.92,total postings
@@ -1385,6 +1385,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-11-15,CA,116.67,120.57,total postings
 2023-11-16,CA,116.63,120.15,total postings
 2023-11-17,CA,116.62,119.74,total postings
+2023-11-18,CA,116.51,119.21,total postings
+2023-11-19,CA,116.5,118.79,total postings
+2023-11-20,CA,116.5,118.38,total postings
+2023-11-21,CA,116.68,118.18,total postings
+2023-11-22,CA,116.8,117.94,total postings
+2023-11-23,CA,116.88,117.69,total postings
+2023-11-24,CA,116.97,117.44,total postings
 2020-02-01,CA,100,100,new postings
 2020-02-02,CA,100.17,100.03,new postings
 2020-02-03,CA,100.37,100.14,new postings
@@ -2296,7 +2303,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-07-28,CA,150,168.67,new postings
 2022-07-29,CA,149.37,168,new postings
 2022-07-30,CA,149.22,167.88,new postings
-2022-07-31,CA,148.67,167.39,new postings
+2022-07-31,CA,148.66,167.39,new postings
 2022-08-01,CA,148.07,166.94,new postings
 2022-08-02,CA,145.54,164.32,new postings
 2022-08-03,CA,142.95,161.76,new postings
@@ -2771,3 +2778,10 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-11-15,CA,106.87,113.25,new postings
 2023-11-16,CA,107.1,111.8,new postings
 2023-11-17,CA,107.34,110.5,new postings
+2023-11-18,CA,107.4,109.33,new postings
+2023-11-19,CA,107.36,108.46,new postings
+2023-11-20,CA,106.94,107.53,new postings
+2023-11-21,CA,107.8,108.18,new postings
+2023-11-22,CA,108.34,108.76,new postings
+2023-11-23,CA,108.39,109.06,new postings
+2023-11-24,CA,108.39,109.16,new postings

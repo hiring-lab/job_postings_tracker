@@ -906,8 +906,8 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-07-24,AU,224.06,224.51,total postings
 2022-07-25,AU,224.01,224.55,total postings
 2022-07-26,AU,224.23,224.84,total postings
-2022-07-27,AU,224.69,225.33,total postings
-2022-07-28,AU,225.09,225.9,total postings
+2022-07-27,AU,224.69,225.32,total postings
+2022-07-28,AU,225.09,225.89,total postings
 2022-07-29,AU,225.12,226.04,total postings
 2022-07-30,AU,225.61,226.71,total postings
 2022-07-31,AU,225.69,226.89,total postings
@@ -1385,6 +1385,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-11-15,AU,184.88,187.9,total postings
 2023-11-16,AU,184.83,187.73,total postings
 2023-11-17,AU,184.46,187.21,total postings
+2023-11-18,AU,183.99,186.57,total postings
+2023-11-19,AU,183.64,186.03,total postings
+2023-11-20,AU,183.29,185.4,total postings
+2023-11-21,AU,182.89,184.67,total postings
+2023-11-22,AU,182.48,183.89,total postings
+2023-11-23,AU,182.12,183.11,total postings
+2023-11-24,AU,181.66,182.24,total postings
 2020-02-01,AU,100,100,new postings
 2020-02-02,AU,97.8,96.93,new postings
 2020-02-03,AU,97.92,97.04,new postings
@@ -2771,3 +2778,10 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-11-15,AU,171.73,190.51,new postings
 2023-11-16,AU,171.57,191.59,new postings
 2023-11-17,AU,170.6,191.62,new postings
+2023-11-18,AU,169.68,191.5,new postings
+2023-11-19,AU,169.11,191.54,new postings
+2023-11-20,AU,168.36,190.97,new postings
+2023-11-21,AU,167.28,189.56,new postings
+2023-11-22,AU,167.63,189.42,new postings
+2023-11-23,AU,167.29,188.24,new postings
+2023-11-24,AU,166.68,186.79,new postings

@@ -905,7 +905,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-07-23,US,153.16,160.13,total postings
 2022-07-24,US,153.07,160.11,total postings
 2022-07-25,US,152.95,160.08,total postings
-2022-07-26,US,152.84,160.05,total postings
+2022-07-26,US,152.84,160.04,total postings
 2022-07-27,US,152.84,160.12,total postings
 2022-07-28,US,152.91,160.24,total postings
 2022-07-29,US,152.79,160.16,total postings
@@ -1385,6 +1385,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-11-15,US,125.18,130.14,total postings
 2023-11-16,US,125.18,130.03,total postings
 2023-11-17,US,125.18,129.87,total postings
+2023-11-18,US,125.12,129.61,total postings
+2023-11-19,US,125.17,129.43,total postings
+2023-11-20,US,125.23,129.28,total postings
+2023-11-21,US,125.33,129.11,total postings
+2023-11-22,US,125.35,128.84,total postings
+2023-11-23,US,125.39,128.58,total postings
+2023-11-24,US,125.37,128.25,total postings
 2020-02-01,US,100,100,new postings
 2020-02-02,US,100.86,100.63,new postings
 2020-02-03,US,101.71,101.28,new postings
@@ -2292,9 +2299,9 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-07-24,US,161.72,177.86,new postings
 2022-07-25,US,160.45,177.13,new postings
 2022-07-26,US,158.98,175.92,new postings
-2022-07-27,US,157.67,174.62,new postings
+2022-07-27,US,157.67,174.61,new postings
 2022-07-28,US,157.23,174.04,new postings
-2022-07-29,US,156.27,172.85,new postings
+2022-07-29,US,156.26,172.84,new postings
 2022-07-30,US,155.79,172.42,new postings
 2022-07-31,US,155.75,172.64,new postings
 2022-08-01,US,156.32,173.69,new postings
@@ -2771,3 +2778,10 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-11-15,US,134.26,149.05,new postings
 2023-11-16,US,133.22,146.76,new postings
 2023-11-17,US,132.38,144.65,new postings
+2023-11-18,US,132.13,143.18,new postings
+2023-11-19,US,131.89,141.97,new postings
+2023-11-20,US,131.51,140.78,new postings
+2023-11-21,US,131.05,139.27,new postings
+2023-11-22,US,132.24,138.82,new postings
+2023-11-23,US,133.24,137.45,new postings
+2023-11-24,US,132.39,133.54,new postings
