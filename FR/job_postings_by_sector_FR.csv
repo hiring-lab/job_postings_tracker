@@ -1492,11 +1492,18 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-01,FR,121.65,total postings,Accounting
 2024-03-02,FR,121.08,total postings,Accounting
 2024-03-03,FR,120.64,total postings,Accounting
-2024-03-04,FR,119.87,total postings,Accounting
+2024-03-04,FR,119.88,total postings,Accounting
 2024-03-05,FR,119.58,total postings,Accounting
-2024-03-06,FR,119.84,total postings,Accounting
-2024-03-07,FR,120.13,total postings,Accounting
-2024-03-08,FR,120.31,total postings,Accounting
+2024-03-06,FR,119.85,total postings,Accounting
+2024-03-07,FR,120.14,total postings,Accounting
+2024-03-08,FR,120.32,total postings,Accounting
+2024-03-09,FR,120.55,total postings,Accounting
+2024-03-10,FR,120.48,total postings,Accounting
+2024-03-11,FR,120.57,total postings,Accounting
+2024-03-12,FR,120.76,total postings,Accounting
+2024-03-13,FR,120.49,total postings,Accounting
+2024-03-14,FR,120.25,total postings,Accounting
+2024-03-15,FR,120.22,total postings,Accounting
 2020-02-01,FR,100,total postings,Administrative Assistance
 2020-02-02,FR,99.94,total postings,Administrative Assistance
 2020-02-03,FR,100.02,total postings,Administrative Assistance
@@ -2990,11 +2997,18 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-01,FR,131.3,total postings,Administrative Assistance
 2024-03-02,FR,130.86,total postings,Administrative Assistance
 2024-03-03,FR,130.47,total postings,Administrative Assistance
-2024-03-04,FR,130.05,total postings,Administrative Assistance
-2024-03-05,FR,129.89,total postings,Administrative Assistance
-2024-03-06,FR,129.93,total postings,Administrative Assistance
-2024-03-07,FR,129.96,total postings,Administrative Assistance
-2024-03-08,FR,129.76,total postings,Administrative Assistance
+2024-03-04,FR,130.06,total postings,Administrative Assistance
+2024-03-05,FR,129.9,total postings,Administrative Assistance
+2024-03-06,FR,129.94,total postings,Administrative Assistance
+2024-03-07,FR,129.97,total postings,Administrative Assistance
+2024-03-08,FR,129.77,total postings,Administrative Assistance
+2024-03-09,FR,129.81,total postings,Administrative Assistance
+2024-03-10,FR,129.82,total postings,Administrative Assistance
+2024-03-11,FR,129.84,total postings,Administrative Assistance
+2024-03-12,FR,130.02,total postings,Administrative Assistance
+2024-03-13,FR,130.1,total postings,Administrative Assistance
+2024-03-14,FR,129.66,total postings,Administrative Assistance
+2024-03-15,FR,129.86,total postings,Administrative Assistance
 2020-02-01,FR,100,total postings,Agriculture & Forestry
 2020-02-02,FR,99.72,total postings,Agriculture & Forestry
 2020-02-03,FR,99.57,total postings,Agriculture & Forestry
@@ -4493,6 +4507,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-06,FR,165.69,total postings,Agriculture & Forestry
 2024-03-07,FR,164.39,total postings,Agriculture & Forestry
 2024-03-08,FR,162.71,total postings,Agriculture & Forestry
+2024-03-09,FR,160.41,total postings,Agriculture & Forestry
+2024-03-10,FR,157.73,total postings,Agriculture & Forestry
+2024-03-11,FR,155.28,total postings,Agriculture & Forestry
+2024-03-12,FR,154.09,total postings,Agriculture & Forestry
+2024-03-13,FR,152.37,total postings,Agriculture & Forestry
+2024-03-14,FR,150.77,total postings,Agriculture & Forestry
+2024-03-15,FR,149.42,total postings,Agriculture & Forestry
 2020-02-01,FR,100,total postings,Personal Care & Home Health
 2020-02-02,FR,100.12,total postings,Personal Care & Home Health
 2020-02-03,FR,100.71,total postings,Personal Care & Home Health
@@ -5987,10 +6008,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-02,FR,400.15,total postings,Personal Care & Home Health
 2024-03-03,FR,395.62,total postings,Personal Care & Home Health
 2024-03-04,FR,390.75,total postings,Personal Care & Home Health
-2024-03-05,FR,389.8,total postings,Personal Care & Home Health
-2024-03-06,FR,388.68,total postings,Personal Care & Home Health
+2024-03-05,FR,389.81,total postings,Personal Care & Home Health
+2024-03-06,FR,388.69,total postings,Personal Care & Home Health
 2024-03-07,FR,388.15,total postings,Personal Care & Home Health
-2024-03-08,FR,387.45,total postings,Personal Care & Home Health
+2024-03-08,FR,387.46,total postings,Personal Care & Home Health
+2024-03-09,FR,386.88,total postings,Personal Care & Home Health
+2024-03-10,FR,386.81,total postings,Personal Care & Home Health
+2024-03-11,FR,384.37,total postings,Personal Care & Home Health
+2024-03-12,FR,385.4,total postings,Personal Care & Home Health
+2024-03-13,FR,385.73,total postings,Personal Care & Home Health
+2024-03-14,FR,386.22,total postings,Personal Care & Home Health
+2024-03-15,FR,387.06,total postings,Personal Care & Home Health
 2020-02-01,FR,100,total postings,Childcare
 2020-02-02,FR,100.1,total postings,Childcare
 2020-02-03,FR,100.38,total postings,Childcare
@@ -7483,12 +7511,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,226.18,total postings,Childcare
 2024-03-01,FR,222.55,total postings,Childcare
 2024-03-02,FR,218.41,total postings,Childcare
-2024-03-03,FR,214.17,total postings,Childcare
+2024-03-03,FR,214.18,total postings,Childcare
 2024-03-04,FR,210.18,total postings,Childcare
 2024-03-05,FR,209.82,total postings,Childcare
 2024-03-06,FR,208.74,total postings,Childcare
 2024-03-07,FR,207.91,total postings,Childcare
-2024-03-08,FR,207.34,total postings,Childcare
+2024-03-08,FR,207.35,total postings,Childcare
+2024-03-09,FR,207.03,total postings,Childcare
+2024-03-10,FR,207.23,total postings,Childcare
+2024-03-11,FR,206.99,total postings,Childcare
+2024-03-12,FR,207.04,total postings,Childcare
+2024-03-13,FR,207.77,total postings,Childcare
+2024-03-14,FR,209.05,total postings,Childcare
+2024-03-15,FR,210.74,total postings,Childcare
 2020-02-01,FR,100,total postings,Construction
 2020-02-02,FR,99.62,total postings,Construction
 2020-02-03,FR,99.47,total postings,Construction
@@ -8983,10 +9018,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-02,FR,117.58,total postings,Construction
 2024-03-03,FR,117.12,total postings,Construction
 2024-03-04,FR,116.39,total postings,Construction
-2024-03-05,FR,115.94,total postings,Construction
-2024-03-06,FR,115.7,total postings,Construction
+2024-03-05,FR,115.95,total postings,Construction
+2024-03-06,FR,115.71,total postings,Construction
 2024-03-07,FR,115.39,total postings,Construction
 2024-03-08,FR,114.66,total postings,Construction
+2024-03-09,FR,114.03,total postings,Construction
+2024-03-10,FR,113.09,total postings,Construction
+2024-03-11,FR,112.44,total postings,Construction
+2024-03-12,FR,112.1,total postings,Construction
+2024-03-13,FR,111.55,total postings,Construction
+2024-03-14,FR,111.06,total postings,Construction
+2024-03-15,FR,110.95,total postings,Construction
 2020-02-01,FR,100,total postings,Customer Service
 2020-02-02,FR,100.03,total postings,Customer Service
 2020-02-03,FR,100.21,total postings,Customer Service
@@ -10479,12 +10521,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,121.29,total postings,Customer Service
 2024-03-01,FR,121.02,total postings,Customer Service
 2024-03-02,FR,120.62,total postings,Customer Service
-2024-03-03,FR,120.27,total postings,Customer Service
-2024-03-04,FR,119.75,total postings,Customer Service
-2024-03-05,FR,119.1,total postings,Customer Service
-2024-03-06,FR,118.7,total postings,Customer Service
-2024-03-07,FR,118.45,total postings,Customer Service
-2024-03-08,FR,118.37,total postings,Customer Service
+2024-03-03,FR,120.25,total postings,Customer Service
+2024-03-04,FR,119.73,total postings,Customer Service
+2024-03-05,FR,119.09,total postings,Customer Service
+2024-03-06,FR,118.68,total postings,Customer Service
+2024-03-07,FR,118.44,total postings,Customer Service
+2024-03-08,FR,118.35,total postings,Customer Service
+2024-03-09,FR,118.32,total postings,Customer Service
+2024-03-10,FR,118.13,total postings,Customer Service
+2024-03-11,FR,117.94,total postings,Customer Service
+2024-03-12,FR,117.85,total postings,Customer Service
+2024-03-13,FR,117.58,total postings,Customer Service
+2024-03-14,FR,117.08,total postings,Customer Service
+2024-03-15,FR,116.58,total postings,Customer Service
 2020-02-01,FR,100,total postings,Driving
 2020-02-02,FR,100.25,total postings,Driving
 2020-02-03,FR,100.73,total postings,Driving
@@ -11977,12 +12026,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,112.39,total postings,Driving
 2024-03-01,FR,112.11,total postings,Driving
 2024-03-02,FR,111.55,total postings,Driving
-2024-03-03,FR,110.98,total postings,Driving
-2024-03-04,FR,110.29,total postings,Driving
-2024-03-05,FR,109.83,total postings,Driving
-2024-03-06,FR,109.64,total postings,Driving
-2024-03-07,FR,109.6,total postings,Driving
-2024-03-08,FR,109.44,total postings,Driving
+2024-03-03,FR,111,total postings,Driving
+2024-03-04,FR,110.3,total postings,Driving
+2024-03-05,FR,109.85,total postings,Driving
+2024-03-06,FR,109.66,total postings,Driving
+2024-03-07,FR,109.61,total postings,Driving
+2024-03-08,FR,109.45,total postings,Driving
+2024-03-09,FR,109.45,total postings,Driving
+2024-03-10,FR,109.21,total postings,Driving
+2024-03-11,FR,108.91,total postings,Driving
+2024-03-12,FR,108.95,total postings,Driving
+2024-03-13,FR,108.83,total postings,Driving
+2024-03-14,FR,108.44,total postings,Driving
+2024-03-15,FR,108.23,total postings,Driving
 2020-02-01,FR,100,total postings,Education & Instruction
 2020-02-02,FR,100.31,total postings,Education & Instruction
 2020-02-03,FR,100.83,total postings,Education & Instruction
@@ -13475,12 +13531,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,158.71,total postings,Education & Instruction
 2024-03-01,FR,158.83,total postings,Education & Instruction
 2024-03-02,FR,158.95,total postings,Education & Instruction
-2024-03-03,FR,159.07,total postings,Education & Instruction
-2024-03-04,FR,159.02,total postings,Education & Instruction
-2024-03-05,FR,158.91,total postings,Education & Instruction
-2024-03-06,FR,158.71,total postings,Education & Instruction
-2024-03-07,FR,158.82,total postings,Education & Instruction
-2024-03-08,FR,158.83,total postings,Education & Instruction
+2024-03-03,FR,159.02,total postings,Education & Instruction
+2024-03-04,FR,158.97,total postings,Education & Instruction
+2024-03-05,FR,158.87,total postings,Education & Instruction
+2024-03-06,FR,158.67,total postings,Education & Instruction
+2024-03-07,FR,158.78,total postings,Education & Instruction
+2024-03-08,FR,158.79,total postings,Education & Instruction
+2024-03-09,FR,158.89,total postings,Education & Instruction
+2024-03-10,FR,159.05,total postings,Education & Instruction
+2024-03-11,FR,159.23,total postings,Education & Instruction
+2024-03-12,FR,159.59,total postings,Education & Instruction
+2024-03-13,FR,160.41,total postings,Education & Instruction
+2024-03-14,FR,160.87,total postings,Education & Instruction
+2024-03-15,FR,161.53,total postings,Education & Instruction
 2020-02-01,FR,100,total postings,Industrial Engineering
 2020-02-02,FR,99.96,total postings,Industrial Engineering
 2020-02-03,FR,100.04,total postings,Industrial Engineering
@@ -14979,6 +15042,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-06,FR,125.34,total postings,Industrial Engineering
 2024-03-07,FR,125.31,total postings,Industrial Engineering
 2024-03-08,FR,125.2,total postings,Industrial Engineering
+2024-03-09,FR,125.37,total postings,Industrial Engineering
+2024-03-10,FR,125.38,total postings,Industrial Engineering
+2024-03-11,FR,125.27,total postings,Industrial Engineering
+2024-03-12,FR,125.39,total postings,Industrial Engineering
+2024-03-13,FR,125.3,total postings,Industrial Engineering
+2024-03-14,FR,125.14,total postings,Industrial Engineering
+2024-03-15,FR,125.21,total postings,Industrial Engineering
 2020-02-01,FR,100,total postings,Banking & Finance
 2020-02-02,FR,99.68,total postings,Banking & Finance
 2020-02-03,FR,99.31,total postings,Banking & Finance
@@ -16471,12 +16541,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,149.29,total postings,Banking & Finance
 2024-03-01,FR,152.27,total postings,Banking & Finance
 2024-03-02,FR,153.38,total postings,Banking & Finance
-2024-03-03,FR,154.68,total postings,Banking & Finance
-2024-03-04,FR,155.19,total postings,Banking & Finance
-2024-03-05,FR,156.49,total postings,Banking & Finance
-2024-03-06,FR,157.69,total postings,Banking & Finance
-2024-03-07,FR,158.18,total postings,Banking & Finance
-2024-03-08,FR,158.09,total postings,Banking & Finance
+2024-03-03,FR,154.66,total postings,Banking & Finance
+2024-03-04,FR,155.18,total postings,Banking & Finance
+2024-03-05,FR,156.48,total postings,Banking & Finance
+2024-03-06,FR,157.68,total postings,Banking & Finance
+2024-03-07,FR,158.16,total postings,Banking & Finance
+2024-03-08,FR,158.07,total postings,Banking & Finance
+2024-03-09,FR,157.69,total postings,Banking & Finance
+2024-03-10,FR,157.08,total postings,Banking & Finance
+2024-03-11,FR,155.64,total postings,Banking & Finance
+2024-03-12,FR,153.72,total postings,Banking & Finance
+2024-03-13,FR,152.01,total postings,Banking & Finance
+2024-03-14,FR,151.22,total postings,Banking & Finance
+2024-03-15,FR,150.58,total postings,Banking & Finance
 2020-02-01,FR,100,total postings,Food Preparation & Service
 2020-02-02,FR,100.01,total postings,Food Preparation & Service
 2020-02-03,FR,100.24,total postings,Food Preparation & Service
@@ -17969,12 +18046,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,186.97,total postings,Food Preparation & Service
 2024-03-01,FR,186.54,total postings,Food Preparation & Service
 2024-03-02,FR,185.43,total postings,Food Preparation & Service
-2024-03-03,FR,184.38,total postings,Food Preparation & Service
-2024-03-04,FR,183.26,total postings,Food Preparation & Service
-2024-03-05,FR,182.64,total postings,Food Preparation & Service
-2024-03-06,FR,182.17,total postings,Food Preparation & Service
-2024-03-07,FR,181.77,total postings,Food Preparation & Service
-2024-03-08,FR,181.28,total postings,Food Preparation & Service
+2024-03-03,FR,184.39,total postings,Food Preparation & Service
+2024-03-04,FR,183.27,total postings,Food Preparation & Service
+2024-03-05,FR,182.65,total postings,Food Preparation & Service
+2024-03-06,FR,182.18,total postings,Food Preparation & Service
+2024-03-07,FR,181.78,total postings,Food Preparation & Service
+2024-03-08,FR,181.29,total postings,Food Preparation & Service
+2024-03-09,FR,181.27,total postings,Food Preparation & Service
+2024-03-10,FR,181.09,total postings,Food Preparation & Service
+2024-03-11,FR,180.93,total postings,Food Preparation & Service
+2024-03-12,FR,180.94,total postings,Food Preparation & Service
+2024-03-13,FR,180.61,total postings,Food Preparation & Service
+2024-03-14,FR,180.14,total postings,Food Preparation & Service
+2024-03-15,FR,180.03,total postings,Food Preparation & Service
 2020-02-01,FR,100,total postings,Hospitality & Tourism
 2020-02-02,FR,99.7,total postings,Hospitality & Tourism
 2020-02-03,FR,99.51,total postings,Hospitality & Tourism
@@ -19467,12 +19551,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,169.41,total postings,Hospitality & Tourism
 2024-03-01,FR,169.36,total postings,Hospitality & Tourism
 2024-03-02,FR,169.13,total postings,Hospitality & Tourism
-2024-03-03,FR,168.98,total postings,Hospitality & Tourism
-2024-03-04,FR,168.55,total postings,Hospitality & Tourism
-2024-03-05,FR,168.24,total postings,Hospitality & Tourism
-2024-03-06,FR,167.84,total postings,Hospitality & Tourism
-2024-03-07,FR,167.55,total postings,Hospitality & Tourism
-2024-03-08,FR,167.01,total postings,Hospitality & Tourism
+2024-03-03,FR,169.01,total postings,Hospitality & Tourism
+2024-03-04,FR,168.58,total postings,Hospitality & Tourism
+2024-03-05,FR,168.27,total postings,Hospitality & Tourism
+2024-03-06,FR,167.87,total postings,Hospitality & Tourism
+2024-03-07,FR,167.58,total postings,Hospitality & Tourism
+2024-03-08,FR,167.04,total postings,Hospitality & Tourism
+2024-03-09,FR,166.78,total postings,Hospitality & Tourism
+2024-03-10,FR,166.34,total postings,Hospitality & Tourism
+2024-03-11,FR,166.06,total postings,Hospitality & Tourism
+2024-03-12,FR,166.02,total postings,Hospitality & Tourism
+2024-03-13,FR,165.51,total postings,Hospitality & Tourism
+2024-03-14,FR,165.02,total postings,Hospitality & Tourism
+2024-03-15,FR,164.34,total postings,Hospitality & Tourism
 2020-02-01,FR,100,total postings,Human Resources
 2020-02-02,FR,99.63,total postings,Human Resources
 2020-02-03,FR,99.36,total postings,Human Resources
@@ -20971,6 +21062,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-06,FR,148.24,total postings,Human Resources
 2024-03-07,FR,148.94,total postings,Human Resources
 2024-03-08,FR,149.39,total postings,Human Resources
+2024-03-09,FR,150.12,total postings,Human Resources
+2024-03-10,FR,150.61,total postings,Human Resources
+2024-03-11,FR,151.18,total postings,Human Resources
+2024-03-12,FR,151.89,total postings,Human Resources
+2024-03-13,FR,152.45,total postings,Human Resources
+2024-03-14,FR,153.03,total postings,Human Resources
+2024-03-15,FR,153.76,total postings,Human Resources
 2020-02-01,FR,100,total postings,Installation & Maintenance
 2020-02-02,FR,99.9,total postings,Installation & Maintenance
 2020-02-03,FR,100.09,total postings,Installation & Maintenance
@@ -21221,7 +21319,7 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2020-10-05,FR,77.86,total postings,Installation & Maintenance
 2020-10-06,FR,77.69,total postings,Installation & Maintenance
 2020-10-07,FR,77.7,total postings,Installation & Maintenance
-2020-10-08,FR,78.59,total postings,Installation & Maintenance
+2020-10-08,FR,78.6,total postings,Installation & Maintenance
 2020-10-09,FR,79.29,total postings,Installation & Maintenance
 2020-10-10,FR,79.79,total postings,Installation & Maintenance
 2020-10-11,FR,80.44,total postings,Installation & Maintenance
@@ -22465,10 +22563,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-02,FR,140.16,total postings,Installation & Maintenance
 2024-03-03,FR,139.78,total postings,Installation & Maintenance
 2024-03-04,FR,139.06,total postings,Installation & Maintenance
-2024-03-05,FR,138.65,total postings,Installation & Maintenance
-2024-03-06,FR,138.53,total postings,Installation & Maintenance
-2024-03-07,FR,138.5,total postings,Installation & Maintenance
-2024-03-08,FR,138.23,total postings,Installation & Maintenance
+2024-03-05,FR,138.66,total postings,Installation & Maintenance
+2024-03-06,FR,138.54,total postings,Installation & Maintenance
+2024-03-07,FR,138.51,total postings,Installation & Maintenance
+2024-03-08,FR,138.24,total postings,Installation & Maintenance
+2024-03-09,FR,137.96,total postings,Installation & Maintenance
+2024-03-10,FR,137.21,total postings,Installation & Maintenance
+2024-03-11,FR,136.74,total postings,Installation & Maintenance
+2024-03-12,FR,136.51,total postings,Installation & Maintenance
+2024-03-13,FR,136.04,total postings,Installation & Maintenance
+2024-03-14,FR,135.58,total postings,Installation & Maintenance
+2024-03-15,FR,135.41,total postings,Installation & Maintenance
 2020-02-01,FR,100,total postings,Insurance
 2020-02-02,FR,100.56,total postings,Insurance
 2020-02-03,FR,100.81,total postings,Insurance
@@ -23961,12 +24066,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,108.69,total postings,Insurance
 2024-03-01,FR,108.69,total postings,Insurance
 2024-03-02,FR,108.45,total postings,Insurance
-2024-03-03,FR,108.35,total postings,Insurance
-2024-03-04,FR,108.19,total postings,Insurance
-2024-03-05,FR,108.19,total postings,Insurance
-2024-03-06,FR,108.43,total postings,Insurance
-2024-03-07,FR,108.55,total postings,Insurance
-2024-03-08,FR,108.39,total postings,Insurance
+2024-03-03,FR,108.37,total postings,Insurance
+2024-03-04,FR,108.21,total postings,Insurance
+2024-03-05,FR,108.21,total postings,Insurance
+2024-03-06,FR,108.45,total postings,Insurance
+2024-03-07,FR,108.58,total postings,Insurance
+2024-03-08,FR,108.41,total postings,Insurance
+2024-03-09,FR,108.53,total postings,Insurance
+2024-03-10,FR,108.48,total postings,Insurance
+2024-03-11,FR,108.57,total postings,Insurance
+2024-03-12,FR,108.72,total postings,Insurance
+2024-03-13,FR,108.43,total postings,Insurance
+2024-03-14,FR,108.44,total postings,Insurance
+2024-03-15,FR,108.73,total postings,Insurance
 2020-02-01,FR,100,total postings,Legal
 2020-02-02,FR,99.5,total postings,Legal
 2020-02-03,FR,98.97,total postings,Legal
@@ -25460,11 +25572,18 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-01,FR,125.86,total postings,Legal
 2024-03-02,FR,125.46,total postings,Legal
 2024-03-03,FR,125.33,total postings,Legal
-2024-03-04,FR,124.94,total postings,Legal
+2024-03-04,FR,124.93,total postings,Legal
 2024-03-05,FR,124.75,total postings,Legal
 2024-03-06,FR,125.03,total postings,Legal
 2024-03-07,FR,125.34,total postings,Legal
-2024-03-08,FR,125.41,total postings,Legal
+2024-03-08,FR,125.4,total postings,Legal
+2024-03-09,FR,125.68,total postings,Legal
+2024-03-10,FR,125.77,total postings,Legal
+2024-03-11,FR,126,total postings,Legal
+2024-03-12,FR,126.48,total postings,Legal
+2024-03-13,FR,126.59,total postings,Legal
+2024-03-14,FR,126.52,total postings,Legal
+2024-03-15,FR,126.54,total postings,Legal
 2020-02-01,FR,100,total postings,Management
 2020-02-02,FR,99.94,total postings,Management
 2020-02-03,FR,99.91,total postings,Management
@@ -26957,12 +27076,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,134.23,total postings,Management
 2024-03-01,FR,134.23,total postings,Management
 2024-03-02,FR,133.99,total postings,Management
-2024-03-03,FR,133.81,total postings,Management
-2024-03-04,FR,133.51,total postings,Management
+2024-03-03,FR,133.82,total postings,Management
+2024-03-04,FR,133.52,total postings,Management
 2024-03-05,FR,133.45,total postings,Management
-2024-03-06,FR,133.52,total postings,Management
-2024-03-07,FR,133.47,total postings,Management
-2024-03-08,FR,133.31,total postings,Management
+2024-03-06,FR,133.53,total postings,Management
+2024-03-07,FR,133.48,total postings,Management
+2024-03-08,FR,133.32,total postings,Management
+2024-03-09,FR,133.3,total postings,Management
+2024-03-10,FR,133.07,total postings,Management
+2024-03-11,FR,132.91,total postings,Management
+2024-03-12,FR,132.92,total postings,Management
+2024-03-13,FR,133.06,total postings,Management
+2024-03-14,FR,133.24,total postings,Management
+2024-03-15,FR,133.66,total postings,Management
 2020-02-01,FR,100,total postings,Production & Manufacturing
 2020-02-02,FR,99.83,total postings,Production & Manufacturing
 2020-02-03,FR,99.9,total postings,Production & Manufacturing
@@ -28461,6 +28587,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-06,FR,136.8,total postings,Production & Manufacturing
 2024-03-07,FR,136.75,total postings,Production & Manufacturing
 2024-03-08,FR,136.21,total postings,Production & Manufacturing
+2024-03-09,FR,135.92,total postings,Production & Manufacturing
+2024-03-10,FR,135.17,total postings,Production & Manufacturing
+2024-03-11,FR,134.74,total postings,Production & Manufacturing
+2024-03-12,FR,134.78,total postings,Production & Manufacturing
+2024-03-13,FR,134.38,total postings,Production & Manufacturing
+2024-03-14,FR,134.01,total postings,Production & Manufacturing
+2024-03-15,FR,134.05,total postings,Production & Manufacturing
 2020-02-01,FR,100,total postings,Marketing
 2020-02-02,FR,100.09,total postings,Marketing
 2020-02-03,FR,100.2,total postings,Marketing
@@ -29953,12 +30086,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,164.16,total postings,Marketing
 2024-03-01,FR,165.05,total postings,Marketing
 2024-03-02,FR,165.5,total postings,Marketing
-2024-03-03,FR,166.26,total postings,Marketing
-2024-03-04,FR,166.62,total postings,Marketing
-2024-03-05,FR,166.58,total postings,Marketing
-2024-03-06,FR,166.04,total postings,Marketing
-2024-03-07,FR,165.84,total postings,Marketing
-2024-03-08,FR,165.53,total postings,Marketing
+2024-03-03,FR,166.28,total postings,Marketing
+2024-03-04,FR,166.65,total postings,Marketing
+2024-03-05,FR,166.61,total postings,Marketing
+2024-03-06,FR,166.07,total postings,Marketing
+2024-03-07,FR,165.87,total postings,Marketing
+2024-03-08,FR,165.55,total postings,Marketing
+2024-03-09,FR,165.72,total postings,Marketing
+2024-03-10,FR,165.84,total postings,Marketing
+2024-03-11,FR,165.82,total postings,Marketing
+2024-03-12,FR,166.18,total postings,Marketing
+2024-03-13,FR,166.63,total postings,Marketing
+2024-03-14,FR,166.84,total postings,Marketing
+2024-03-15,FR,167.3,total postings,Marketing
 2020-02-01,FR,100,total postings,Physicians & Surgeons
 2020-02-02,FR,100.21,total postings,Physicians & Surgeons
 2020-02-03,FR,100.61,total postings,Physicians & Surgeons
@@ -31451,12 +31591,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,282.46,total postings,Physicians & Surgeons
 2024-03-01,FR,279.47,total postings,Physicians & Surgeons
 2024-03-02,FR,276.28,total postings,Physicians & Surgeons
-2024-03-03,FR,272.79,total postings,Physicians & Surgeons
-2024-03-04,FR,268.11,total postings,Physicians & Surgeons
-2024-03-05,FR,264.66,total postings,Physicians & Surgeons
-2024-03-06,FR,263.97,total postings,Physicians & Surgeons
-2024-03-07,FR,264.27,total postings,Physicians & Surgeons
-2024-03-08,FR,264.32,total postings,Physicians & Surgeons
+2024-03-03,FR,272.81,total postings,Physicians & Surgeons
+2024-03-04,FR,268.13,total postings,Physicians & Surgeons
+2024-03-05,FR,264.68,total postings,Physicians & Surgeons
+2024-03-06,FR,263.99,total postings,Physicians & Surgeons
+2024-03-07,FR,264.29,total postings,Physicians & Surgeons
+2024-03-08,FR,264.34,total postings,Physicians & Surgeons
+2024-03-09,FR,264.22,total postings,Physicians & Surgeons
+2024-03-10,FR,264.17,total postings,Physicians & Surgeons
+2024-03-11,FR,264.79,total postings,Physicians & Surgeons
+2024-03-12,FR,265.37,total postings,Physicians & Surgeons
+2024-03-13,FR,264.79,total postings,Physicians & Surgeons
+2024-03-14,FR,264.08,total postings,Physicians & Surgeons
+2024-03-15,FR,263.76,total postings,Physicians & Surgeons
 2020-02-01,FR,100,total postings,Media & Communications
 2020-02-02,FR,100.18,total postings,Media & Communications
 2020-02-03,FR,100.47,total postings,Media & Communications
@@ -32949,12 +33096,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,113.64,total postings,Media & Communications
 2024-03-01,FR,114.39,total postings,Media & Communications
 2024-03-02,FR,115.11,total postings,Media & Communications
-2024-03-03,FR,115.89,total postings,Media & Communications
-2024-03-04,FR,116.59,total postings,Media & Communications
-2024-03-05,FR,117.27,total postings,Media & Communications
-2024-03-06,FR,117.76,total postings,Media & Communications
-2024-03-07,FR,118.29,total postings,Media & Communications
-2024-03-08,FR,118.73,total postings,Media & Communications
+2024-03-03,FR,115.92,total postings,Media & Communications
+2024-03-04,FR,116.62,total postings,Media & Communications
+2024-03-05,FR,117.3,total postings,Media & Communications
+2024-03-06,FR,117.79,total postings,Media & Communications
+2024-03-07,FR,118.32,total postings,Media & Communications
+2024-03-08,FR,118.76,total postings,Media & Communications
+2024-03-09,FR,119.18,total postings,Media & Communications
+2024-03-10,FR,119.5,total postings,Media & Communications
+2024-03-11,FR,119.8,total postings,Media & Communications
+2024-03-12,FR,120.26,total postings,Media & Communications
+2024-03-13,FR,120.61,total postings,Media & Communications
+2024-03-14,FR,120.81,total postings,Media & Communications
+2024-03-15,FR,121.15,total postings,Media & Communications
 2020-02-01,FR,100,total postings,Nursing
 2020-02-02,FR,100.23,total postings,Nursing
 2020-02-03,FR,101,total postings,Nursing
@@ -34447,12 +34601,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,259.67,total postings,Nursing
 2024-03-01,FR,259.47,total postings,Nursing
 2024-03-02,FR,259.51,total postings,Nursing
-2024-03-03,FR,259.68,total postings,Nursing
-2024-03-04,FR,259.35,total postings,Nursing
-2024-03-05,FR,259.14,total postings,Nursing
-2024-03-06,FR,259.59,total postings,Nursing
-2024-03-07,FR,260.67,total postings,Nursing
-2024-03-08,FR,260.94,total postings,Nursing
+2024-03-03,FR,259.69,total postings,Nursing
+2024-03-04,FR,259.36,total postings,Nursing
+2024-03-05,FR,259.15,total postings,Nursing
+2024-03-06,FR,259.6,total postings,Nursing
+2024-03-07,FR,260.68,total postings,Nursing
+2024-03-08,FR,260.95,total postings,Nursing
+2024-03-09,FR,260.66,total postings,Nursing
+2024-03-10,FR,259.5,total postings,Nursing
+2024-03-11,FR,257.22,total postings,Nursing
+2024-03-12,FR,255.82,total postings,Nursing
+2024-03-13,FR,253.77,total postings,Nursing
+2024-03-14,FR,251.49,total postings,Nursing
+2024-03-15,FR,249.98,total postings,Nursing
 2020-02-01,FR,100,total postings,Pharmacy
 2020-02-02,FR,100.29,total postings,Pharmacy
 2020-02-03,FR,100.95,total postings,Pharmacy
@@ -35945,12 +36106,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,204.62,total postings,Pharmacy
 2024-03-01,FR,201.94,total postings,Pharmacy
 2024-03-02,FR,199.17,total postings,Pharmacy
-2024-03-03,FR,196.43,total postings,Pharmacy
-2024-03-04,FR,193.49,total postings,Pharmacy
-2024-03-05,FR,191.05,total postings,Pharmacy
-2024-03-06,FR,189.17,total postings,Pharmacy
-2024-03-07,FR,188.1,total postings,Pharmacy
-2024-03-08,FR,187.96,total postings,Pharmacy
+2024-03-03,FR,196.45,total postings,Pharmacy
+2024-03-04,FR,193.51,total postings,Pharmacy
+2024-03-05,FR,191.07,total postings,Pharmacy
+2024-03-06,FR,189.19,total postings,Pharmacy
+2024-03-07,FR,188.12,total postings,Pharmacy
+2024-03-08,FR,187.98,total postings,Pharmacy
+2024-03-09,FR,187.52,total postings,Pharmacy
+2024-03-10,FR,186.68,total postings,Pharmacy
+2024-03-11,FR,185.87,total postings,Pharmacy
+2024-03-12,FR,184.87,total postings,Pharmacy
+2024-03-13,FR,183.87,total postings,Pharmacy
+2024-03-14,FR,182.67,total postings,Pharmacy
+2024-03-15,FR,181.55,total postings,Pharmacy
 2020-02-01,FR,100,total postings,Project Management
 2020-02-02,FR,99.88,total postings,Project Management
 2020-02-03,FR,99.74,total postings,Project Management
@@ -37443,12 +37611,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,139.3,total postings,Project Management
 2024-03-01,FR,139.41,total postings,Project Management
 2024-03-02,FR,139.21,total postings,Project Management
-2024-03-03,FR,139.11,total postings,Project Management
-2024-03-04,FR,138.88,total postings,Project Management
-2024-03-05,FR,138.82,total postings,Project Management
-2024-03-06,FR,138.89,total postings,Project Management
+2024-03-03,FR,139.1,total postings,Project Management
+2024-03-04,FR,138.87,total postings,Project Management
+2024-03-05,FR,138.81,total postings,Project Management
+2024-03-06,FR,138.88,total postings,Project Management
 2024-03-07,FR,138.89,total postings,Project Management
-2024-03-08,FR,138.81,total postings,Project Management
+2024-03-08,FR,138.8,total postings,Project Management
+2024-03-09,FR,139.02,total postings,Project Management
+2024-03-10,FR,139.06,total postings,Project Management
+2024-03-11,FR,139.03,total postings,Project Management
+2024-03-12,FR,139,total postings,Project Management
+2024-03-13,FR,138.81,total postings,Project Management
+2024-03-14,FR,138.62,total postings,Project Management
+2024-03-15,FR,138.64,total postings,Project Management
 2020-02-01,FR,100,total postings,Security & Public Safety
 2020-02-02,FR,99.94,total postings,Security & Public Safety
 2020-02-03,FR,99.88,total postings,Security & Public Safety
@@ -38941,12 +39116,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,209.45,total postings,Security & Public Safety
 2024-03-01,FR,208.46,total postings,Security & Public Safety
 2024-03-02,FR,207.2,total postings,Security & Public Safety
-2024-03-03,FR,206.03,total postings,Security & Public Safety
-2024-03-04,FR,204.83,total postings,Security & Public Safety
-2024-03-05,FR,204.13,total postings,Security & Public Safety
-2024-03-06,FR,203.97,total postings,Security & Public Safety
-2024-03-07,FR,203.65,total postings,Security & Public Safety
-2024-03-08,FR,203.78,total postings,Security & Public Safety
+2024-03-03,FR,206.05,total postings,Security & Public Safety
+2024-03-04,FR,204.85,total postings,Security & Public Safety
+2024-03-05,FR,204.15,total postings,Security & Public Safety
+2024-03-06,FR,203.99,total postings,Security & Public Safety
+2024-03-07,FR,203.67,total postings,Security & Public Safety
+2024-03-08,FR,203.79,total postings,Security & Public Safety
+2024-03-09,FR,204.14,total postings,Security & Public Safety
+2024-03-10,FR,204.65,total postings,Security & Public Safety
+2024-03-11,FR,205.13,total postings,Security & Public Safety
+2024-03-12,FR,206.07,total postings,Security & Public Safety
+2024-03-13,FR,206.87,total postings,Security & Public Safety
+2024-03-14,FR,208.08,total postings,Security & Public Safety
+2024-03-15,FR,209.28,total postings,Security & Public Safety
 2020-02-01,FR,100,total postings,Real Estate
 2020-02-02,FR,100.81,total postings,Real Estate
 2020-02-03,FR,102.13,total postings,Real Estate
@@ -40440,11 +40622,18 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-01,FR,148.68,total postings,Real Estate
 2024-03-02,FR,148.89,total postings,Real Estate
 2024-03-03,FR,148.64,total postings,Real Estate
-2024-03-04,FR,148.59,total postings,Real Estate
+2024-03-04,FR,148.58,total postings,Real Estate
 2024-03-05,FR,150.51,total postings,Real Estate
 2024-03-06,FR,150.41,total postings,Real Estate
 2024-03-07,FR,151.04,total postings,Real Estate
-2024-03-08,FR,152.87,total postings,Real Estate
+2024-03-08,FR,152.86,total postings,Real Estate
+2024-03-09,FR,153.81,total postings,Real Estate
+2024-03-10,FR,154.33,total postings,Real Estate
+2024-03-11,FR,158.41,total postings,Real Estate
+2024-03-12,FR,162.53,total postings,Real Estate
+2024-03-13,FR,162.56,total postings,Real Estate
+2024-03-14,FR,164.2,total postings,Real Estate
+2024-03-15,FR,162.33,total postings,Real Estate
 2020-02-01,FR,100,total postings,Retail
 2020-02-02,FR,99.63,total postings,Retail
 2020-02-03,FR,99.46,total postings,Retail
@@ -41937,12 +42126,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,173.03,total postings,Retail
 2024-03-01,FR,173.12,total postings,Retail
 2024-03-02,FR,173.05,total postings,Retail
-2024-03-03,FR,173.11,total postings,Retail
-2024-03-04,FR,172.88,total postings,Retail
-2024-03-05,FR,172.86,total postings,Retail
-2024-03-06,FR,172.5,total postings,Retail
-2024-03-07,FR,172.55,total postings,Retail
-2024-03-08,FR,172.75,total postings,Retail
+2024-03-03,FR,173.13,total postings,Retail
+2024-03-04,FR,172.9,total postings,Retail
+2024-03-05,FR,172.88,total postings,Retail
+2024-03-06,FR,172.52,total postings,Retail
+2024-03-07,FR,172.57,total postings,Retail
+2024-03-08,FR,172.77,total postings,Retail
+2024-03-09,FR,173.01,total postings,Retail
+2024-03-10,FR,173.1,total postings,Retail
+2024-03-11,FR,173.21,total postings,Retail
+2024-03-12,FR,173.61,total postings,Retail
+2024-03-13,FR,174.23,total postings,Retail
+2024-03-14,FR,174.36,total postings,Retail
+2024-03-15,FR,174.54,total postings,Retail
 2020-02-01,FR,100,total postings,Sales
 2020-02-02,FR,100,total postings,Sales
 2020-02-03,FR,100.12,total postings,Sales
@@ -43441,6 +43637,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-06,FR,126.33,total postings,Sales
 2024-03-07,FR,126.66,total postings,Sales
 2024-03-08,FR,126.88,total postings,Sales
+2024-03-09,FR,127.09,total postings,Sales
+2024-03-10,FR,127.3,total postings,Sales
+2024-03-11,FR,127.53,total postings,Sales
+2024-03-12,FR,127.71,total postings,Sales
+2024-03-13,FR,127.65,total postings,Sales
+2024-03-14,FR,127.61,total postings,Sales
+2024-03-15,FR,127.63,total postings,Sales
 2020-02-01,FR,100,total postings,Cleaning & Sanitation
 2020-02-02,FR,99.8,total postings,Cleaning & Sanitation
 2020-02-03,FR,100.06,total postings,Cleaning & Sanitation
@@ -44933,12 +45136,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,271.64,total postings,Cleaning & Sanitation
 2024-03-01,FR,268.15,total postings,Cleaning & Sanitation
 2024-03-02,FR,264.16,total postings,Cleaning & Sanitation
-2024-03-03,FR,260.21,total postings,Cleaning & Sanitation
-2024-03-04,FR,256.05,total postings,Cleaning & Sanitation
-2024-03-05,FR,256.16,total postings,Cleaning & Sanitation
-2024-03-06,FR,255.88,total postings,Cleaning & Sanitation
-2024-03-07,FR,255.64,total postings,Cleaning & Sanitation
-2024-03-08,FR,255.37,total postings,Cleaning & Sanitation
+2024-03-03,FR,260.24,total postings,Cleaning & Sanitation
+2024-03-04,FR,256.07,total postings,Cleaning & Sanitation
+2024-03-05,FR,256.18,total postings,Cleaning & Sanitation
+2024-03-06,FR,255.91,total postings,Cleaning & Sanitation
+2024-03-07,FR,255.66,total postings,Cleaning & Sanitation
+2024-03-08,FR,255.4,total postings,Cleaning & Sanitation
+2024-03-09,FR,254.94,total postings,Cleaning & Sanitation
+2024-03-10,FR,254.04,total postings,Cleaning & Sanitation
+2024-03-11,FR,252.09,total postings,Cleaning & Sanitation
+2024-03-12,FR,250.98,total postings,Cleaning & Sanitation
+2024-03-13,FR,249.44,total postings,Cleaning & Sanitation
+2024-03-14,FR,247.95,total postings,Cleaning & Sanitation
+2024-03-15,FR,246.56,total postings,Cleaning & Sanitation
 2020-02-01,FR,100,total postings,IT Operations & Helpdesk
 2020-02-02,FR,100.2,total postings,IT Operations & Helpdesk
 2020-02-03,FR,100.5,total postings,IT Operations & Helpdesk
@@ -46434,9 +46644,16 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-03,FR,110.1,total postings,IT Operations & Helpdesk
 2024-03-04,FR,109.74,total postings,IT Operations & Helpdesk
 2024-03-05,FR,109.57,total postings,IT Operations & Helpdesk
-2024-03-06,FR,109.74,total postings,IT Operations & Helpdesk
+2024-03-06,FR,109.75,total postings,IT Operations & Helpdesk
 2024-03-07,FR,109.76,total postings,IT Operations & Helpdesk
-2024-03-08,FR,109.55,total postings,IT Operations & Helpdesk
+2024-03-08,FR,109.56,total postings,IT Operations & Helpdesk
+2024-03-09,FR,109.55,total postings,IT Operations & Helpdesk
+2024-03-10,FR,109.32,total postings,IT Operations & Helpdesk
+2024-03-11,FR,109.14,total postings,IT Operations & Helpdesk
+2024-03-12,FR,109.1,total postings,IT Operations & Helpdesk
+2024-03-13,FR,108.67,total postings,IT Operations & Helpdesk
+2024-03-14,FR,108.28,total postings,IT Operations & Helpdesk
+2024-03-15,FR,108.04,total postings,IT Operations & Helpdesk
 2020-02-01,FR,100,total postings,Information Design & Documentation
 2020-02-02,FR,99.95,total postings,Information Design & Documentation
 2020-02-03,FR,99.99,total postings,Information Design & Documentation
@@ -47929,12 +48146,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,123.25,total postings,Information Design & Documentation
 2024-03-01,FR,123.17,total postings,Information Design & Documentation
 2024-03-02,FR,122.83,total postings,Information Design & Documentation
-2024-03-03,FR,122.53,total postings,Information Design & Documentation
-2024-03-04,FR,122,total postings,Information Design & Documentation
-2024-03-05,FR,121.59,total postings,Information Design & Documentation
-2024-03-06,FR,121.46,total postings,Information Design & Documentation
-2024-03-07,FR,121.22,total postings,Information Design & Documentation
-2024-03-08,FR,121.36,total postings,Information Design & Documentation
+2024-03-03,FR,122.54,total postings,Information Design & Documentation
+2024-03-04,FR,122.01,total postings,Information Design & Documentation
+2024-03-05,FR,121.6,total postings,Information Design & Documentation
+2024-03-06,FR,121.47,total postings,Information Design & Documentation
+2024-03-07,FR,121.23,total postings,Information Design & Documentation
+2024-03-08,FR,121.37,total postings,Information Design & Documentation
+2024-03-09,FR,121.59,total postings,Information Design & Documentation
+2024-03-10,FR,121.61,total postings,Information Design & Documentation
+2024-03-11,FR,121.53,total postings,Information Design & Documentation
+2024-03-12,FR,121.67,total postings,Information Design & Documentation
+2024-03-13,FR,121.73,total postings,Information Design & Documentation
+2024-03-14,FR,121.69,total postings,Information Design & Documentation
+2024-03-15,FR,121.35,total postings,Information Design & Documentation
 2020-02-01,FR,100,total postings,Software Development
 2020-02-02,FR,100.05,total postings,Software Development
 2020-02-03,FR,100.13,total postings,Software Development
@@ -49429,10 +49653,17 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-02,FR,103.23,total postings,Software Development
 2024-03-03,FR,103.04,total postings,Software Development
 2024-03-04,FR,102.72,total postings,Software Development
-2024-03-05,FR,102.53,total postings,Software Development
+2024-03-05,FR,102.54,total postings,Software Development
 2024-03-06,FR,102.5,total postings,Software Development
 2024-03-07,FR,102.11,total postings,Software Development
 2024-03-08,FR,101.74,total postings,Software Development
+2024-03-09,FR,101.65,total postings,Software Development
+2024-03-10,FR,101.42,total postings,Software Development
+2024-03-11,FR,100.99,total postings,Software Development
+2024-03-12,FR,100.68,total postings,Software Development
+2024-03-13,FR,100.18,total postings,Software Development
+2024-03-14,FR,99.74,total postings,Software Development
+2024-03-15,FR,99.49,total postings,Software Development
 2020-02-01,FR,100,total postings,Therapy
 2020-02-02,FR,99.21,total postings,Therapy
 2020-02-03,FR,98.85,total postings,Therapy
@@ -50925,12 +51156,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,222.85,total postings,Therapy
 2024-03-01,FR,221.15,total postings,Therapy
 2024-03-02,FR,219.71,total postings,Therapy
-2024-03-03,FR,218.82,total postings,Therapy
-2024-03-04,FR,218.19,total postings,Therapy
-2024-03-05,FR,218.29,total postings,Therapy
-2024-03-06,FR,219.4,total postings,Therapy
-2024-03-07,FR,221.23,total postings,Therapy
-2024-03-08,FR,221.86,total postings,Therapy
+2024-03-03,FR,218.9,total postings,Therapy
+2024-03-04,FR,218.27,total postings,Therapy
+2024-03-05,FR,218.36,total postings,Therapy
+2024-03-06,FR,219.47,total postings,Therapy
+2024-03-07,FR,221.31,total postings,Therapy
+2024-03-08,FR,221.93,total postings,Therapy
+2024-03-09,FR,222.36,total postings,Therapy
+2024-03-10,FR,221.87,total postings,Therapy
+2024-03-11,FR,220.82,total postings,Therapy
+2024-03-12,FR,219.96,total postings,Therapy
+2024-03-13,FR,218.8,total postings,Therapy
+2024-03-14,FR,217.76,total postings,Therapy
+2024-03-15,FR,217.04,total postings,Therapy
 2020-02-01,FR,100,total postings,Logistic Support
 2020-02-02,FR,100.61,total postings,Logistic Support
 2020-02-03,FR,101.24,total postings,Logistic Support
@@ -52423,12 +52661,19 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-02-29,FR,132.66,total postings,Logistic Support
 2024-03-01,FR,132.7,total postings,Logistic Support
 2024-03-02,FR,132.4,total postings,Logistic Support
-2024-03-03,FR,132.18,total postings,Logistic Support
+2024-03-03,FR,132.19,total postings,Logistic Support
 2024-03-04,FR,131.64,total postings,Logistic Support
-2024-03-05,FR,131.73,total postings,Logistic Support
-2024-03-06,FR,131.95,total postings,Logistic Support
+2024-03-05,FR,131.74,total postings,Logistic Support
+2024-03-06,FR,131.96,total postings,Logistic Support
 2024-03-07,FR,132,total postings,Logistic Support
-2024-03-08,FR,131.57,total postings,Logistic Support
+2024-03-08,FR,131.58,total postings,Logistic Support
+2024-03-09,FR,131.38,total postings,Logistic Support
+2024-03-10,FR,130.72,total postings,Logistic Support
+2024-03-11,FR,130.43,total postings,Logistic Support
+2024-03-12,FR,130,total postings,Logistic Support
+2024-03-13,FR,129.3,total postings,Logistic Support
+2024-03-14,FR,128.71,total postings,Logistic Support
+2024-03-15,FR,128.48,total postings,Logistic Support
 2020-02-01,FR,100,total postings,Loading & Stocking
 2020-02-02,FR,100.22,total postings,Loading & Stocking
 2020-02-03,FR,100.66,total postings,Loading & Stocking
@@ -53925,5 +54170,12 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2024-03-04,FR,127.63,total postings,Loading & Stocking
 2024-03-05,FR,127.23,total postings,Loading & Stocking
 2024-03-06,FR,127.01,total postings,Loading & Stocking
-2024-03-07,FR,126.98,total postings,Loading & Stocking
+2024-03-07,FR,126.99,total postings,Loading & Stocking
 2024-03-08,FR,126.44,total postings,Loading & Stocking
+2024-03-09,FR,126.17,total postings,Loading & Stocking
+2024-03-10,FR,125.56,total postings,Loading & Stocking
+2024-03-11,FR,125.21,total postings,Loading & Stocking
+2024-03-12,FR,125.47,total postings,Loading & Stocking
+2024-03-13,FR,125.54,total postings,Loading & Stocking
+2024-03-14,FR,125.58,total postings,Loading & Stocking
+2024-03-15,FR,126.13,total postings,Loading & Stocking
