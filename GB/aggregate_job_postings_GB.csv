@@ -488,7 +488,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2021-06-01,GB,104.19,111.03,total postings
 2021-06-02,GB,104.17,110.84,total postings
 2021-06-03,GB,104.44,110.89,total postings
-2021-06-04,GB,104.78,110.99,total postings
+2021-06-04,GB,104.78,110.98,total postings
 2021-06-05,GB,105.07,111.03,total postings
 2021-06-06,GB,105.29,111.05,total postings
 2021-06-07,GB,105.46,111.11,total postings
@@ -502,7 +502,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2021-06-15,GB,106.69,113.46,total postings
 2021-06-16,GB,106.92,113.89,total postings
 2021-06-17,GB,106.98,114.11,total postings
-2021-06-18,GB,107.31,114.6,total postings
+2021-06-18,GB,107.31,114.59,total postings
 2021-06-19,GB,107.6,115,total postings
 2021-06-20,GB,107.67,115.18,total postings
 2021-06-21,GB,107.98,115.6,total postings
@@ -510,7 +510,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2021-06-23,GB,108.34,116.1,total postings
 2021-06-24,GB,108.71,116.52,total postings
 2021-06-25,GB,108.77,116.58,total postings
-2021-06-26,GB,109.03,116.85,total postings
+2021-06-26,GB,109.03,116.84,total postings
 2021-06-27,GB,109.43,117.21,total postings
 2021-06-28,GB,109.79,117.52,total postings
 2021-06-29,GB,110.2,117.88,total postings
@@ -1525,6 +1525,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2024-04-03,GB,90.84,93.06,total postings
 2024-04-04,GB,90.27,92.38,total postings
 2024-04-05,GB,89.63,91.66,total postings
+2024-04-06,GB,89.45,91.47,total postings
+2024-04-07,GB,89.19,91.21,total postings
+2024-04-08,GB,88.99,91.04,total postings
+2024-04-09,GB,89.17,91.28,total postings
+2024-04-10,GB,89.2,91.39,total postings
+2024-04-11,GB,89.23,91.54,total postings
+2024-04-12,GB,89.39,91.77,total postings
 2020-02-01,GB,100,100,new postings
 2020-02-02,GB,100.24,99.9,new postings
 2020-02-03,GB,100.43,99.95,new postings
@@ -3051,3 +3058,10 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2024-04-03,GB,91.02,92.36,new postings
 2024-04-04,GB,88.15,88.77,new postings
 2024-04-05,GB,83.6,83.86,new postings
+2024-04-06,GB,83.35,83.7,new postings
+2024-04-07,GB,82.47,83.11,new postings
+2024-04-08,GB,81.73,82.93,new postings
+2024-04-09,GB,84.64,86.65,new postings
+2024-04-10,GB,87.24,90.22,new postings
+2024-04-11,GB,88.83,92.77,new postings
+2024-04-12,GB,92.27,96.85,new postings
