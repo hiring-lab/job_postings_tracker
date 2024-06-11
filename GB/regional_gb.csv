@@ -1581,6 +1581,13 @@ date,region,indeed_job_postings_index
 2024-05-29,East Midlands,101.29
 2024-05-30,East Midlands,101.23
 2024-05-31,East Midlands,101.21
+2024-06-01,East Midlands,100.9
+2024-06-02,East Midlands,100.46
+2024-06-03,East Midlands,100.04
+2024-06-04,East Midlands,99.89
+2024-06-05,East Midlands,99.83
+2024-06-06,East Midlands,99.84
+2024-06-07,East Midlands,99.9
 2020-02-01,East of England,100
 2020-02-02,East of England,99.65
 2020-02-03,East of England,99.37
@@ -3163,6 +3170,13 @@ date,region,indeed_job_postings_index
 2024-05-29,East of England,114.48
 2024-05-30,East of England,114.17
 2024-05-31,East of England,114.03
+2024-06-01,East of England,113.57
+2024-06-02,East of England,113.11
+2024-06-03,East of England,112.63
+2024-06-04,East of England,112.55
+2024-06-05,East of England,112.61
+2024-06-06,East of England,112.67
+2024-06-07,East of England,112.61
 2020-02-01,London,100
 2020-02-02,London,99.77
 2020-02-03,London,99.66
@@ -4226,34 +4240,34 @@ date,region,indeed_job_postings_index
 2022-12-27,London,146.63
 2022-12-28,London,147.26
 2022-12-29,London,147.66
-2022-12-30,London,147.9
+2022-12-30,London,147.89
 2022-12-31,London,147.86
 2023-01-01,London,147.25
 2023-01-02,London,146.13
 2023-01-03,London,144.49
 2023-01-04,London,142.54
-2023-01-05,London,140.95
-2023-01-06,London,139.55
+2023-01-05,London,140.94
+2023-01-06,London,139.54
 2023-01-07,London,138.38
 2023-01-08,London,137.63
 2023-01-09,London,137.01
 2023-01-10,London,136.87
-2023-01-11,London,137
-2023-01-12,London,136.88
-2023-01-13,London,136.88
+2023-01-11,London,136.99
+2023-01-12,London,136.87
+2023-01-13,London,136.87
 2023-01-14,London,136.66
-2023-01-15,London,136.69
+2023-01-15,London,136.68
 2023-01-16,London,136.78
 2023-01-17,London,136.87
-2023-01-18,London,136.92
-2023-01-19,London,136.81
-2023-01-20,London,136.49
-2023-01-21,London,136.3
+2023-01-18,London,136.91
+2023-01-19,London,136.8
+2023-01-20,London,136.48
+2023-01-21,London,136.29
 2023-01-22,London,135.98
 2023-01-23,London,135.4
 2023-01-24,London,135.12
 2023-01-25,London,134.87
-2023-01-26,London,134.81
+2023-01-26,London,134.8
 2023-01-27,London,134.76
 2023-01-28,London,134.65
 2023-01-29,London,134.37
@@ -4320,8 +4334,8 @@ date,region,indeed_job_postings_index
 2023-03-31,London,117.08
 2023-04-01,London,116.84
 2023-04-02,London,116.6
-2023-04-03,London,116.43
-2023-04-04,London,116.37
+2023-04-03,London,116.42
+2023-04-04,London,116.36
 2023-04-05,London,116.34
 2023-04-06,London,116.25
 2023-04-07,London,116.21
@@ -4332,7 +4346,7 @@ date,region,indeed_job_postings_index
 2023-04-12,London,114.84
 2023-04-13,London,114.43
 2023-04-14,London,114.05
-2023-04-15,London,113.57
+2023-04-15,London,113.56
 2023-04-16,London,113.56
 2023-04-17,London,113.52
 2023-04-18,London,113.86
@@ -4413,8 +4427,8 @@ date,region,indeed_job_postings_index
 2023-07-02,London,103.57
 2023-07-03,London,103.44
 2023-07-04,London,103.35
-2023-07-05,London,103.43
-2023-07-06,London,103.37
+2023-07-05,London,103.42
+2023-07-06,London,103.36
 2023-07-07,London,103.45
 2023-07-08,London,103.82
 2023-07-09,London,104.18
@@ -4423,19 +4437,19 @@ date,region,indeed_job_postings_index
 2023-07-12,London,104.9
 2023-07-13,London,105.01
 2023-07-14,London,105.05
-2023-07-15,London,105.03
+2023-07-15,London,105.02
 2023-07-16,London,105
 2023-07-17,London,104.92
 2023-07-18,London,104.82
 2023-07-19,London,104.71
 2023-07-20,London,104.57
 2023-07-21,London,104.43
-2023-07-22,London,103.94
+2023-07-22,London,103.93
 2023-07-23,London,103.71
 2023-07-24,London,103.57
 2023-07-25,London,103.44
 2023-07-26,London,103.39
-2023-07-27,London,103.43
+2023-07-27,London,103.42
 2023-07-28,London,103.45
 2023-07-29,London,103.85
 2023-07-30,London,104.02
@@ -4447,45 +4461,45 @@ date,region,indeed_job_postings_index
 2023-08-05,London,103.87
 2023-08-06,London,103.91
 2023-08-07,London,103.93
-2023-08-08,London,103.98
-2023-08-09,London,103.99
+2023-08-08,London,103.97
+2023-08-09,London,103.98
 2023-08-10,London,103.93
-2023-08-11,London,103.78
-2023-08-12,London,103.38
-2023-08-13,London,103.09
-2023-08-14,London,102.82
-2023-08-15,London,102.78
-2023-08-16,London,102.79
-2023-08-17,London,102.84
-2023-08-18,London,102.92
-2023-08-19,London,103.16
-2023-08-20,London,103.26
-2023-08-21,London,103.32
-2023-08-22,London,103.33
-2023-08-23,London,103.36
-2023-08-24,London,103.49
-2023-08-25,London,103.57
-2023-08-26,London,103.68
-2023-08-27,London,103.88
-2023-08-28,London,104.25
-2023-08-29,London,104.15
-2023-08-30,London,104.05
-2023-08-31,London,103.92
-2023-09-01,London,103.57
-2023-09-02,London,103.22
-2023-09-03,London,102.78
-2023-09-04,London,102.19
-2023-09-05,London,102.05
-2023-09-06,London,101.93
-2023-09-07,London,101.76
-2023-09-08,London,101.82
+2023-08-11,London,103.77
+2023-08-12,London,103.37
+2023-08-13,London,103.08
+2023-08-14,London,102.81
+2023-08-15,London,102.77
+2023-08-16,London,102.78
+2023-08-17,London,102.83
+2023-08-18,London,102.91
+2023-08-19,London,103.15
+2023-08-20,London,103.25
+2023-08-21,London,103.31
+2023-08-22,London,103.32
+2023-08-23,London,103.35
+2023-08-24,London,103.48
+2023-08-25,London,103.56
+2023-08-26,London,103.67
+2023-08-27,London,103.87
+2023-08-28,London,104.23
+2023-08-29,London,104.14
+2023-08-30,London,104.03
+2023-08-31,London,103.9
+2023-09-01,London,103.56
+2023-09-02,London,103.21
+2023-09-03,London,102.77
+2023-09-04,London,102.18
+2023-09-05,London,102.04
+2023-09-06,London,101.92
+2023-09-07,London,101.75
+2023-09-08,London,101.81
 2023-09-09,London,101.88
-2023-09-10,London,101.87
+2023-09-10,London,101.86
 2023-09-11,London,101.83
-2023-09-12,London,101.8
+2023-09-12,London,101.79
 2023-09-13,London,101.79
 2023-09-14,London,101.66
-2023-09-15,London,101.48
+2023-09-15,London,101.47
 2023-09-16,London,101.08
 2023-09-17,London,100.94
 2023-09-18,London,100.88
@@ -4652,99 +4666,106 @@ date,region,indeed_job_postings_index
 2024-02-26,London,87.86
 2024-02-27,London,87.76
 2024-02-28,London,87.8
-2024-02-29,London,85.29
-2024-03-01,London,82.38
-2024-03-02,London,79.31
-2024-03-03,London,76.04
-2024-03-04,London,73.04
-2024-03-05,London,69.95
-2024-03-06,London,66.77
-2024-03-07,London,66
-2024-03-08,London,65.57
-2024-03-09,London,65.43
-2024-03-10,London,65.48
-2024-03-11,London,65.34
-2024-03-12,London,65.25
-2024-03-13,London,65.22
-2024-03-14,London,65.16
-2024-03-15,London,65.13
-2024-03-16,London,65
-2024-03-17,London,64.94
-2024-03-18,London,64.91
-2024-03-19,London,64.86
-2024-03-20,London,64.82
-2024-03-21,London,64.82
-2024-03-22,London,64.81
-2024-03-23,London,64.8
-2024-03-24,London,64.73
-2024-03-25,London,64.65
-2024-03-26,London,64.62
-2024-03-27,London,64.55
-2024-03-28,London,64.55
-2024-03-29,London,64.61
-2024-03-30,London,64.58
-2024-03-31,London,64.58
-2024-04-01,London,64.53
-2024-04-02,London,64.27
-2024-04-03,London,64.07
-2024-04-04,London,63.83
-2024-04-05,London,63.49
-2024-04-06,London,63.32
-2024-04-07,London,63.12
-2024-04-08,London,62.94
-2024-04-09,London,62.97
-2024-04-10,London,62.91
-2024-04-11,London,62.87
-2024-04-12,London,62.88
-2024-04-13,London,62.76
-2024-04-14,London,62.75
-2024-04-15,London,62.76
-2024-04-16,London,62.8
-2024-04-17,London,62.96
-2024-04-18,London,63.13
-2024-04-19,London,63.29
-2024-04-20,London,63.32
-2024-04-21,London,63.54
-2024-04-22,London,63.75
-2024-04-23,London,63.92
-2024-04-24,London,63.97
-2024-04-25,London,64.06
-2024-04-26,London,64.17
-2024-04-27,London,64.49
-2024-04-28,London,64.55
-2024-04-29,London,64.55
-2024-04-30,London,64.57
-2024-05-01,London,64.61
-2024-05-02,London,64.55
-2024-05-03,London,64.55
-2024-05-04,London,64.55
-2024-05-05,London,64.57
-2024-05-06,London,64.74
-2024-05-07,London,64.74
-2024-05-08,London,64.85
-2024-05-09,London,64.96
-2024-05-10,London,64.86
-2024-05-11,London,64.89
-2024-05-12,London,64.9
-2024-05-13,London,64.81
-2024-05-14,London,64.9
-2024-05-15,London,65.01
-2024-05-16,London,65.19
-2024-05-17,London,65.45
-2024-05-18,London,65.2
-2024-05-19,London,64.85
-2024-05-20,London,64.51
-2024-05-21,London,64.1
-2024-05-22,London,64.08
-2024-05-23,London,64.07
-2024-05-24,London,64.12
-2024-05-25,London,64.54
-2024-05-26,London,65.08
-2024-05-27,London,65.69
-2024-05-28,London,66.25
-2024-05-29,London,66.32
-2024-05-30,London,66.36
-2024-05-31,London,66.44
+2024-02-29,London,78.69
+2024-03-01,London,68.56
+2024-03-02,London,58.03
+2024-03-03,London,46.04
+2024-03-04,London,34.89
+2024-03-05,London,23.38
+2024-03-06,London,11.5
+2024-03-07,London,8.5
+2024-03-08,London,6.42
+2024-03-09,London,4.86
+2024-03-10,London,4.69
+2024-03-11,London,3.9
+2024-03-12,London,3.41
+2024-03-13,London,3.19
+2024-03-14,London,3.08
+2024-03-15,London,2.98
+2024-03-16,London,2.88
+2024-03-17,London,2.78
+2024-03-18,London,2.69
+2024-03-19,London,2.64
+2024-03-20,London,2.59
+2024-03-21,London,2.53
+2024-03-22,London,2.47
+2024-03-23,London,2.42
+2024-03-24,London,2.35
+2024-03-25,London,2.3
+2024-03-26,London,2.24
+2024-03-27,London,2.19
+2024-03-28,London,2.15
+2024-03-29,London,2.12
+2024-03-30,London,2.09
+2024-03-31,London,2.06
+2024-04-01,London,2.03
+2024-04-02,London,2.01
+2024-04-03,London,2
+2024-04-04,London,1.98
+2024-04-05,London,1.97
+2024-04-06,London,1.95
+2024-04-07,London,1.93
+2024-04-08,London,1.9
+2024-04-09,London,1.7
+2024-04-10,London,1.5
+2024-04-11,London,1.3
+2024-04-12,London,1.1
+2024-04-13,London,0.91
+2024-04-14,London,0.71
+2024-04-15,London,0.53
+2024-04-16,London,0.52
+2024-04-17,London,0.52
+2024-04-18,London,0.52
+2024-04-19,London,0.51
+2024-04-20,London,0.5
+2024-04-21,London,0.5
+2024-04-22,London,0.49
+2024-04-23,London,0.48
+2024-04-24,London,0.47
+2024-04-25,London,0.46
+2024-04-26,London,0.45
+2024-04-27,London,0.44
+2024-04-28,London,0.44
+2024-04-29,London,0.43
+2024-04-30,London,0.42
+2024-05-01,London,0.42
+2024-05-02,London,0.42
+2024-05-03,London,0.41
+2024-05-04,London,0.41
+2024-05-05,London,0.4
+2024-05-06,London,0.4
+2024-05-07,London,0.39
+2024-05-08,London,0.39
+2024-05-09,London,0.39
+2024-05-10,London,0.39
+2024-05-11,London,0.38
+2024-05-12,London,0.38
+2024-05-13,London,0.38
+2024-05-14,London,0.37
+2024-05-15,London,0.37
+2024-05-16,London,0.36
+2024-05-17,London,0.36
+2024-05-18,London,0.36
+2024-05-19,London,0.35
+2024-05-20,London,0.35
+2024-05-21,London,0.3
+2024-05-22,London,0.26
+2024-05-23,London,0.22
+2024-05-24,London,0.17
+2024-05-25,London,0.13
+2024-05-26,London,0.09
+2024-05-27,London,0.05
+2024-05-28,London,0.05
+2024-05-29,London,0.05
+2024-05-30,London,0.05
+2024-05-31,London,0.04
+2024-06-01,London,0.04
+2024-06-02,London,0.03
+2024-06-03,London,0.03
+2024-06-04,London,0.03
+2024-06-05,London,0.03
+2024-06-06,London,0.02
+2024-06-07,London,0.02
 2020-02-01,North East,100
 2020-02-02,North East,99.73
 2020-02-03,North East,99.58
@@ -6327,6 +6348,13 @@ date,region,indeed_job_postings_index
 2024-05-29,North East,134.24
 2024-05-30,North East,134.07
 2024-05-31,North East,134.01
+2024-06-01,North East,133.56
+2024-06-02,North East,133.06
+2024-06-03,North East,132.51
+2024-06-04,North East,132.49
+2024-06-05,North East,132.41
+2024-06-06,North East,132.26
+2024-06-07,North East,132.1
 2020-02-01,North West,100
 2020-02-02,North West,99.87
 2020-02-03,North West,99.88
@@ -7909,6 +7937,13 @@ date,region,indeed_job_postings_index
 2024-05-29,North West,111.4
 2024-05-30,North West,111.01
 2024-05-31,North West,110.79
+2024-06-01,North West,110.34
+2024-06-02,North West,109.98
+2024-06-03,North West,109.67
+2024-06-04,North West,109.84
+2024-06-05,North West,110.11
+2024-06-06,North West,110.43
+2024-06-07,North West,110.77
 2020-02-01,Northern Ireland,100
 2020-02-02,Northern Ireland,99.45
 2020-02-03,Northern Ireland,99.13
@@ -9491,6 +9526,13 @@ date,region,indeed_job_postings_index
 2024-05-29,Northern Ireland,123.84
 2024-05-30,Northern Ireland,124.1
 2024-05-31,Northern Ireland,124.16
+2024-06-01,Northern Ireland,123.84
+2024-06-02,Northern Ireland,123.45
+2024-06-03,Northern Ireland,123.1
+2024-06-04,Northern Ireland,122.76
+2024-06-05,Northern Ireland,122.35
+2024-06-06,Northern Ireland,122.38
+2024-06-07,Northern Ireland,122.46
 2020-02-01,Scotland,100
 2020-02-02,Scotland,99.75
 2020-02-03,Scotland,99.69
@@ -11073,6 +11115,13 @@ date,region,indeed_job_postings_index
 2024-05-29,Scotland,129.05
 2024-05-30,Scotland,128.83
 2024-05-31,Scotland,128.77
+2024-06-01,Scotland,128.32
+2024-06-02,Scotland,127.85
+2024-06-03,Scotland,127.52
+2024-06-04,Scotland,127.17
+2024-06-05,Scotland,126.81
+2024-06-06,Scotland,126.55
+2024-06-07,Scotland,126.21
 2020-02-01,South East,100
 2020-02-02,South East,99.77
 2020-02-03,South East,99.65
@@ -12655,6 +12704,13 @@ date,region,indeed_job_postings_index
 2024-05-29,South East,93.2
 2024-05-30,South East,93.01
 2024-05-31,South East,92.91
+2024-06-01,South East,92.56
+2024-06-02,South East,92.21
+2024-06-03,South East,91.79
+2024-06-04,South East,91.64
+2024-06-05,South East,91.58
+2024-06-06,South East,91.58
+2024-06-07,South East,91.52
 2020-02-01,South West,100
 2020-02-02,South West,99.8
 2020-02-03,South West,99.75
@@ -14237,6 +14293,13 @@ date,region,indeed_job_postings_index
 2024-05-29,South West,106.3
 2024-05-30,South West,106.04
 2024-05-31,South West,105.8
+2024-06-01,South West,105.21
+2024-06-02,South West,104.6
+2024-06-03,South West,104.02
+2024-06-04,South West,103.8
+2024-06-05,South West,103.63
+2024-06-06,South West,103.62
+2024-06-07,South West,103.53
 2020-02-01,Wales,100
 2020-02-02,Wales,99.59
 2020-02-03,Wales,99.32
@@ -15819,6 +15882,13 @@ date,region,indeed_job_postings_index
 2024-05-29,Wales,121.66
 2024-05-30,Wales,121.48
 2024-05-31,Wales,121.34
+2024-06-01,Wales,120.81
+2024-06-02,Wales,120.15
+2024-06-03,Wales,119.41
+2024-06-04,Wales,119.08
+2024-06-05,Wales,118.69
+2024-06-06,Wales,118.62
+2024-06-07,Wales,118.49
 2020-02-01,West Midlands,100
 2020-02-02,West Midlands,100.15
 2020-02-03,West Midlands,100.5
@@ -17401,6 +17471,13 @@ date,region,indeed_job_postings_index
 2024-05-29,West Midlands,110.59
 2024-05-30,West Midlands,110.27
 2024-05-31,West Midlands,110.24
+2024-06-01,West Midlands,109.73
+2024-06-02,West Midlands,109.21
+2024-06-03,West Midlands,108.73
+2024-06-04,West Midlands,108.8
+2024-06-05,West Midlands,108.97
+2024-06-06,West Midlands,109.16
+2024-06-07,West Midlands,109.16
 2020-02-01,Yorkshire & the Humber,100
 2020-02-02,Yorkshire & the Humber,99.98
 2020-02-03,Yorkshire & the Humber,100.04
@@ -18983,3 +19060,10 @@ date,region,indeed_job_postings_index
 2024-05-29,Yorkshire & the Humber,104.8
 2024-05-30,Yorkshire & the Humber,104.9
 2024-05-31,Yorkshire & the Humber,105.04
+2024-06-01,Yorkshire & the Humber,104.78
+2024-06-02,Yorkshire & the Humber,104.49
+2024-06-03,Yorkshire & the Humber,104.16
+2024-06-04,Yorkshire & the Humber,104.1
+2024-06-05,Yorkshire & the Humber,104.04
+2024-06-06,Yorkshire & the Humber,103.91
+2024-06-07,Yorkshire & the Humber,103.69
