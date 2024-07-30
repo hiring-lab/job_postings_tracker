@@ -1626,10 +1626,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Abbotsford, BC",123.65
 2024-07-14,"Abbotsford, BC",123.96
 2024-07-15,"Abbotsford, BC",124.1
-2024-07-16,"Abbotsford, BC",123.97
-2024-07-17,"Abbotsford, BC",123.96
-2024-07-18,"Abbotsford, BC",123.45
-2024-07-19,"Abbotsford, BC",122.63
+2024-07-16,"Abbotsford, BC",123.96
+2024-07-17,"Abbotsford, BC",123.94
+2024-07-18,"Abbotsford, BC",123.42
+2024-07-19,"Abbotsford, BC",122.6
+2024-07-20,"Abbotsford, BC",122.01
+2024-07-21,"Abbotsford, BC",121.51
+2024-07-22,"Abbotsford, BC",121.04
+2024-07-23,"Abbotsford, BC",120.72
+2024-07-24,"Abbotsford, BC",119.85
+2024-07-25,"Abbotsford, BC",119.43
+2024-07-26,"Abbotsford, BC",119.72
 2020-02-01,"Banff, AB",100
 2020-02-02,"Banff, AB",99.25
 2020-02-03,"Banff, AB",98.99
@@ -3261,6 +3268,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Banff, AB",104.44
 2024-07-18,"Banff, AB",105.28
 2024-07-19,"Banff, AB",105.46
+2024-07-20,"Banff, AB",105.61
+2024-07-21,"Banff, AB",106.51
+2024-07-22,"Banff, AB",108.08
+2024-07-23,"Banff, AB",109.56
+2024-07-24,"Banff, AB",111.13
+2024-07-25,"Banff, AB",112.18
+2024-07-26,"Banff, AB",113.13
 2020-02-01,"Barrie, ON",100
 2020-02-02,"Barrie, ON",99.82
 2020-02-03,"Barrie, ON",99.6
@@ -4888,10 +4902,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Barrie, ON",93.25
 2024-07-14,"Barrie, ON",93.31
 2024-07-15,"Barrie, ON",93.32
-2024-07-16,"Barrie, ON",93.03
-2024-07-17,"Barrie, ON",92.91
-2024-07-18,"Barrie, ON",92.37
-2024-07-19,"Barrie, ON",91.98
+2024-07-16,"Barrie, ON",93.05
+2024-07-17,"Barrie, ON",92.92
+2024-07-18,"Barrie, ON",92.38
+2024-07-19,"Barrie, ON",91.99
+2024-07-20,"Barrie, ON",91.26
+2024-07-21,"Barrie, ON",91.15
+2024-07-22,"Barrie, ON",91.05
+2024-07-23,"Barrie, ON",90.9
+2024-07-24,"Barrie, ON",91.09
+2024-07-25,"Barrie, ON",91.54
+2024-07-26,"Barrie, ON",92.12
 2020-02-01,"Belleville, ON",100
 2020-02-02,"Belleville, ON",100.46
 2020-02-03,"Belleville, ON",101.05
@@ -6523,6 +6544,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Belleville, ON",101.57
 2024-07-18,"Belleville, ON",100.9
 2024-07-19,"Belleville, ON",100.56
+2024-07-20,"Belleville, ON",100.35
+2024-07-21,"Belleville, ON",100.46
+2024-07-22,"Belleville, ON",100.49
+2024-07-23,"Belleville, ON",99.69
+2024-07-24,"Belleville, ON",99.99
+2024-07-25,"Belleville, ON",99.3
+2024-07-26,"Belleville, ON",99.12
 2020-02-01,"Brandon, MB",100
 2020-02-02,"Brandon, MB",99.16
 2020-02-03,"Brandon, MB",98.3
@@ -8154,6 +8182,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Brandon, MB",105.16
 2024-07-18,"Brandon, MB",105.35
 2024-07-19,"Brandon, MB",106.4
+2024-07-20,"Brandon, MB",106.99
+2024-07-21,"Brandon, MB",107.92
+2024-07-22,"Brandon, MB",108.67
+2024-07-23,"Brandon, MB",109.33
+2024-07-24,"Brandon, MB",109.8
+2024-07-25,"Brandon, MB",110.41
+2024-07-26,"Brandon, MB",110.79
 2020-02-01,"Brantford, ON",100
 2020-02-02,"Brantford, ON",99.74
 2020-02-03,"Brantford, ON",99.63
@@ -9785,6 +9820,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Brantford, ON",93.25
 2024-07-18,"Brantford, ON",93.38
 2024-07-19,"Brantford, ON",93.69
+2024-07-20,"Brantford, ON",93.57
+2024-07-21,"Brantford, ON",93.92
+2024-07-22,"Brantford, ON",94.43
+2024-07-23,"Brantford, ON",94.94
+2024-07-24,"Brantford, ON",95.15
+2024-07-25,"Brantford, ON",95.39
+2024-07-26,"Brantford, ON",95.78
 2020-02-01,"Brockville, ON",100
 2020-02-02,"Brockville, ON",99.94
 2020-02-03,"Brockville, ON",100.41
@@ -11416,6 +11458,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Brockville, ON",132.25
 2024-07-18,"Brockville, ON",130.61
 2024-07-19,"Brockville, ON",129.87
+2024-07-20,"Brockville, ON",128.85
+2024-07-21,"Brockville, ON",128.09
+2024-07-22,"Brockville, ON",127.51
+2024-07-23,"Brockville, ON",126.88
+2024-07-24,"Brockville, ON",125.64
+2024-07-25,"Brockville, ON",124.59
+2024-07-26,"Brockville, ON",123.98
 2020-02-01,"Calgary, AB",100
 2020-02-02,"Calgary, AB",100.28
 2020-02-03,"Calgary, AB",100.56
@@ -13043,10 +13092,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Calgary, AB",111.29
 2024-07-14,"Calgary, AB",110.96
 2024-07-15,"Calgary, AB",110.69
-2024-07-16,"Calgary, AB",110.44
+2024-07-16,"Calgary, AB",110.45
 2024-07-17,"Calgary, AB",110.06
-2024-07-18,"Calgary, AB",109.9
-2024-07-19,"Calgary, AB",109.92
+2024-07-18,"Calgary, AB",109.89
+2024-07-19,"Calgary, AB",109.91
+2024-07-20,"Calgary, AB",109.52
+2024-07-21,"Calgary, AB",109.59
+2024-07-22,"Calgary, AB",109.62
+2024-07-23,"Calgary, AB",109.67
+2024-07-24,"Calgary, AB",109.83
+2024-07-25,"Calgary, AB",109.83
+2024-07-26,"Calgary, AB",109.88
 2020-02-01,"Canmore, AB",100
 2020-02-02,"Canmore, AB",99.94
 2020-02-03,"Canmore, AB",100.62
@@ -14678,6 +14734,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Canmore, AB",123.94
 2024-07-18,"Canmore, AB",123.63
 2024-07-19,"Canmore, AB",123.25
+2024-07-20,"Canmore, AB",122.35
+2024-07-21,"Canmore, AB",121.35
+2024-07-22,"Canmore, AB",119.54
+2024-07-23,"Canmore, AB",118.13
+2024-07-24,"Canmore, AB",115.96
+2024-07-25,"Canmore, AB",113.96
+2024-07-26,"Canmore, AB",112.76
 2020-02-01,"Chilliwack, BC",100
 2020-02-02,"Chilliwack, BC",100.3
 2020-02-03,"Chilliwack, BC",100.82
@@ -16309,6 +16372,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Chilliwack, BC",109.53
 2024-07-18,"Chilliwack, BC",109.91
 2024-07-19,"Chilliwack, BC",110.46
+2024-07-20,"Chilliwack, BC",110.2
+2024-07-21,"Chilliwack, BC",109.88
+2024-07-22,"Chilliwack, BC",109.44
+2024-07-23,"Chilliwack, BC",109.09
+2024-07-24,"Chilliwack, BC",108.24
+2024-07-25,"Chilliwack, BC",107.61
+2024-07-26,"Chilliwack, BC",107.49
 2020-02-01,"Collingwood, ON",100
 2020-02-02,"Collingwood, ON",100
 2020-02-03,"Collingwood, ON",100.54
@@ -17940,6 +18010,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Collingwood, ON",98.71
 2024-07-18,"Collingwood, ON",98.97
 2024-07-19,"Collingwood, ON",99.5
+2024-07-20,"Collingwood, ON",99.69
+2024-07-21,"Collingwood, ON",99.96
+2024-07-22,"Collingwood, ON",100.3
+2024-07-23,"Collingwood, ON",100.89
+2024-07-24,"Collingwood, ON",101.74
+2024-07-25,"Collingwood, ON",102.67
+2024-07-26,"Collingwood, ON",103.63
 2020-02-01,"Drummondville, QC",100
 2020-02-02,"Drummondville, QC",98.95
 2020-02-03,"Drummondville, QC",97.88
@@ -19571,6 +19648,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Drummondville, QC",99.51
 2024-07-18,"Drummondville, QC",98.98
 2024-07-19,"Drummondville, QC",98.61
+2024-07-20,"Drummondville, QC",97.56
+2024-07-21,"Drummondville, QC",96.88
+2024-07-22,"Drummondville, QC",96.31
+2024-07-23,"Drummondville, QC",95.91
+2024-07-24,"Drummondville, QC",95.68
+2024-07-25,"Drummondville, QC",95.33
+2024-07-26,"Drummondville, QC",94.77
 2020-02-01,"Edmonton, AB",100
 2020-02-02,"Edmonton, AB",99.4
 2020-02-03,"Edmonton, AB",99.01
@@ -21198,10 +21282,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Edmonton, AB",116.44
 2024-07-14,"Edmonton, AB",115.96
 2024-07-15,"Edmonton, AB",115.52
-2024-07-16,"Edmonton, AB",114.97
-2024-07-17,"Edmonton, AB",114.51
-2024-07-18,"Edmonton, AB",114.15
-2024-07-19,"Edmonton, AB",113.91
+2024-07-16,"Edmonton, AB",114.94
+2024-07-17,"Edmonton, AB",114.48
+2024-07-18,"Edmonton, AB",114.12
+2024-07-19,"Edmonton, AB",113.89
+2024-07-20,"Edmonton, AB",113.34
+2024-07-21,"Edmonton, AB",113.26
+2024-07-22,"Edmonton, AB",113.19
+2024-07-23,"Edmonton, AB",113.07
+2024-07-24,"Edmonton, AB",112.94
+2024-07-25,"Edmonton, AB",112.57
+2024-07-26,"Edmonton, AB",112.57
 2020-02-01,"Fort McMurray, AB",100
 2020-02-02,"Fort McMurray, AB",99.81
 2020-02-03,"Fort McMurray, AB",99.75
@@ -22829,10 +22920,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Fort McMurray, AB",83.58
 2024-07-14,"Fort McMurray, AB",83.6
 2024-07-15,"Fort McMurray, AB",83.73
-2024-07-16,"Fort McMurray, AB",84.42
-2024-07-17,"Fort McMurray, AB",84.84
-2024-07-18,"Fort McMurray, AB",85.31
-2024-07-19,"Fort McMurray, AB",85.57
+2024-07-16,"Fort McMurray, AB",84.37
+2024-07-17,"Fort McMurray, AB",84.79
+2024-07-18,"Fort McMurray, AB",85.27
+2024-07-19,"Fort McMurray, AB",85.53
+2024-07-20,"Fort McMurray, AB",85.55
+2024-07-21,"Fort McMurray, AB",85.75
+2024-07-22,"Fort McMurray, AB",85.71
+2024-07-23,"Fort McMurray, AB",85.52
+2024-07-24,"Fort McMurray, AB",85.17
+2024-07-25,"Fort McMurray, AB",84.89
+2024-07-26,"Fort McMurray, AB",85.09
 2020-02-01,"Fredericton, NB",100
 2020-02-02,"Fredericton, NB",100.04
 2020-02-03,"Fredericton, NB",100.37
@@ -24460,10 +24558,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Fredericton, NB",103.77
 2024-07-14,"Fredericton, NB",102.63
 2024-07-15,"Fredericton, NB",101.61
-2024-07-16,"Fredericton, NB",100.37
-2024-07-17,"Fredericton, NB",99.13
-2024-07-18,"Fredericton, NB",98.47
-2024-07-19,"Fredericton, NB",98.27
+2024-07-16,"Fredericton, NB",100.23
+2024-07-17,"Fredericton, NB",98.93
+2024-07-18,"Fredericton, NB",98.22
+2024-07-19,"Fredericton, NB",97.93
+2024-07-20,"Fredericton, NB",97.62
+2024-07-21,"Fredericton, NB",97.85
+2024-07-22,"Fredericton, NB",98.16
+2024-07-23,"Fredericton, NB",98.73
+2024-07-24,"Fredericton, NB",98.79
+2024-07-25,"Fredericton, NB",98.83
+2024-07-26,"Fredericton, NB",99.24
 2020-02-01,"Gatineau, QC",100
 2020-02-02,"Gatineau, QC",99.55
 2020-02-03,"Gatineau, QC",99.17
@@ -26092,9 +26197,16 @@ date,Metro,indeed_job_postings_index
 2024-07-14,"Gatineau, QC",84.65
 2024-07-15,"Gatineau, QC",84.17
 2024-07-16,"Gatineau, QC",83.78
-2024-07-17,"Gatineau, QC",83.68
-2024-07-18,"Gatineau, QC",83.98
-2024-07-19,"Gatineau, QC",84.72
+2024-07-17,"Gatineau, QC",83.69
+2024-07-18,"Gatineau, QC",83.99
+2024-07-19,"Gatineau, QC",84.73
+2024-07-20,"Gatineau, QC",85
+2024-07-21,"Gatineau, QC",85.69
+2024-07-22,"Gatineau, QC",86.54
+2024-07-23,"Gatineau, QC",87.14
+2024-07-24,"Gatineau, QC",87.77
+2024-07-25,"Gatineau, QC",88.06
+2024-07-26,"Gatineau, QC",88.44
 2020-02-01,"Grande Prairie, AB",100
 2020-02-02,"Grande Prairie, AB",99.26
 2020-02-03,"Grande Prairie, AB",98.44
@@ -27726,6 +27838,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Grande Prairie, AB",99.45
 2024-07-18,"Grande Prairie, AB",98.75
 2024-07-19,"Grande Prairie, AB",98.3
+2024-07-20,"Grande Prairie, AB",97.51
+2024-07-21,"Grande Prairie, AB",97
+2024-07-22,"Grande Prairie, AB",96.78
+2024-07-23,"Grande Prairie, AB",96.86
+2024-07-24,"Grande Prairie, AB",97.36
+2024-07-25,"Grande Prairie, AB",97.9
+2024-07-26,"Grande Prairie, AB",98.48
 2020-02-01,"Guelph, ON",100
 2020-02-02,"Guelph, ON",100.25
 2020-02-03,"Guelph, ON",100.68
@@ -29354,9 +29473,16 @@ date,Metro,indeed_job_postings_index
 2024-07-14,"Guelph, ON",88.59
 2024-07-15,"Guelph, ON",88.34
 2024-07-16,"Guelph, ON",88.17
-2024-07-17,"Guelph, ON",88.07
-2024-07-18,"Guelph, ON",88
-2024-07-19,"Guelph, ON",87.93
+2024-07-17,"Guelph, ON",88.08
+2024-07-18,"Guelph, ON",88.02
+2024-07-19,"Guelph, ON",87.96
+2024-07-20,"Guelph, ON",87.9
+2024-07-21,"Guelph, ON",87.88
+2024-07-22,"Guelph, ON",87.96
+2024-07-23,"Guelph, ON",88.1
+2024-07-24,"Guelph, ON",87.66
+2024-07-25,"Guelph, ON",86.89
+2024-07-26,"Guelph, ON",86.25
 2020-02-01,"Halifax, NS",100
 2020-02-02,"Halifax, NS",99.96
 2020-02-03,"Halifax, NS",99.96
@@ -30985,9 +31111,16 @@ date,Metro,indeed_job_postings_index
 2024-07-14,"Halifax, NS",119.26
 2024-07-15,"Halifax, NS",118.27
 2024-07-16,"Halifax, NS",116.96
-2024-07-17,"Halifax, NS",115.95
-2024-07-18,"Halifax, NS",115.04
-2024-07-19,"Halifax, NS",114.34
+2024-07-17,"Halifax, NS",115.93
+2024-07-18,"Halifax, NS",115.02
+2024-07-19,"Halifax, NS",114.33
+2024-07-20,"Halifax, NS",113.21
+2024-07-21,"Halifax, NS",112.95
+2024-07-22,"Halifax, NS",112.9
+2024-07-23,"Halifax, NS",113.22
+2024-07-24,"Halifax, NS",113.34
+2024-07-25,"Halifax, NS",113.31
+2024-07-26,"Halifax, NS",113.43
 2020-02-01,"Hamilton, ON",100
 2020-02-02,"Hamilton, ON",100.1
 2020-02-03,"Hamilton, ON",100.25
@@ -32615,10 +32748,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Hamilton, ON",84.97
 2024-07-14,"Hamilton, ON",84.82
 2024-07-15,"Hamilton, ON",84.69
-2024-07-16,"Hamilton, ON",84.3
-2024-07-17,"Hamilton, ON",83.88
-2024-07-18,"Hamilton, ON",83.72
-2024-07-19,"Hamilton, ON",83.58
+2024-07-16,"Hamilton, ON",84.31
+2024-07-17,"Hamilton, ON",83.9
+2024-07-18,"Hamilton, ON",83.74
+2024-07-19,"Hamilton, ON",83.61
+2024-07-20,"Hamilton, ON",83.2
+2024-07-21,"Hamilton, ON",83.07
+2024-07-22,"Hamilton, ON",82.8
+2024-07-23,"Hamilton, ON",82.78
+2024-07-24,"Hamilton, ON",82.84
+2024-07-25,"Hamilton, ON",82.72
+2024-07-26,"Hamilton, ON",82.77
 2020-02-01,"KWC, ON",100
 2020-02-02,"KWC, ON",99.8
 2020-02-03,"KWC, ON",99.63
@@ -34246,10 +34386,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"KWC, ON",79.87
 2024-07-14,"KWC, ON",79.47
 2024-07-15,"KWC, ON",79.13
-2024-07-16,"KWC, ON",78.85
-2024-07-17,"KWC, ON",78.57
-2024-07-18,"KWC, ON",78.32
-2024-07-19,"KWC, ON",78.22
+2024-07-16,"KWC, ON",78.84
+2024-07-17,"KWC, ON",78.54
+2024-07-18,"KWC, ON",78.29
+2024-07-19,"KWC, ON",78.19
+2024-07-20,"KWC, ON",78
+2024-07-21,"KWC, ON",78.11
+2024-07-22,"KWC, ON",78.18
+2024-07-23,"KWC, ON",78.28
+2024-07-24,"KWC, ON",78.44
+2024-07-25,"KWC, ON",78.49
+2024-07-26,"KWC, ON",78.82
 2020-02-01,"Kamloops, BC",100
 2020-02-02,"Kamloops, BC",99.74
 2020-02-03,"Kamloops, BC",99.41
@@ -35877,10 +36024,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Kamloops, BC",92.38
 2024-07-14,"Kamloops, BC",92.45
 2024-07-15,"Kamloops, BC",92.47
-2024-07-16,"Kamloops, BC",92.1
-2024-07-17,"Kamloops, BC",91.5
-2024-07-18,"Kamloops, BC",90.81
-2024-07-19,"Kamloops, BC",90.11
+2024-07-16,"Kamloops, BC",92.09
+2024-07-17,"Kamloops, BC",91.49
+2024-07-18,"Kamloops, BC",90.8
+2024-07-19,"Kamloops, BC",90.1
+2024-07-20,"Kamloops, BC",89.09
+2024-07-21,"Kamloops, BC",88.11
+2024-07-22,"Kamloops, BC",87.14
+2024-07-23,"Kamloops, BC",86.36
+2024-07-24,"Kamloops, BC",85.82
+2024-07-25,"Kamloops, BC",85.45
+2024-07-26,"Kamloops, BC",85.7
 2020-02-01,"Kelowna, BC",100
 2020-02-02,"Kelowna, BC",100.08
 2020-02-03,"Kelowna, BC",100.02
@@ -37508,10 +37662,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Kelowna, BC",111.54
 2024-07-14,"Kelowna, BC",111.3
 2024-07-15,"Kelowna, BC",111.07
-2024-07-16,"Kelowna, BC",110.62
-2024-07-17,"Kelowna, BC",110.12
-2024-07-18,"Kelowna, BC",109.72
-2024-07-19,"Kelowna, BC",109.73
+2024-07-16,"Kelowna, BC",110.61
+2024-07-17,"Kelowna, BC",110.11
+2024-07-18,"Kelowna, BC",109.71
+2024-07-19,"Kelowna, BC",109.71
+2024-07-20,"Kelowna, BC",109.36
+2024-07-21,"Kelowna, BC",109.13
+2024-07-22,"Kelowna, BC",109.01
+2024-07-23,"Kelowna, BC",108.75
+2024-07-24,"Kelowna, BC",108.62
+2024-07-25,"Kelowna, BC",108.48
+2024-07-26,"Kelowna, BC",108.34
 2020-02-01,"Kingston, ON",100
 2020-02-02,"Kingston, ON",100.11
 2020-02-03,"Kingston, ON",100.3
@@ -39139,10 +39300,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Kingston, ON",108.98
 2024-07-14,"Kingston, ON",108.27
 2024-07-15,"Kingston, ON",107.53
-2024-07-16,"Kingston, ON",106.98
-2024-07-17,"Kingston, ON",106.37
-2024-07-18,"Kingston, ON",105.66
-2024-07-19,"Kingston, ON",105.12
+2024-07-16,"Kingston, ON",106.97
+2024-07-17,"Kingston, ON",106.36
+2024-07-18,"Kingston, ON",105.65
+2024-07-19,"Kingston, ON",105.11
+2024-07-20,"Kingston, ON",104.29
+2024-07-21,"Kingston, ON",104.57
+2024-07-22,"Kingston, ON",104.85
+2024-07-23,"Kingston, ON",105.09
+2024-07-24,"Kingston, ON",105.12
+2024-07-25,"Kingston, ON",105.02
+2024-07-26,"Kingston, ON",105.51
 2020-02-01,"Lethbridge, AB",100
 2020-02-02,"Lethbridge, AB",99.12
 2020-02-03,"Lethbridge, AB",98.45
@@ -40774,6 +40942,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Lethbridge, AB",158.93
 2024-07-18,"Lethbridge, AB",158.27
 2024-07-19,"Lethbridge, AB",157.48
+2024-07-20,"Lethbridge, AB",155.99
+2024-07-21,"Lethbridge, AB",154.91
+2024-07-22,"Lethbridge, AB",153.65
+2024-07-23,"Lethbridge, AB",153.04
+2024-07-24,"Lethbridge, AB",153.04
+2024-07-25,"Lethbridge, AB",153.03
+2024-07-26,"Lethbridge, AB",153.48
 2020-02-01,"London, ON",100
 2020-02-02,"London, ON",100.47
 2020-02-03,"London, ON",100.86
@@ -42405,6 +42580,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"London, ON",97.77
 2024-07-18,"London, ON",97.26
 2024-07-19,"London, ON",97.01
+2024-07-20,"London, ON",96.46
+2024-07-21,"London, ON",96.4
+2024-07-22,"London, ON",96.42
+2024-07-23,"London, ON",96.45
+2024-07-24,"London, ON",96.46
+2024-07-25,"London, ON",96.36
+2024-07-26,"London, ON",96.73
 2020-02-01,"Medicine Hat, AB",100
 2020-02-02,"Medicine Hat, AB",99.65
 2020-02-03,"Medicine Hat, AB",99.68
@@ -44032,10 +44214,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Medicine Hat, AB",158.18
 2024-07-14,"Medicine Hat, AB",156.56
 2024-07-15,"Medicine Hat, AB",155.07
-2024-07-16,"Medicine Hat, AB",153.31
-2024-07-17,"Medicine Hat, AB",150.99
-2024-07-18,"Medicine Hat, AB",149.65
-2024-07-19,"Medicine Hat, AB",148.9
+2024-07-16,"Medicine Hat, AB",153.27
+2024-07-17,"Medicine Hat, AB",150.96
+2024-07-18,"Medicine Hat, AB",149.62
+2024-07-19,"Medicine Hat, AB",148.86
+2024-07-20,"Medicine Hat, AB",148.16
+2024-07-21,"Medicine Hat, AB",147.22
+2024-07-22,"Medicine Hat, AB",146.5
+2024-07-23,"Medicine Hat, AB",145.56
+2024-07-24,"Medicine Hat, AB",145.53
+2024-07-25,"Medicine Hat, AB",144.38
+2024-07-26,"Medicine Hat, AB",143.13
 2020-02-01,"Moncton, NB",100
 2020-02-02,"Moncton, NB",99.67
 2020-02-03,"Moncton, NB",99.7
@@ -45664,9 +45853,16 @@ date,Metro,indeed_job_postings_index
 2024-07-14,"Moncton, NB",104.45
 2024-07-15,"Moncton, NB",104.12
 2024-07-16,"Moncton, NB",103.91
-2024-07-17,"Moncton, NB",103.71
-2024-07-18,"Moncton, NB",103.5
-2024-07-19,"Moncton, NB",103.67
+2024-07-17,"Moncton, NB",103.7
+2024-07-18,"Moncton, NB",103.35
+2024-07-19,"Moncton, NB",103.51
+2024-07-20,"Moncton, NB",103.52
+2024-07-21,"Moncton, NB",103.67
+2024-07-22,"Moncton, NB",103.62
+2024-07-23,"Moncton, NB",103.29
+2024-07-24,"Moncton, NB",102.69
+2024-07-25,"Moncton, NB",102.52
+2024-07-26,"Moncton, NB",103.03
 2020-02-01,"Montréal, QC",100
 2020-02-02,"Montréal, QC",100.25
 2020-02-03,"Montréal, QC",100.43
@@ -47295,9 +47491,16 @@ date,Metro,indeed_job_postings_index
 2024-07-14,"Montréal, QC",89.74
 2024-07-15,"Montréal, QC",89.4
 2024-07-16,"Montréal, QC",89.03
-2024-07-17,"Montréal, QC",88.67
-2024-07-18,"Montréal, QC",88.3
-2024-07-19,"Montréal, QC",88.12
+2024-07-17,"Montréal, QC",88.66
+2024-07-18,"Montréal, QC",88.29
+2024-07-19,"Montréal, QC",88.11
+2024-07-20,"Montréal, QC",87.32
+2024-07-21,"Montréal, QC",87.1
+2024-07-22,"Montréal, QC",86.92
+2024-07-23,"Montréal, QC",86.76
+2024-07-24,"Montréal, QC",86.54
+2024-07-25,"Montréal, QC",86.38
+2024-07-26,"Montréal, QC",86.42
 2020-02-01,"Nanaimo, BC",100
 2020-02-02,"Nanaimo, BC",99.21
 2020-02-03,"Nanaimo, BC",98.63
@@ -48929,6 +49132,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Nanaimo, BC",116.75
 2024-07-18,"Nanaimo, BC",116.13
 2024-07-19,"Nanaimo, BC",116.32
+2024-07-20,"Nanaimo, BC",116.4
+2024-07-21,"Nanaimo, BC",116.8
+2024-07-22,"Nanaimo, BC",117.36
+2024-07-23,"Nanaimo, BC",118.07
+2024-07-24,"Nanaimo, BC",119.02
+2024-07-25,"Nanaimo, BC",119.97
+2024-07-26,"Nanaimo, BC",121.22
 2020-02-01,"North Bay, ON",100
 2020-02-02,"North Bay, ON",100.43
 2020-02-03,"North Bay, ON",100.97
@@ -50560,6 +50770,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"North Bay, ON",183.78
 2024-07-18,"North Bay, ON",184.2
 2024-07-19,"North Bay, ON",184.6
+2024-07-20,"North Bay, ON",184.59
+2024-07-21,"North Bay, ON",185.26
+2024-07-22,"North Bay, ON",186.14
+2024-07-23,"North Bay, ON",187.06
+2024-07-24,"North Bay, ON",188.35
+2024-07-25,"North Bay, ON",189.46
+2024-07-26,"North Bay, ON",191.16
 2020-02-01,"Orillia, ON",100
 2020-02-02,"Orillia, ON",98.69
 2020-02-03,"Orillia, ON",97.05
@@ -52187,10 +52404,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Orillia, ON",90.27
 2024-07-14,"Orillia, ON",89.91
 2024-07-15,"Orillia, ON",89.33
-2024-07-16,"Orillia, ON",88.76
-2024-07-17,"Orillia, ON",88.64
-2024-07-18,"Orillia, ON",88.31
-2024-07-19,"Orillia, ON",87.64
+2024-07-16,"Orillia, ON",88.72
+2024-07-17,"Orillia, ON",88.58
+2024-07-18,"Orillia, ON",88.22
+2024-07-19,"Orillia, ON",87.55
+2024-07-20,"Orillia, ON",87.09
+2024-07-21,"Orillia, ON",87.67
+2024-07-22,"Orillia, ON",88.44
+2024-07-23,"Orillia, ON",88.82
+2024-07-24,"Orillia, ON",89.34
+2024-07-25,"Orillia, ON",89.45
+2024-07-26,"Orillia, ON",90.38
 2020-02-01,"Oshawa, ON",100
 2020-02-02,"Oshawa, ON",99.85
 2020-02-03,"Oshawa, ON",99.68
@@ -53820,8 +54044,15 @@ date,Metro,indeed_job_postings_index
 2024-07-15,"Oshawa, ON",112.53
 2024-07-16,"Oshawa, ON",112.51
 2024-07-17,"Oshawa, ON",112.35
-2024-07-18,"Oshawa, ON",112.56
-2024-07-19,"Oshawa, ON",111.83
+2024-07-18,"Oshawa, ON",112.55
+2024-07-19,"Oshawa, ON",111.82
+2024-07-20,"Oshawa, ON",111.53
+2024-07-21,"Oshawa, ON",111.89
+2024-07-22,"Oshawa, ON",112.18
+2024-07-23,"Oshawa, ON",112.47
+2024-07-24,"Oshawa, ON",112.65
+2024-07-25,"Oshawa, ON",112.6
+2024-07-26,"Oshawa, ON",114.03
 2020-02-01,"Ottawa, ON",100
 2020-02-02,"Ottawa, ON",99.92
 2020-02-03,"Ottawa, ON",99.91
@@ -55449,10 +55680,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Ottawa, ON",86.61
 2024-07-14,"Ottawa, ON",86.26
 2024-07-15,"Ottawa, ON",85.91
-2024-07-16,"Ottawa, ON",85.63
+2024-07-16,"Ottawa, ON",85.62
 2024-07-17,"Ottawa, ON",85.43
-2024-07-18,"Ottawa, ON",85.23
-2024-07-19,"Ottawa, ON",85.15
+2024-07-18,"Ottawa, ON",85.22
+2024-07-19,"Ottawa, ON",85.14
+2024-07-20,"Ottawa, ON",84.47
+2024-07-21,"Ottawa, ON",84.32
+2024-07-22,"Ottawa, ON",84.13
+2024-07-23,"Ottawa, ON",83.85
+2024-07-24,"Ottawa, ON",83.51
+2024-07-25,"Ottawa, ON",83.26
+2024-07-26,"Ottawa, ON",83.3
 2020-02-01,"Peterborough, ON",100
 2020-02-02,"Peterborough, ON",100.5
 2020-02-03,"Peterborough, ON",101.25
@@ -57084,6 +57322,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Peterborough, ON",125.5
 2024-07-18,"Peterborough, ON",126.12
 2024-07-19,"Peterborough, ON",126.43
+2024-07-20,"Peterborough, ON",125.92
+2024-07-21,"Peterborough, ON",126.21
+2024-07-22,"Peterborough, ON",126.4
+2024-07-23,"Peterborough, ON",126.11
+2024-07-24,"Peterborough, ON",125.63
+2024-07-25,"Peterborough, ON",124.72
+2024-07-26,"Peterborough, ON",124.23
 2020-02-01,"Prince George, BC",100
 2020-02-02,"Prince George, BC",99.87
 2020-02-03,"Prince George, BC",99.63
@@ -58711,10 +58956,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Prince George, BC",111.84
 2024-07-14,"Prince George, BC",112.44
 2024-07-15,"Prince George, BC",112.62
-2024-07-16,"Prince George, BC",113.17
-2024-07-17,"Prince George, BC",113.41
-2024-07-18,"Prince George, BC",113.83
-2024-07-19,"Prince George, BC",113.76
+2024-07-16,"Prince George, BC",113.14
+2024-07-17,"Prince George, BC",113.38
+2024-07-18,"Prince George, BC",113.8
+2024-07-19,"Prince George, BC",113.73
+2024-07-20,"Prince George, BC",113.66
+2024-07-21,"Prince George, BC",113.67
+2024-07-22,"Prince George, BC",113.9
+2024-07-23,"Prince George, BC",113.46
+2024-07-24,"Prince George, BC",113.24
+2024-07-25,"Prince George, BC",112.82
+2024-07-26,"Prince George, BC",112.42
 2020-02-01,"Quebec City, QC",100
 2020-02-02,"Quebec City, QC",99.91
 2020-02-03,"Quebec City, QC",99.77
@@ -60342,10 +60594,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Quebec City, QC",103.98
 2024-07-14,"Quebec City, QC",104.04
 2024-07-15,"Quebec City, QC",104.09
-2024-07-16,"Quebec City, QC",104.11
-2024-07-17,"Quebec City, QC",104.03
-2024-07-18,"Quebec City, QC",103.63
-2024-07-19,"Quebec City, QC",103.51
+2024-07-16,"Quebec City, QC",104.09
+2024-07-17,"Quebec City, QC",104.01
+2024-07-18,"Quebec City, QC",103.61
+2024-07-19,"Quebec City, QC",103.48
+2024-07-20,"Quebec City, QC",102.56
+2024-07-21,"Quebec City, QC",102.04
+2024-07-22,"Quebec City, QC",101.41
+2024-07-23,"Quebec City, QC",100.48
+2024-07-24,"Quebec City, QC",99.79
+2024-07-25,"Quebec City, QC",99.1
+2024-07-26,"Quebec City, QC",98.66
 2020-02-01,"Red Deer, AB",100
 2020-02-02,"Red Deer, AB",99.22
 2020-02-03,"Red Deer, AB",98.31
@@ -61973,10 +62232,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Red Deer, AB",134.27
 2024-07-14,"Red Deer, AB",133.08
 2024-07-15,"Red Deer, AB",131.79
-2024-07-16,"Red Deer, AB",131.43
-2024-07-17,"Red Deer, AB",130.74
-2024-07-18,"Red Deer, AB",130.22
-2024-07-19,"Red Deer, AB",129.97
+2024-07-16,"Red Deer, AB",131.45
+2024-07-17,"Red Deer, AB",130.76
+2024-07-18,"Red Deer, AB",130.25
+2024-07-19,"Red Deer, AB",130.02
+2024-07-20,"Red Deer, AB",129.27
+2024-07-21,"Red Deer, AB",128.69
+2024-07-22,"Red Deer, AB",128.08
+2024-07-23,"Red Deer, AB",127.14
+2024-07-24,"Red Deer, AB",126.62
+2024-07-25,"Red Deer, AB",126.06
+2024-07-26,"Red Deer, AB",126.34
 2020-02-01,"Regina, SK",100
 2020-02-02,"Regina, SK",99.73
 2020-02-03,"Regina, SK",99.46
@@ -63605,9 +63871,16 @@ date,Metro,indeed_job_postings_index
 2024-07-14,"Regina, SK",124.11
 2024-07-15,"Regina, SK",123.9
 2024-07-16,"Regina, SK",123.19
-2024-07-17,"Regina, SK",122.22
-2024-07-18,"Regina, SK",121.47
+2024-07-17,"Regina, SK",122.21
+2024-07-18,"Regina, SK",121.46
 2024-07-19,"Regina, SK",120.98
+2024-07-20,"Regina, SK",119.83
+2024-07-21,"Regina, SK",119.11
+2024-07-22,"Regina, SK",118.51
+2024-07-23,"Regina, SK",118.01
+2024-07-24,"Regina, SK",117.61
+2024-07-25,"Regina, SK",117.18
+2024-07-26,"Regina, SK",116.94
 2020-02-01,"Saguenay, QC",100
 2020-02-02,"Saguenay, QC",100.96
 2020-02-03,"Saguenay, QC",101.95
@@ -65237,8 +65510,15 @@ date,Metro,indeed_job_postings_index
 2024-07-15,"Saguenay, QC",147.8
 2024-07-16,"Saguenay, QC",148.31
 2024-07-17,"Saguenay, QC",149.49
-2024-07-18,"Saguenay, QC",150.33
-2024-07-19,"Saguenay, QC",150.88
+2024-07-18,"Saguenay, QC",150.31
+2024-07-19,"Saguenay, QC",150.86
+2024-07-20,"Saguenay, QC",151.39
+2024-07-21,"Saguenay, QC",151.85
+2024-07-22,"Saguenay, QC",152.52
+2024-07-23,"Saguenay, QC",152.27
+2024-07-24,"Saguenay, QC",151.71
+2024-07-25,"Saguenay, QC",151.58
+2024-07-26,"Saguenay, QC",151.86
 2020-02-01,"Saint John, NB",100
 2020-02-02,"Saint John, NB",99.44
 2020-02-03,"Saint John, NB",98.9
@@ -66866,10 +67146,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Saint John, NB",123.73
 2024-07-14,"Saint John, NB",122.62
 2024-07-15,"Saint John, NB",121.36
-2024-07-16,"Saint John, NB",120.28
-2024-07-17,"Saint John, NB",119.35
-2024-07-18,"Saint John, NB",118.19
-2024-07-19,"Saint John, NB",117.29
+2024-07-16,"Saint John, NB",120.26
+2024-07-17,"Saint John, NB",119.31
+2024-07-18,"Saint John, NB",118.12
+2024-07-19,"Saint John, NB",117.24
+2024-07-20,"Saint John, NB",114.73
+2024-07-21,"Saint John, NB",113.46
+2024-07-22,"Saint John, NB",112.44
+2024-07-23,"Saint John, NB",111.26
+2024-07-24,"Saint John, NB",110.03
+2024-07-25,"Saint John, NB",109.09
+2024-07-26,"Saint John, NB",108.32
 2020-02-01,"Sarnia, ON",100
 2020-02-02,"Sarnia, ON",100.86
 2020-02-03,"Sarnia, ON",101.56
@@ -68501,6 +68788,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Sarnia, ON",81.76
 2024-07-18,"Sarnia, ON",81.4
 2024-07-19,"Sarnia, ON",80.9
+2024-07-20,"Sarnia, ON",80.35
+2024-07-21,"Sarnia, ON",79.98
+2024-07-22,"Sarnia, ON",79.51
+2024-07-23,"Sarnia, ON",78.9
+2024-07-24,"Sarnia, ON",78.29
+2024-07-25,"Sarnia, ON",77.46
+2024-07-26,"Sarnia, ON",77.4
 2020-02-01,"Saskatoon, SK",100
 2020-02-02,"Saskatoon, SK",100.14
 2020-02-03,"Saskatoon, SK",100.22
@@ -70128,10 +70422,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Saskatoon, SK",113.57
 2024-07-14,"Saskatoon, SK",112.69
 2024-07-15,"Saskatoon, SK",111.78
-2024-07-16,"Saskatoon, SK",111.17
-2024-07-17,"Saskatoon, SK",110.96
-2024-07-18,"Saskatoon, SK",110.96
-2024-07-19,"Saskatoon, SK",110.78
+2024-07-16,"Saskatoon, SK",111.15
+2024-07-17,"Saskatoon, SK",110.94
+2024-07-18,"Saskatoon, SK",110.94
+2024-07-19,"Saskatoon, SK",110.75
+2024-07-20,"Saskatoon, SK",110.2
+2024-07-21,"Saskatoon, SK",110.11
+2024-07-22,"Saskatoon, SK",110.17
+2024-07-23,"Saskatoon, SK",110.56
+2024-07-24,"Saskatoon, SK",110.69
+2024-07-25,"Saskatoon, SK",110.53
+2024-07-26,"Saskatoon, SK",110.58
 2020-02-01,"Sault Ste. Marie, ON",100
 2020-02-02,"Sault Ste. Marie, ON",100.19
 2020-02-03,"Sault Ste. Marie, ON",99.8
@@ -71759,10 +72060,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Sault Ste. Marie, ON",166.51
 2024-07-14,"Sault Ste. Marie, ON",164.26
 2024-07-15,"Sault Ste. Marie, ON",161.51
-2024-07-16,"Sault Ste. Marie, ON",160.01
-2024-07-17,"Sault Ste. Marie, ON",159.87
-2024-07-18,"Sault Ste. Marie, ON",159.46
-2024-07-19,"Sault Ste. Marie, ON",158.49
+2024-07-16,"Sault Ste. Marie, ON",159.95
+2024-07-17,"Sault Ste. Marie, ON",159.81
+2024-07-18,"Sault Ste. Marie, ON",159.4
+2024-07-19,"Sault Ste. Marie, ON",158.43
+2024-07-20,"Sault Ste. Marie, ON",156.02
+2024-07-21,"Sault Ste. Marie, ON",155.51
+2024-07-22,"Sault Ste. Marie, ON",155.76
+2024-07-23,"Sault Ste. Marie, ON",155.23
+2024-07-24,"Sault Ste. Marie, ON",154.37
+2024-07-25,"Sault Ste. Marie, ON",153.55
+2024-07-26,"Sault Ste. Marie, ON",153.98
 2020-02-01,"Sherbrooke, QC",100
 2020-02-02,"Sherbrooke, QC",101.31
 2020-02-03,"Sherbrooke, QC",102.49
@@ -73394,6 +73702,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Sherbrooke, QC",105.26
 2024-07-18,"Sherbrooke, QC",104.89
 2024-07-19,"Sherbrooke, QC",104.89
+2024-07-20,"Sherbrooke, QC",104.66
+2024-07-21,"Sherbrooke, QC",104.51
+2024-07-22,"Sherbrooke, QC",104.4
+2024-07-23,"Sherbrooke, QC",104.22
+2024-07-24,"Sherbrooke, QC",103.72
+2024-07-25,"Sherbrooke, QC",103.25
+2024-07-26,"Sherbrooke, QC",103.14
 2020-02-01,"St. Catherines/Niagra, ON",100
 2020-02-02,"St. Catherines/Niagra, ON",99.64
 2020-02-03,"St. Catherines/Niagra, ON",99.49
@@ -75021,10 +75336,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"St. Catherines/Niagra, ON",80.09
 2024-07-14,"St. Catherines/Niagra, ON",79.65
 2024-07-15,"St. Catherines/Niagra, ON",79.18
-2024-07-16,"St. Catherines/Niagra, ON",78.82
+2024-07-16,"St. Catherines/Niagra, ON",78.81
 2024-07-17,"St. Catherines/Niagra, ON",78.39
 2024-07-18,"St. Catherines/Niagra, ON",77.92
 2024-07-19,"St. Catherines/Niagra, ON",77.6
+2024-07-20,"St. Catherines/Niagra, ON",77.27
+2024-07-21,"St. Catherines/Niagra, ON",77.4
+2024-07-22,"St. Catherines/Niagra, ON",77.57
+2024-07-23,"St. Catherines/Niagra, ON",77.74
+2024-07-24,"St. Catherines/Niagra, ON",77.95
+2024-07-25,"St. Catherines/Niagra, ON",78.12
+2024-07-26,"St. Catherines/Niagra, ON",78.65
 2020-02-01,"St. John's, NL",100
 2020-02-02,"St. John's, NL",100.1
 2020-02-03,"St. John's, NL",100.4
@@ -76652,10 +76974,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"St. John's, NL",128.32
 2024-07-14,"St. John's, NL",126.79
 2024-07-15,"St. John's, NL",125.2
-2024-07-16,"St. John's, NL",123.31
-2024-07-17,"St. John's, NL",121.4
-2024-07-18,"St. John's, NL",119.82
-2024-07-19,"St. John's, NL",118.86
+2024-07-16,"St. John's, NL",123.32
+2024-07-17,"St. John's, NL",121.44
+2024-07-18,"St. John's, NL",119.91
+2024-07-19,"St. John's, NL",118.96
+2024-07-20,"St. John's, NL",117.82
+2024-07-21,"St. John's, NL",117.43
+2024-07-22,"St. John's, NL",116.97
+2024-07-23,"St. John's, NL",116.61
+2024-07-24,"St. John's, NL",116.57
+2024-07-25,"St. John's, NL",116.43
+2024-07-26,"St. John's, NL",116.67
 2020-02-01,"Sudbury, ON",100
 2020-02-02,"Sudbury, ON",99.69
 2020-02-03,"Sudbury, ON",99.35
@@ -78283,10 +78612,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Sudbury, ON",111.3
 2024-07-14,"Sudbury, ON",111.67
 2024-07-15,"Sudbury, ON",111.8
-2024-07-16,"Sudbury, ON",111.94
-2024-07-17,"Sudbury, ON",112.14
-2024-07-18,"Sudbury, ON",112.22
-2024-07-19,"Sudbury, ON",112.5
+2024-07-16,"Sudbury, ON",111.93
+2024-07-17,"Sudbury, ON",112.13
+2024-07-18,"Sudbury, ON",112.21
+2024-07-19,"Sudbury, ON",112.48
+2024-07-20,"Sudbury, ON",111.24
+2024-07-21,"Sudbury, ON",110.57
+2024-07-22,"Sudbury, ON",110.45
+2024-07-23,"Sudbury, ON",109.77
+2024-07-24,"Sudbury, ON",109.55
+2024-07-25,"Sudbury, ON",109.49
+2024-07-26,"Sudbury, ON",109.25
 2020-02-01,"Thunder Bay, ON",100
 2020-02-02,"Thunder Bay, ON",98.75
 2020-02-03,"Thunder Bay, ON",97.39
@@ -79914,10 +80250,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Thunder Bay, ON",108.97
 2024-07-14,"Thunder Bay, ON",108.61
 2024-07-15,"Thunder Bay, ON",108.18
-2024-07-16,"Thunder Bay, ON",107.31
-2024-07-17,"Thunder Bay, ON",106.98
-2024-07-18,"Thunder Bay, ON",106.4
-2024-07-19,"Thunder Bay, ON",105.67
+2024-07-16,"Thunder Bay, ON",107.28
+2024-07-17,"Thunder Bay, ON",106.95
+2024-07-18,"Thunder Bay, ON",106.37
+2024-07-19,"Thunder Bay, ON",105.64
+2024-07-20,"Thunder Bay, ON",104.66
+2024-07-21,"Thunder Bay, ON",103.75
+2024-07-22,"Thunder Bay, ON",102.79
+2024-07-23,"Thunder Bay, ON",101.81
+2024-07-24,"Thunder Bay, ON",101.24
+2024-07-25,"Thunder Bay, ON",100.57
+2024-07-26,"Thunder Bay, ON",100.84
 2020-02-01,"Timmins, ON",100
 2020-02-02,"Timmins, ON",101.23
 2020-02-03,"Timmins, ON",102.65
@@ -81549,6 +81892,13 @@ date,Metro,indeed_job_postings_index
 2024-07-17,"Timmins, ON",118.11
 2024-07-18,"Timmins, ON",117.98
 2024-07-19,"Timmins, ON",117.73
+2024-07-20,"Timmins, ON",117.02
+2024-07-21,"Timmins, ON",116.85
+2024-07-22,"Timmins, ON",116.88
+2024-07-23,"Timmins, ON",116.7
+2024-07-24,"Timmins, ON",116.17
+2024-07-25,"Timmins, ON",115.61
+2024-07-26,"Timmins, ON",115.14
 2020-02-01,"Toronto, ON",100
 2020-02-02,"Toronto, ON",99.88
 2020-02-03,"Toronto, ON",99.82
@@ -83176,10 +83526,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Toronto, ON",82.39
 2024-07-14,"Toronto, ON",82.28
 2024-07-15,"Toronto, ON",82.14
-2024-07-16,"Toronto, ON",81.93
+2024-07-16,"Toronto, ON",81.92
 2024-07-17,"Toronto, ON",81.66
 2024-07-18,"Toronto, ON",81.44
 2024-07-19,"Toronto, ON",81.3
+2024-07-20,"Toronto, ON",80.66
+2024-07-21,"Toronto, ON",80.55
+2024-07-22,"Toronto, ON",80.49
+2024-07-23,"Toronto, ON",80.53
+2024-07-24,"Toronto, ON",80.59
+2024-07-25,"Toronto, ON",80.56
+2024-07-26,"Toronto, ON",80.7
 2020-02-01,"Trois-Rivières, QC",100
 2020-02-02,"Trois-Rivières, QC",100.14
 2020-02-03,"Trois-Rivières, QC",100.53
@@ -84808,9 +85165,16 @@ date,Metro,indeed_job_postings_index
 2024-07-14,"Trois-Rivières, QC",120.28
 2024-07-15,"Trois-Rivières, QC",121.42
 2024-07-16,"Trois-Rivières, QC",122.3
-2024-07-17,"Trois-Rivières, QC",122.97
-2024-07-18,"Trois-Rivières, QC",123.42
-2024-07-19,"Trois-Rivières, QC",123.85
+2024-07-17,"Trois-Rivières, QC",122.95
+2024-07-18,"Trois-Rivières, QC",123.4
+2024-07-19,"Trois-Rivières, QC",123.84
+2024-07-20,"Trois-Rivières, QC",123.44
+2024-07-21,"Trois-Rivières, QC",123.73
+2024-07-22,"Trois-Rivières, QC",124.02
+2024-07-23,"Trois-Rivières, QC",123.98
+2024-07-24,"Trois-Rivières, QC",123.74
+2024-07-25,"Trois-Rivières, QC",123.63
+2024-07-26,"Trois-Rivières, QC",124.01
 2020-02-01,"Vancouver, BC",100
 2020-02-02,"Vancouver, BC",100.01
 2020-02-03,"Vancouver, BC",100.06
@@ -86438,10 +86802,17 @@ date,Metro,indeed_job_postings_index
 2024-07-13,"Vancouver, BC",82.04
 2024-07-14,"Vancouver, BC",81.65
 2024-07-15,"Vancouver, BC",81.25
-2024-07-16,"Vancouver, BC",80.88
+2024-07-16,"Vancouver, BC",80.89
 2024-07-17,"Vancouver, BC",80.56
 2024-07-18,"Vancouver, BC",80.37
 2024-07-19,"Vancouver, BC",80.24
+2024-07-20,"Vancouver, BC",79.98
+2024-07-21,"Vancouver, BC",79.97
+2024-07-22,"Vancouver, BC",79.95
+2024-07-23,"Vancouver, BC",79.89
+2024-07-24,"Vancouver, BC",79.73
+2024-07-25,"Vancouver, BC",79.51
+2024-07-26,"Vancouver, BC",79.51
 2020-02-01,"Victoria, BC",100
 2020-02-02,"Victoria, BC",100.37
 2020-02-03,"Victoria, BC",100.76
@@ -88071,8 +88442,15 @@ date,Metro,indeed_job_postings_index
 2024-07-15,"Victoria, BC",104.57
 2024-07-16,"Victoria, BC",104.25
 2024-07-17,"Victoria, BC",103.6
-2024-07-18,"Victoria, BC",103.22
+2024-07-18,"Victoria, BC",103.21
 2024-07-19,"Victoria, BC",102.9
+2024-07-20,"Victoria, BC",102.32
+2024-07-21,"Victoria, BC",102.07
+2024-07-22,"Victoria, BC",101.85
+2024-07-23,"Victoria, BC",101.72
+2024-07-24,"Victoria, BC",101.93
+2024-07-25,"Victoria, BC",101.99
+2024-07-26,"Victoria, BC",102.2
 2020-02-01,"Windsor, ON",100
 2020-02-02,"Windsor, ON",100.06
 2020-02-03,"Windsor, ON",100.17
@@ -89701,9 +90079,16 @@ date,Metro,indeed_job_postings_index
 2024-07-14,"Windsor, ON",100.25
 2024-07-15,"Windsor, ON",99.73
 2024-07-16,"Windsor, ON",99.14
-2024-07-17,"Windsor, ON",99.07
+2024-07-17,"Windsor, ON",99.06
 2024-07-18,"Windsor, ON",99.23
-2024-07-19,"Windsor, ON",99.5
+2024-07-19,"Windsor, ON",99.49
+2024-07-20,"Windsor, ON",99.22
+2024-07-21,"Windsor, ON",99.54
+2024-07-22,"Windsor, ON",99.89
+2024-07-23,"Windsor, ON",100.43
+2024-07-24,"Windsor, ON",100.64
+2024-07-25,"Windsor, ON",100.91
+2024-07-26,"Windsor, ON",101.35
 2020-02-01,"Winnipeg, MB",100
 2020-02-02,"Winnipeg, MB",99.91
 2020-02-03,"Winnipeg, MB",99.9
@@ -91332,6 +91717,13 @@ date,Metro,indeed_job_postings_index
 2024-07-14,"Winnipeg, MB",104.39
 2024-07-15,"Winnipeg, MB",104.21
 2024-07-16,"Winnipeg, MB",103.65
-2024-07-17,"Winnipeg, MB",103.25
-2024-07-18,"Winnipeg, MB",102.95
-2024-07-19,"Winnipeg, MB",102.85
+2024-07-17,"Winnipeg, MB",103.26
+2024-07-18,"Winnipeg, MB",102.98
+2024-07-19,"Winnipeg, MB",102.89
+2024-07-20,"Winnipeg, MB",102.55
+2024-07-21,"Winnipeg, MB",102.48
+2024-07-22,"Winnipeg, MB",102.42
+2024-07-23,"Winnipeg, MB",102.24
+2024-07-24,"Winnipeg, MB",101.92
+2024-07-25,"Winnipeg, MB",101.31
+2024-07-26,"Winnipeg, MB",100.73
