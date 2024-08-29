@@ -22,13 +22,13 @@ Filename: `aggregate_job_postings_{country_code}.csv`
 
 Data dictionary:
 
-| variable                      | definition                                                          |
-|-------------------------------|---------------------------------------------------------------------|
-| date                          | Date of observation                                                 |
-| jobcountry                    | Two-character [ISO 3166-1 alpha-2 country code][iso 3166-1]         |
-| indeed_job_postings_index_SA  | % change in seasonally-adjusted postings since February 1, 2020     |
-| indeed_job_postings_index_NSA | % change in non-seasonally adjusted postings since February 1, 2020 |
-| variable                      | Total or new (on Indeed for 7 days or fewer) job postings           |
+| variable                      | definition                                                                          |
+|-------------------------------|-------------------------------------------------------------------------------------|
+| date                          | Date of observation                                                                 |
+| jobcountry                    | Two-character [ISO 3166-1 alpha-2 country code](https://www.iban.com/country-codes) |
+| indeed_job_postings_index_SA  | % change in seasonally-adjusted postings since February 1, 2020                     |
+| indeed_job_postings_index_NSA | % change in non-seasonally adjusted postings since February 1, 2020                 |
+| variable                      | Total or new (on Indeed for 7 days or fewer) job postings                           |
 
 ### Sector-level
 
@@ -109,6 +109,6 @@ The data and files that we have generated are freely available for public use, a
 
 The [Indeed Hiring Lab](http://hiringlab.org) is an international team of economists and researchers dedicated to delivering insights that help drive the global labor market conversation.
 
-Indeed has websites in over 60 markets and 28 languages. The full list of markets is here: [indeed.com/worldwide](https://www.indeed.com/worldwide). We have economists in Australia, Canada, France, Germany, UK/Ireland, and the US. If you are interested in data about other markets, please contact us at hiringlabinfo@indeed.com.
+Indeed has websites in over 60 markets and 28 languages. The full list of markets is here: [indeed.com/worldwide](https://www.indeed.com/worldwide). We have economists in Australia, Canada, France, Germany, UK/Ireland, and the US. If you are interested in data about other markets, please contact us at <hiringlabinfo@indeed.com>.
 
 For Frequently Asked Questions regarding Indeed's data, visit [hiringlab.org/indeed-data-faq](https://www.hiringlab.org/indeed-data-faq/).
