@@ -1,10 +1,10 @@
 # Indeed Job Postings Index
 
-This repository contains the data behind the *Indeed Hiring Lab's* Job Postings Index data product. is intended to serve as a space to host various regularly-updated data series to help economists, journalists, and other interested parties better understand the labor market conditions in their countries. The data is updated weekly, with the exact timing during the week depending upon Hiring Lab’s publication schedule.
+This repository contains the data behind the *Indeed Hiring Lab's* Job Postings Index data product. The data is updated weekly, with the exact timing during the week depending upon Hiring Lab’s publication schedule.
 
 ## Methodology
 
-The data in this repository are the percentage change in seasonally-adjusted job postings since February 1, 2020, using a seven-day trailing average. February 1, 2020, is our pre-pandemic baseline. A reading of 101 signifies the overall level of job postings is 1% higher than the level on February 1, 2020. 
+The data in this repository are the percentage change in seasonally-adjusted job postings since February 1, 2020, using a seven-day trailing average. February 1, 2020, is our pre-pandemic baseline. A reading of 101 signifies the overall level of job postings is 1% higher than the level on February 1, 2020.
 
 We seasonally adjust each series based on historical patterns in 2017, 2018, and 2019. Each series, including the national trend, occupational sectors, and sub-national geographies, is seasonally adjusted separately. We adopted this new methodology in January 2021. Historical numbers have been revised and may differ from originally reported values.
 
