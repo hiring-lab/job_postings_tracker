@@ -12,42 +12,98 @@ The occupational sectors in our data are an Indeed categorization based on norma
 
 ## Data Schema
 
-Each market covered by a Hiring Lab economist has a folder in this repo. Each folder contains the following files:
+Each country covered by a Hiring Lab economist has a folder in this repo. Each folder contains the following files:
 
-* **aggregate_job_postings_{country_code}.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings and new jobs postings (on Indeed for 7 days or fewer) for that market, as well as non-seasonally adjusted postings since February 1, 2020 for total job postings.
+### Country-level
 
-* **job_postings_by_sector_{country_code}.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for occupational sectors for that market. We do not share sectoral data for Ireland.
+Filename: `aggregate_job_postings_{country_code}.csv`
 
-For certain markets, we also share subnational job postings trends. In the United States, we provide:
+Data dictionary:
 
-* **metro_job_postings_us.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in US metropolitan areas with a population of at least 500,000 people.
+| variable                      | definition                                                          |
+|-------------------------------|---------------------------------------------------------------------|
+| date                          | Date of observation                                                 |
+| jobcountry                    | Two-character [ISO 3166-1 alpha-2 country code][iso 3166-1]         |
+| indeed_job_postings_index_SA  | % change in seasonally-adjusted postings since February 1, 2020     |
+| indeed_job_postings_index_NSA | % change in non-seasonally adjusted postings since February 1, 2020 |
+| variable                      | Total or new (on Indeed for 7 days or fewer) job postings           |
 
-* **state_job_postings_us.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in the US states and the District of Columbia.
+### Sector-level
 
-In Canada, we provide:
+Filename: `job_postings_by_sector_{country_code}.csv`
 
-* **provincial_postings_ca.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in each Canadian provinces.
+Data dictionary:
 
-In the United Kingdom, we provide:
+| variable                  | definition                                                      |
+|---------------------------|-----------------------------------------------------------------|
+| date                      | Date of observation                                             |
+| jobcountry                | Two-character [ISO 3166-1 alpha-2 country code][iso 3166-1]     |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
+| variable                  | total or new (on Indeed for 7 days or fewer) job postings       |
+| display_name              | Occupational sector label                                       |
 
-* **regional_postings_gb.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in each region in the UK. 
+N.B. we do not share sectoral data for Ireland.
 
-* **city_postings_gb.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in each city in the UK. 
+### Region-level
+
+For certain markets, we also share sub-national job postings trends:
+
+| country       | geography                                                          | filename                    |
+|---------------|--------------------------------------------------------------------|-----------------------------|
+| United States | US metropolitan areas with a population of at least 500,000 people | `metro_job_postings_us.csv` |
+| United States | US states and the District of Columbia | `state_job_postings_us.csv` |
+| Canada | Canadian provinces | `provincial_postings_ca.csv` |
+| United Kingdom | UK region | `regional_postings_gb.csv` |
+| United Kingdom | UK city | `city_postings_gb.csv` |
+
+#### US metro
+
+| variable                  | definition                                                      |
+|---------------------------|-----------------------------------------------------------------|
+| date                      | Date of observation                                             |
+| CBSA Title                | Core-based statistical area (CBSA) label                        |
+| cbsa_code                 | Core-based statistical area (CBSA) code                         |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
+
+#### US states
+
+| variable                  | definition                                                      |
+|---------------------------|-----------------------------------------------------------------|
+| date                      | Date of observation                                             |
+| state                     | Two character US state abbreviation                             |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
+
+#### CA provinces
+
+| variable                  | definition                                                      |
+|---------------------------|-----------------------------------------------------------------|
+| date                      | Date of observation                                             |
+| province               | Two character CA province abbreviation                                                     |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
+
+#### UK regions
+
+| variable                  | definition                                                      |
+|---------------------------|-----------------------------------------------------------------|
+| date                      | Date of observation                                             |
+| region               | Region label                                                     |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
+
+#### UK cities
+
+| variable                  | definition                                                      |
+|---------------------------|-----------------------------------------------------------------|
+| date                      | Date of observation                                             |
+| cities               | City label                                                     |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
 
 ## Licence
 
 The data generated by *Indeed Hiring Lab* are available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-The data and files that we have generated are freely available for public use, as long as Hiring Lab is cited as a source.
+The data and files that we have generated are freely available for public use, as long as *Indeed Hiring Lab* is cited as a source.
 
-## About the Hiring Lab
+## About Hiring Lab
 
 The [Indeed Hiring Lab](http://hiringlab.org) is an international team of economists and researchers dedicated to delivering insights that help drive the global labor market conversation.
 
