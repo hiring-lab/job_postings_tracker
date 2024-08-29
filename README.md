@@ -14,7 +14,7 @@ Changes to the data can be followed under the "What's New" section of the Hiring
 
 ## Data Schema
 
-Each country covered by a Hiring Lab economist has a folder in this repo. Each folder contains the following files:
+Each country covered by a Hiring Lab economist has a folder in this repo, containing some combination of country/sector/region-level data.
 
 ### Country-level
 
