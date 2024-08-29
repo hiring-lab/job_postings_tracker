@@ -56,7 +56,7 @@ For certain markets, we also share sub-national job postings trends:
 | United Kingdom | UK region | `regional_postings_gb.csv` |
 | United Kingdom | UK city | `city_postings_gb.csv` |
 
-#### US metro
+#### US metro areas
 
 | variable                  | definition                                                      |
 |---------------------------|-----------------------------------------------------------------|
