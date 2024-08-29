@@ -8,7 +8,7 @@ The data in this repository are the percentage change in seasonally-adjusted job
 
 The number of job postings on Indeed.com, whether related to paid or unpaid job solicitations, is not indicative of potential revenue or earnings of Indeed, which comprises a significant percentage of the HR Technology segment of its parent company, Recruit Holdings Co., Ltd. Job posting numbers are provided for information purposes only and should not be viewed as an indicator of performance of Indeed or Recruit. Please refer to the Recruit Holdings investor relations website and regulatory filings in Japan for more detailed information on revenue generation by Recruit’s HR Technology segment.
 
-The occupational sectors in our data are an Indeed categorization based on normalized job titles. A list of those job sectors along with sample job titles is available in this repository.
+The occupational sectors in our data are an Indeed categorization based on normalized job titles. A list of those job sectors along with sample job titles is available in this repository (see `sector-job-title-examples.csv`).
 
 ## Data Schema
 
@@ -78,7 +78,7 @@ For certain markets, we also share sub-national job postings trends:
 | variable                  | definition                                                      |
 |---------------------------|-----------------------------------------------------------------|
 | date                      | Date of observation                                             |
-| province               | Two character CA province abbreviation                                                     |
+| province                  | Two character CA province abbreviation                          |
 | indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
 
 #### UK regions
@@ -86,7 +86,7 @@ For certain markets, we also share sub-national job postings trends:
 | variable                  | definition                                                      |
 |---------------------------|-----------------------------------------------------------------|
 | date                      | Date of observation                                             |
-| region               | Region label                                                     |
+| region                    | Region label                                                    |
 | indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
 
 #### UK cities
@@ -94,7 +94,7 @@ For certain markets, we also share sub-national job postings trends:
 | variable                  | definition                                                      |
 |---------------------------|-----------------------------------------------------------------|
 | date                      | Date of observation                                             |
-| cities               | City label                                                     |
+| cities                    | City label                                                      |
 | indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
 
 ## Licence
