@@ -10,7 +10,7 @@ We seasonally adjust each series based on historical patterns in 2017, 2018, and
 
 The occupational sectors in our data are an Indeed categorization based on normalized job titles. A list of those job sectors along with sample job titles is available in this repository (see `sector-job-title-examples.csv`).
 
-Changes to the data can be followed under the "What's New" section of the Hiring Lab Data Portal: [data.indeed.com/whats-new](https://data.indeed.com/#/whats-new)
+Changes to the data can be followed under the "What's New" section of the Hiring Lab Data Portal: [data.indeed.com/whats-new](https://data.indeed.com/#/whats-new). For Frequently Asked Questions regarding Indeed's data, visit [hiringlab.org/indeed-data-faq](https://www.hiringlab.org/indeed-data-faq/).
 
 ## Data Schema
 
@@ -114,5 +114,3 @@ The number of job postings on Indeed.com, whether related to paid or unpaid job 
 The [Indeed Hiring Lab](http://hiringlab.org) is an international team of economists and researchers dedicated to delivering insights that help drive the global labor market conversation.
 
 Indeed has websites in over 60 markets and 28 languages. The full list of markets is listed at [indeed.com/worldwide](https://www.indeed.com/worldwide). We have economists in Australia, Canada, France, Germany, UK/Ireland, and the US. If you are interested in data about other markets, please contact us at <hiringlabinfo@indeed.com>.
-
-For Frequently Asked Questions regarding Indeed's data, visit [hiringlab.org/indeed-data-faq](https://www.hiringlab.org/indeed-data-faq/).
