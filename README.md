@@ -36,13 +36,13 @@ Filename: `job_postings_by_sector_{country_code}.csv`
 
 Data dictionary:
 
-| variable                  | definition                                                      |
-|---------------------------|-----------------------------------------------------------------|
-| date                      | Date of observation                                             |
-| jobcountry                | Two-character [ISO 3166-1 alpha-2 country code][iso 3166-1]     |
-| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
-| variable                  | total or new (on Indeed for 7 days or fewer) job postings       |
-| display_name              | Occupational sector label                                       |
+| variable                  | definition                                                                          |
+|---------------------------|-------------------------------------------------------------------------------------|
+| date                      | Date of observation                                                                 |
+| jobcountry                | Two-character [ISO 3166-1 alpha-2 country code](https://www.iban.com/country-codes) |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020                     |
+| variable                  | total or new (on Indeed for 7 days or fewer) job postings                           |
+| display_name              | Occupational sector label                                                           |
 
 N.B. we do not share sectoral data for Ireland.
 
