@@ -1,61 +1,120 @@
-# Indeed Job Postings Index data
+# Indeed Job Postings Index
 
-*Effective Sept. 17, a New York pay transparency law requires employers to disclose certain salary information in job postings for roles that will be performed in the state. On Indeed's site, job postings in New York that do not include employer-provided pay information will not be visible until pay information is added or employers indicate the job is exempt. Indeed Job Postings Index data published Sept. 22, 2023, is the first to cover this period, and users may notice that the level of job postings in New York state has fallen sharply compared to prior versions. In the past, similar declines have been observed in states that have implemented comparable salary transparency regulations. In order for our real-time data to accurately reflect changes in job postings activity related to the newly enacted law, we are intentionally not adjusting the New York series. Hiring Lab will continue to monitor the impact of pay transparency laws on the labor market and publish the Job Postings Index as scheduled.*
+This repository contains the data behind the *Indeed Hiring Lab's* Job Postings Index data product. The frequency of the data is daily and it is refreshed each week.
 
-As of 12/9/2022, Hiring Lab is re-releasing the Job Postings Tracker as the Indeed Job Postings Index.  The level is set to 100 on Feb 1, 2020. More detail is available here: [Introducing the Indeed Job Postings Index](https://www.hiringlab.org/2022/12/15/introducing-the-indeed-job-postings-index/) 
+## Methodology
 
-The [Indeed Hiring Lab](http://hiringlab.org) is an international team of economists and researchers dedicated to delivering insights that help drive the global labor market conversation.
+The data in this repository are the percentage change in seasonally-adjusted job postings since February 1, 2020, using a seven-day trailing average. February 1, 2020, is our pre-pandemic baseline. A reading of 101 signifies the overall level of job postings is 1% higher than the level on February 1, 2020.
 
-This GitHub repo is intended to serve as a space to host various regularly-updated data series to help economists, journalists, and other interested parties better understand the labor market conditions in their countries.
+We seasonally adjust each series based on historical patterns in 2017, 2018, and 2019. Each series, including the national trend, occupational sectors, and sub-national geographies, is seasonally adjusted separately. We adopted this new methodology in January 2021. Historical numbers have been revised and may differ from originally reported values.
 
-Indeed has websites in over 60 markets and 28 languages.  The full list of markets is here: https://www.indeed.com/worldwide.  We have economists in Australia, Canada, France, Germany, UK/Ireland, and the US. If you are interested in data about other markets, please contact us at hiringlabinfo@indeed.com.
+The occupational sectors in our data are an Indeed categorization based on normalized job titles. A list of those job sectors along with sample job titles is available in this repository (see `sector-job-title-examples.csv`).
 
-The occupational sectors in our data are an Indeed categorization based on normalized job titles. A list of those job sectors along with sample job titles is available in this repository.
+Changes to the data can be followed under the "What's New" section of the Hiring Lab Data Portal: [data.indeed.com/whats-new](https://data.indeed.com/#/whats-new). For Frequently Asked Questions regarding Indeed's data, visit [hiringlab.org/indeed-data-faq](https://www.hiringlab.org/indeed-data-faq/).
 
-The job postings data will be updated weekly, with the exact timing during the week depending upon Hiring Lab’s publication schedule. Our plan is to publish the trackers in all markets every other week, though that is subject to change.
+## Data Schema
 
-For Frequently Asked Questions regarding Indeed's data, click [here](https://www.hiringlab.org/indeed-data-faq/).
+Each country covered by a Hiring Lab economist has a folder in this repo, containing some combination of country/sector/region-level data.
 
-## Job Postings
-### Methodology
+### Country-level
 
-The data in this repository are the percentage change in seasonally-adjusted job postings since February 1, 2020, using a seven-day trailing average. February 1, 2020, is our pre-pandemic baseline. We seasonally adjust each series based on historical patterns in 2017, 2018, and 2019. Each series, including the national trend, occupational sectors, and sub-national geographies, is seasonally adjusted separately. We adopted this new methodology in January 2021. Historical numbers have been revised and may differ from originally reported values. Non-seasonally adjusted data is included for total postings.
+Filename: `aggregate_job_postings_{country_code}.csv`
 
-The number of job postings on Indeed.com, whether related to paid or unpaid job solicitations, is not indicative of potential revenue or earnings of Indeed, which comprises a significant percentage of the HR Technology segment of its parent company, Recruit Holdings Co., Ltd. Job posting numbers are provided for information purposes only and should not be viewed as an indicator of performance of Indeed or Recruit. Please refer to the Recruit Holdings investor relations website and regulatory filings in Japan for more detailed information on revenue generation by Recruit’s HR Technology segment.
+Data dictionary:
 
-### Data Schema
+| variable                      | definition                                                                          |
+|-------------------------------|-------------------------------------------------------------------------------------|
+| date                          | Date of observation                                                                 |
+| jobcountry                    | Two-character [ISO 3166-1 alpha-2 country code](https://www.iban.com/country-codes) |
+| indeed_job_postings_index_SA  | % change in seasonally-adjusted postings since February 1, 2020                     |
+| indeed_job_postings_index_NSA | % change in non-seasonally adjusted postings since February 1, 2020                 |
+| variable                      | Total or new (on Indeed for 7 days or fewer) job postings                           |
 
-Each market covered by a Hiring Lab economist has a folder in this repo. Each folder contains the following files:
+### Sector-level
 
-* **aggregate_job_postings_{country_code}.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings and new jobs postings (on Indeed for 7 days or fewer) for that market, as well as non-seasonally adjusted postings since February 1, 2020 for total job postings.
+Filename: `job_postings_by_sector_{country_code}.csv`
 
-* **job_postings_by_sector_{country_code}.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for occupational sectors for that market. We do not share sectoral data for Ireland.
+Data dictionary:
 
-For certain markets, we also share subnational job postings trends. In the United States, we provide:
+| variable                  | definition                                                                          |
+|---------------------------|-------------------------------------------------------------------------------------|
+| date                      | Date of observation                                                                 |
+| jobcountry                | Two-character [ISO 3166-1 alpha-2 country code](https://www.iban.com/country-codes) |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020                     |
+| variable                  | total or new (on Indeed for 7 days or fewer) job postings                           |
+| display_name              | Occupational sector label                                                           |
 
-* **metro_job_postings_us.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in US metropolitan areas with a population of at least 500,000 people.
+N.B. we do not share sectoral data for Ireland.
 
-* **state_job_postings_us.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in the US states and the District of Columbia.
+### Region-level
 
-In Canada, we provide:
+For certain markets, we also share sub-national job postings trends:
 
-* **provincial_postings_ca.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in each Canadian provinces.
+| country       | geography                                                          | filename                    |
+|---------------|--------------------------------------------------------------------|-----------------------------|
+| United States | US metropolitan areas with a population of at least 500,000 people | `metro_job_postings_us.csv` |
+| United States | US states and the District of Columbia | `state_job_postings_us.csv` |
+| Canada | Canadian provinces | `provincial_postings_ca.csv` |
+| United Kingdom | UK region | `regional_postings_gb.csv` |
+| United Kingdom | UK city | `city_postings_gb.csv` |
 
-In the United Kingdom, we provide:
+#### US metro areas
 
-* **regional_postings_gb.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in each region in the UK. 
+| variable                  | definition                                                      |
+|---------------------------|-----------------------------------------------------------------|
+| date                      | Date of observation                                             |
+| CBSA Title                | Core-based statistical area (CBSA) label                        |
+| cbsa_code                 | Core-based statistical area (CBSA) code                         |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
 
-* **city_postings_gb.csv**
-This file contains the % change in seasonally-adjusted postings since February 1, 2020 for total job postings in each city in the UK. 
+#### US states
+
+| variable                  | definition                                                      |
+|---------------------------|-----------------------------------------------------------------|
+| date                      | Date of observation                                             |
+| state                     | Two character US state abbreviation                             |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
+
+#### CA provinces
+
+| variable                  | definition                                                      |
+|---------------------------|-----------------------------------------------------------------|
+| date                      | Date of observation                                             |
+| province                  | Two character CA province abbreviation                          |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
+
+#### UK regions
+
+| variable                  | definition                                                      |
+|---------------------------|-----------------------------------------------------------------|
+| date                      | Date of observation                                             |
+| region                    | Region label                                                    |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
+
+#### UK cities
+
+| variable                  | definition                                                      |
+|---------------------------|-----------------------------------------------------------------|
+| date                      | Date of observation                                             |
+| cities                    | City label                                                      |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
 
 ## Licence
 
 The data generated by *Indeed Hiring Lab* are available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-The data and files that we have generated are freely available for public use, as long as Hiring Lab is cited as a source.
+The data and files that we have generated are freely available for public use, as long as *Indeed Hiring Lab* is cited as a source.
+
+## Disclaimer
+
+The number of job postings on Indeed.com, whether related to paid or unpaid job solicitations, is not indicative of potential revenue or earnings of Indeed, which comprises a significant percentage of the HR Technology segment of its parent company, Recruit Holdings Co., Ltd. Job posting numbers are provided for information purposes only and should not be viewed as an indicator of performance of Indeed or Recruit. Please refer to the Recruit Holdings investor relations website and regulatory filings in Japan for more detailed information on revenue generation by Recruit’s HR Technology segment.
+
+## About Hiring Lab
+
+[Indeed Hiring Lab](https://hiringlab.org) creates innovative data insights on the global labor market that inspire new conversations about the state of work. As the economic research arm of [Indeed](https://www.indeed.com/), the world's number one job site, Hiring Lab is driven by a team of leading economists and data scientists who provide real-time thought leadership on global labor market conditions, including hiring trends, salary information, popular skills, and employer benefits. Hiring Lab analyzes millions of data points across time collected from Indeed's proprietary job postings, resumes, and job seeker behaviors to reveal emerging trends in the United States and across the world.
+
+The unique insights generated by Hiring Lab inform talent management, employment, and labor policy decisions for businesses, researchers, academics, and job seekers alike. Hiring Lab partners with a range of policy-making organizations and NGOs including the International Monetary Fund, the European Central Bank, and the Bank of Canada to produce timely, incisive research. Hiring Lab data is also regularly cited in prominent business publications such as The Wall Street Journal, CNN, Reuters, The Globe and Mail, Der Spiegel, and The Financial Times. Hiring Lab economists regularly speak about labor market trends at leading industry, policy, and academic conferences.
+
+Indeed has websites in over 60 markets and 28 languages. Our economists have a deep knowledge of the factors that affect global markets and are based across the world in the United States, Canada, the United Kingdom, Ireland, Germany, France, Japan, and Australia.
+
+If you are interested in data about other markets, please contact us at <hiringlabinfo@indeed.com>.
