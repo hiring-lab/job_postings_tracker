@@ -1650,7 +1650,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2024-08-06,DE,135.35,138.3,total postings
 2024-08-07,DE,135.31,138.31,total postings
 2024-08-08,DE,135.27,138.32,total postings
-2024-08-09,DE,135.08,138.24,total postings
+2024-08-09,DE,135.08,138.23,total postings
 2024-08-10,DE,134.95,138.14,total postings
 2024-08-11,DE,134.9,138.05,total postings
 2024-08-12,DE,134.99,138.01,total postings
@@ -1700,6 +1700,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2024-09-25,DE,130.69,134.67,total postings
 2024-09-26,DE,130.46,134.65,total postings
 2024-09-27,DE,130.24,134.62,total postings
+2024-09-28,DE,130.1,134.54,total postings
+2024-09-29,DE,130.15,134.56,total postings
+2024-09-30,DE,130.33,134.6,total postings
+2024-10-01,DE,130.43,134.41,total postings
+2024-10-02,DE,130.22,133.76,total postings
+2024-10-03,DE,130.45,133.47,total postings
+2024-10-04,DE,130.76,133.15,total postings
 2020-02-01,DE,100,100,new postings
 2020-02-02,DE,101.82,101.02,new postings
 2020-02-03,DE,103.97,102.58,new postings
@@ -3401,3 +3408,10 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2024-09-25,DE,135.04,131.84,new postings
 2024-09-26,DE,134.24,131.11,new postings
 2024-09-27,DE,133.1,130.12,new postings
+2024-09-28,DE,130.97,128.08,new postings
+2024-09-29,DE,128.72,126.04,new postings
+2024-09-30,DE,126.72,124.12,new postings
+2024-10-01,DE,125.95,123.08,new postings
+2024-10-02,DE,126.15,122.64,new postings
+2024-10-03,DE,126.34,121.94,new postings
+2024-10-04,DE,125.26,119.78,new postings
