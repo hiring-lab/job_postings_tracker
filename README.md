@@ -6,7 +6,7 @@ This repository contains the data behind the *Indeed Hiring Lab's* Job Postings 
 
 The data in this repository are the percentage change in seasonally-adjusted job postings since February 1, 2020, using a seven-day trailing average. February 1, 2020, is our pre-pandemic baseline. A reading of 101 signifies the overall level of job postings is 1% higher than the level on February 1, 2020.
 
-We seasonally adjust each series based on historical patterns in 2017, 2018, and 2019. Each series, including the national trend, occupational sectors, and sub-national geographies, is seasonally adjusted separately. We adopted this new methodology in January 2021. Historical numbers have been revised and may differ from originally reported values.
+We seasonally adjust each series daily using [methodology developed by the Deutsche Bundesbank for daily time series data](https://www.bundesbank.de/resource/blob/763892/f5cd282cc57e55aca1eb0d521d3aa0da/mL/2018-10-17-dkp-41-data.pdf). Projected seasonal factors for the latest calendar year are based on estimates taken from the preceding three years. Each series, including the national trend, occupational sectors, and sub-national geographies, is seasonally adjusted separately. We adopted this new methodology in November 2024. Historical numbers have been revised and may differ from previously reported values.
 
 The occupational sectors in our data are an Indeed categorization based on normalized job titles. A list of those job sectors along with sample job titles is available in this repository (see `sector-job-title-examples.csv`).
 
