@@ -1882,6 +1882,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,93.22,total postings,Accounting
 2025-03-27,FR,93.25,total postings,Accounting
 2025-03-28,FR,93.17,total postings,Accounting
+2025-03-29,FR,93.2,total postings,Accounting
+2025-03-30,FR,93.22,total postings,Accounting
+2025-03-31,FR,93.27,total postings,Accounting
+2025-04-01,FR,93.26,total postings,Accounting
+2025-04-02,FR,93.34,total postings,Accounting
+2025-04-03,FR,93.39,total postings,Accounting
+2025-04-04,FR,93.59,total postings,Accounting
 2020-02-01,FR,100,total postings,Administrative Assistance
 2020-02-02,FR,99.87,total postings,Administrative Assistance
 2020-02-03,FR,99.84,total postings,Administrative Assistance
@@ -3765,6 +3772,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,125.41,total postings,Administrative Assistance
 2025-03-27,FR,126.03,total postings,Administrative Assistance
 2025-03-28,FR,126.59,total postings,Administrative Assistance
+2025-03-29,FR,127.29,total postings,Administrative Assistance
+2025-03-30,FR,127.7,total postings,Administrative Assistance
+2025-03-31,FR,128.19,total postings,Administrative Assistance
+2025-04-01,FR,128.61,total postings,Administrative Assistance
+2025-04-02,FR,128.87,total postings,Administrative Assistance
+2025-04-03,FR,129.4,total postings,Administrative Assistance
+2025-04-04,FR,129.58,total postings,Administrative Assistance
 2020-02-01,FR,100,total postings,Agriculture & Forestry
 2020-02-02,FR,99.41,total postings,Agriculture & Forestry
 2020-02-03,FR,98.6,total postings,Agriculture & Forestry
@@ -5648,6 +5662,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,150.41,total postings,Agriculture & Forestry
 2025-03-27,FR,151.57,total postings,Agriculture & Forestry
 2025-03-28,FR,152.99,total postings,Agriculture & Forestry
+2025-03-29,FR,154.24,total postings,Agriculture & Forestry
+2025-03-30,FR,155.47,total postings,Agriculture & Forestry
+2025-03-31,FR,156.73,total postings,Agriculture & Forestry
+2025-04-01,FR,157.73,total postings,Agriculture & Forestry
+2025-04-02,FR,158.29,total postings,Agriculture & Forestry
+2025-04-03,FR,158.56,total postings,Agriculture & Forestry
+2025-04-04,FR,158.29,total postings,Agriculture & Forestry
 2020-02-01,FR,100,total postings,Arts & Entertainment
 2020-02-02,FR,99.51,total postings,Arts & Entertainment
 2020-02-03,FR,98.97,total postings,Arts & Entertainment
@@ -7531,6 +7552,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,89.13,total postings,Arts & Entertainment
 2025-03-27,FR,89.36,total postings,Arts & Entertainment
 2025-03-28,FR,89.4,total postings,Arts & Entertainment
+2025-03-29,FR,89.54,total postings,Arts & Entertainment
+2025-03-30,FR,89.69,total postings,Arts & Entertainment
+2025-03-31,FR,89.9,total postings,Arts & Entertainment
+2025-04-01,FR,90.05,total postings,Arts & Entertainment
+2025-04-02,FR,90.11,total postings,Arts & Entertainment
+2025-04-03,FR,90.3,total postings,Arts & Entertainment
+2025-04-04,FR,90.62,total postings,Arts & Entertainment
 2020-02-01,FR,100,total postings,Personal Care & Home Health
 2020-02-02,FR,100.11,total postings,Personal Care & Home Health
 2020-02-03,FR,100.16,total postings,Personal Care & Home Health
@@ -9414,1889 +9442,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,327.4,total postings,Personal Care & Home Health
 2025-03-27,FR,327.32,total postings,Personal Care & Home Health
 2025-03-28,FR,327.21,total postings,Personal Care & Home Health
-2020-02-01,FR,100,total postings,Childcare
-2020-02-02,FR,100.33,total postings,Childcare
-2020-02-03,FR,100.87,total postings,Childcare
-2020-02-04,FR,101.11,total postings,Childcare
-2020-02-05,FR,101.57,total postings,Childcare
-2020-02-06,FR,102.01,total postings,Childcare
-2020-02-07,FR,102.22,total postings,Childcare
-2020-02-08,FR,102.02,total postings,Childcare
-2020-02-09,FR,101.63,total postings,Childcare
-2020-02-10,FR,101.1,total postings,Childcare
-2020-02-11,FR,100.97,total postings,Childcare
-2020-02-12,FR,100.63,total postings,Childcare
-2020-02-13,FR,100.31,total postings,Childcare
-2020-02-14,FR,99.96,total postings,Childcare
-2020-02-15,FR,99.75,total postings,Childcare
-2020-02-16,FR,99.74,total postings,Childcare
-2020-02-17,FR,99.53,total postings,Childcare
-2020-02-18,FR,99.55,total postings,Childcare
-2020-02-19,FR,99.67,total postings,Childcare
-2020-02-20,FR,99.58,total postings,Childcare
-2020-02-21,FR,99.78,total postings,Childcare
-2020-02-22,FR,99.75,total postings,Childcare
-2020-02-23,FR,99.72,total postings,Childcare
-2020-02-24,FR,99.72,total postings,Childcare
-2020-02-25,FR,99.28,total postings,Childcare
-2020-02-26,FR,99.5,total postings,Childcare
-2020-02-27,FR,99.91,total postings,Childcare
-2020-02-28,FR,100.22,total postings,Childcare
-2020-02-29,FR,100.72,total postings,Childcare
-2020-03-01,FR,101.07,total postings,Childcare
-2020-03-02,FR,101.71,total postings,Childcare
-2020-03-03,FR,102.58,total postings,Childcare
-2020-03-04,FR,102.84,total postings,Childcare
-2020-03-05,FR,103.17,total postings,Childcare
-2020-03-06,FR,103.52,total postings,Childcare
-2020-03-07,FR,103.79,total postings,Childcare
-2020-03-08,FR,104.08,total postings,Childcare
-2020-03-09,FR,104.19,total postings,Childcare
-2020-03-10,FR,104.11,total postings,Childcare
-2020-03-11,FR,103.95,total postings,Childcare
-2020-03-12,FR,104.02,total postings,Childcare
-2020-03-13,FR,103.9,total postings,Childcare
-2020-03-14,FR,103.67,total postings,Childcare
-2020-03-15,FR,103.59,total postings,Childcare
-2020-03-16,FR,103.43,total postings,Childcare
-2020-03-17,FR,103.17,total postings,Childcare
-2020-03-18,FR,102.65,total postings,Childcare
-2020-03-19,FR,101.8,total postings,Childcare
-2020-03-20,FR,100.79,total postings,Childcare
-2020-03-21,FR,99.94,total postings,Childcare
-2020-03-22,FR,98.91,total postings,Childcare
-2020-03-23,FR,98.3,total postings,Childcare
-2020-03-24,FR,97.72,total postings,Childcare
-2020-03-25,FR,97.44,total postings,Childcare
-2020-03-26,FR,96.99,total postings,Childcare
-2020-03-27,FR,96.81,total postings,Childcare
-2020-03-28,FR,96.55,total postings,Childcare
-2020-03-29,FR,96.49,total postings,Childcare
-2020-03-30,FR,96.09,total postings,Childcare
-2020-03-31,FR,95.73,total postings,Childcare
-2020-04-01,FR,95.49,total postings,Childcare
-2020-04-02,FR,92.93,total postings,Childcare
-2020-04-03,FR,90.4,total postings,Childcare
-2020-04-04,FR,87.95,total postings,Childcare
-2020-04-05,FR,85.35,total postings,Childcare
-2020-04-06,FR,82.73,total postings,Childcare
-2020-04-07,FR,80.16,total postings,Childcare
-2020-04-08,FR,77.45,total postings,Childcare
-2020-04-09,FR,77.22,total postings,Childcare
-2020-04-10,FR,76.78,total postings,Childcare
-2020-04-11,FR,76.2,total postings,Childcare
-2020-04-12,FR,75.62,total postings,Childcare
-2020-04-13,FR,75.02,total postings,Childcare
-2020-04-14,FR,74.61,total postings,Childcare
-2020-04-15,FR,74.26,total postings,Childcare
-2020-04-16,FR,73.96,total postings,Childcare
-2020-04-17,FR,73.36,total postings,Childcare
-2020-04-18,FR,72.99,total postings,Childcare
-2020-04-19,FR,72.48,total postings,Childcare
-2020-04-20,FR,72.3,total postings,Childcare
-2020-04-21,FR,71.78,total postings,Childcare
-2020-04-22,FR,71.32,total postings,Childcare
-2020-04-23,FR,70.75,total postings,Childcare
-2020-04-24,FR,70.62,total postings,Childcare
-2020-04-25,FR,70.29,total postings,Childcare
-2020-04-26,FR,70.1,total postings,Childcare
-2020-04-27,FR,69.65,total postings,Childcare
-2020-04-28,FR,68.97,total postings,Childcare
-2020-04-29,FR,68.17,total postings,Childcare
-2020-04-30,FR,67.4,total postings,Childcare
-2020-05-01,FR,66.67,total postings,Childcare
-2020-05-02,FR,66.24,total postings,Childcare
-2020-05-03,FR,65.79,total postings,Childcare
-2020-05-04,FR,65.44,total postings,Childcare
-2020-05-05,FR,65.28,total postings,Childcare
-2020-05-06,FR,65.15,total postings,Childcare
-2020-05-07,FR,65.13,total postings,Childcare
-2020-05-08,FR,64.88,total postings,Childcare
-2020-05-09,FR,64.46,total postings,Childcare
-2020-05-10,FR,63.98,total postings,Childcare
-2020-05-11,FR,63.57,total postings,Childcare
-2020-05-12,FR,63.31,total postings,Childcare
-2020-05-13,FR,65.65,total postings,Childcare
-2020-05-14,FR,67.9,total postings,Childcare
-2020-05-15,FR,70.64,total postings,Childcare
-2020-05-16,FR,73.46,total postings,Childcare
-2020-05-17,FR,76.35,total postings,Childcare
-2020-05-18,FR,79.11,total postings,Childcare
-2020-05-19,FR,82.04,total postings,Childcare
-2020-05-20,FR,82.52,total postings,Childcare
-2020-05-21,FR,83.01,total postings,Childcare
-2020-05-22,FR,83.19,total postings,Childcare
-2020-05-23,FR,83.37,total postings,Childcare
-2020-05-24,FR,83.36,total postings,Childcare
-2020-05-25,FR,83.49,total postings,Childcare
-2020-05-26,FR,83.29,total postings,Childcare
-2020-05-27,FR,83.21,total postings,Childcare
-2020-05-28,FR,83.13,total postings,Childcare
-2020-05-29,FR,83.24,total postings,Childcare
-2020-05-30,FR,83.13,total postings,Childcare
-2020-05-31,FR,83.26,total postings,Childcare
-2020-06-01,FR,83.39,total postings,Childcare
-2020-06-02,FR,83.52,total postings,Childcare
-2020-06-03,FR,83.35,total postings,Childcare
-2020-06-04,FR,83.11,total postings,Childcare
-2020-06-05,FR,82.61,total postings,Childcare
-2020-06-06,FR,82.32,total postings,Childcare
-2020-06-07,FR,81.73,total postings,Childcare
-2020-06-08,FR,80.95,total postings,Childcare
-2020-06-09,FR,80.27,total postings,Childcare
-2020-06-10,FR,79.64,total postings,Childcare
-2020-06-11,FR,79.12,total postings,Childcare
-2020-06-12,FR,79.06,total postings,Childcare
-2020-06-13,FR,78.98,total postings,Childcare
-2020-06-14,FR,78.71,total postings,Childcare
-2020-06-15,FR,78.41,total postings,Childcare
-2020-06-16,FR,78.15,total postings,Childcare
-2020-06-17,FR,77.82,total postings,Childcare
-2020-06-18,FR,77.33,total postings,Childcare
-2020-06-19,FR,76.3,total postings,Childcare
-2020-06-20,FR,74.92,total postings,Childcare
-2020-06-21,FR,74.05,total postings,Childcare
-2020-06-22,FR,72.91,total postings,Childcare
-2020-06-23,FR,72.07,total postings,Childcare
-2020-06-24,FR,71.28,total postings,Childcare
-2020-06-25,FR,70.87,total postings,Childcare
-2020-06-26,FR,70.81,total postings,Childcare
-2020-06-27,FR,71.13,total postings,Childcare
-2020-06-28,FR,71.17,total postings,Childcare
-2020-06-29,FR,71.22,total postings,Childcare
-2020-06-30,FR,70.39,total postings,Childcare
-2020-07-01,FR,69.08,total postings,Childcare
-2020-07-02,FR,67.7,total postings,Childcare
-2020-07-03,FR,66.1,total postings,Childcare
-2020-07-04,FR,64.45,total postings,Childcare
-2020-07-05,FR,62.66,total postings,Childcare
-2020-07-06,FR,62.81,total postings,Childcare
-2020-07-07,FR,63.46,total postings,Childcare
-2020-07-08,FR,65.23,total postings,Childcare
-2020-07-09,FR,66.86,total postings,Childcare
-2020-07-10,FR,68.59,total postings,Childcare
-2020-07-11,FR,69.61,total postings,Childcare
-2020-07-12,FR,70.62,total postings,Childcare
-2020-07-13,FR,70.42,total postings,Childcare
-2020-07-14,FR,69.88,total postings,Childcare
-2020-07-15,FR,68.9,total postings,Childcare
-2020-07-16,FR,68.32,total postings,Childcare
-2020-07-17,FR,67.84,total postings,Childcare
-2020-07-18,FR,67.72,total postings,Childcare
-2020-07-19,FR,67.39,total postings,Childcare
-2020-07-20,FR,66.79,total postings,Childcare
-2020-07-21,FR,66.51,total postings,Childcare
-2020-07-22,FR,65.75,total postings,Childcare
-2020-07-23,FR,65.01,total postings,Childcare
-2020-07-24,FR,64.1,total postings,Childcare
-2020-07-25,FR,63.93,total postings,Childcare
-2020-07-26,FR,64.3,total postings,Childcare
-2020-07-27,FR,63.65,total postings,Childcare
-2020-07-28,FR,63.11,total postings,Childcare
-2020-07-29,FR,62.97,total postings,Childcare
-2020-07-30,FR,61.88,total postings,Childcare
-2020-07-31,FR,60.8,total postings,Childcare
-2020-08-01,FR,58.66,total postings,Childcare
-2020-08-02,FR,56.69,total postings,Childcare
-2020-08-03,FR,55.71,total postings,Childcare
-2020-08-04,FR,54.64,total postings,Childcare
-2020-08-05,FR,55.5,total postings,Childcare
-2020-08-06,FR,57.23,total postings,Childcare
-2020-08-07,FR,58.79,total postings,Childcare
-2020-08-08,FR,60.87,total postings,Childcare
-2020-08-09,FR,63.19,total postings,Childcare
-2020-08-10,FR,65.35,total postings,Childcare
-2020-08-11,FR,67.17,total postings,Childcare
-2020-08-12,FR,66.9,total postings,Childcare
-2020-08-13,FR,66.36,total postings,Childcare
-2020-08-14,FR,66.05,total postings,Childcare
-2020-08-15,FR,65.92,total postings,Childcare
-2020-08-16,FR,65.47,total postings,Childcare
-2020-08-17,FR,65.18,total postings,Childcare
-2020-08-18,FR,65.73,total postings,Childcare
-2020-08-19,FR,66.82,total postings,Childcare
-2020-08-20,FR,67.09,total postings,Childcare
-2020-08-21,FR,66.84,total postings,Childcare
-2020-08-22,FR,66.64,total postings,Childcare
-2020-08-23,FR,66.29,total postings,Childcare
-2020-08-24,FR,65.93,total postings,Childcare
-2020-08-25,FR,65.68,total postings,Childcare
-2020-08-26,FR,65.41,total postings,Childcare
-2020-08-27,FR,65.73,total postings,Childcare
-2020-08-28,FR,66.56,total postings,Childcare
-2020-08-29,FR,68.24,total postings,Childcare
-2020-08-30,FR,69.92,total postings,Childcare
-2020-08-31,FR,71.69,total postings,Childcare
-2020-09-01,FR,71.49,total postings,Childcare
-2020-09-02,FR,71.59,total postings,Childcare
-2020-09-03,FR,71.31,total postings,Childcare
-2020-09-04,FR,71.2,total postings,Childcare
-2020-09-05,FR,70.33,total postings,Childcare
-2020-09-06,FR,69.58,total postings,Childcare
-2020-09-07,FR,68.54,total postings,Childcare
-2020-09-08,FR,69.34,total postings,Childcare
-2020-09-09,FR,69.7,total postings,Childcare
-2020-09-10,FR,70.54,total postings,Childcare
-2020-09-11,FR,71.47,total postings,Childcare
-2020-09-12,FR,72.01,total postings,Childcare
-2020-09-13,FR,72.66,total postings,Childcare
-2020-09-14,FR,73.18,total postings,Childcare
-2020-09-15,FR,73.33,total postings,Childcare
-2020-09-16,FR,73.26,total postings,Childcare
-2020-09-17,FR,73.37,total postings,Childcare
-2020-09-18,FR,73.25,total postings,Childcare
-2020-09-19,FR,73.7,total postings,Childcare
-2020-09-20,FR,74.12,total postings,Childcare
-2020-09-21,FR,74.52,total postings,Childcare
-2020-09-22,FR,75.18,total postings,Childcare
-2020-09-23,FR,75.92,total postings,Childcare
-2020-09-24,FR,76.61,total postings,Childcare
-2020-09-25,FR,77.33,total postings,Childcare
-2020-09-26,FR,77.66,total postings,Childcare
-2020-09-27,FR,77.98,total postings,Childcare
-2020-09-28,FR,78.3,total postings,Childcare
-2020-09-29,FR,77.51,total postings,Childcare
-2020-09-30,FR,76.73,total postings,Childcare
-2020-10-01,FR,75.5,total postings,Childcare
-2020-10-02,FR,75.1,total postings,Childcare
-2020-10-03,FR,74.8,total postings,Childcare
-2020-10-04,FR,74.52,total postings,Childcare
-2020-10-05,FR,74.32,total postings,Childcare
-2020-10-06,FR,75.26,total postings,Childcare
-2020-10-07,FR,76.06,total postings,Childcare
-2020-10-08,FR,77.79,total postings,Childcare
-2020-10-09,FR,78.82,total postings,Childcare
-2020-10-10,FR,79.86,total postings,Childcare
-2020-10-11,FR,81,total postings,Childcare
-2020-10-12,FR,82.12,total postings,Childcare
-2020-10-13,FR,83.03,total postings,Childcare
-2020-10-14,FR,83.87,total postings,Childcare
-2020-10-15,FR,84.43,total postings,Childcare
-2020-10-16,FR,84.6,total postings,Childcare
-2020-10-17,FR,84.87,total postings,Childcare
-2020-10-18,FR,84.88,total postings,Childcare
-2020-10-19,FR,85.24,total postings,Childcare
-2020-10-20,FR,85.62,total postings,Childcare
-2020-10-21,FR,86.07,total postings,Childcare
-2020-10-22,FR,86.66,total postings,Childcare
-2020-10-23,FR,86.99,total postings,Childcare
-2020-10-24,FR,87.12,total postings,Childcare
-2020-10-25,FR,87.15,total postings,Childcare
-2020-10-26,FR,87.09,total postings,Childcare
-2020-10-27,FR,87.2,total postings,Childcare
-2020-10-28,FR,87.36,total postings,Childcare
-2020-10-29,FR,87.3,total postings,Childcare
-2020-10-30,FR,87.56,total postings,Childcare
-2020-10-31,FR,88.03,total postings,Childcare
-2020-11-01,FR,88.44,total postings,Childcare
-2020-11-02,FR,88.7,total postings,Childcare
-2020-11-03,FR,88.57,total postings,Childcare
-2020-11-04,FR,88.39,total postings,Childcare
-2020-11-05,FR,87.87,total postings,Childcare
-2020-11-06,FR,87.24,total postings,Childcare
-2020-11-07,FR,86.77,total postings,Childcare
-2020-11-08,FR,86.41,total postings,Childcare
-2020-11-09,FR,86.04,total postings,Childcare
-2020-11-10,FR,85.91,total postings,Childcare
-2020-11-11,FR,85.91,total postings,Childcare
-2020-11-12,FR,85.87,total postings,Childcare
-2020-11-13,FR,86.01,total postings,Childcare
-2020-11-14,FR,85.8,total postings,Childcare
-2020-11-15,FR,85.96,total postings,Childcare
-2020-11-16,FR,86.36,total postings,Childcare
-2020-11-17,FR,86.79,total postings,Childcare
-2020-11-18,FR,87.1,total postings,Childcare
-2020-11-19,FR,87.73,total postings,Childcare
-2020-11-20,FR,88.16,total postings,Childcare
-2020-11-21,FR,88.62,total postings,Childcare
-2020-11-22,FR,88.9,total postings,Childcare
-2020-11-23,FR,89.02,total postings,Childcare
-2020-11-24,FR,89.17,total postings,Childcare
-2020-11-25,FR,89.25,total postings,Childcare
-2020-11-26,FR,89.14,total postings,Childcare
-2020-11-27,FR,89.33,total postings,Childcare
-2020-11-28,FR,89.59,total postings,Childcare
-2020-11-29,FR,89.63,total postings,Childcare
-2020-11-30,FR,88.77,total postings,Childcare
-2020-12-01,FR,88.48,total postings,Childcare
-2020-12-02,FR,88.14,total postings,Childcare
-2020-12-03,FR,87.68,total postings,Childcare
-2020-12-04,FR,87.29,total postings,Childcare
-2020-12-05,FR,87.13,total postings,Childcare
-2020-12-06,FR,87.07,total postings,Childcare
-2020-12-07,FR,88.01,total postings,Childcare
-2020-12-08,FR,88.04,total postings,Childcare
-2020-12-09,FR,88.52,total postings,Childcare
-2020-12-10,FR,89.12,total postings,Childcare
-2020-12-11,FR,89.56,total postings,Childcare
-2020-12-12,FR,90.13,total postings,Childcare
-2020-12-13,FR,90.74,total postings,Childcare
-2020-12-14,FR,91.38,total postings,Childcare
-2020-12-15,FR,92.32,total postings,Childcare
-2020-12-16,FR,92.83,total postings,Childcare
-2020-12-17,FR,93.38,total postings,Childcare
-2020-12-18,FR,93.97,total postings,Childcare
-2020-12-19,FR,94.14,total postings,Childcare
-2020-12-20,FR,94.34,total postings,Childcare
-2020-12-21,FR,94.37,total postings,Childcare
-2020-12-22,FR,94.32,total postings,Childcare
-2020-12-23,FR,94.25,total postings,Childcare
-2020-12-24,FR,94.07,total postings,Childcare
-2020-12-25,FR,93.89,total postings,Childcare
-2020-12-26,FR,93.71,total postings,Childcare
-2020-12-27,FR,93.45,total postings,Childcare
-2020-12-28,FR,93.47,total postings,Childcare
-2020-12-29,FR,93.47,total postings,Childcare
-2020-12-30,FR,93.52,total postings,Childcare
-2020-12-31,FR,93.49,total postings,Childcare
-2021-01-01,FR,93.51,total postings,Childcare
-2021-01-02,FR,93.57,total postings,Childcare
-2021-01-03,FR,93.48,total postings,Childcare
-2021-01-04,FR,93.3,total postings,Childcare
-2021-01-05,FR,93.1,total postings,Childcare
-2021-01-06,FR,93.22,total postings,Childcare
-2021-01-07,FR,93.57,total postings,Childcare
-2021-01-08,FR,93.96,total postings,Childcare
-2021-01-09,FR,94.37,total postings,Childcare
-2021-01-10,FR,94.82,total postings,Childcare
-2021-01-11,FR,95.2,total postings,Childcare
-2021-01-12,FR,95.66,total postings,Childcare
-2021-01-13,FR,95.81,total postings,Childcare
-2021-01-14,FR,95.85,total postings,Childcare
-2021-01-15,FR,95.79,total postings,Childcare
-2021-01-16,FR,95.69,total postings,Childcare
-2021-01-17,FR,95.75,total postings,Childcare
-2021-01-18,FR,95.79,total postings,Childcare
-2021-01-19,FR,95.74,total postings,Childcare
-2021-01-20,FR,95.67,total postings,Childcare
-2021-01-21,FR,95.77,total postings,Childcare
-2021-01-22,FR,95.87,total postings,Childcare
-2021-01-23,FR,95.86,total postings,Childcare
-2021-01-24,FR,95.85,total postings,Childcare
-2021-01-25,FR,95.77,total postings,Childcare
-2021-01-26,FR,95.75,total postings,Childcare
-2021-01-27,FR,95.94,total postings,Childcare
-2021-01-28,FR,96.04,total postings,Childcare
-2021-01-29,FR,96.12,total postings,Childcare
-2021-01-30,FR,96.26,total postings,Childcare
-2021-01-31,FR,96.43,total postings,Childcare
-2021-02-01,FR,96.82,total postings,Childcare
-2021-02-02,FR,97.13,total postings,Childcare
-2021-02-03,FR,97.28,total postings,Childcare
-2021-02-04,FR,97.36,total postings,Childcare
-2021-02-05,FR,97.44,total postings,Childcare
-2021-02-06,FR,97.56,total postings,Childcare
-2021-02-07,FR,97.7,total postings,Childcare
-2021-02-08,FR,97.71,total postings,Childcare
-2021-02-09,FR,97.72,total postings,Childcare
-2021-02-10,FR,97.82,total postings,Childcare
-2021-02-11,FR,98.26,total postings,Childcare
-2021-02-12,FR,98.91,total postings,Childcare
-2021-02-13,FR,99.73,total postings,Childcare
-2021-02-14,FR,100.54,total postings,Childcare
-2021-02-15,FR,101.25,total postings,Childcare
-2021-02-16,FR,102.08,total postings,Childcare
-2021-02-17,FR,102.92,total postings,Childcare
-2021-02-18,FR,103.38,total postings,Childcare
-2021-02-19,FR,103.6,total postings,Childcare
-2021-02-20,FR,103.42,total postings,Childcare
-2021-02-21,FR,103.32,total postings,Childcare
-2021-02-22,FR,103.22,total postings,Childcare
-2021-02-23,FR,102.99,total postings,Childcare
-2021-02-24,FR,102.7,total postings,Childcare
-2021-02-25,FR,102.49,total postings,Childcare
-2021-02-26,FR,102.36,total postings,Childcare
-2021-02-27,FR,102.37,total postings,Childcare
-2021-02-28,FR,102.17,total postings,Childcare
-2021-03-01,FR,101.98,total postings,Childcare
-2021-03-02,FR,101.97,total postings,Childcare
-2021-03-03,FR,102.11,total postings,Childcare
-2021-03-04,FR,102.19,total postings,Childcare
-2021-03-05,FR,102.14,total postings,Childcare
-2021-03-06,FR,102.27,total postings,Childcare
-2021-03-07,FR,102.45,total postings,Childcare
-2021-03-08,FR,102.69,total postings,Childcare
-2021-03-09,FR,102.82,total postings,Childcare
-2021-03-10,FR,102.64,total postings,Childcare
-2021-03-11,FR,103.52,total postings,Childcare
-2021-03-12,FR,103.7,total postings,Childcare
-2021-03-13,FR,104.85,total postings,Childcare
-2021-03-14,FR,105.97,total postings,Childcare
-2021-03-15,FR,107.13,total postings,Childcare
-2021-03-16,FR,108.46,total postings,Childcare
-2021-03-17,FR,106.3,total postings,Childcare
-2021-03-18,FR,103.53,total postings,Childcare
-2021-03-19,FR,101.68,total postings,Childcare
-2021-03-20,FR,100.9,total postings,Childcare
-2021-03-21,FR,100.34,total postings,Childcare
-2021-03-22,FR,99.69,total postings,Childcare
-2021-03-23,FR,99.02,total postings,Childcare
-2021-03-24,FR,102.08,total postings,Childcare
-2021-03-25,FR,104.75,total postings,Childcare
-2021-03-26,FR,107.28,total postings,Childcare
-2021-03-27,FR,107.79,total postings,Childcare
-2021-03-28,FR,108.32,total postings,Childcare
-2021-03-29,FR,109.02,total postings,Childcare
-2021-03-30,FR,109.64,total postings,Childcare
-2021-03-31,FR,110.26,total postings,Childcare
-2021-04-01,FR,110.79,total postings,Childcare
-2021-04-02,FR,111.17,total postings,Childcare
-2021-04-03,FR,111.46,total postings,Childcare
-2021-04-04,FR,111.85,total postings,Childcare
-2021-04-05,FR,111.98,total postings,Childcare
-2021-04-06,FR,112.14,total postings,Childcare
-2021-04-07,FR,112.03,total postings,Childcare
-2021-04-08,FR,111.99,total postings,Childcare
-2021-04-09,FR,111.93,total postings,Childcare
-2021-04-10,FR,111.95,total postings,Childcare
-2021-04-11,FR,111.66,total postings,Childcare
-2021-04-12,FR,111.39,total postings,Childcare
-2021-04-13,FR,111.29,total postings,Childcare
-2021-04-14,FR,111.38,total postings,Childcare
-2021-04-15,FR,111.63,total postings,Childcare
-2021-04-16,FR,112.22,total postings,Childcare
-2021-04-17,FR,112.68,total postings,Childcare
-2021-04-18,FR,113.38,total postings,Childcare
-2021-04-19,FR,114.05,total postings,Childcare
-2021-04-20,FR,114.74,total postings,Childcare
-2021-04-21,FR,115.29,total postings,Childcare
-2021-04-22,FR,115.78,total postings,Childcare
-2021-04-23,FR,116.18,total postings,Childcare
-2021-04-24,FR,116.5,total postings,Childcare
-2021-04-25,FR,116.57,total postings,Childcare
-2021-04-26,FR,116.7,total postings,Childcare
-2021-04-27,FR,116.64,total postings,Childcare
-2021-04-28,FR,116.77,total postings,Childcare
-2021-04-29,FR,116.82,total postings,Childcare
-2021-04-30,FR,116.83,total postings,Childcare
-2021-05-01,FR,116.96,total postings,Childcare
-2021-05-02,FR,117.27,total postings,Childcare
-2021-05-03,FR,117.68,total postings,Childcare
-2021-05-04,FR,118.09,total postings,Childcare
-2021-05-05,FR,118.5,total postings,Childcare
-2021-05-06,FR,118.93,total postings,Childcare
-2021-05-07,FR,119.46,total postings,Childcare
-2021-05-08,FR,120.09,total postings,Childcare
-2021-05-09,FR,120.79,total postings,Childcare
-2021-05-10,FR,121.43,total postings,Childcare
-2021-05-11,FR,122.15,total postings,Childcare
-2021-05-12,FR,122.66,total postings,Childcare
-2021-05-13,FR,123.16,total postings,Childcare
-2021-05-14,FR,123.42,total postings,Childcare
-2021-05-15,FR,123.55,total postings,Childcare
-2021-05-16,FR,123.57,total postings,Childcare
-2021-05-17,FR,123.62,total postings,Childcare
-2021-05-18,FR,123.53,total postings,Childcare
-2021-05-19,FR,123.75,total postings,Childcare
-2021-05-20,FR,124.14,total postings,Childcare
-2021-05-21,FR,124.79,total postings,Childcare
-2021-05-22,FR,125.48,total postings,Childcare
-2021-05-23,FR,126.06,total postings,Childcare
-2021-05-24,FR,126.59,total postings,Childcare
-2021-05-25,FR,127.14,total postings,Childcare
-2021-05-26,FR,127.54,total postings,Childcare
-2021-05-27,FR,126.88,total postings,Childcare
-2021-05-28,FR,126.12,total postings,Childcare
-2021-05-29,FR,125.49,total postings,Childcare
-2021-05-30,FR,124.94,total postings,Childcare
-2021-05-31,FR,124.34,total postings,Childcare
-2021-06-01,FR,123.99,total postings,Childcare
-2021-06-02,FR,123.38,total postings,Childcare
-2021-06-03,FR,123.77,total postings,Childcare
-2021-06-04,FR,124.15,total postings,Childcare
-2021-06-05,FR,124.62,total postings,Childcare
-2021-06-06,FR,125.19,total postings,Childcare
-2021-06-07,FR,125.7,total postings,Childcare
-2021-06-08,FR,125.98,total postings,Childcare
-2021-06-09,FR,126.52,total postings,Childcare
-2021-06-10,FR,127.01,total postings,Childcare
-2021-06-11,FR,127.56,total postings,Childcare
-2021-06-12,FR,127.96,total postings,Childcare
-2021-06-13,FR,128.07,total postings,Childcare
-2021-06-14,FR,128.19,total postings,Childcare
-2021-06-15,FR,128.6,total postings,Childcare
-2021-06-16,FR,128.87,total postings,Childcare
-2021-06-17,FR,128.81,total postings,Childcare
-2021-06-18,FR,129.24,total postings,Childcare
-2021-06-19,FR,129.55,total postings,Childcare
-2021-06-20,FR,129.71,total postings,Childcare
-2021-06-21,FR,130.1,total postings,Childcare
-2021-06-22,FR,130.18,total postings,Childcare
-2021-06-23,FR,130.53,total postings,Childcare
-2021-06-24,FR,131.17,total postings,Childcare
-2021-06-25,FR,131.15,total postings,Childcare
-2021-06-26,FR,131.17,total postings,Childcare
-2021-06-27,FR,131.43,total postings,Childcare
-2021-06-28,FR,131.57,total postings,Childcare
-2021-06-29,FR,131.69,total postings,Childcare
-2021-06-30,FR,131.59,total postings,Childcare
-2021-07-01,FR,131.48,total postings,Childcare
-2021-07-02,FR,131.62,total postings,Childcare
-2021-07-03,FR,131.73,total postings,Childcare
-2021-07-04,FR,132.06,total postings,Childcare
-2021-07-05,FR,132.06,total postings,Childcare
-2021-07-06,FR,132.33,total postings,Childcare
-2021-07-07,FR,132.53,total postings,Childcare
-2021-07-08,FR,132.95,total postings,Childcare
-2021-07-09,FR,133.05,total postings,Childcare
-2021-07-10,FR,133.32,total postings,Childcare
-2021-07-11,FR,133.25,total postings,Childcare
-2021-07-12,FR,133.75,total postings,Childcare
-2021-07-13,FR,134.25,total postings,Childcare
-2021-07-14,FR,134.59,total postings,Childcare
-2021-07-15,FR,134.78,total postings,Childcare
-2021-07-16,FR,135.48,total postings,Childcare
-2021-07-17,FR,136.01,total postings,Childcare
-2021-07-18,FR,136.62,total postings,Childcare
-2021-07-19,FR,136.59,total postings,Childcare
-2021-07-20,FR,136.43,total postings,Childcare
-2021-07-21,FR,136.6,total postings,Childcare
-2021-07-22,FR,137.12,total postings,Childcare
-2021-07-23,FR,137.14,total postings,Childcare
-2021-07-24,FR,137.41,total postings,Childcare
-2021-07-25,FR,137.77,total postings,Childcare
-2021-07-26,FR,138.7,total postings,Childcare
-2021-07-27,FR,139.75,total postings,Childcare
-2021-07-28,FR,140.66,total postings,Childcare
-2021-07-29,FR,141,total postings,Childcare
-2021-07-30,FR,141.32,total postings,Childcare
-2021-07-31,FR,141.42,total postings,Childcare
-2021-08-01,FR,141.3,total postings,Childcare
-2021-08-02,FR,141.25,total postings,Childcare
-2021-08-03,FR,140.83,total postings,Childcare
-2021-08-04,FR,140.3,total postings,Childcare
-2021-08-05,FR,140.13,total postings,Childcare
-2021-08-06,FR,139.87,total postings,Childcare
-2021-08-07,FR,139.65,total postings,Childcare
-2021-08-08,FR,139.52,total postings,Childcare
-2021-08-09,FR,138.89,total postings,Childcare
-2021-08-10,FR,138.47,total postings,Childcare
-2021-08-11,FR,138.49,total postings,Childcare
-2021-08-12,FR,138.16,total postings,Childcare
-2021-08-13,FR,138.27,total postings,Childcare
-2021-08-14,FR,138.13,total postings,Childcare
-2021-08-15,FR,138.24,total postings,Childcare
-2021-08-16,FR,138.73,total postings,Childcare
-2021-08-17,FR,139.26,total postings,Childcare
-2021-08-18,FR,140.02,total postings,Childcare
-2021-08-19,FR,141.19,total postings,Childcare
-2021-08-20,FR,142.13,total postings,Childcare
-2021-08-21,FR,143.56,total postings,Childcare
-2021-08-22,FR,144.76,total postings,Childcare
-2021-08-23,FR,145.56,total postings,Childcare
-2021-08-24,FR,146.33,total postings,Childcare
-2021-08-25,FR,146.56,total postings,Childcare
-2021-08-26,FR,147.1,total postings,Childcare
-2021-08-27,FR,147.47,total postings,Childcare
-2021-08-28,FR,147.41,total postings,Childcare
-2021-08-29,FR,148.02,total postings,Childcare
-2021-08-30,FR,148.92,total postings,Childcare
-2021-08-31,FR,149.92,total postings,Childcare
-2021-09-01,FR,150.89,total postings,Childcare
-2021-09-02,FR,151.61,total postings,Childcare
-2021-09-03,FR,152.4,total postings,Childcare
-2021-09-04,FR,153.45,total postings,Childcare
-2021-09-05,FR,154.54,total postings,Childcare
-2021-09-06,FR,155.31,total postings,Childcare
-2021-09-07,FR,156.48,total postings,Childcare
-2021-09-08,FR,157.8,total postings,Childcare
-2021-09-09,FR,159.47,total postings,Childcare
-2021-09-10,FR,161.1,total postings,Childcare
-2021-09-11,FR,163.18,total postings,Childcare
-2021-09-12,FR,164.41,total postings,Childcare
-2021-09-13,FR,166.39,total postings,Childcare
-2021-09-14,FR,166.99,total postings,Childcare
-2021-09-15,FR,167.6,total postings,Childcare
-2021-09-16,FR,167.55,total postings,Childcare
-2021-09-17,FR,167.64,total postings,Childcare
-2021-09-18,FR,167.7,total postings,Childcare
-2021-09-19,FR,168.74,total postings,Childcare
-2021-09-20,FR,169.15,total postings,Childcare
-2021-09-21,FR,169.96,total postings,Childcare
-2021-09-22,FR,170.46,total postings,Childcare
-2021-09-23,FR,171.21,total postings,Childcare
-2021-09-24,FR,172.15,total postings,Childcare
-2021-09-25,FR,172.69,total postings,Childcare
-2021-09-26,FR,172.27,total postings,Childcare
-2021-09-27,FR,172.4,total postings,Childcare
-2021-09-28,FR,172.67,total postings,Childcare
-2021-09-29,FR,172.84,total postings,Childcare
-2021-09-30,FR,173.06,total postings,Childcare
-2021-10-01,FR,172.63,total postings,Childcare
-2021-10-02,FR,173.33,total postings,Childcare
-2021-10-03,FR,174.08,total postings,Childcare
-2021-10-04,FR,174.38,total postings,Childcare
-2021-10-05,FR,174.77,total postings,Childcare
-2021-10-06,FR,175.68,total postings,Childcare
-2021-10-07,FR,176.18,total postings,Childcare
-2021-10-08,FR,177.6,total postings,Childcare
-2021-10-09,FR,177.78,total postings,Childcare
-2021-10-10,FR,178.58,total postings,Childcare
-2021-10-11,FR,179.24,total postings,Childcare
-2021-10-12,FR,179.92,total postings,Childcare
-2021-10-13,FR,180.47,total postings,Childcare
-2021-10-14,FR,181.16,total postings,Childcare
-2021-10-15,FR,181.64,total postings,Childcare
-2021-10-16,FR,181.99,total postings,Childcare
-2021-10-17,FR,181.78,total postings,Childcare
-2021-10-18,FR,181.64,total postings,Childcare
-2021-10-19,FR,181.96,total postings,Childcare
-2021-10-20,FR,181.99,total postings,Childcare
-2021-10-21,FR,181.94,total postings,Childcare
-2021-10-22,FR,181.79,total postings,Childcare
-2021-10-23,FR,181.39,total postings,Childcare
-2021-10-24,FR,180.85,total postings,Childcare
-2021-10-25,FR,180.32,total postings,Childcare
-2021-10-26,FR,179.53,total postings,Childcare
-2021-10-27,FR,178.81,total postings,Childcare
-2021-10-28,FR,178.23,total postings,Childcare
-2021-10-29,FR,177.51,total postings,Childcare
-2021-10-30,FR,178.1,total postings,Childcare
-2021-10-31,FR,178.54,total postings,Childcare
-2021-11-01,FR,178.82,total postings,Childcare
-2021-11-02,FR,178.72,total postings,Childcare
-2021-11-03,FR,178.48,total postings,Childcare
-2021-11-04,FR,178.23,total postings,Childcare
-2021-11-05,FR,177.35,total postings,Childcare
-2021-11-06,FR,176.58,total postings,Childcare
-2021-11-07,FR,176.05,total postings,Childcare
-2021-11-08,FR,175.8,total postings,Childcare
-2021-11-09,FR,175.92,total postings,Childcare
-2021-11-10,FR,176.24,total postings,Childcare
-2021-11-11,FR,176.25,total postings,Childcare
-2021-11-12,FR,176.2,total postings,Childcare
-2021-11-13,FR,175.12,total postings,Childcare
-2021-11-14,FR,174.36,total postings,Childcare
-2021-11-15,FR,173.62,total postings,Childcare
-2021-11-16,FR,173.14,total postings,Childcare
-2021-11-17,FR,172.24,total postings,Childcare
-2021-11-18,FR,169.03,total postings,Childcare
-2021-11-19,FR,166.82,total postings,Childcare
-2021-11-20,FR,164.4,total postings,Childcare
-2021-11-21,FR,162.01,total postings,Childcare
-2021-11-22,FR,159.52,total postings,Childcare
-2021-11-23,FR,156.73,total postings,Childcare
-2021-11-24,FR,154.49,total postings,Childcare
-2021-11-25,FR,154.94,total postings,Childcare
-2021-11-26,FR,155.02,total postings,Childcare
-2021-11-27,FR,155.28,total postings,Childcare
-2021-11-28,FR,155.53,total postings,Childcare
-2021-11-29,FR,155.52,total postings,Childcare
-2021-11-30,FR,154.8,total postings,Childcare
-2021-12-01,FR,154.46,total postings,Childcare
-2021-12-02,FR,153.79,total postings,Childcare
-2021-12-03,FR,153.55,total postings,Childcare
-2021-12-04,FR,153.64,total postings,Childcare
-2021-12-05,FR,153.36,total postings,Childcare
-2021-12-06,FR,153.39,total postings,Childcare
-2021-12-07,FR,154.15,total postings,Childcare
-2021-12-08,FR,154.27,total postings,Childcare
-2021-12-09,FR,154.8,total postings,Childcare
-2021-12-10,FR,154.87,total postings,Childcare
-2021-12-11,FR,154.62,total postings,Childcare
-2021-12-12,FR,155.03,total postings,Childcare
-2021-12-13,FR,155.3,total postings,Childcare
-2021-12-14,FR,154.67,total postings,Childcare
-2021-12-15,FR,154.45,total postings,Childcare
-2021-12-16,FR,153.93,total postings,Childcare
-2021-12-17,FR,153.73,total postings,Childcare
-2021-12-18,FR,153.18,total postings,Childcare
-2021-12-19,FR,152.41,total postings,Childcare
-2021-12-20,FR,151.6,total postings,Childcare
-2021-12-21,FR,151.63,total postings,Childcare
-2021-12-22,FR,151.55,total postings,Childcare
-2021-12-23,FR,151.52,total postings,Childcare
-2021-12-24,FR,151.2,total postings,Childcare
-2021-12-25,FR,151.22,total postings,Childcare
-2021-12-26,FR,151.16,total postings,Childcare
-2021-12-27,FR,151.26,total postings,Childcare
-2021-12-28,FR,151.43,total postings,Childcare
-2021-12-29,FR,151.4,total postings,Childcare
-2021-12-30,FR,151.38,total postings,Childcare
-2021-12-31,FR,151.29,total postings,Childcare
-2022-01-01,FR,151.29,total postings,Childcare
-2022-01-02,FR,151.27,total postings,Childcare
-2022-01-03,FR,151.09,total postings,Childcare
-2022-01-04,FR,151.25,total postings,Childcare
-2022-01-05,FR,151.01,total postings,Childcare
-2022-01-06,FR,150.91,total postings,Childcare
-2022-01-07,FR,150.98,total postings,Childcare
-2022-01-08,FR,151.18,total postings,Childcare
-2022-01-09,FR,151.01,total postings,Childcare
-2022-01-10,FR,151.21,total postings,Childcare
-2022-01-11,FR,151.11,total postings,Childcare
-2022-01-12,FR,151.58,total postings,Childcare
-2022-01-13,FR,151.83,total postings,Childcare
-2022-01-14,FR,152.22,total postings,Childcare
-2022-01-15,FR,152.31,total postings,Childcare
-2022-01-16,FR,152.59,total postings,Childcare
-2022-01-17,FR,152.55,total postings,Childcare
-2022-01-18,FR,152.58,total postings,Childcare
-2022-01-19,FR,152.55,total postings,Childcare
-2022-01-20,FR,152.47,total postings,Childcare
-2022-01-21,FR,152.31,total postings,Childcare
-2022-01-22,FR,152.15,total postings,Childcare
-2022-01-23,FR,152.13,total postings,Childcare
-2022-01-24,FR,152.23,total postings,Childcare
-2022-01-25,FR,152.3,total postings,Childcare
-2022-01-26,FR,152.42,total postings,Childcare
-2022-01-27,FR,152.67,total postings,Childcare
-2022-01-28,FR,152.84,total postings,Childcare
-2022-01-29,FR,153.13,total postings,Childcare
-2022-01-30,FR,153.39,total postings,Childcare
-2022-01-31,FR,153.77,total postings,Childcare
-2022-02-01,FR,154.21,total postings,Childcare
-2022-02-02,FR,154.77,total postings,Childcare
-2022-02-03,FR,155.5,total postings,Childcare
-2022-02-04,FR,156.11,total postings,Childcare
-2022-02-05,FR,156.64,total postings,Childcare
-2022-02-06,FR,157.13,total postings,Childcare
-2022-02-07,FR,157.59,total postings,Childcare
-2022-02-08,FR,157.79,total postings,Childcare
-2022-02-09,FR,157.77,total postings,Childcare
-2022-02-10,FR,157.58,total postings,Childcare
-2022-02-11,FR,156.7,total postings,Childcare
-2022-02-12,FR,155.74,total postings,Childcare
-2022-02-13,FR,154.8,total postings,Childcare
-2022-02-14,FR,153.66,total postings,Childcare
-2022-02-15,FR,148.24,total postings,Childcare
-2022-02-16,FR,147.26,total postings,Childcare
-2022-02-17,FR,146.23,total postings,Childcare
-2022-02-18,FR,145.77,total postings,Childcare
-2022-02-19,FR,145.48,total postings,Childcare
-2022-02-20,FR,144.82,total postings,Childcare
-2022-02-21,FR,144.63,total postings,Childcare
-2022-02-22,FR,148.72,total postings,Childcare
-2022-02-23,FR,149.01,total postings,Childcare
-2022-02-24,FR,149.12,total postings,Childcare
-2022-02-25,FR,149.71,total postings,Childcare
-2022-02-26,FR,150.07,total postings,Childcare
-2022-02-27,FR,150.55,total postings,Childcare
-2022-02-28,FR,150.53,total postings,Childcare
-2022-03-01,FR,150.72,total postings,Childcare
-2022-03-02,FR,150.41,total postings,Childcare
-2022-03-03,FR,150.1,total postings,Childcare
-2022-03-04,FR,149.57,total postings,Childcare
-2022-03-05,FR,149.39,total postings,Childcare
-2022-03-06,FR,149.44,total postings,Childcare
-2022-03-07,FR,149.62,total postings,Childcare
-2022-03-08,FR,149.8,total postings,Childcare
-2022-03-09,FR,149.93,total postings,Childcare
-2022-03-10,FR,150.15,total postings,Childcare
-2022-03-11,FR,149.93,total postings,Childcare
-2022-03-12,FR,150.11,total postings,Childcare
-2022-03-13,FR,150.26,total postings,Childcare
-2022-03-14,FR,150.39,total postings,Childcare
-2022-03-15,FR,150.54,total postings,Childcare
-2022-03-16,FR,150.64,total postings,Childcare
-2022-03-17,FR,151.02,total postings,Childcare
-2022-03-18,FR,151.8,total postings,Childcare
-2022-03-19,FR,152.02,total postings,Childcare
-2022-03-20,FR,151.98,total postings,Childcare
-2022-03-21,FR,152.08,total postings,Childcare
-2022-03-22,FR,152,total postings,Childcare
-2022-03-23,FR,152.14,total postings,Childcare
-2022-03-24,FR,152.38,total postings,Childcare
-2022-03-25,FR,152.73,total postings,Childcare
-2022-03-26,FR,152.95,total postings,Childcare
-2022-03-27,FR,153.3,total postings,Childcare
-2022-03-28,FR,153.89,total postings,Childcare
-2022-03-29,FR,154.69,total postings,Childcare
-2022-03-30,FR,155.43,total postings,Childcare
-2022-03-31,FR,155.91,total postings,Childcare
-2022-04-01,FR,156.54,total postings,Childcare
-2022-04-02,FR,157.53,total postings,Childcare
-2022-04-03,FR,158.7,total postings,Childcare
-2022-04-04,FR,159.74,total postings,Childcare
-2022-04-05,FR,160.59,total postings,Childcare
-2022-04-06,FR,161.22,total postings,Childcare
-2022-04-07,FR,162.21,total postings,Childcare
-2022-04-08,FR,162.85,total postings,Childcare
-2022-04-09,FR,163.39,total postings,Childcare
-2022-04-10,FR,163.9,total postings,Childcare
-2022-04-11,FR,164.33,total postings,Childcare
-2022-04-12,FR,164.82,total postings,Childcare
-2022-04-13,FR,165.15,total postings,Childcare
-2022-04-14,FR,165.05,total postings,Childcare
-2022-04-15,FR,164.91,total postings,Childcare
-2022-04-16,FR,164.83,total postings,Childcare
-2022-04-17,FR,164.77,total postings,Childcare
-2022-04-18,FR,164.62,total postings,Childcare
-2022-04-19,FR,164.53,total postings,Childcare
-2022-04-20,FR,164.81,total postings,Childcare
-2022-04-21,FR,164.98,total postings,Childcare
-2022-04-22,FR,165.5,total postings,Childcare
-2022-04-23,FR,165.82,total postings,Childcare
-2022-04-24,FR,166.12,total postings,Childcare
-2022-04-25,FR,166.36,total postings,Childcare
-2022-04-26,FR,166.68,total postings,Childcare
-2022-04-27,FR,167.06,total postings,Childcare
-2022-04-28,FR,167.57,total postings,Childcare
-2022-04-29,FR,167.79,total postings,Childcare
-2022-04-30,FR,168,total postings,Childcare
-2022-05-01,FR,168.18,total postings,Childcare
-2022-05-02,FR,168.67,total postings,Childcare
-2022-05-03,FR,168.95,total postings,Childcare
-2022-05-04,FR,169.31,total postings,Childcare
-2022-05-05,FR,169.66,total postings,Childcare
-2022-05-06,FR,170.25,total postings,Childcare
-2022-05-07,FR,170.9,total postings,Childcare
-2022-05-08,FR,171.62,total postings,Childcare
-2022-05-09,FR,172.29,total postings,Childcare
-2022-05-10,FR,172.89,total postings,Childcare
-2022-05-11,FR,173.38,total postings,Childcare
-2022-05-12,FR,173.88,total postings,Childcare
-2022-05-13,FR,174.28,total postings,Childcare
-2022-05-14,FR,174.79,total postings,Childcare
-2022-05-15,FR,175.27,total postings,Childcare
-2022-05-16,FR,175.66,total postings,Childcare
-2022-05-17,FR,176.19,total postings,Childcare
-2022-05-18,FR,176.91,total postings,Childcare
-2022-05-19,FR,177.34,total postings,Childcare
-2022-05-20,FR,178.37,total postings,Childcare
-2022-05-21,FR,178.86,total postings,Childcare
-2022-05-22,FR,179.92,total postings,Childcare
-2022-05-23,FR,180.87,total postings,Childcare
-2022-05-24,FR,181.77,total postings,Childcare
-2022-05-25,FR,182.59,total postings,Childcare
-2022-05-26,FR,183.41,total postings,Childcare
-2022-05-27,FR,183.73,total postings,Childcare
-2022-05-28,FR,184.29,total postings,Childcare
-2022-05-29,FR,184.22,total postings,Childcare
-2022-05-30,FR,184.2,total postings,Childcare
-2022-05-31,FR,184.22,total postings,Childcare
-2022-06-01,FR,184.04,total postings,Childcare
-2022-06-02,FR,183.99,total postings,Childcare
-2022-06-03,FR,183.8,total postings,Childcare
-2022-06-04,FR,183.68,total postings,Childcare
-2022-06-05,FR,183.6,total postings,Childcare
-2022-06-06,FR,183.57,total postings,Childcare
-2022-06-07,FR,183.52,total postings,Childcare
-2022-06-08,FR,183.28,total postings,Childcare
-2022-06-09,FR,183.12,total postings,Childcare
-2022-06-10,FR,183,total postings,Childcare
-2022-06-11,FR,183,total postings,Childcare
-2022-06-12,FR,183.04,total postings,Childcare
-2022-06-13,FR,183,total postings,Childcare
-2022-06-14,FR,182.82,total postings,Childcare
-2022-06-15,FR,182.79,total postings,Childcare
-2022-06-16,FR,182.99,total postings,Childcare
-2022-06-17,FR,183.48,total postings,Childcare
-2022-06-18,FR,183.34,total postings,Childcare
-2022-06-19,FR,183.17,total postings,Childcare
-2022-06-20,FR,182.68,total postings,Childcare
-2022-06-21,FR,181.74,total postings,Childcare
-2022-06-22,FR,180.62,total postings,Childcare
-2022-06-23,FR,179.25,total postings,Childcare
-2022-06-24,FR,177.6,total postings,Childcare
-2022-06-25,FR,176.55,total postings,Childcare
-2022-06-26,FR,175.66,total postings,Childcare
-2022-06-27,FR,175.15,total postings,Childcare
-2022-06-28,FR,175.3,total postings,Childcare
-2022-06-29,FR,175.55,total postings,Childcare
-2022-06-30,FR,176.43,total postings,Childcare
-2022-07-01,FR,176.99,total postings,Childcare
-2022-07-02,FR,177.35,total postings,Childcare
-2022-07-03,FR,177.5,total postings,Childcare
-2022-07-04,FR,177.6,total postings,Childcare
-2022-07-05,FR,177.92,total postings,Childcare
-2022-07-06,FR,178.74,total postings,Childcare
-2022-07-07,FR,179.19,total postings,Childcare
-2022-07-08,FR,179.86,total postings,Childcare
-2022-07-09,FR,180.83,total postings,Childcare
-2022-07-10,FR,182.06,total postings,Childcare
-2022-07-11,FR,183.27,total postings,Childcare
-2022-07-12,FR,184.25,total postings,Childcare
-2022-07-13,FR,184.92,total postings,Childcare
-2022-07-14,FR,185.1,total postings,Childcare
-2022-07-15,FR,185.32,total postings,Childcare
-2022-07-16,FR,185.68,total postings,Childcare
-2022-07-17,FR,185.7,total postings,Childcare
-2022-07-18,FR,185.72,total postings,Childcare
-2022-07-19,FR,185.26,total postings,Childcare
-2022-07-20,FR,185.09,total postings,Childcare
-2022-07-21,FR,185.18,total postings,Childcare
-2022-07-22,FR,184.97,total postings,Childcare
-2022-07-23,FR,184.81,total postings,Childcare
-2022-07-24,FR,184.76,total postings,Childcare
-2022-07-25,FR,184.55,total postings,Childcare
-2022-07-26,FR,185.1,total postings,Childcare
-2022-07-27,FR,185.11,total postings,Childcare
-2022-07-28,FR,185.31,total postings,Childcare
-2022-07-29,FR,186.04,total postings,Childcare
-2022-07-30,FR,186.41,total postings,Childcare
-2022-07-31,FR,186.8,total postings,Childcare
-2022-08-01,FR,187.23,total postings,Childcare
-2022-08-02,FR,187.3,total postings,Childcare
-2022-08-03,FR,187.54,total postings,Childcare
-2022-08-04,FR,187.42,total postings,Childcare
-2022-08-05,FR,187.5,total postings,Childcare
-2022-08-06,FR,187.79,total postings,Childcare
-2022-08-07,FR,188.13,total postings,Childcare
-2022-08-08,FR,188.58,total postings,Childcare
-2022-08-09,FR,189.25,total postings,Childcare
-2022-08-10,FR,189.84,total postings,Childcare
-2022-08-11,FR,190.23,total postings,Childcare
-2022-08-12,FR,190.09,total postings,Childcare
-2022-08-13,FR,189.6,total postings,Childcare
-2022-08-14,FR,189.13,total postings,Childcare
-2022-08-15,FR,188.59,total postings,Childcare
-2022-08-16,FR,187.99,total postings,Childcare
-2022-08-17,FR,187.61,total postings,Childcare
-2022-08-18,FR,187.42,total postings,Childcare
-2022-08-19,FR,187.45,total postings,Childcare
-2022-08-20,FR,187.62,total postings,Childcare
-2022-08-21,FR,187.89,total postings,Childcare
-2022-08-22,FR,188.38,total postings,Childcare
-2022-08-23,FR,189.02,total postings,Childcare
-2022-08-24,FR,189.75,total postings,Childcare
-2022-08-25,FR,191.03,total postings,Childcare
-2022-08-26,FR,192.12,total postings,Childcare
-2022-08-27,FR,193.04,total postings,Childcare
-2022-08-28,FR,193.64,total postings,Childcare
-2022-08-29,FR,194.55,total postings,Childcare
-2022-08-30,FR,194.53,total postings,Childcare
-2022-08-31,FR,194.35,total postings,Childcare
-2022-09-01,FR,193.98,total postings,Childcare
-2022-09-02,FR,193.53,total postings,Childcare
-2022-09-03,FR,193.67,total postings,Childcare
-2022-09-04,FR,194.1,total postings,Childcare
-2022-09-05,FR,194.18,total postings,Childcare
-2022-09-06,FR,194.84,total postings,Childcare
-2022-09-07,FR,194.43,total postings,Childcare
-2022-09-08,FR,194.09,total postings,Childcare
-2022-09-09,FR,194.23,total postings,Childcare
-2022-09-10,FR,194.02,total postings,Childcare
-2022-09-11,FR,193.82,total postings,Childcare
-2022-09-12,FR,193.42,total postings,Childcare
-2022-09-13,FR,192.97,total postings,Childcare
-2022-09-14,FR,193.49,total postings,Childcare
-2022-09-15,FR,193.94,total postings,Childcare
-2022-09-16,FR,194.02,total postings,Childcare
-2022-09-17,FR,194.15,total postings,Childcare
-2022-09-18,FR,194.24,total postings,Childcare
-2022-09-19,FR,194.5,total postings,Childcare
-2022-09-20,FR,195.05,total postings,Childcare
-2022-09-21,FR,195.88,total postings,Childcare
-2022-09-22,FR,196.59,total postings,Childcare
-2022-09-23,FR,197.27,total postings,Childcare
-2022-09-24,FR,198.11,total postings,Childcare
-2022-09-25,FR,198.9,total postings,Childcare
-2022-09-26,FR,199.65,total postings,Childcare
-2022-09-27,FR,200.2,total postings,Childcare
-2022-09-28,FR,200.21,total postings,Childcare
-2022-09-29,FR,200.07,total postings,Childcare
-2022-09-30,FR,200.21,total postings,Childcare
-2022-10-01,FR,200.06,total postings,Childcare
-2022-10-02,FR,200.91,total postings,Childcare
-2022-10-03,FR,202.04,total postings,Childcare
-2022-10-04,FR,202.88,total postings,Childcare
-2022-10-05,FR,203.99,total postings,Childcare
-2022-10-06,FR,205.28,total postings,Childcare
-2022-10-07,FR,206.11,total postings,Childcare
-2022-10-08,FR,207.64,total postings,Childcare
-2022-10-09,FR,208.18,total postings,Childcare
-2022-10-10,FR,208.33,total postings,Childcare
-2022-10-11,FR,208.81,total postings,Childcare
-2022-10-12,FR,209.21,total postings,Childcare
-2022-10-13,FR,209.75,total postings,Childcare
-2022-10-14,FR,210.74,total postings,Childcare
-2022-10-15,FR,211.41,total postings,Childcare
-2022-10-16,FR,211.86,total postings,Childcare
-2022-10-17,FR,212.29,total postings,Childcare
-2022-10-18,FR,212.52,total postings,Childcare
-2022-10-19,FR,212.88,total postings,Childcare
-2022-10-20,FR,213.28,total postings,Childcare
-2022-10-21,FR,213.1,total postings,Childcare
-2022-10-22,FR,215.31,total postings,Childcare
-2022-10-23,FR,217.35,total postings,Childcare
-2022-10-24,FR,219.41,total postings,Childcare
-2022-10-25,FR,221.1,total postings,Childcare
-2022-10-26,FR,222.95,total postings,Childcare
-2022-10-27,FR,224.36,total postings,Childcare
-2022-10-28,FR,226.41,total postings,Childcare
-2022-10-29,FR,226.31,total postings,Childcare
-2022-10-30,FR,227.15,total postings,Childcare
-2022-10-31,FR,227.84,total postings,Childcare
-2022-11-01,FR,228.15,total postings,Childcare
-2022-11-02,FR,228.07,total postings,Childcare
-2022-11-03,FR,226.25,total postings,Childcare
-2022-11-04,FR,223.9,total postings,Childcare
-2022-11-05,FR,221.62,total postings,Childcare
-2022-11-06,FR,219.01,total postings,Childcare
-2022-11-07,FR,216.14,total postings,Childcare
-2022-11-08,FR,214.43,total postings,Childcare
-2022-11-09,FR,212.74,total postings,Childcare
-2022-11-10,FR,212.85,total postings,Childcare
-2022-11-11,FR,213.15,total postings,Childcare
-2022-11-12,FR,213.02,total postings,Childcare
-2022-11-13,FR,212.63,total postings,Childcare
-2022-11-14,FR,212.8,total postings,Childcare
-2022-11-15,FR,213.04,total postings,Childcare
-2022-11-16,FR,213.58,total postings,Childcare
-2022-11-17,FR,214.56,total postings,Childcare
-2022-11-18,FR,215.98,total postings,Childcare
-2022-11-19,FR,217.53,total postings,Childcare
-2022-11-20,FR,218.84,total postings,Childcare
-2022-11-21,FR,220.2,total postings,Childcare
-2022-11-22,FR,221.3,total postings,Childcare
-2022-11-23,FR,222.23,total postings,Childcare
-2022-11-24,FR,223.21,total postings,Childcare
-2022-11-25,FR,223.9,total postings,Childcare
-2022-11-26,FR,224.18,total postings,Childcare
-2022-11-27,FR,225.01,total postings,Childcare
-2022-11-28,FR,225.93,total postings,Childcare
-2022-11-29,FR,226.75,total postings,Childcare
-2022-11-30,FR,226.68,total postings,Childcare
-2022-12-01,FR,227.37,total postings,Childcare
-2022-12-02,FR,228.14,total postings,Childcare
-2022-12-03,FR,229.17,total postings,Childcare
-2022-12-04,FR,230.36,total postings,Childcare
-2022-12-05,FR,231.58,total postings,Childcare
-2022-12-06,FR,232.37,total postings,Childcare
-2022-12-07,FR,234.92,total postings,Childcare
-2022-12-08,FR,236.22,total postings,Childcare
-2022-12-09,FR,238.03,total postings,Childcare
-2022-12-10,FR,239.43,total postings,Childcare
-2022-12-11,FR,239.72,total postings,Childcare
-2022-12-12,FR,240.79,total postings,Childcare
-2022-12-13,FR,241.9,total postings,Childcare
-2022-12-14,FR,241.83,total postings,Childcare
-2022-12-15,FR,242.33,total postings,Childcare
-2022-12-16,FR,241.99,total postings,Childcare
-2022-12-17,FR,241.6,total postings,Childcare
-2022-12-18,FR,242.24,total postings,Childcare
-2022-12-19,FR,241.78,total postings,Childcare
-2022-12-20,FR,241.46,total postings,Childcare
-2022-12-21,FR,241.44,total postings,Childcare
-2022-12-22,FR,240.95,total postings,Childcare
-2022-12-23,FR,240.48,total postings,Childcare
-2022-12-24,FR,239.76,total postings,Childcare
-2022-12-25,FR,239.31,total postings,Childcare
-2022-12-26,FR,238.36,total postings,Childcare
-2022-12-27,FR,237.64,total postings,Childcare
-2022-12-28,FR,236.88,total postings,Childcare
-2022-12-29,FR,236.15,total postings,Childcare
-2022-12-30,FR,235.55,total postings,Childcare
-2022-12-31,FR,235.16,total postings,Childcare
-2023-01-01,FR,234.38,total postings,Childcare
-2023-01-02,FR,234.36,total postings,Childcare
-2023-01-03,FR,233.32,total postings,Childcare
-2023-01-04,FR,232.63,total postings,Childcare
-2023-01-05,FR,231.14,total postings,Childcare
-2023-01-06,FR,229.61,total postings,Childcare
-2023-01-07,FR,229.18,total postings,Childcare
-2023-01-08,FR,228.4,total postings,Childcare
-2023-01-09,FR,227.13,total postings,Childcare
-2023-01-10,FR,226.73,total postings,Childcare
-2023-01-11,FR,226.23,total postings,Childcare
-2023-01-12,FR,226.21,total postings,Childcare
-2023-01-13,FR,226.63,total postings,Childcare
-2023-01-14,FR,226.35,total postings,Childcare
-2023-01-15,FR,226.03,total postings,Childcare
-2023-01-16,FR,226.08,total postings,Childcare
-2023-01-17,FR,225.7,total postings,Childcare
-2023-01-18,FR,226.13,total postings,Childcare
-2023-01-19,FR,226.37,total postings,Childcare
-2023-01-20,FR,226.33,total postings,Childcare
-2023-01-21,FR,226.35,total postings,Childcare
-2023-01-22,FR,226.39,total postings,Childcare
-2023-01-23,FR,225.85,total postings,Childcare
-2023-01-24,FR,226.29,total postings,Childcare
-2023-01-25,FR,225.78,total postings,Childcare
-2023-01-26,FR,225.84,total postings,Childcare
-2023-01-27,FR,226.27,total postings,Childcare
-2023-01-28,FR,226.44,total postings,Childcare
-2023-01-29,FR,226.62,total postings,Childcare
-2023-01-30,FR,227.08,total postings,Childcare
-2023-01-31,FR,227.5,total postings,Childcare
-2023-02-01,FR,228.42,total postings,Childcare
-2023-02-02,FR,229.34,total postings,Childcare
-2023-02-03,FR,230.11,total postings,Childcare
-2023-02-04,FR,230.25,total postings,Childcare
-2023-02-05,FR,230.44,total postings,Childcare
-2023-02-06,FR,230.59,total postings,Childcare
-2023-02-07,FR,230.71,total postings,Childcare
-2023-02-08,FR,230.13,total postings,Childcare
-2023-02-09,FR,229.19,total postings,Childcare
-2023-02-10,FR,228.01,total postings,Childcare
-2023-02-11,FR,227.92,total postings,Childcare
-2023-02-12,FR,228.02,total postings,Childcare
-2023-02-13,FR,228.84,total postings,Childcare
-2023-02-14,FR,229.32,total postings,Childcare
-2023-02-15,FR,229.58,total postings,Childcare
-2023-02-16,FR,230.23,total postings,Childcare
-2023-02-17,FR,230.51,total postings,Childcare
-2023-02-18,FR,230.64,total postings,Childcare
-2023-02-19,FR,230.72,total postings,Childcare
-2023-02-20,FR,229.97,total postings,Childcare
-2023-02-21,FR,229.37,total postings,Childcare
-2023-02-22,FR,229.28,total postings,Childcare
-2023-02-23,FR,230.89,total postings,Childcare
-2023-02-24,FR,229.52,total postings,Childcare
-2023-02-25,FR,227.97,total postings,Childcare
-2023-02-26,FR,226.3,total postings,Childcare
-2023-02-27,FR,224.99,total postings,Childcare
-2023-02-28,FR,223.57,total postings,Childcare
-2023-03-01,FR,222.06,total postings,Childcare
-2023-03-02,FR,218.81,total postings,Childcare
-2023-03-03,FR,218.82,total postings,Childcare
-2023-03-04,FR,218.74,total postings,Childcare
-2023-03-05,FR,218.6,total postings,Childcare
-2023-03-06,FR,218.65,total postings,Childcare
-2023-03-07,FR,218.79,total postings,Childcare
-2023-03-08,FR,218.81,total postings,Childcare
-2023-03-09,FR,218.92,total postings,Childcare
-2023-03-10,FR,219.4,total postings,Childcare
-2023-03-11,FR,219.5,total postings,Childcare
-2023-03-12,FR,219.92,total postings,Childcare
-2023-03-13,FR,219.98,total postings,Childcare
-2023-03-14,FR,220.25,total postings,Childcare
-2023-03-15,FR,220.32,total postings,Childcare
-2023-03-16,FR,220.23,total postings,Childcare
-2023-03-17,FR,219.57,total postings,Childcare
-2023-03-18,FR,219.83,total postings,Childcare
-2023-03-19,FR,220.01,total postings,Childcare
-2023-03-20,FR,219.69,total postings,Childcare
-2023-03-21,FR,219.17,total postings,Childcare
-2023-03-22,FR,218.65,total postings,Childcare
-2023-03-23,FR,218.68,total postings,Childcare
-2023-03-24,FR,218.72,total postings,Childcare
-2023-03-25,FR,218.28,total postings,Childcare
-2023-03-26,FR,217.66,total postings,Childcare
-2023-03-27,FR,217.87,total postings,Childcare
-2023-03-28,FR,217.73,total postings,Childcare
-2023-03-29,FR,217.37,total postings,Childcare
-2023-03-30,FR,215.94,total postings,Childcare
-2023-03-31,FR,214.73,total postings,Childcare
-2023-04-01,FR,213.64,total postings,Childcare
-2023-04-02,FR,212.78,total postings,Childcare
-2023-04-03,FR,211.74,total postings,Childcare
-2023-04-04,FR,211.16,total postings,Childcare
-2023-04-05,FR,211.13,total postings,Childcare
-2023-04-06,FR,211.63,total postings,Childcare
-2023-04-07,FR,212.01,total postings,Childcare
-2023-04-08,FR,212.33,total postings,Childcare
-2023-04-09,FR,212.53,total postings,Childcare
-2023-04-10,FR,212.63,total postings,Childcare
-2023-04-11,FR,212.57,total postings,Childcare
-2023-04-12,FR,212.49,total postings,Childcare
-2023-04-13,FR,212.51,total postings,Childcare
-2023-04-14,FR,212.49,total postings,Childcare
-2023-04-15,FR,212.69,total postings,Childcare
-2023-04-16,FR,212.85,total postings,Childcare
-2023-04-17,FR,213.18,total postings,Childcare
-2023-04-18,FR,213.28,total postings,Childcare
-2023-04-19,FR,213.47,total postings,Childcare
-2023-04-20,FR,213.64,total postings,Childcare
-2023-04-21,FR,213.81,total postings,Childcare
-2023-04-22,FR,213.64,total postings,Childcare
-2023-04-23,FR,213.24,total postings,Childcare
-2023-04-24,FR,212.97,total postings,Childcare
-2023-04-25,FR,212.96,total postings,Childcare
-2023-04-26,FR,212.88,total postings,Childcare
-2023-04-27,FR,212.73,total postings,Childcare
-2023-04-28,FR,212.77,total postings,Childcare
-2023-04-29,FR,212.83,total postings,Childcare
-2023-04-30,FR,212.96,total postings,Childcare
-2023-05-01,FR,212.92,total postings,Childcare
-2023-05-02,FR,212.95,total postings,Childcare
-2023-05-03,FR,213.01,total postings,Childcare
-2023-05-04,FR,212.86,total postings,Childcare
-2023-05-05,FR,212.67,total postings,Childcare
-2023-05-06,FR,212.54,total postings,Childcare
-2023-05-07,FR,212.51,total postings,Childcare
-2023-05-08,FR,212.4,total postings,Childcare
-2023-05-09,FR,212.15,total postings,Childcare
-2023-05-10,FR,211.91,total postings,Childcare
-2023-05-11,FR,211.95,total postings,Childcare
-2023-05-12,FR,211.94,total postings,Childcare
-2023-05-13,FR,211.93,total postings,Childcare
-2023-05-14,FR,211.83,total postings,Childcare
-2023-05-15,FR,211.76,total postings,Childcare
-2023-05-16,FR,211.81,total postings,Childcare
-2023-05-17,FR,211.77,total postings,Childcare
-2023-05-18,FR,211.75,total postings,Childcare
-2023-05-19,FR,211.44,total postings,Childcare
-2023-05-20,FR,210.34,total postings,Childcare
-2023-05-21,FR,210.15,total postings,Childcare
-2023-05-22,FR,209.95,total postings,Childcare
-2023-05-23,FR,209.68,total postings,Childcare
-2023-05-24,FR,209.34,total postings,Childcare
-2023-05-25,FR,208.35,total postings,Childcare
-2023-05-26,FR,208.47,total postings,Childcare
-2023-05-27,FR,209.63,total postings,Childcare
-2023-05-28,FR,209.96,total postings,Childcare
-2023-05-29,FR,210.22,total postings,Childcare
-2023-05-30,FR,210.35,total postings,Childcare
-2023-05-31,FR,210.61,total postings,Childcare
-2023-06-01,FR,210.64,total postings,Childcare
-2023-06-02,FR,210.29,total postings,Childcare
-2023-06-03,FR,209.82,total postings,Childcare
-2023-06-04,FR,209.24,total postings,Childcare
-2023-06-05,FR,208.75,total postings,Childcare
-2023-06-06,FR,208.52,total postings,Childcare
-2023-06-07,FR,208,total postings,Childcare
-2023-06-08,FR,208.25,total postings,Childcare
-2023-06-09,FR,208.1,total postings,Childcare
-2023-06-10,FR,207.94,total postings,Childcare
-2023-06-11,FR,207.75,total postings,Childcare
-2023-06-12,FR,207.6,total postings,Childcare
-2023-06-13,FR,207.49,total postings,Childcare
-2023-06-14,FR,207.57,total postings,Childcare
-2023-06-15,FR,207.16,total postings,Childcare
-2023-06-16,FR,207.36,total postings,Childcare
-2023-06-17,FR,207.28,total postings,Childcare
-2023-06-18,FR,207.29,total postings,Childcare
-2023-06-19,FR,207.43,total postings,Childcare
-2023-06-20,FR,207.33,total postings,Childcare
-2023-06-21,FR,207.91,total postings,Childcare
-2023-06-22,FR,209.19,total postings,Childcare
-2023-06-23,FR,209.6,total postings,Childcare
-2023-06-24,FR,210.29,total postings,Childcare
-2023-06-25,FR,211,total postings,Childcare
-2023-06-26,FR,211.77,total postings,Childcare
-2023-06-27,FR,209.64,total postings,Childcare
-2023-06-28,FR,207.05,total postings,Childcare
-2023-06-29,FR,204.24,total postings,Childcare
-2023-06-30,FR,201.08,total postings,Childcare
-2023-07-01,FR,197.15,total postings,Childcare
-2023-07-02,FR,193.55,total postings,Childcare
-2023-07-03,FR,189.75,total postings,Childcare
-2023-07-04,FR,189.18,total postings,Childcare
-2023-07-05,FR,188.32,total postings,Childcare
-2023-07-06,FR,187.35,total postings,Childcare
-2023-07-07,FR,187.42,total postings,Childcare
-2023-07-08,FR,188.08,total postings,Childcare
-2023-07-09,FR,188.38,total postings,Childcare
-2023-07-10,FR,188.7,total postings,Childcare
-2023-07-11,FR,188.56,total postings,Childcare
-2023-07-12,FR,188.43,total postings,Childcare
-2023-07-13,FR,188.9,total postings,Childcare
-2023-07-14,FR,188.87,total postings,Childcare
-2023-07-15,FR,188.94,total postings,Childcare
-2023-07-16,FR,189.39,total postings,Childcare
-2023-07-17,FR,190.12,total postings,Childcare
-2023-07-18,FR,190.97,total postings,Childcare
-2023-07-19,FR,191.79,total postings,Childcare
-2023-07-20,FR,192.21,total postings,Childcare
-2023-07-21,FR,192.45,total postings,Childcare
-2023-07-22,FR,192.64,total postings,Childcare
-2023-07-23,FR,192.76,total postings,Childcare
-2023-07-24,FR,192.87,total postings,Childcare
-2023-07-25,FR,193.28,total postings,Childcare
-2023-07-26,FR,196.37,total postings,Childcare
-2023-07-27,FR,199.36,total postings,Childcare
-2023-07-28,FR,202.03,total postings,Childcare
-2023-07-29,FR,205.49,total postings,Childcare
-2023-07-30,FR,208.7,total postings,Childcare
-2023-07-31,FR,211.66,total postings,Childcare
-2023-08-01,FR,214.58,total postings,Childcare
-2023-08-02,FR,214.6,total postings,Childcare
-2023-08-03,FR,214.77,total postings,Childcare
-2023-08-04,FR,215.56,total postings,Childcare
-2023-08-05,FR,215.46,total postings,Childcare
-2023-08-06,FR,215.37,total postings,Childcare
-2023-08-07,FR,215.17,total postings,Childcare
-2023-08-08,FR,214.88,total postings,Childcare
-2023-08-09,FR,215.09,total postings,Childcare
-2023-08-10,FR,215.28,total postings,Childcare
-2023-08-11,FR,215.47,total postings,Childcare
-2023-08-12,FR,215.93,total postings,Childcare
-2023-08-13,FR,216.51,total postings,Childcare
-2023-08-14,FR,217.37,total postings,Childcare
-2023-08-15,FR,218.34,total postings,Childcare
-2023-08-16,FR,219.32,total postings,Childcare
-2023-08-17,FR,220.53,total postings,Childcare
-2023-08-18,FR,221.74,total postings,Childcare
-2023-08-19,FR,222.82,total postings,Childcare
-2023-08-20,FR,223.58,total postings,Childcare
-2023-08-21,FR,224.49,total postings,Childcare
-2023-08-22,FR,225.18,total postings,Childcare
-2023-08-23,FR,226.14,total postings,Childcare
-2023-08-24,FR,227.17,total postings,Childcare
-2023-08-25,FR,227.82,total postings,Childcare
-2023-08-26,FR,229.09,total postings,Childcare
-2023-08-27,FR,230.08,total postings,Childcare
-2023-08-28,FR,230.46,total postings,Childcare
-2023-08-29,FR,231.73,total postings,Childcare
-2023-08-30,FR,232.35,total postings,Childcare
-2023-08-31,FR,232.89,total postings,Childcare
-2023-09-01,FR,233.52,total postings,Childcare
-2023-09-02,FR,234.24,total postings,Childcare
-2023-09-03,FR,235.25,total postings,Childcare
-2023-09-04,FR,236.52,total postings,Childcare
-2023-09-05,FR,237.5,total postings,Childcare
-2023-09-06,FR,239.16,total postings,Childcare
-2023-09-07,FR,240.77,total postings,Childcare
-2023-09-08,FR,242.66,total postings,Childcare
-2023-09-09,FR,244.3,total postings,Childcare
-2023-09-10,FR,246.09,total postings,Childcare
-2023-09-11,FR,247.98,total postings,Childcare
-2023-09-12,FR,249.18,total postings,Childcare
-2023-09-13,FR,250.31,total postings,Childcare
-2023-09-14,FR,250.74,total postings,Childcare
-2023-09-15,FR,251.13,total postings,Childcare
-2023-09-16,FR,251.83,total postings,Childcare
-2023-09-17,FR,252.75,total postings,Childcare
-2023-09-18,FR,253.56,total postings,Childcare
-2023-09-19,FR,254.98,total postings,Childcare
-2023-09-20,FR,256.45,total postings,Childcare
-2023-09-21,FR,257.92,total postings,Childcare
-2023-09-22,FR,259.11,total postings,Childcare
-2023-09-23,FR,259.54,total postings,Childcare
-2023-09-24,FR,259.88,total postings,Childcare
-2023-09-25,FR,260.15,total postings,Childcare
-2023-09-26,FR,260.01,total postings,Childcare
-2023-09-27,FR,259.86,total postings,Childcare
-2023-09-28,FR,258.96,total postings,Childcare
-2023-09-29,FR,256.95,total postings,Childcare
-2023-09-30,FR,255.42,total postings,Childcare
-2023-10-01,FR,253.43,total postings,Childcare
-2023-10-02,FR,252.4,total postings,Childcare
-2023-10-03,FR,251.28,total postings,Childcare
-2023-10-04,FR,249.98,total postings,Childcare
-2023-10-05,FR,250.02,total postings,Childcare
-2023-10-06,FR,251.5,total postings,Childcare
-2023-10-07,FR,252.67,total postings,Childcare
-2023-10-08,FR,254.79,total postings,Childcare
-2023-10-09,FR,256.1,total postings,Childcare
-2023-10-10,FR,257.81,total postings,Childcare
-2023-10-11,FR,259.16,total postings,Childcare
-2023-10-12,FR,260.54,total postings,Childcare
-2023-10-13,FR,261.9,total postings,Childcare
-2023-10-14,FR,263.15,total postings,Childcare
-2023-10-15,FR,263.9,total postings,Childcare
-2023-10-16,FR,264.54,total postings,Childcare
-2023-10-17,FR,264.22,total postings,Childcare
-2023-10-18,FR,263.93,total postings,Childcare
-2023-10-19,FR,263.62,total postings,Childcare
-2023-10-20,FR,263.05,total postings,Childcare
-2023-10-21,FR,262.25,total postings,Childcare
-2023-10-22,FR,262.06,total postings,Childcare
-2023-10-23,FR,261.17,total postings,Childcare
-2023-10-24,FR,260.13,total postings,Childcare
-2023-10-25,FR,259.02,total postings,Childcare
-2023-10-26,FR,258.29,total postings,Childcare
-2023-10-27,FR,257.45,total postings,Childcare
-2023-10-28,FR,257.29,total postings,Childcare
-2023-10-29,FR,256.42,total postings,Childcare
-2023-10-30,FR,255.34,total postings,Childcare
-2023-10-31,FR,255.53,total postings,Childcare
-2023-11-01,FR,255.89,total postings,Childcare
-2023-11-02,FR,255.16,total postings,Childcare
-2023-11-03,FR,254.03,total postings,Childcare
-2023-11-04,FR,252.65,total postings,Childcare
-2023-11-05,FR,251.48,total postings,Childcare
-2023-11-06,FR,251.67,total postings,Childcare
-2023-11-07,FR,250.76,total postings,Childcare
-2023-11-08,FR,249.66,total postings,Childcare
-2023-11-09,FR,249.21,total postings,Childcare
-2023-11-10,FR,249.24,total postings,Childcare
-2023-11-11,FR,249.53,total postings,Childcare
-2023-11-12,FR,249.46,total postings,Childcare
-2023-11-13,FR,248.89,total postings,Childcare
-2023-11-14,FR,248.36,total postings,Childcare
-2023-11-15,FR,248.42,total postings,Childcare
-2023-11-16,FR,248.8,total postings,Childcare
-2023-11-17,FR,249.32,total postings,Childcare
-2023-11-18,FR,249.49,total postings,Childcare
-2023-11-19,FR,249.89,total postings,Childcare
-2023-11-20,FR,250.43,total postings,Childcare
-2023-11-21,FR,251.83,total postings,Childcare
-2023-11-22,FR,252.92,total postings,Childcare
-2023-11-23,FR,253.57,total postings,Childcare
-2023-11-24,FR,254.44,total postings,Childcare
-2023-11-25,FR,252.02,total postings,Childcare
-2023-11-26,FR,251.44,total postings,Childcare
-2023-11-27,FR,250.87,total postings,Childcare
-2023-11-28,FR,250.04,total postings,Childcare
-2023-11-29,FR,246.94,total postings,Childcare
-2023-11-30,FR,242.92,total postings,Childcare
-2023-12-01,FR,239.67,total postings,Childcare
-2023-12-02,FR,239.53,total postings,Childcare
-2023-12-03,FR,237.37,total postings,Childcare
-2023-12-04,FR,235.74,total postings,Childcare
-2023-12-05,FR,233.89,total postings,Childcare
-2023-12-06,FR,234.25,total postings,Childcare
-2023-12-07,FR,235.9,total postings,Childcare
-2023-12-08,FR,237.25,total postings,Childcare
-2023-12-09,FR,238.55,total postings,Childcare
-2023-12-10,FR,239.85,total postings,Childcare
-2023-12-11,FR,240.28,total postings,Childcare
-2023-12-12,FR,241.09,total postings,Childcare
-2023-12-13,FR,242.2,total postings,Childcare
-2023-12-14,FR,243.46,total postings,Childcare
-2023-12-15,FR,244.14,total postings,Childcare
-2023-12-16,FR,244.88,total postings,Childcare
-2023-12-17,FR,245.43,total postings,Childcare
-2023-12-18,FR,246.52,total postings,Childcare
-2023-12-19,FR,246.98,total postings,Childcare
-2023-12-20,FR,246.96,total postings,Childcare
-2023-12-21,FR,247.45,total postings,Childcare
-2023-12-22,FR,247.79,total postings,Childcare
-2023-12-23,FR,247.96,total postings,Childcare
-2023-12-24,FR,248.43,total postings,Childcare
-2023-12-25,FR,248.91,total postings,Childcare
-2023-12-26,FR,248.77,total postings,Childcare
-2023-12-27,FR,248.8,total postings,Childcare
-2023-12-28,FR,247.81,total postings,Childcare
-2023-12-29,FR,246.63,total postings,Childcare
-2023-12-30,FR,245.58,total postings,Childcare
-2023-12-31,FR,244.45,total postings,Childcare
-2024-01-01,FR,243.19,total postings,Childcare
-2024-01-02,FR,242.45,total postings,Childcare
-2024-01-03,FR,241.19,total postings,Childcare
-2024-01-04,FR,240.59,total postings,Childcare
-2024-01-05,FR,239.76,total postings,Childcare
-2024-01-06,FR,238.95,total postings,Childcare
-2024-01-07,FR,238.27,total postings,Childcare
-2024-01-08,FR,237.51,total postings,Childcare
-2024-01-09,FR,237.2,total postings,Childcare
-2024-01-10,FR,237.3,total postings,Childcare
-2024-01-11,FR,236.93,total postings,Childcare
-2024-01-12,FR,236.97,total postings,Childcare
-2024-01-13,FR,236.62,total postings,Childcare
-2024-01-14,FR,236.57,total postings,Childcare
-2024-01-15,FR,236.41,total postings,Childcare
-2024-01-16,FR,236.14,total postings,Childcare
-2024-01-17,FR,236,total postings,Childcare
-2024-01-18,FR,235.76,total postings,Childcare
-2024-01-19,FR,235.33,total postings,Childcare
-2024-01-20,FR,235.38,total postings,Childcare
-2024-01-21,FR,235.2,total postings,Childcare
-2024-01-22,FR,235.14,total postings,Childcare
-2024-01-23,FR,235.28,total postings,Childcare
-2024-01-24,FR,236.29,total postings,Childcare
-2024-01-25,FR,237.43,total postings,Childcare
-2024-01-26,FR,238.66,total postings,Childcare
-2024-01-27,FR,239.78,total postings,Childcare
-2024-01-28,FR,240.75,total postings,Childcare
-2024-01-29,FR,241.76,total postings,Childcare
-2024-01-30,FR,242.37,total postings,Childcare
-2024-01-31,FR,241.53,total postings,Childcare
-2024-02-01,FR,240.82,total postings,Childcare
-2024-02-02,FR,240.24,total postings,Childcare
-2024-02-03,FR,239.58,total postings,Childcare
-2024-02-04,FR,238.7,total postings,Childcare
-2024-02-05,FR,237.86,total postings,Childcare
-2024-02-06,FR,236.73,total postings,Childcare
-2024-02-07,FR,236.28,total postings,Childcare
-2024-02-08,FR,235.2,total postings,Childcare
-2024-02-09,FR,233.15,total postings,Childcare
-2024-02-10,FR,231.2,total postings,Childcare
-2024-02-11,FR,229.5,total postings,Childcare
-2024-02-12,FR,227.92,total postings,Childcare
-2024-02-13,FR,226.51,total postings,Childcare
-2024-02-14,FR,224.6,total postings,Childcare
-2024-02-15,FR,222.84,total postings,Childcare
-2024-02-16,FR,222.1,total postings,Childcare
-2024-02-17,FR,221.15,total postings,Childcare
-2024-02-18,FR,220.77,total postings,Childcare
-2024-02-19,FR,220.38,total postings,Childcare
-2024-02-20,FR,219.46,total postings,Childcare
-2024-02-21,FR,218.94,total postings,Childcare
-2024-02-22,FR,218.3,total postings,Childcare
-2024-02-23,FR,217.48,total postings,Childcare
-2024-02-24,FR,217.19,total postings,Childcare
-2024-02-25,FR,216.18,total postings,Childcare
-2024-02-26,FR,214.97,total postings,Childcare
-2024-02-27,FR,210.79,total postings,Childcare
-2024-02-28,FR,206.8,total postings,Childcare
-2024-02-29,FR,203.17,total postings,Childcare
-2024-03-01,FR,199.71,total postings,Childcare
-2024-03-02,FR,195.99,total postings,Childcare
-2024-03-03,FR,192.51,total postings,Childcare
-2024-03-04,FR,189.28,total postings,Childcare
-2024-03-05,FR,189.89,total postings,Childcare
-2024-03-06,FR,189.96,total postings,Childcare
-2024-03-07,FR,189.98,total postings,Childcare
-2024-03-08,FR,190.07,total postings,Childcare
-2024-03-09,FR,190.14,total postings,Childcare
-2024-03-10,FR,190.03,total postings,Childcare
-2024-03-11,FR,189.08,total postings,Childcare
-2024-03-12,FR,188.62,total postings,Childcare
-2024-03-13,FR,187.85,total postings,Childcare
-2024-03-14,FR,186.91,total postings,Childcare
-2024-03-15,FR,185.62,total postings,Childcare
-2024-03-16,FR,184.53,total postings,Childcare
-2024-03-17,FR,183.54,total postings,Childcare
-2024-03-18,FR,183.24,total postings,Childcare
-2024-03-19,FR,182.71,total postings,Childcare
-2024-03-20,FR,182.49,total postings,Childcare
-2024-03-21,FR,182.64,total postings,Childcare
-2024-03-22,FR,183.03,total postings,Childcare
-2024-03-23,FR,183.41,total postings,Childcare
-2024-03-24,FR,183.77,total postings,Childcare
-2024-03-25,FR,183.62,total postings,Childcare
-2024-03-26,FR,183.27,total postings,Childcare
-2024-03-27,FR,183.09,total postings,Childcare
-2024-03-28,FR,182.84,total postings,Childcare
-2024-03-29,FR,182.64,total postings,Childcare
-2024-03-30,FR,182.49,total postings,Childcare
-2024-03-31,FR,182.31,total postings,Childcare
-2024-04-01,FR,182.42,total postings,Childcare
-2024-04-02,FR,181.69,total postings,Childcare
-2024-04-03,FR,181.06,total postings,Childcare
-2024-04-04,FR,179.92,total postings,Childcare
-2024-04-05,FR,178.72,total postings,Childcare
-2024-04-06,FR,177.64,total postings,Childcare
-2024-04-07,FR,176.61,total postings,Childcare
-2024-04-08,FR,175.66,total postings,Childcare
-2024-04-09,FR,175.44,total postings,Childcare
-2024-04-10,FR,175.65,total postings,Childcare
-2024-04-11,FR,176.32,total postings,Childcare
-2024-04-12,FR,177.04,total postings,Childcare
-2024-04-13,FR,177.51,total postings,Childcare
-2024-04-14,FR,177.93,total postings,Childcare
-2024-04-15,FR,178.12,total postings,Childcare
-2024-04-16,FR,178.09,total postings,Childcare
-2024-04-17,FR,177.81,total postings,Childcare
-2024-04-18,FR,177.29,total postings,Childcare
-2024-04-19,FR,177.09,total postings,Childcare
-2024-04-20,FR,176.22,total postings,Childcare
-2024-04-21,FR,175.73,total postings,Childcare
-2024-04-22,FR,175.23,total postings,Childcare
-2024-04-23,FR,175.05,total postings,Childcare
-2024-04-24,FR,174.87,total postings,Childcare
-2024-04-25,FR,174.99,total postings,Childcare
-2024-04-26,FR,174.37,total postings,Childcare
-2024-04-27,FR,174.41,total postings,Childcare
-2024-04-28,FR,174.08,total postings,Childcare
-2024-04-29,FR,174.69,total postings,Childcare
-2024-04-30,FR,175.46,total postings,Childcare
-2024-05-01,FR,176.05,total postings,Childcare
-2024-05-02,FR,176.53,total postings,Childcare
-2024-05-03,FR,177.51,total postings,Childcare
-2024-05-04,FR,178.29,total postings,Childcare
-2024-05-05,FR,179.04,total postings,Childcare
-2024-05-06,FR,179.18,total postings,Childcare
-2024-05-07,FR,178.81,total postings,Childcare
-2024-05-08,FR,178.55,total postings,Childcare
-2024-05-09,FR,178.2,total postings,Childcare
-2024-05-10,FR,177.54,total postings,Childcare
-2024-05-11,FR,176.79,total postings,Childcare
-2024-05-12,FR,175.96,total postings,Childcare
-2024-05-13,FR,175.14,total postings,Childcare
-2024-05-14,FR,174.44,total postings,Childcare
-2024-05-15,FR,173.72,total postings,Childcare
-2024-05-16,FR,173.04,total postings,Childcare
-2024-05-17,FR,171.93,total postings,Childcare
-2024-05-18,FR,170.82,total postings,Childcare
-2024-05-19,FR,169.92,total postings,Childcare
-2024-05-20,FR,168.58,total postings,Childcare
-2024-05-21,FR,166.84,total postings,Childcare
-2024-05-22,FR,164.99,total postings,Childcare
-2024-05-23,FR,163.41,total postings,Childcare
-2024-05-24,FR,162.37,total postings,Childcare
-2024-05-25,FR,161.6,total postings,Childcare
-2024-05-26,FR,160.54,total postings,Childcare
-2024-05-27,FR,160.01,total postings,Childcare
-2024-05-28,FR,160.15,total postings,Childcare
-2024-05-29,FR,160.43,total postings,Childcare
-2024-05-30,FR,160.63,total postings,Childcare
-2024-05-31,FR,161.11,total postings,Childcare
-2024-06-01,FR,161.65,total postings,Childcare
-2024-06-02,FR,162.23,total postings,Childcare
-2024-06-03,FR,162.71,total postings,Childcare
-2024-06-04,FR,163.27,total postings,Childcare
-2024-06-05,FR,163.72,total postings,Childcare
-2024-06-06,FR,164.06,total postings,Childcare
-2024-06-07,FR,164.65,total postings,Childcare
-2024-06-08,FR,165.27,total postings,Childcare
-2024-06-09,FR,165.93,total postings,Childcare
-2024-06-10,FR,166.33,total postings,Childcare
-2024-06-11,FR,167.06,total postings,Childcare
-2024-06-12,FR,167.31,total postings,Childcare
-2024-06-13,FR,167.91,total postings,Childcare
-2024-06-14,FR,168.01,total postings,Childcare
-2024-06-15,FR,167.44,total postings,Childcare
-2024-06-16,FR,166.63,total postings,Childcare
-2024-06-17,FR,166.1,total postings,Childcare
-2024-06-18,FR,165.48,total postings,Childcare
-2024-06-19,FR,165.16,total postings,Childcare
-2024-06-20,FR,164.51,total postings,Childcare
-2024-06-21,FR,163.84,total postings,Childcare
-2024-06-22,FR,163.53,total postings,Childcare
-2024-06-23,FR,163.66,total postings,Childcare
-2024-06-24,FR,163.64,total postings,Childcare
-2024-06-25,FR,163.39,total postings,Childcare
-2024-06-26,FR,163.9,total postings,Childcare
-2024-06-27,FR,164.51,total postings,Childcare
-2024-06-28,FR,165.23,total postings,Childcare
-2024-06-29,FR,166.06,total postings,Childcare
-2024-06-30,FR,166.24,total postings,Childcare
-2024-07-01,FR,166.13,total postings,Childcare
-2024-07-02,FR,165.24,total postings,Childcare
-2024-07-03,FR,163.99,total postings,Childcare
-2024-07-04,FR,161.75,total postings,Childcare
-2024-07-05,FR,159.52,total postings,Childcare
-2024-07-06,FR,157.48,total postings,Childcare
-2024-07-07,FR,155.75,total postings,Childcare
-2024-07-08,FR,154.44,total postings,Childcare
-2024-07-09,FR,153.86,total postings,Childcare
-2024-07-10,FR,153.34,total postings,Childcare
-2024-07-11,FR,153.27,total postings,Childcare
-2024-07-12,FR,157.01,total postings,Childcare
-2024-07-13,FR,161.03,total postings,Childcare
-2024-07-14,FR,165.13,total postings,Childcare
-2024-07-15,FR,169.38,total postings,Childcare
-2024-07-16,FR,176.2,total postings,Childcare
-2024-07-17,FR,183.02,total postings,Childcare
-2024-07-18,FR,190.01,total postings,Childcare
-2024-07-19,FR,192.76,total postings,Childcare
-2024-07-20,FR,194.48,total postings,Childcare
-2024-07-21,FR,196.72,total postings,Childcare
-2024-07-22,FR,198.13,total postings,Childcare
-2024-07-23,FR,195.99,total postings,Childcare
-2024-07-24,FR,193.39,total postings,Childcare
-2024-07-25,FR,190.8,total postings,Childcare
-2024-07-26,FR,188.47,total postings,Childcare
-2024-07-27,FR,186.78,total postings,Childcare
-2024-07-28,FR,184.95,total postings,Childcare
-2024-07-29,FR,183.57,total postings,Childcare
-2024-07-30,FR,182.28,total postings,Childcare
-2024-07-31,FR,180.98,total postings,Childcare
-2024-08-01,FR,180.11,total postings,Childcare
-2024-08-02,FR,179.35,total postings,Childcare
-2024-08-03,FR,178.47,total postings,Childcare
-2024-08-04,FR,177.67,total postings,Childcare
-2024-08-05,FR,176.49,total postings,Childcare
-2024-08-06,FR,176.09,total postings,Childcare
-2024-08-07,FR,176.14,total postings,Childcare
-2024-08-08,FR,175.82,total postings,Childcare
-2024-08-09,FR,175.78,total postings,Childcare
-2024-08-10,FR,175.8,total postings,Childcare
-2024-08-11,FR,175.42,total postings,Childcare
-2024-08-12,FR,175.56,total postings,Childcare
-2024-08-13,FR,175.71,total postings,Childcare
-2024-08-14,FR,175.41,total postings,Childcare
-2024-08-15,FR,175.29,total postings,Childcare
-2024-08-16,FR,174.6,total postings,Childcare
-2024-08-17,FR,173.9,total postings,Childcare
-2024-08-18,FR,173.36,total postings,Childcare
-2024-08-19,FR,172.93,total postings,Childcare
-2024-08-20,FR,172.2,total postings,Childcare
-2024-08-21,FR,172.35,total postings,Childcare
-2024-08-22,FR,172.6,total postings,Childcare
-2024-08-23,FR,173.35,total postings,Childcare
-2024-08-24,FR,174.17,total postings,Childcare
-2024-08-25,FR,174.9,total postings,Childcare
-2024-08-26,FR,175.59,total postings,Childcare
-2024-08-27,FR,176.37,total postings,Childcare
-2024-08-28,FR,176.82,total postings,Childcare
-2024-08-29,FR,176.12,total postings,Childcare
-2024-08-30,FR,175.81,total postings,Childcare
-2024-08-31,FR,175.48,total postings,Childcare
-2024-09-01,FR,174.8,total postings,Childcare
-2024-09-02,FR,174.53,total postings,Childcare
-2024-09-03,FR,174.08,total postings,Childcare
-2024-09-04,FR,173.86,total postings,Childcare
-2024-09-05,FR,174.34,total postings,Childcare
-2024-09-06,FR,174.42,total postings,Childcare
-2024-09-07,FR,174.52,total postings,Childcare
-2024-09-08,FR,175.06,total postings,Childcare
-2024-09-09,FR,175.03,total postings,Childcare
-2024-09-10,FR,175.21,total postings,Childcare
-2024-09-11,FR,174.52,total postings,Childcare
-2024-09-12,FR,173.96,total postings,Childcare
-2024-09-13,FR,173.12,total postings,Childcare
-2024-09-14,FR,171.97,total postings,Childcare
-2024-09-15,FR,170.64,total postings,Childcare
-2024-09-16,FR,169.44,total postings,Childcare
-2024-09-17,FR,168.33,total postings,Childcare
-2024-09-18,FR,167.59,total postings,Childcare
-2024-09-19,FR,167.24,total postings,Childcare
-2024-09-20,FR,166.81,total postings,Childcare
-2024-09-21,FR,166.17,total postings,Childcare
-2024-09-22,FR,165.59,total postings,Childcare
-2024-09-23,FR,164.92,total postings,Childcare
-2024-09-24,FR,164.12,total postings,Childcare
-2024-09-25,FR,163.18,total postings,Childcare
-2024-09-26,FR,161.76,total postings,Childcare
-2024-09-27,FR,160.5,total postings,Childcare
-2024-09-28,FR,159.23,total postings,Childcare
-2024-09-29,FR,157.69,total postings,Childcare
-2024-09-30,FR,156.33,total postings,Childcare
-2024-10-01,FR,154.37,total postings,Childcare
-2024-10-02,FR,152.94,total postings,Childcare
-2024-10-03,FR,151.69,total postings,Childcare
-2024-10-04,FR,150.56,total postings,Childcare
-2024-10-05,FR,149.89,total postings,Childcare
-2024-10-06,FR,149.81,total postings,Childcare
-2024-10-07,FR,149.38,total postings,Childcare
-2024-10-08,FR,150.04,total postings,Childcare
-2024-10-09,FR,150.4,total postings,Childcare
-2024-10-10,FR,150.94,total postings,Childcare
-2024-10-11,FR,151.45,total postings,Childcare
-2024-10-12,FR,152.01,total postings,Childcare
-2024-10-13,FR,152.38,total postings,Childcare
-2024-10-14,FR,153.02,total postings,Childcare
-2024-10-15,FR,153.49,total postings,Childcare
-2024-10-16,FR,153.63,total postings,Childcare
-2024-10-17,FR,153.56,total postings,Childcare
-2024-10-18,FR,153.2,total postings,Childcare
-2024-10-19,FR,152.64,total postings,Childcare
-2024-10-20,FR,152.1,total postings,Childcare
-2024-10-21,FR,150.92,total postings,Childcare
-2024-10-22,FR,150.12,total postings,Childcare
-2024-10-23,FR,149.28,total postings,Childcare
-2024-10-24,FR,148.4,total postings,Childcare
-2024-10-25,FR,147.73,total postings,Childcare
-2024-10-26,FR,147.2,total postings,Childcare
-2024-10-27,FR,146.4,total postings,Childcare
-2024-10-28,FR,146.19,total postings,Childcare
-2024-10-29,FR,145.86,total postings,Childcare
-2024-10-30,FR,146.27,total postings,Childcare
-2024-10-31,FR,146.52,total postings,Childcare
-2024-11-01,FR,146.52,total postings,Childcare
-2024-11-02,FR,146.19,total postings,Childcare
-2024-11-03,FR,145.91,total postings,Childcare
-2024-11-04,FR,145.81,total postings,Childcare
-2024-11-05,FR,145.05,total postings,Childcare
-2024-11-06,FR,144.04,total postings,Childcare
-2024-11-07,FR,143.39,total postings,Childcare
-2024-11-08,FR,142.5,total postings,Childcare
-2024-11-09,FR,141.72,total postings,Childcare
-2024-11-10,FR,141.06,total postings,Childcare
-2024-11-11,FR,140.48,total postings,Childcare
-2024-11-12,FR,139.69,total postings,Childcare
-2024-11-13,FR,138.36,total postings,Childcare
-2024-11-14,FR,137,total postings,Childcare
-2024-11-15,FR,136.5,total postings,Childcare
-2024-11-16,FR,136.21,total postings,Childcare
-2024-11-17,FR,135.97,total postings,Childcare
-2024-11-18,FR,135.91,total postings,Childcare
-2024-11-19,FR,136.32,total postings,Childcare
-2024-11-20,FR,136.79,total postings,Childcare
-2024-11-21,FR,137.25,total postings,Childcare
-2024-11-22,FR,137.36,total postings,Childcare
-2024-11-23,FR,137.4,total postings,Childcare
-2024-11-24,FR,137.62,total postings,Childcare
-2024-11-25,FR,137.37,total postings,Childcare
-2024-11-26,FR,137.15,total postings,Childcare
-2024-11-27,FR,137.18,total postings,Childcare
-2024-11-28,FR,137.47,total postings,Childcare
-2024-11-29,FR,137.43,total postings,Childcare
-2024-11-30,FR,136.38,total postings,Childcare
-2024-12-01,FR,136.11,total postings,Childcare
-2024-12-02,FR,136.09,total postings,Childcare
-2024-12-03,FR,135.89,total postings,Childcare
-2024-12-04,FR,135.92,total postings,Childcare
-2024-12-05,FR,135.71,total postings,Childcare
-2024-12-06,FR,136.16,total postings,Childcare
-2024-12-07,FR,137.69,total postings,Childcare
-2024-12-08,FR,138.15,total postings,Childcare
-2024-12-09,FR,138.88,total postings,Childcare
-2024-12-10,FR,139.59,total postings,Childcare
-2024-12-11,FR,139.92,total postings,Childcare
-2024-12-12,FR,140.51,total postings,Childcare
-2024-12-13,FR,140.13,total postings,Childcare
-2024-12-14,FR,139.42,total postings,Childcare
-2024-12-15,FR,139.24,total postings,Childcare
-2024-12-16,FR,138.82,total postings,Childcare
-2024-12-17,FR,138.4,total postings,Childcare
-2024-12-18,FR,137.96,total postings,Childcare
-2024-12-19,FR,137.29,total postings,Childcare
-2024-12-20,FR,137.47,total postings,Childcare
-2024-12-21,FR,137.88,total postings,Childcare
-2024-12-22,FR,137.84,total postings,Childcare
-2024-12-23,FR,137.66,total postings,Childcare
-2024-12-24,FR,137.39,total postings,Childcare
-2024-12-25,FR,137.34,total postings,Childcare
-2024-12-26,FR,137.01,total postings,Childcare
-2024-12-27,FR,136.4,total postings,Childcare
-2024-12-28,FR,135.86,total postings,Childcare
-2024-12-29,FR,135.37,total postings,Childcare
-2024-12-30,FR,134.96,total postings,Childcare
-2024-12-31,FR,134.71,total postings,Childcare
-2025-01-01,FR,133.9,total postings,Childcare
-2025-01-02,FR,133.56,total postings,Childcare
-2025-01-03,FR,133.36,total postings,Childcare
-2025-01-04,FR,133.28,total postings,Childcare
-2025-01-05,FR,132.93,total postings,Childcare
-2025-01-06,FR,132.09,total postings,Childcare
-2025-01-07,FR,131.5,total postings,Childcare
-2025-01-08,FR,131.51,total postings,Childcare
-2025-01-09,FR,131.25,total postings,Childcare
-2025-01-10,FR,131.15,total postings,Childcare
-2025-01-11,FR,130.97,total postings,Childcare
-2025-01-12,FR,131.1,total postings,Childcare
-2025-01-13,FR,131.23,total postings,Childcare
-2025-01-14,FR,131.11,total postings,Childcare
-2025-01-15,FR,130.86,total postings,Childcare
-2025-01-16,FR,130.96,total postings,Childcare
-2025-01-17,FR,130.99,total postings,Childcare
-2025-01-18,FR,131.04,total postings,Childcare
-2025-01-19,FR,130.82,total postings,Childcare
-2025-01-20,FR,130.64,total postings,Childcare
-2025-01-21,FR,130.65,total postings,Childcare
-2025-01-22,FR,130.75,total postings,Childcare
-2025-01-23,FR,130.69,total postings,Childcare
-2025-01-24,FR,130.76,total postings,Childcare
-2025-01-25,FR,130.94,total postings,Childcare
-2025-01-26,FR,131.25,total postings,Childcare
-2025-01-27,FR,131.65,total postings,Childcare
-2025-01-28,FR,132.67,total postings,Childcare
-2025-01-29,FR,133.05,total postings,Childcare
-2025-01-30,FR,133.38,total postings,Childcare
-2025-01-31,FR,133.55,total postings,Childcare
-2025-02-01,FR,133.98,total postings,Childcare
-2025-02-02,FR,134.54,total postings,Childcare
-2025-02-03,FR,135.16,total postings,Childcare
-2025-02-04,FR,134.92,total postings,Childcare
-2025-02-05,FR,135.21,total postings,Childcare
-2025-02-06,FR,135.52,total postings,Childcare
-2025-02-07,FR,135.84,total postings,Childcare
-2025-02-08,FR,135.78,total postings,Childcare
-2025-02-09,FR,135.43,total postings,Childcare
-2025-02-10,FR,135,total postings,Childcare
-2025-02-11,FR,134.83,total postings,Childcare
-2025-02-12,FR,134.77,total postings,Childcare
-2025-02-13,FR,134.81,total postings,Childcare
-2025-02-14,FR,134.79,total postings,Childcare
-2025-02-15,FR,134.58,total postings,Childcare
-2025-02-16,FR,134.73,total postings,Childcare
-2025-02-17,FR,134.77,total postings,Childcare
-2025-02-18,FR,134.73,total postings,Childcare
-2025-02-19,FR,134.57,total postings,Childcare
-2025-02-20,FR,134.29,total postings,Childcare
-2025-02-21,FR,134.08,total postings,Childcare
-2025-02-22,FR,134.13,total postings,Childcare
-2025-02-23,FR,133.92,total postings,Childcare
-2025-02-24,FR,133.92,total postings,Childcare
-2025-02-25,FR,133.87,total postings,Childcare
-2025-02-26,FR,134.04,total postings,Childcare
-2025-02-27,FR,134.23,total postings,Childcare
-2025-02-28,FR,134.41,total postings,Childcare
-2025-03-01,FR,134.58,total postings,Childcare
-2025-03-02,FR,134.8,total postings,Childcare
-2025-03-03,FR,135.01,total postings,Childcare
-2025-03-04,FR,135.51,total postings,Childcare
-2025-03-05,FR,134.27,total postings,Childcare
-2025-03-06,FR,133.92,total postings,Childcare
-2025-03-07,FR,133.58,total postings,Childcare
-2025-03-08,FR,133.2,total postings,Childcare
-2025-03-09,FR,132.9,total postings,Childcare
-2025-03-10,FR,132.58,total postings,Childcare
-2025-03-11,FR,132.09,total postings,Childcare
-2025-03-12,FR,133.47,total postings,Childcare
-2025-03-13,FR,133.9,total postings,Childcare
-2025-03-14,FR,134.56,total postings,Childcare
-2025-03-15,FR,135.46,total postings,Childcare
-2025-03-16,FR,136.2,total postings,Childcare
-2025-03-17,FR,136.85,total postings,Childcare
-2025-03-18,FR,138.11,total postings,Childcare
-2025-03-19,FR,139.35,total postings,Childcare
-2025-03-20,FR,140.74,total postings,Childcare
-2025-03-21,FR,141.75,total postings,Childcare
-2025-03-22,FR,143.01,total postings,Childcare
-2025-03-23,FR,144.3,total postings,Childcare
-2025-03-24,FR,145.89,total postings,Childcare
-2025-03-25,FR,147.14,total postings,Childcare
-2025-03-26,FR,148.64,total postings,Childcare
-2025-03-27,FR,150.29,total postings,Childcare
-2025-03-28,FR,151.92,total postings,Childcare
+2025-03-29,FR,327.07,total postings,Personal Care & Home Health
+2025-03-30,FR,327.19,total postings,Personal Care & Home Health
+2025-03-31,FR,327.44,total postings,Personal Care & Home Health
+2025-04-01,FR,328.07,total postings,Personal Care & Home Health
+2025-04-02,FR,326.99,total postings,Personal Care & Home Health
+2025-04-03,FR,326.02,total postings,Personal Care & Home Health
+2025-04-04,FR,325.04,total postings,Personal Care & Home Health
 2020-02-01,FR,100,total postings,Construction
 2020-02-02,FR,98.32,total postings,Construction
 2020-02-03,FR,97.18,total postings,Construction
@@ -13180,6 +11332,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,98.71,total postings,Construction
 2025-03-27,FR,98.96,total postings,Construction
 2025-03-28,FR,98.81,total postings,Construction
+2025-03-29,FR,98.75,total postings,Construction
+2025-03-30,FR,98.64,total postings,Construction
+2025-03-31,FR,98.38,total postings,Construction
+2025-04-01,FR,98.09,total postings,Construction
+2025-04-02,FR,97.64,total postings,Construction
+2025-04-03,FR,97.25,total postings,Construction
+2025-04-04,FR,97.3,total postings,Construction
 2020-02-01,FR,100,total postings,Customer Service
 2020-02-02,FR,99.96,total postings,Customer Service
 2020-02-03,FR,100.03,total postings,Customer Service
@@ -15063,6 +13222,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,100.99,total postings,Customer Service
 2025-03-27,FR,101.56,total postings,Customer Service
 2025-03-28,FR,101.91,total postings,Customer Service
+2025-03-29,FR,102.34,total postings,Customer Service
+2025-03-30,FR,102.63,total postings,Customer Service
+2025-03-31,FR,102.59,total postings,Customer Service
+2025-04-01,FR,102.47,total postings,Customer Service
+2025-04-02,FR,102.37,total postings,Customer Service
+2025-04-03,FR,102.27,total postings,Customer Service
+2025-04-04,FR,102.3,total postings,Customer Service
 2020-02-01,FR,100,total postings,Driving
 2020-02-02,FR,99.86,total postings,Driving
 2020-02-03,FR,99.81,total postings,Driving
@@ -16946,6 +15112,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,111,total postings,Driving
 2025-03-27,FR,110.85,total postings,Driving
 2025-03-28,FR,110.42,total postings,Driving
+2025-03-29,FR,110.12,total postings,Driving
+2025-03-30,FR,109.94,total postings,Driving
+2025-03-31,FR,109.8,total postings,Driving
+2025-04-01,FR,109.74,total postings,Driving
+2025-04-02,FR,109.85,total postings,Driving
+2025-04-03,FR,110,total postings,Driving
+2025-04-04,FR,110.56,total postings,Driving
 2020-02-01,FR,100,total postings,Education & Instruction
 2020-02-02,FR,100,total postings,Education & Instruction
 2020-02-03,FR,100.01,total postings,Education & Instruction
@@ -18829,6 +17002,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,147.84,total postings,Education & Instruction
 2025-03-27,FR,148.01,total postings,Education & Instruction
 2025-03-28,FR,147.78,total postings,Education & Instruction
+2025-03-29,FR,147.48,total postings,Education & Instruction
+2025-03-30,FR,147.18,total postings,Education & Instruction
+2025-03-31,FR,146.84,total postings,Education & Instruction
+2025-04-01,FR,146.62,total postings,Education & Instruction
+2025-04-02,FR,146.29,total postings,Education & Instruction
+2025-04-03,FR,146.23,total postings,Education & Instruction
+2025-04-04,FR,146.67,total postings,Education & Instruction
 2020-02-01,FR,100,total postings,Industrial Engineering
 2020-02-02,FR,99.92,total postings,Industrial Engineering
 2020-02-03,FR,99.93,total postings,Industrial Engineering
@@ -20712,6 +18892,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,89.93,total postings,Industrial Engineering
 2025-03-27,FR,90.07,total postings,Industrial Engineering
 2025-03-28,FR,90.16,total postings,Industrial Engineering
+2025-03-29,FR,90.41,total postings,Industrial Engineering
+2025-03-30,FR,90.59,total postings,Industrial Engineering
+2025-03-31,FR,90.81,total postings,Industrial Engineering
+2025-04-01,FR,90.9,total postings,Industrial Engineering
+2025-04-02,FR,90.94,total postings,Industrial Engineering
+2025-04-03,FR,91.09,total postings,Industrial Engineering
+2025-04-04,FR,91.34,total postings,Industrial Engineering
 2020-02-01,FR,100,total postings,Banking & Finance
 2020-02-02,FR,99.81,total postings,Banking & Finance
 2020-02-03,FR,99.57,total postings,Banking & Finance
@@ -22595,6 +20782,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,110.9,total postings,Banking & Finance
 2025-03-27,FR,110.73,total postings,Banking & Finance
 2025-03-28,FR,110.76,total postings,Banking & Finance
+2025-03-29,FR,110.87,total postings,Banking & Finance
+2025-03-30,FR,110.79,total postings,Banking & Finance
+2025-03-31,FR,110.66,total postings,Banking & Finance
+2025-04-01,FR,110.84,total postings,Banking & Finance
+2025-04-02,FR,111.25,total postings,Banking & Finance
+2025-04-03,FR,111.69,total postings,Banking & Finance
+2025-04-04,FR,111.99,total postings,Banking & Finance
 2020-02-01,FR,100,total postings,Food Preparation & Service
 2020-02-02,FR,100.35,total postings,Food Preparation & Service
 2020-02-03,FR,100.77,total postings,Food Preparation & Service
@@ -24478,6 +22672,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,179.52,total postings,Food Preparation & Service
 2025-03-27,FR,179.88,total postings,Food Preparation & Service
 2025-03-28,FR,179.88,total postings,Food Preparation & Service
+2025-03-29,FR,179.88,total postings,Food Preparation & Service
+2025-03-30,FR,179.85,total postings,Food Preparation & Service
+2025-03-31,FR,179.99,total postings,Food Preparation & Service
+2025-04-01,FR,180.18,total postings,Food Preparation & Service
+2025-04-02,FR,180.17,total postings,Food Preparation & Service
+2025-04-03,FR,180.27,total postings,Food Preparation & Service
+2025-04-04,FR,180.44,total postings,Food Preparation & Service
 2020-02-01,FR,100,total postings,Hospitality & Tourism
 2020-02-02,FR,99.92,total postings,Hospitality & Tourism
 2020-02-03,FR,99.77,total postings,Hospitality & Tourism
@@ -26361,6 +24562,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,147.15,total postings,Hospitality & Tourism
 2025-03-27,FR,146.85,total postings,Hospitality & Tourism
 2025-03-28,FR,146.57,total postings,Hospitality & Tourism
+2025-03-29,FR,146.37,total postings,Hospitality & Tourism
+2025-03-30,FR,146.09,total postings,Hospitality & Tourism
+2025-03-31,FR,145.99,total postings,Hospitality & Tourism
+2025-04-01,FR,145.54,total postings,Hospitality & Tourism
+2025-04-02,FR,145.69,total postings,Hospitality & Tourism
+2025-04-03,FR,146.37,total postings,Hospitality & Tourism
+2025-04-04,FR,146.62,total postings,Hospitality & Tourism
 2020-02-01,FR,100,total postings,Human Resources
 2020-02-02,FR,99.75,total postings,Human Resources
 2020-02-03,FR,99.55,total postings,Human Resources
@@ -28244,6 +26452,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,106.93,total postings,Human Resources
 2025-03-27,FR,107.72,total postings,Human Resources
 2025-03-28,FR,108.45,total postings,Human Resources
+2025-03-29,FR,109,total postings,Human Resources
+2025-03-30,FR,109.46,total postings,Human Resources
+2025-03-31,FR,109.9,total postings,Human Resources
+2025-04-01,FR,110.39,total postings,Human Resources
+2025-04-02,FR,110.92,total postings,Human Resources
+2025-04-03,FR,111.39,total postings,Human Resources
+2025-04-04,FR,111.76,total postings,Human Resources
 2020-02-01,FR,100,total postings,Installation & Maintenance
 2020-02-02,FR,99.82,total postings,Installation & Maintenance
 2020-02-03,FR,99.77,total postings,Installation & Maintenance
@@ -30127,6 +28342,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,122.32,total postings,Installation & Maintenance
 2025-03-27,FR,122.51,total postings,Installation & Maintenance
 2025-03-28,FR,122.49,total postings,Installation & Maintenance
+2025-03-29,FR,122.54,total postings,Installation & Maintenance
+2025-03-30,FR,122.58,total postings,Installation & Maintenance
+2025-03-31,FR,122.48,total postings,Installation & Maintenance
+2025-04-01,FR,122.18,total postings,Installation & Maintenance
+2025-04-02,FR,121.48,total postings,Installation & Maintenance
+2025-04-03,FR,121.15,total postings,Installation & Maintenance
+2025-04-04,FR,121.12,total postings,Installation & Maintenance
 2020-02-01,FR,100,total postings,Insurance
 2020-02-02,FR,100.32,total postings,Insurance
 2020-02-03,FR,100.55,total postings,Insurance
@@ -32010,6 +30232,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,133.29,total postings,Insurance
 2025-03-27,FR,133.43,total postings,Insurance
 2025-03-28,FR,133.61,total postings,Insurance
+2025-03-29,FR,134.07,total postings,Insurance
+2025-03-30,FR,134.38,total postings,Insurance
+2025-03-31,FR,134.38,total postings,Insurance
+2025-04-01,FR,134.34,total postings,Insurance
+2025-04-02,FR,134.42,total postings,Insurance
+2025-04-03,FR,134.2,total postings,Insurance
+2025-04-04,FR,133.87,total postings,Insurance
 2020-02-01,FR,100,total postings,Legal
 2020-02-02,FR,99.52,total postings,Legal
 2020-02-03,FR,99.09,total postings,Legal
@@ -33893,6 +32122,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,124.78,total postings,Legal
 2025-03-27,FR,125.31,total postings,Legal
 2025-03-28,FR,125.05,total postings,Legal
+2025-03-29,FR,124.99,total postings,Legal
+2025-03-30,FR,124.76,total postings,Legal
+2025-03-31,FR,124.57,total postings,Legal
+2025-04-01,FR,124.35,total postings,Legal
+2025-04-02,FR,123.99,total postings,Legal
+2025-04-03,FR,123.5,total postings,Legal
+2025-04-04,FR,123.83,total postings,Legal
 2020-02-01,FR,100,total postings,Management
 2020-02-02,FR,99.87,total postings,Management
 2020-02-03,FR,99.74,total postings,Management
@@ -35776,6 +34012,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,114.87,total postings,Management
 2025-03-27,FR,114.96,total postings,Management
 2025-03-28,FR,114.89,total postings,Management
+2025-03-29,FR,114.86,total postings,Management
+2025-03-30,FR,114.75,total postings,Management
+2025-03-31,FR,114.52,total postings,Management
+2025-04-01,FR,114.36,total postings,Management
+2025-04-02,FR,113.94,total postings,Management
+2025-04-03,FR,113.86,total postings,Management
+2025-04-04,FR,114.04,total postings,Management
 2020-02-01,FR,100,total postings,Production & Manufacturing
 2020-02-02,FR,99.76,total postings,Production & Manufacturing
 2020-02-03,FR,99.71,total postings,Production & Manufacturing
@@ -37659,6 +35902,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,122.7,total postings,Production & Manufacturing
 2025-03-27,FR,123,total postings,Production & Manufacturing
 2025-03-28,FR,123.08,total postings,Production & Manufacturing
+2025-03-29,FR,123.18,total postings,Production & Manufacturing
+2025-03-30,FR,123.39,total postings,Production & Manufacturing
+2025-03-31,FR,123.56,total postings,Production & Manufacturing
+2025-04-01,FR,123.61,total postings,Production & Manufacturing
+2025-04-02,FR,123.48,total postings,Production & Manufacturing
+2025-04-03,FR,123.3,total postings,Production & Manufacturing
+2025-04-04,FR,123.44,total postings,Production & Manufacturing
 2020-02-01,FR,100,total postings,Marketing
 2020-02-02,FR,99.83,total postings,Marketing
 2020-02-03,FR,99.52,total postings,Marketing
@@ -39542,6 +37792,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,95.76,total postings,Marketing
 2025-03-27,FR,96.65,total postings,Marketing
 2025-03-28,FR,97.43,total postings,Marketing
+2025-03-29,FR,97.86,total postings,Marketing
+2025-03-30,FR,98.19,total postings,Marketing
+2025-03-31,FR,98.35,total postings,Marketing
+2025-04-01,FR,98.45,total postings,Marketing
+2025-04-02,FR,98.45,total postings,Marketing
+2025-04-03,FR,98.47,total postings,Marketing
+2025-04-04,FR,98.56,total postings,Marketing
 2020-02-01,FR,100,total postings,Physicians & Surgeons
 2020-02-02,FR,99.76,total postings,Physicians & Surgeons
 2020-02-03,FR,99.69,total postings,Physicians & Surgeons
@@ -41425,6 +39682,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,294.11,total postings,Physicians & Surgeons
 2025-03-27,FR,294.73,total postings,Physicians & Surgeons
 2025-03-28,FR,294.95,total postings,Physicians & Surgeons
+2025-03-29,FR,295.19,total postings,Physicians & Surgeons
+2025-03-30,FR,295.28,total postings,Physicians & Surgeons
+2025-03-31,FR,295.55,total postings,Physicians & Surgeons
+2025-04-01,FR,295.93,total postings,Physicians & Surgeons
+2025-04-02,FR,295.73,total postings,Physicians & Surgeons
+2025-04-03,FR,296.06,total postings,Physicians & Surgeons
+2025-04-04,FR,296.99,total postings,Physicians & Surgeons
 2020-02-01,FR,100,total postings,Media & Communications
 2020-02-02,FR,100.07,total postings,Media & Communications
 2020-02-03,FR,100.11,total postings,Media & Communications
@@ -43308,6 +41572,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,94.98,total postings,Media & Communications
 2025-03-27,FR,95.94,total postings,Media & Communications
 2025-03-28,FR,96.62,total postings,Media & Communications
+2025-03-29,FR,97.08,total postings,Media & Communications
+2025-03-30,FR,97.53,total postings,Media & Communications
+2025-03-31,FR,97.92,total postings,Media & Communications
+2025-04-01,FR,98.62,total postings,Media & Communications
+2025-04-02,FR,99.22,total postings,Media & Communications
+2025-04-03,FR,99.87,total postings,Media & Communications
+2025-04-04,FR,100.83,total postings,Media & Communications
 2020-02-01,FR,100,total postings,Nursing
 2020-02-02,FR,99.97,total postings,Nursing
 2020-02-03,FR,100.1,total postings,Nursing
@@ -45191,6 +43462,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,298.24,total postings,Nursing
 2025-03-27,FR,298.03,total postings,Nursing
 2025-03-28,FR,297.81,total postings,Nursing
+2025-03-29,FR,298.01,total postings,Nursing
+2025-03-30,FR,298.16,total postings,Nursing
+2025-03-31,FR,298.24,total postings,Nursing
+2025-04-01,FR,298.34,total postings,Nursing
+2025-04-02,FR,297.96,total postings,Nursing
+2025-04-03,FR,298.37,total postings,Nursing
+2025-04-04,FR,298.93,total postings,Nursing
 2020-02-01,FR,100,total postings,Pharmacy
 2020-02-02,FR,100.34,total postings,Pharmacy
 2020-02-03,FR,100.87,total postings,Pharmacy
@@ -47074,6 +45352,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,169.51,total postings,Pharmacy
 2025-03-27,FR,171.1,total postings,Pharmacy
 2025-03-28,FR,172.75,total postings,Pharmacy
+2025-03-29,FR,174.39,total postings,Pharmacy
+2025-03-30,FR,175.78,total postings,Pharmacy
+2025-03-31,FR,177.01,total postings,Pharmacy
+2025-04-01,FR,178.42,total postings,Pharmacy
+2025-04-02,FR,179.31,total postings,Pharmacy
+2025-04-03,FR,179.48,total postings,Pharmacy
+2025-04-04,FR,179.99,total postings,Pharmacy
 2020-02-01,FR,100,total postings,Project Management
 2020-02-02,FR,99.86,total postings,Project Management
 2020-02-03,FR,99.66,total postings,Project Management
@@ -48957,6 +47242,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,99.46,total postings,Project Management
 2025-03-27,FR,99.59,total postings,Project Management
 2025-03-28,FR,99.65,total postings,Project Management
+2025-03-29,FR,99.67,total postings,Project Management
+2025-03-30,FR,99.69,total postings,Project Management
+2025-03-31,FR,99.71,total postings,Project Management
+2025-04-01,FR,99.79,total postings,Project Management
+2025-04-02,FR,99.89,total postings,Project Management
+2025-04-03,FR,100.04,total postings,Project Management
+2025-04-04,FR,100.28,total postings,Project Management
 2020-02-01,FR,100,total postings,Security & Public Safety
 2020-02-02,FR,99.75,total postings,Security & Public Safety
 2020-02-03,FR,99.41,total postings,Security & Public Safety
@@ -50840,6 +49132,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,187.13,total postings,Security & Public Safety
 2025-03-27,FR,187.39,total postings,Security & Public Safety
 2025-03-28,FR,187.43,total postings,Security & Public Safety
+2025-03-29,FR,187.3,total postings,Security & Public Safety
+2025-03-30,FR,187.35,total postings,Security & Public Safety
+2025-03-31,FR,187.47,total postings,Security & Public Safety
+2025-04-01,FR,188.07,total postings,Security & Public Safety
+2025-04-02,FR,188.65,total postings,Security & Public Safety
+2025-04-03,FR,189.55,total postings,Security & Public Safety
+2025-04-04,FR,190.78,total postings,Security & Public Safety
 2020-02-01,FR,100,total postings,Real Estate
 2020-02-02,FR,100.6,total postings,Real Estate
 2020-02-03,FR,101.35,total postings,Real Estate
@@ -52723,6 +51022,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,179.76,total postings,Real Estate
 2025-03-27,FR,178.27,total postings,Real Estate
 2025-03-28,FR,177.96,total postings,Real Estate
+2025-03-29,FR,181.04,total postings,Real Estate
+2025-03-30,FR,180.67,total postings,Real Estate
+2025-03-31,FR,179.51,total postings,Real Estate
+2025-04-01,FR,183.08,total postings,Real Estate
+2025-04-02,FR,183.66,total postings,Real Estate
+2025-04-03,FR,183.05,total postings,Real Estate
+2025-04-04,FR,183.47,total postings,Real Estate
 2020-02-01,FR,100,total postings,Retail
 2020-02-02,FR,99.86,total postings,Retail
 2020-02-03,FR,99.71,total postings,Retail
@@ -54606,6 +52912,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,144.44,total postings,Retail
 2025-03-27,FR,144.67,total postings,Retail
 2025-03-28,FR,144.86,total postings,Retail
+2025-03-29,FR,145.23,total postings,Retail
+2025-03-30,FR,145.69,total postings,Retail
+2025-03-31,FR,146.03,total postings,Retail
+2025-04-01,FR,146.31,total postings,Retail
+2025-04-02,FR,146.52,total postings,Retail
+2025-04-03,FR,146.74,total postings,Retail
+2025-04-04,FR,146.61,total postings,Retail
 2020-02-01,FR,100,total postings,Sales
 2020-02-02,FR,99.8,total postings,Sales
 2020-02-03,FR,99.63,total postings,Sales
@@ -56489,6 +54802,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,97.91,total postings,Sales
 2025-03-27,FR,98.11,total postings,Sales
 2025-03-28,FR,98.23,total postings,Sales
+2025-03-29,FR,98.28,total postings,Sales
+2025-03-30,FR,98.4,total postings,Sales
+2025-03-31,FR,98.54,total postings,Sales
+2025-04-01,FR,98.77,total postings,Sales
+2025-04-02,FR,98.89,total postings,Sales
+2025-04-03,FR,98.99,total postings,Sales
+2025-04-04,FR,99.24,total postings,Sales
 2020-02-01,FR,100,total postings,Cleaning & Sanitation
 2020-02-02,FR,100.08,total postings,Cleaning & Sanitation
 2020-02-03,FR,100.55,total postings,Cleaning & Sanitation
@@ -58372,6 +56692,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,228.69,total postings,Cleaning & Sanitation
 2025-03-27,FR,229.39,total postings,Cleaning & Sanitation
 2025-03-28,FR,229.53,total postings,Cleaning & Sanitation
+2025-03-29,FR,229.35,total postings,Cleaning & Sanitation
+2025-03-30,FR,229.46,total postings,Cleaning & Sanitation
+2025-03-31,FR,229.59,total postings,Cleaning & Sanitation
+2025-04-01,FR,229.69,total postings,Cleaning & Sanitation
+2025-04-02,FR,228.79,total postings,Cleaning & Sanitation
+2025-04-03,FR,228.23,total postings,Cleaning & Sanitation
+2025-04-04,FR,227.45,total postings,Cleaning & Sanitation
 2020-02-01,FR,100,total postings,IT Operations & Helpdesk
 2020-02-02,FR,100.09,total postings,IT Operations & Helpdesk
 2020-02-03,FR,100.24,total postings,IT Operations & Helpdesk
@@ -60255,6 +58582,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,95.89,total postings,IT Operations & Helpdesk
 2025-03-27,FR,96.15,total postings,IT Operations & Helpdesk
 2025-03-28,FR,96.4,total postings,IT Operations & Helpdesk
+2025-03-29,FR,96.79,total postings,IT Operations & Helpdesk
+2025-03-30,FR,97.13,total postings,IT Operations & Helpdesk
+2025-03-31,FR,97.5,total postings,IT Operations & Helpdesk
+2025-04-01,FR,97.84,total postings,IT Operations & Helpdesk
+2025-04-02,FR,98.17,total postings,IT Operations & Helpdesk
+2025-04-03,FR,98.47,total postings,IT Operations & Helpdesk
+2025-04-04,FR,98.72,total postings,IT Operations & Helpdesk
 2020-02-01,FR,100,total postings,Information Design & Documentation
 2020-02-02,FR,99.93,total postings,Information Design & Documentation
 2020-02-03,FR,99.8,total postings,Information Design & Documentation
@@ -62138,6 +60472,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,91.7,total postings,Information Design & Documentation
 2025-03-27,FR,91.72,total postings,Information Design & Documentation
 2025-03-28,FR,91.68,total postings,Information Design & Documentation
+2025-03-29,FR,91.71,total postings,Information Design & Documentation
+2025-03-30,FR,91.68,total postings,Information Design & Documentation
+2025-03-31,FR,91.66,total postings,Information Design & Documentation
+2025-04-01,FR,91.82,total postings,Information Design & Documentation
+2025-04-02,FR,91.86,total postings,Information Design & Documentation
+2025-04-03,FR,91.99,total postings,Information Design & Documentation
+2025-04-04,FR,92.19,total postings,Information Design & Documentation
 2020-02-01,FR,100,total postings,Software Development
 2020-02-02,FR,99.96,total postings,Software Development
 2020-02-03,FR,99.92,total postings,Software Development
@@ -64021,6 +62362,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,68.07,total postings,Software Development
 2025-03-27,FR,67.87,total postings,Software Development
 2025-03-28,FR,67.7,total postings,Software Development
+2025-03-29,FR,67.49,total postings,Software Development
+2025-03-30,FR,67.35,total postings,Software Development
+2025-03-31,FR,67.24,total postings,Software Development
+2025-04-01,FR,67.29,total postings,Software Development
+2025-04-02,FR,67.26,total postings,Software Development
+2025-04-03,FR,67.29,total postings,Software Development
+2025-04-04,FR,67.36,total postings,Software Development
 2020-02-01,FR,100,total postings,Therapy
 2020-02-02,FR,100.05,total postings,Therapy
 2020-02-03,FR,100.29,total postings,Therapy
@@ -65904,6 +64252,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,233.59,total postings,Therapy
 2025-03-27,FR,234.06,total postings,Therapy
 2025-03-28,FR,234.3,total postings,Therapy
+2025-03-29,FR,234.81,total postings,Therapy
+2025-03-30,FR,234.96,total postings,Therapy
+2025-03-31,FR,235.12,total postings,Therapy
+2025-04-01,FR,235.29,total postings,Therapy
+2025-04-02,FR,235.41,total postings,Therapy
+2025-04-03,FR,235.96,total postings,Therapy
+2025-04-04,FR,236.82,total postings,Therapy
 2020-02-01,FR,100,total postings,Logistic Support
 2020-02-02,FR,100.18,total postings,Logistic Support
 2020-02-03,FR,100.28,total postings,Logistic Support
@@ -67787,6 +66142,13 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,113.54,total postings,Logistic Support
 2025-03-27,FR,113.05,total postings,Logistic Support
 2025-03-28,FR,112.5,total postings,Logistic Support
+2025-03-29,FR,112.37,total postings,Logistic Support
+2025-03-30,FR,112.13,total postings,Logistic Support
+2025-03-31,FR,112.16,total postings,Logistic Support
+2025-04-01,FR,112.19,total postings,Logistic Support
+2025-04-02,FR,112.19,total postings,Logistic Support
+2025-04-03,FR,112.35,total postings,Logistic Support
+2025-04-04,FR,112.88,total postings,Logistic Support
 2020-02-01,FR,100,total postings,Loading & Stocking
 2020-02-02,FR,99.71,total postings,Loading & Stocking
 2020-02-03,FR,99.58,total postings,Loading & Stocking
@@ -69670,3 +68032,10 @@ date,jobcountry,indeed_job_postings_index,variable,display_name
 2025-03-26,FR,109,total postings,Loading & Stocking
 2025-03-27,FR,109.22,total postings,Loading & Stocking
 2025-03-28,FR,109.29,total postings,Loading & Stocking
+2025-03-29,FR,109.79,total postings,Loading & Stocking
+2025-03-30,FR,110.03,total postings,Loading & Stocking
+2025-03-31,FR,110.16,total postings,Loading & Stocking
+2025-04-01,FR,110.22,total postings,Loading & Stocking
+2025-04-02,FR,110.3,total postings,Loading & Stocking
+2025-04-03,FR,110.34,total postings,Loading & Stocking
+2025-04-04,FR,110.61,total postings,Loading & Stocking
