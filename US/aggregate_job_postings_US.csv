@@ -1064,7 +1064,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2022-12-29,US,143.72,143.2,total postings
 2022-12-30,US,143.67,142.95,total postings
 2022-12-31,US,143.51,142.59,total postings
-2023-01-01,US,143.33,142.12,total postings
+2023-01-01,US,143.32,142.12,total postings
 2023-01-02,US,143.12,141.62,total postings
 2023-01-03,US,142.89,141.15,total postings
 2023-01-04,US,142.57,140.61,total postings
@@ -1165,7 +1165,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-04-09,US,136.69,141.31,total postings
 2023-04-10,US,136.85,141.51,total postings
 2023-04-11,US,136.92,141.62,total postings
-2023-04-12,US,137.04,141.73,total postings
+2023-04-12,US,137.03,141.73,total postings
 2023-04-13,US,137.11,141.78,total postings
 2023-04-14,US,137.03,141.76,total postings
 2023-04-15,US,136.77,141.56,total postings
@@ -1411,7 +1411,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-12-11,US,123.01,124.79,total postings
 2023-12-12,US,123,124.73,total postings
 2023-12-13,US,122.98,124.61,total postings
-2023-12-14,US,122.95,124.45,total postings
+2023-12-14,US,122.95,124.44,total postings
 2023-12-15,US,122.85,124.19,total postings
 2023-12-16,US,122.86,124.06,total postings
 2023-12-17,US,122.58,123.59,total postings
@@ -1426,7 +1426,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-12-26,US,122.04,121.63,total postings
 2023-12-27,US,122.05,121.42,total postings
 2023-12-28,US,122.06,121.18,total postings
-2023-12-29,US,122.04,120.92,total postings
+2023-12-29,US,122.03,120.92,total postings
 2023-12-30,US,121.99,120.65,total postings
 2023-12-31,US,121.8,120.25,total postings
 2024-01-01,US,121.56,119.71,total postings
@@ -1696,7 +1696,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2024-09-21,US,112.87,118.14,total postings
 2024-09-22,US,112.92,118.2,total postings
 2024-09-23,US,112.95,118.27,total postings
-2024-09-24,US,112.91,118.31,total postings
+2024-09-24,US,112.9,118.31,total postings
 2024-09-25,US,112.82,118.3,total postings
 2024-09-26,US,112.77,118.32,total postings
 2024-09-27,US,112.7,118.31,total postings
@@ -1813,7 +1813,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-01-16,US,110.46,110.01,total postings
 2025-01-17,US,110.46,110.12,total postings
 2025-01-18,US,110.47,110.23,total postings
-2025-01-19,US,110.52,110.33,total postings
+2025-01-19,US,110.52,110.32,total postings
 2025-01-20,US,110.55,110.44,total postings
 2025-01-21,US,110.55,110.49,total postings
 2025-01-22,US,110.49,110.5,total postings
@@ -1861,7 +1861,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-03-05,US,109,111.32,total postings
 2025-03-06,US,108.98,111.35,total postings
 2025-03-07,US,108.93,111.37,total postings
-2025-03-08,US,108.98,111.54,total postings
+2025-03-08,US,108.98,111.53,total postings
 2025-03-09,US,108.97,111.65,total postings
 2025-03-10,US,108.91,111.72,total postings
 2025-03-11,US,108.84,111.79,total postings
@@ -1879,7 +1879,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-03-23,US,108.31,112.18,total postings
 2025-03-24,US,108.2,112.17,total postings
 2025-03-25,US,108.08,112.15,total postings
-2025-03-26,US,108.01,112.16,total postings
+2025-03-26,US,108,112.16,total postings
 2025-03-27,US,107.9,112.12,total postings
 2025-03-28,US,107.75,112.03,total postings
 2025-03-29,US,107.62,111.95,total postings
@@ -1901,7 +1901,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-04-14,US,107.83,111.72,total postings
 2025-04-15,US,107.75,111.67,total postings
 2025-04-16,US,107.64,111.58,total postings
-2025-04-17,US,107.67,111.61,total postings
+2025-04-17,US,107.67,111.6,total postings
 2025-04-18,US,107.61,111.54,total postings
 2025-04-19,US,107.45,111.38,total postings
 2025-04-20,US,107.33,111.26,total postings
@@ -1994,6 +1994,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-07-16,US,104.33,107.72,total postings
 2025-07-17,US,104.47,107.92,total postings
 2025-07-18,US,104.55,108.09,total postings
+2025-07-19,US,104.53,108.14,total postings
+2025-07-20,US,104.68,108.32,total postings
+2025-07-21,US,104.81,108.46,total postings
+2025-07-22,US,104.87,108.52,total postings
+2025-07-23,US,104.97,108.6,total postings
+2025-07-24,US,105.08,108.68,total postings
+2025-07-25,US,105.22,108.78,total postings
 2020-02-01,US,100,100,new postings
 2020-02-02,US,100.35,100.63,new postings
 2020-02-03,US,100.71,101.28,new postings
@@ -3094,7 +3101,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-02-02,US,156.1,155.96,new postings
 2023-02-03,US,156.07,157.52,new postings
 2023-02-04,US,156.27,159.38,new postings
-2023-02-05,US,156.53,161.31,new postings
+2023-02-05,US,156.52,161.31,new postings
 2023-02-06,US,156.19,162.66,new postings
 2023-02-07,US,156.22,165.3,new postings
 2023-02-08,US,157.21,168.54,new postings
@@ -3244,7 +3251,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2023-07-02,US,148.48,147.14,new postings
 2023-07-03,US,148.47,148.7,new postings
 2023-07-04,US,146.43,149.03,new postings
-2023-07-05,US,145.27,147.12,new postings
+2023-07-05,US,145.26,147.12,new postings
 2023-07-06,US,144.27,145.11,new postings
 2023-07-07,US,143.97,144.56,new postings
 2023-07-08,US,143.59,143.02,new postings
@@ -3989,3 +3996,10 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-07-16,US,120.91,118.76,new postings
 2025-07-17,US,123.41,123.03,new postings
 2025-07-18,US,123.5,124.47,new postings
+2025-07-19,US,122.02,123.59,new postings
+2025-07-20,US,121.02,122.58,new postings
+2025-07-21,US,119.61,121.16,new postings
+2025-07-22,US,116.47,118.59,new postings
+2025-07-23,US,113.51,116.06,new postings
+2025-07-24,US,111.3,113.74,new postings
+2025-07-25,US,110.34,112.54,new postings
