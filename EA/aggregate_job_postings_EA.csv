@@ -341,7 +341,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2021-01-05,EA,89.34,85.65,total postings
 2021-01-06,EA,89.44,85.39,total postings
 2021-01-07,EA,89.52,85.28,total postings
-2021-01-08,EA,89.58,85.39,total postings
+2021-01-08,EA,89.58,85.38,total postings
 2021-01-09,EA,89.68,85.62,total postings
 2021-01-10,EA,89.71,85.81,total postings
 2021-01-11,EA,89.8,86.04,total postings
@@ -401,7 +401,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2021-03-06,EA,94.33,95.13,total postings
 2021-03-07,EA,94.48,95.21,total postings
 2021-03-08,EA,94.64,95.45,total postings
-2021-03-09,EA,94.65,95.63,total postings
+2021-03-09,EA,94.65,95.62,total postings
 2021-03-10,EA,94.67,95.9,total postings
 2021-03-11,EA,94.88,96.35,total postings
 2021-03-12,EA,94.99,96.68,total postings
@@ -2022,6 +2022,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-08-13,EA,118.02,122.06,total postings
 2025-08-14,EA,117.98,121.96,total postings
 2025-08-15,EA,117.97,121.88,total postings
+2025-08-16,EA,117.99,121.8,total postings
+2025-08-17,EA,117.92,121.6,total postings
+2025-08-18,EA,117.83,121.38,total postings
+2025-08-19,EA,117.79,121.23,total postings
+2025-08-20,EA,117.82,121.18,total postings
+2025-08-21,EA,117.92,121.16,total postings
+2025-08-22,EA,117.98,121.16,total postings
 2020-02-01,EA,100,100,new postings
 2020-02-02,EA,100.16,100.26,new postings
 2020-02-03,EA,100.32,100.82,new postings
@@ -4045,3 +4052,10 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-08-13,EA,124.54,112.49,new postings
 2025-08-14,EA,123.68,109.91,new postings
 2025-08-15,EA,122.58,107.28,new postings
+2025-08-16,EA,122.14,105.11,new postings
+2025-08-17,EA,121.63,102.86,new postings
+2025-08-18,EA,121.08,100.78,new postings
+2025-08-19,EA,120.71,99.21,new postings
+2025-08-20,EA,120.69,98.33,new postings
+2025-08-21,EA,120.77,97.94,new postings
+2025-08-22,EA,121.5,98.52,new postings
