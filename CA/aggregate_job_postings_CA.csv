@@ -1,5 +1,4 @@
 date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,variable
-2020-11-22,CA,98.85,92.58,new postings
 2020-11-23,CA,98.86,92.96,new postings
 2020-11-24,CA,99.03,93.29,new postings
 2020-11-25,CA,99.28,93.47,new postings
@@ -1776,6 +1775,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-10-01,CA,102.87,110.66,new postings
 2025-10-02,CA,101.34,108.68,new postings
 2025-10-03,CA,99.56,106.73,new postings
+2025-10-04,CA,98.5,105.65,new postings
+2025-10-05,CA,97.52,104.69,new postings
+2025-10-06,CA,96.68,103.82,new postings
+2025-10-07,CA,96.72,103.91,new postings
+2025-10-08,CA,97.78,105.32,new postings
+2025-10-09,CA,99.53,106.86,new postings
+2025-10-10,CA,100.93,107.99,new postings
 2020-02-01,CA,100,100,total postings
 2020-02-02,CA,99.93,100.1,total postings
 2020-02-03,CA,99.83,100.18,total postings
@@ -3848,6 +3854,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-10-01,CA,98.8,111.33,total postings
 2025-10-02,CA,98.9,111.12,total postings
 2025-10-03,CA,98.91,110.86,total postings
+2025-10-04,CA,98.94,110.63,total postings
+2025-10-05,CA,98.91,110.44,total postings
+2025-10-06,CA,98.87,110.25,total postings
+2025-10-07,CA,98.82,110.17,total postings
+2025-10-08,CA,98.76,110.18,total postings
+2025-10-09,CA,98.7,110.19,total postings
+2025-10-10,CA,98.63,110.12,total postings
 2020-02-01,CA,100,100,new postings
 2020-02-02,CA,100.14,100.03,new postings
 2020-02-03,CA,100.14,100.13,new postings
@@ -4143,3 +4156,4 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2020-11-19,CA,98.47,91.15,new postings
 2020-11-20,CA,98.61,91.41,new postings
 2020-11-21,CA,98.85,92.11,new postings
+2020-11-22,CA,98.85,92.58,new postings
