@@ -184,6 +184,9 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2020-08-01,NL,69.96,76.79,total postings
 2020-08-02,NL,70.1,76.81,total postings
 2020-08-03,NL,70.24,76.86,total postings
+2025-12-10,NL,117.58,121.42,new postings
+2025-12-11,NL,117.9,121.04,new postings
+2025-12-12,NL,118.47,120.99,new postings
 2020-08-04,NL,70.38,76.83,total postings
 2020-08-05,NL,71.25,77.51,total postings
 2020-08-06,NL,72.22,78.32,total postings
@@ -2134,6 +2137,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-12-03,NL,126.81,129.1,total postings
 2025-12-04,NL,126.62,128.81,total postings
 2025-12-05,NL,126.41,128.43,total postings
+2025-12-06,NL,125.97,127.92,total postings
+2025-12-07,NL,125.39,127.33,total postings
+2025-12-08,NL,124.89,126.88,total postings
+2025-12-09,NL,124.72,126.8,total postings
+2025-12-10,NL,124.78,126.89,total postings
+2025-12-11,NL,124.95,127.07,total postings
+2025-12-12,NL,125.09,127.28,total postings
 2020-02-01,NL,100,100,new postings
 2020-02-02,NL,100.67,101.58,new postings
 2020-02-03,NL,100.99,103.37,new postings
@@ -4269,3 +4279,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-12-03,NL,115.81,119.27,new postings
 2025-12-04,NL,116.07,119.93,new postings
 2025-12-05,NL,116.5,120.59,new postings
+2025-12-06,NL,116.98,121.23,new postings
+2025-12-07,NL,117.33,121.79,new postings
+2025-12-08,NL,117.9,122.48,new postings
+2025-12-09,NL,117.59,122.05,new postings
