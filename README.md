@@ -107,6 +107,8 @@ The data and files that we have generated are freely available for public use, a
 
 ## Disclaimer
 
+Hiring Lab constantly strives to deliver real-time, high-quality data on global labor markets.  As part of this effort, we periodically reevaluate the methodology behind our various data products in response to changes to Indeed products, strategy, data platforms, data sources and/or internal quality control procedures. Methodologies may also change in part to ensure reliability, replicability and/or representativeness in the underlying data behind our data products. Our aim is always to be as transparent as possible regarding the timing and scope of any changes.
+
 The number of job postings on Indeed.com, whether related to paid or unpaid job solicitations, is not indicative of potential revenue or earnings of Indeed, which comprises a significant percentage of the HR Technology segment of its parent company, Recruit Holdings Co., Ltd. Job posting numbers are provided for information purposes only and should not be viewed as an indicator of performance of Indeed or Recruit. Please refer to the Recruit Holdings investor relations website and regulatory filings in Japan for more detailed information on revenue generation by Recruit’s HR Technology segment.
 
 ## About Hiring Lab
