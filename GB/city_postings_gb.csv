@@ -2209,8 +2209,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Aberdeen,64.74
 2026-02-17,Aberdeen,64.89
 2026-02-18,Aberdeen,64.91
-2026-02-19,Aberdeen,65.02
-2026-02-20,Aberdeen,65.15
+2026-02-19,Aberdeen,65.01
+2026-02-20,Aberdeen,65.13
+2026-02-21,Aberdeen,65.43
+2026-02-22,Aberdeen,65.65
+2026-02-23,Aberdeen,65.59
+2026-02-24,Aberdeen,65.51
+2026-02-25,Aberdeen,65.49
+2026-02-26,Aberdeen,65.32
+2026-02-27,Aberdeen,65.22
 2020-02-01,Aldershot,100
 2020-02-02,Aldershot,99.95
 2020-02-03,Aldershot,99.97
@@ -4423,6 +4430,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Aldershot,57.14
 2026-02-19,Aldershot,56.89
 2026-02-20,Aldershot,56.9
+2026-02-21,Aldershot,56.86
+2026-02-22,Aldershot,56.82
+2026-02-23,Aldershot,56.72
+2026-02-24,Aldershot,56.43
+2026-02-25,Aldershot,56.31
+2026-02-26,Aldershot,56.45
+2026-02-27,Aldershot,56.53
 2020-02-01,Barnsley,100
 2020-02-02,Barnsley,100.69
 2020-02-03,Barnsley,100.97
@@ -6635,6 +6649,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Barnsley,103.48
 2026-02-19,Barnsley,103.76
 2026-02-20,Barnsley,103.37
+2026-02-21,Barnsley,103.07
+2026-02-22,Barnsley,102.92
+2026-02-23,Barnsley,102.36
+2026-02-24,Barnsley,101.64
+2026-02-25,Barnsley,101.21
+2026-02-26,Barnsley,101.12
+2026-02-27,Barnsley,101.77
 2020-02-01,Basildon,100
 2020-02-02,Basildon,99.79
 2020-02-03,Basildon,99.43
@@ -8845,8 +8866,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Basildon,62.91
 2026-02-17,Basildon,63.37
 2026-02-18,Basildon,63.7
-2026-02-19,Basildon,63.88
-2026-02-20,Basildon,63.97
+2026-02-19,Basildon,63.87
+2026-02-20,Basildon,63.94
+2026-02-21,Basildon,64.04
+2026-02-22,Basildon,63.98
+2026-02-23,Basildon,63.93
+2026-02-24,Basildon,63.55
+2026-02-25,Basildon,62.73
+2026-02-26,Basildon,62.35
+2026-02-27,Basildon,62.04
 2020-02-01,Belfast,100
 2020-02-02,Belfast,99.68
 2020-02-03,Belfast,99.47
@@ -11057,8 +11085,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Belfast,110.9
 2026-02-17,Belfast,111.14
 2026-02-18,Belfast,111.14
-2026-02-19,Belfast,111.56
-2026-02-20,Belfast,111.8
+2026-02-19,Belfast,111.54
+2026-02-20,Belfast,111.77
+2026-02-21,Belfast,112.02
+2026-02-22,Belfast,112.31
+2026-02-23,Belfast,112.59
+2026-02-24,Belfast,112.57
+2026-02-25,Belfast,113.03
+2026-02-26,Belfast,113.23
+2026-02-27,Belfast,113.71
 2020-02-01,Birkenhead,100
 2020-02-02,Birkenhead,99.55
 2020-02-03,Birkenhead,99.36
@@ -13269,8 +13304,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Birkenhead,95.43
 2026-02-17,Birkenhead,95.1
 2026-02-18,Birkenhead,94.79
-2026-02-19,Birkenhead,94.42
-2026-02-20,Birkenhead,94.08
+2026-02-19,Birkenhead,94.37
+2026-02-20,Birkenhead,93.99
+2026-02-21,Birkenhead,94.01
+2026-02-22,Birkenhead,94.06
+2026-02-23,Birkenhead,93.86
+2026-02-24,Birkenhead,93.73
+2026-02-25,Birkenhead,93.82
+2026-02-26,Birkenhead,93.72
+2026-02-27,Birkenhead,93.69
 2020-02-01,Birmingham,100
 2020-02-02,Birmingham,100.07
 2020-02-03,Birmingham,100.22
@@ -15482,7 +15524,14 @@ date,cities,indeed_job_postings_index
 2026-02-17,Birmingham,85.74
 2026-02-18,Birmingham,85.62
 2026-02-19,Birmingham,85.45
-2026-02-20,Birmingham,85.25
+2026-02-20,Birmingham,85.24
+2026-02-21,Birmingham,85.06
+2026-02-22,Birmingham,84.82
+2026-02-23,Birmingham,84.55
+2026-02-24,Birmingham,84.31
+2026-02-25,Birmingham,84.25
+2026-02-26,Birmingham,84.28
+2026-02-27,Birmingham,84.41
 2020-02-01,Blackburn,100
 2020-02-02,Blackburn,99.13
 2020-02-03,Blackburn,98.48
@@ -17693,8 +17742,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Blackburn,87.15
 2026-02-17,Blackburn,86.72
 2026-02-18,Blackburn,86.53
-2026-02-19,Blackburn,86.22
-2026-02-20,Blackburn,86.6
+2026-02-19,Blackburn,86.2
+2026-02-20,Blackburn,86.56
+2026-02-21,Blackburn,86.6
+2026-02-22,Blackburn,86.68
+2026-02-23,Blackburn,86.39
+2026-02-24,Blackburn,86.25
+2026-02-25,Blackburn,86.02
+2026-02-26,Blackburn,86.66
+2026-02-27,Blackburn,87.16
 2020-02-01,Blackpool,100
 2020-02-02,Blackpool,99.81
 2020-02-03,Blackpool,99.58
@@ -19905,8 +19961,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Blackpool,65.02
 2026-02-17,Blackpool,64.61
 2026-02-18,Blackpool,64.36
-2026-02-19,Blackpool,64.17
-2026-02-20,Blackpool,63.91
+2026-02-19,Blackpool,64.15
+2026-02-20,Blackpool,63.88
+2026-02-21,Blackpool,63.61
+2026-02-22,Blackpool,63.38
+2026-02-23,Blackpool,63.11
+2026-02-24,Blackpool,62.91
+2026-02-25,Blackpool,62.73
+2026-02-26,Blackpool,62.61
+2026-02-27,Blackpool,62.59
 2020-02-01,Bournemouth,100
 2020-02-02,Bournemouth,99.89
 2020-02-03,Bournemouth,99.71
@@ -21746,198 +21809,198 @@ date,cities,indeed_job_postings_index
 2025-02-10,Bournemouth,80.34
 2025-02-11,Bournemouth,80.57
 2025-02-12,Bournemouth,80.58
-2025-02-13,Bournemouth,80.4
-2025-02-14,Bournemouth,80.18
-2025-02-15,Bournemouth,79.9
-2025-02-16,Bournemouth,79.59
-2025-02-17,Bournemouth,79.35
-2025-02-18,Bournemouth,78.94
-2025-02-19,Bournemouth,78.34
-2025-02-20,Bournemouth,77.85
-2025-02-21,Bournemouth,77.46
-2025-02-22,Bournemouth,77.11
-2025-02-23,Bournemouth,76.84
-2025-02-24,Bournemouth,76.6
-2025-02-25,Bournemouth,76.4
-2025-02-26,Bournemouth,76.45
-2025-02-27,Bournemouth,76.47
-2025-02-28,Bournemouth,76.24
-2025-03-01,Bournemouth,76.03
-2025-03-02,Bournemouth,75.69
-2025-03-03,Bournemouth,75.42
-2025-03-04,Bournemouth,75
-2025-03-05,Bournemouth,74.43
-2025-03-06,Bournemouth,74.06
-2025-03-07,Bournemouth,73.88
-2025-03-08,Bournemouth,73.64
-2025-03-09,Bournemouth,73.39
-2025-03-10,Bournemouth,72.94
-2025-03-11,Bournemouth,72.63
-2025-03-12,Bournemouth,72.64
-2025-03-13,Bournemouth,72.64
-2025-03-14,Bournemouth,72.69
-2025-03-15,Bournemouth,72.74
-2025-03-16,Bournemouth,72.8
-2025-03-17,Bournemouth,73.12
-2025-03-18,Bournemouth,73.33
-2025-03-19,Bournemouth,73.42
-2025-03-20,Bournemouth,73.29
-2025-03-21,Bournemouth,73.32
-2025-03-22,Bournemouth,73.53
-2025-03-23,Bournemouth,73.86
-2025-03-24,Bournemouth,73.99
-2025-03-25,Bournemouth,74.23
-2025-03-26,Bournemouth,74.5
-2025-03-27,Bournemouth,74.82
-2025-03-28,Bournemouth,74.96
-2025-03-29,Bournemouth,74.82
-2025-03-30,Bournemouth,74.77
-2025-03-31,Bournemouth,74.8
-2025-04-01,Bournemouth,74.67
-2025-04-02,Bournemouth,74.51
-2025-04-03,Bournemouth,74.38
-2025-04-04,Bournemouth,74.17
-2025-04-05,Bournemouth,74.41
-2025-04-06,Bournemouth,74.48
-2025-04-07,Bournemouth,74.66
-2025-04-08,Bournemouth,74.92
-2025-04-09,Bournemouth,75.19
-2025-04-10,Bournemouth,75.38
-2025-04-11,Bournemouth,75.47
-2025-04-12,Bournemouth,75.24
-2025-04-13,Bournemouth,75.06
-2025-04-14,Bournemouth,74.74
-2025-04-15,Bournemouth,74.46
-2025-04-16,Bournemouth,74.08
-2025-04-17,Bournemouth,73.68
-2025-04-18,Bournemouth,73.35
-2025-04-19,Bournemouth,72.83
-2025-04-20,Bournemouth,72.29
-2025-04-21,Bournemouth,71.76
-2025-04-22,Bournemouth,71.1
-2025-04-23,Bournemouth,70.58
-2025-04-24,Bournemouth,69.93
-2025-04-25,Bournemouth,69.16
-2025-04-26,Bournemouth,68.52
-2025-04-27,Bournemouth,67.96
-2025-04-28,Bournemouth,67.53
-2025-04-29,Bournemouth,67.19
-2025-04-30,Bournemouth,66.81
-2025-05-01,Bournemouth,66.66
-2025-05-02,Bournemouth,66.92
-2025-05-03,Bournemouth,67.23
-2025-05-04,Bournemouth,67.57
-2025-05-05,Bournemouth,67.87
-2025-05-06,Bournemouth,68.07
-2025-05-07,Bournemouth,68.45
-2025-05-08,Bournemouth,68.72
-2025-05-09,Bournemouth,68.94
-2025-05-10,Bournemouth,69.23
-2025-05-11,Bournemouth,69.46
-2025-05-12,Bournemouth,69.61
-2025-05-13,Bournemouth,69.85
-2025-05-14,Bournemouth,69.72
-2025-05-15,Bournemouth,69.73
-2025-05-16,Bournemouth,69.58
-2025-05-17,Bournemouth,69.41
-2025-05-18,Bournemouth,69.25
-2025-05-19,Bournemouth,69.4
-2025-05-20,Bournemouth,69.73
-2025-05-21,Bournemouth,70.19
-2025-05-22,Bournemouth,70.63
-2025-05-23,Bournemouth,70.93
-2025-05-24,Bournemouth,71.07
-2025-05-25,Bournemouth,71.27
-2025-05-26,Bournemouth,71.23
-2025-05-27,Bournemouth,70.76
-2025-05-28,Bournemouth,70.25
-2025-05-29,Bournemouth,69.94
-2025-05-30,Bournemouth,69.68
-2025-05-31,Bournemouth,69.35
-2025-06-01,Bournemouth,68.9
-2025-06-02,Bournemouth,68.45
-2025-06-03,Bournemouth,68.42
-2025-06-04,Bournemouth,68.59
-2025-06-05,Bournemouth,68.49
-2025-06-06,Bournemouth,68.51
-2025-06-07,Bournemouth,68.77
-2025-06-08,Bournemouth,69.05
-2025-06-09,Bournemouth,69.1
-2025-06-10,Bournemouth,69.08
-2025-06-11,Bournemouth,68.75
-2025-06-12,Bournemouth,68.43
-2025-06-13,Bournemouth,67.91
-2025-06-14,Bournemouth,67.34
-2025-06-15,Bournemouth,66.8
-2025-06-16,Bournemouth,66.34
-2025-06-17,Bournemouth,65.95
-2025-06-18,Bournemouth,65.54
-2025-06-19,Bournemouth,65.13
-2025-06-20,Bournemouth,64.91
-2025-06-21,Bournemouth,64.68
-2025-06-22,Bournemouth,64.34
-2025-06-23,Bournemouth,64.08
-2025-06-24,Bournemouth,63.88
-2025-06-25,Bournemouth,63.84
-2025-06-26,Bournemouth,63.88
-2025-06-27,Bournemouth,63.73
-2025-06-28,Bournemouth,63.63
-2025-06-29,Bournemouth,63.29
-2025-06-30,Bournemouth,63.34
-2025-07-01,Bournemouth,63.43
-2025-07-02,Bournemouth,63.38
-2025-07-03,Bournemouth,63.59
-2025-07-04,Bournemouth,63.91
-2025-07-05,Bournemouth,64.07
-2025-07-06,Bournemouth,64.43
-2025-07-07,Bournemouth,64.49
-2025-07-08,Bournemouth,64.18
-2025-07-09,Bournemouth,64.53
-2025-07-10,Bournemouth,64.47
-2025-07-11,Bournemouth,64.38
-2025-07-12,Bournemouth,64.34
-2025-07-13,Bournemouth,64.51
-2025-07-14,Bournemouth,64.54
-2025-07-15,Bournemouth,64.79
-2025-07-16,Bournemouth,64.84
-2025-07-17,Bournemouth,65.11
-2025-07-18,Bournemouth,65.42
-2025-07-19,Bournemouth,65.77
-2025-07-20,Bournemouth,66
-2025-07-21,Bournemouth,66.31
-2025-07-22,Bournemouth,66.6
-2025-07-23,Bournemouth,66.53
-2025-07-24,Bournemouth,66.43
-2025-07-25,Bournemouth,66.29
-2025-07-26,Bournemouth,66.39
-2025-07-27,Bournemouth,66.53
-2025-07-28,Bournemouth,66.67
-2025-07-29,Bournemouth,66.8
-2025-07-30,Bournemouth,66.92
-2025-07-31,Bournemouth,66.87
-2025-08-01,Bournemouth,66.91
-2025-08-02,Bournemouth,66.69
-2025-08-03,Bournemouth,66.44
-2025-08-04,Bournemouth,66.05
-2025-08-05,Bournemouth,65.79
-2025-08-06,Bournemouth,65.66
-2025-08-07,Bournemouth,65.46
-2025-08-08,Bournemouth,65.56
-2025-08-09,Bournemouth,65.7
-2025-08-10,Bournemouth,65.88
-2025-08-11,Bournemouth,66.1
-2025-08-12,Bournemouth,66.25
-2025-08-13,Bournemouth,66.25
-2025-08-14,Bournemouth,66.5
-2025-08-15,Bournemouth,66.33
-2025-08-16,Bournemouth,66.23
-2025-08-17,Bournemouth,65.97
-2025-08-18,Bournemouth,65.85
-2025-08-19,Bournemouth,65.76
-2025-08-20,Bournemouth,65.76
-2025-08-21,Bournemouth,65.74
-2025-08-22,Bournemouth,65.74
-2025-08-23,Bournemouth,65.56
+2025-02-13,Bournemouth,80.39
+2025-02-14,Bournemouth,80.17
+2025-02-15,Bournemouth,79.88
+2025-02-16,Bournemouth,79.57
+2025-02-17,Bournemouth,79.33
+2025-02-18,Bournemouth,78.91
+2025-02-19,Bournemouth,78.31
+2025-02-20,Bournemouth,77.82
+2025-02-21,Bournemouth,77.42
+2025-02-22,Bournemouth,77.08
+2025-02-23,Bournemouth,76.8
+2025-02-24,Bournemouth,76.57
+2025-02-25,Bournemouth,76.37
+2025-02-26,Bournemouth,76.42
+2025-02-27,Bournemouth,76.44
+2025-02-28,Bournemouth,76.21
+2025-03-01,Bournemouth,75.99
+2025-03-02,Bournemouth,75.66
+2025-03-03,Bournemouth,75.39
+2025-03-04,Bournemouth,74.97
+2025-03-05,Bournemouth,74.4
+2025-03-06,Bournemouth,74.03
+2025-03-07,Bournemouth,73.85
+2025-03-08,Bournemouth,73.61
+2025-03-09,Bournemouth,73.36
+2025-03-10,Bournemouth,72.9
+2025-03-11,Bournemouth,72.6
+2025-03-12,Bournemouth,72.6
+2025-03-13,Bournemouth,72.61
+2025-03-14,Bournemouth,72.66
+2025-03-15,Bournemouth,72.71
+2025-03-16,Bournemouth,72.77
+2025-03-17,Bournemouth,73.09
+2025-03-18,Bournemouth,73.3
+2025-03-19,Bournemouth,73.39
+2025-03-20,Bournemouth,73.26
+2025-03-21,Bournemouth,73.29
+2025-03-22,Bournemouth,73.5
+2025-03-23,Bournemouth,73.83
+2025-03-24,Bournemouth,73.96
+2025-03-25,Bournemouth,74.2
+2025-03-26,Bournemouth,74.46
+2025-03-27,Bournemouth,74.78
+2025-03-28,Bournemouth,74.93
+2025-03-29,Bournemouth,74.79
+2025-03-30,Bournemouth,74.73
+2025-03-31,Bournemouth,74.77
+2025-04-01,Bournemouth,74.64
+2025-04-02,Bournemouth,74.48
+2025-04-03,Bournemouth,74.35
+2025-04-04,Bournemouth,74.13
+2025-04-05,Bournemouth,74.38
+2025-04-06,Bournemouth,74.45
+2025-04-07,Bournemouth,74.62
+2025-04-08,Bournemouth,74.89
+2025-04-09,Bournemouth,75.16
+2025-04-10,Bournemouth,75.35
+2025-04-11,Bournemouth,75.44
+2025-04-12,Bournemouth,75.21
+2025-04-13,Bournemouth,75.03
+2025-04-14,Bournemouth,74.71
+2025-04-15,Bournemouth,74.43
+2025-04-16,Bournemouth,74.05
+2025-04-17,Bournemouth,73.65
+2025-04-18,Bournemouth,73.32
+2025-04-19,Bournemouth,72.8
+2025-04-20,Bournemouth,72.26
+2025-04-21,Bournemouth,71.73
+2025-04-22,Bournemouth,71.07
+2025-04-23,Bournemouth,70.55
+2025-04-24,Bournemouth,69.9
+2025-04-25,Bournemouth,69.13
+2025-04-26,Bournemouth,68.49
+2025-04-27,Bournemouth,67.93
+2025-04-28,Bournemouth,67.5
+2025-04-29,Bournemouth,67.16
+2025-04-30,Bournemouth,66.78
+2025-05-01,Bournemouth,66.63
+2025-05-02,Bournemouth,66.89
+2025-05-03,Bournemouth,67.2
+2025-05-04,Bournemouth,67.54
+2025-05-05,Bournemouth,67.84
+2025-05-06,Bournemouth,68.04
+2025-05-07,Bournemouth,68.42
+2025-05-08,Bournemouth,68.69
+2025-05-09,Bournemouth,68.91
+2025-05-10,Bournemouth,69.2
+2025-05-11,Bournemouth,69.43
+2025-05-12,Bournemouth,69.58
+2025-05-13,Bournemouth,69.82
+2025-05-14,Bournemouth,69.69
+2025-05-15,Bournemouth,69.7
+2025-05-16,Bournemouth,69.55
+2025-05-17,Bournemouth,69.38
+2025-05-18,Bournemouth,69.22
+2025-05-19,Bournemouth,69.38
+2025-05-20,Bournemouth,69.7
+2025-05-21,Bournemouth,70.16
+2025-05-22,Bournemouth,70.6
+2025-05-23,Bournemouth,70.9
+2025-05-24,Bournemouth,71.04
+2025-05-25,Bournemouth,71.24
+2025-05-26,Bournemouth,71.2
+2025-05-27,Bournemouth,70.73
+2025-05-28,Bournemouth,70.22
+2025-05-29,Bournemouth,69.91
+2025-05-30,Bournemouth,69.65
+2025-05-31,Bournemouth,69.32
+2025-06-01,Bournemouth,68.88
+2025-06-02,Bournemouth,68.42
+2025-06-03,Bournemouth,68.39
+2025-06-04,Bournemouth,68.56
+2025-06-05,Bournemouth,68.46
+2025-06-06,Bournemouth,68.49
+2025-06-07,Bournemouth,68.74
+2025-06-08,Bournemouth,69.02
+2025-06-09,Bournemouth,69.07
+2025-06-10,Bournemouth,69.05
+2025-06-11,Bournemouth,68.72
+2025-06-12,Bournemouth,68.4
+2025-06-13,Bournemouth,67.88
+2025-06-14,Bournemouth,67.31
+2025-06-15,Bournemouth,66.78
+2025-06-16,Bournemouth,66.31
+2025-06-17,Bournemouth,65.93
+2025-06-18,Bournemouth,65.51
+2025-06-19,Bournemouth,65.1
+2025-06-20,Bournemouth,64.88
+2025-06-21,Bournemouth,64.65
+2025-06-22,Bournemouth,64.31
+2025-06-23,Bournemouth,64.06
+2025-06-24,Bournemouth,63.86
+2025-06-25,Bournemouth,63.82
+2025-06-26,Bournemouth,63.85
+2025-06-27,Bournemouth,63.7
+2025-06-28,Bournemouth,63.6
+2025-06-29,Bournemouth,63.26
+2025-06-30,Bournemouth,63.31
+2025-07-01,Bournemouth,63.41
+2025-07-02,Bournemouth,63.35
+2025-07-03,Bournemouth,63.57
+2025-07-04,Bournemouth,63.88
+2025-07-05,Bournemouth,64.04
+2025-07-06,Bournemouth,64.4
+2025-07-07,Bournemouth,64.46
+2025-07-08,Bournemouth,64.15
+2025-07-09,Bournemouth,64.5
+2025-07-10,Bournemouth,64.44
+2025-07-11,Bournemouth,64.35
+2025-07-12,Bournemouth,64.32
+2025-07-13,Bournemouth,64.48
+2025-07-14,Bournemouth,64.51
+2025-07-15,Bournemouth,64.76
+2025-07-16,Bournemouth,64.82
+2025-07-17,Bournemouth,65.08
+2025-07-18,Bournemouth,65.39
+2025-07-19,Bournemouth,65.74
+2025-07-20,Bournemouth,65.98
+2025-07-21,Bournemouth,66.28
+2025-07-22,Bournemouth,66.57
+2025-07-23,Bournemouth,66.5
+2025-07-24,Bournemouth,66.4
+2025-07-25,Bournemouth,66.26
+2025-07-26,Bournemouth,66.37
+2025-07-27,Bournemouth,66.5
+2025-07-28,Bournemouth,66.65
+2025-07-29,Bournemouth,66.77
+2025-07-30,Bournemouth,66.89
+2025-07-31,Bournemouth,66.85
+2025-08-01,Bournemouth,66.89
+2025-08-02,Bournemouth,66.66
+2025-08-03,Bournemouth,66.41
+2025-08-04,Bournemouth,66.02
+2025-08-05,Bournemouth,65.76
+2025-08-06,Bournemouth,65.63
+2025-08-07,Bournemouth,65.43
+2025-08-08,Bournemouth,65.53
+2025-08-09,Bournemouth,65.67
+2025-08-10,Bournemouth,65.85
+2025-08-11,Bournemouth,66.07
+2025-08-12,Bournemouth,66.22
+2025-08-13,Bournemouth,66.22
+2025-08-14,Bournemouth,66.47
+2025-08-15,Bournemouth,66.31
+2025-08-16,Bournemouth,66.2
+2025-08-17,Bournemouth,65.94
+2025-08-18,Bournemouth,65.82
+2025-08-19,Bournemouth,65.74
+2025-08-20,Bournemouth,65.74
+2025-08-21,Bournemouth,65.73
+2025-08-22,Bournemouth,65.73
+2025-08-23,Bournemouth,65.55
 2025-08-24,Bournemouth,65.49
 2025-08-25,Bournemouth,65.48
 2025-08-26,Bournemouth,65.05
@@ -22117,8 +22180,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Bournemouth,67.94
 2026-02-17,Bournemouth,67.81
 2026-02-18,Bournemouth,67.52
-2026-02-19,Bournemouth,67.33
-2026-02-20,Bournemouth,67.03
+2026-02-19,Bournemouth,67.32
+2026-02-20,Bournemouth,67.02
+2026-02-21,Bournemouth,66.54
+2026-02-22,Bournemouth,66.18
+2026-02-23,Bournemouth,65.85
+2026-02-24,Bournemouth,65.45
+2026-02-25,Bournemouth,65.02
+2026-02-26,Bournemouth,64.63
+2026-02-27,Bournemouth,64.41
 2020-02-01,Bradford,100
 2020-02-02,Bradford,100.41
 2020-02-03,Bradford,100.67
@@ -24329,8 +24399,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Bradford,84.46
 2026-02-17,Bradford,84.67
 2026-02-18,Bradford,84.96
-2026-02-19,Bradford,85.69
-2026-02-20,Bradford,85.99
+2026-02-19,Bradford,85.65
+2026-02-20,Bradford,85.9
+2026-02-21,Bradford,85.84
+2026-02-22,Bradford,85.82
+2026-02-23,Bradford,85.69
+2026-02-24,Bradford,85.52
+2026-02-25,Bradford,85.63
+2026-02-26,Bradford,85.3
+2026-02-27,Bradford,85.2
 2020-02-01,Brighton,100
 2020-02-02,Brighton,99.81
 2020-02-03,Brighton,99.56
@@ -26541,8 +26618,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Brighton,56.43
 2026-02-17,Brighton,56.76
 2026-02-18,Brighton,56.9
-2026-02-19,Brighton,56.93
-2026-02-20,Brighton,56.83
+2026-02-19,Brighton,56.92
+2026-02-20,Brighton,56.8
+2026-02-21,Brighton,56.61
+2026-02-22,Brighton,56.52
+2026-02-23,Brighton,56.33
+2026-02-24,Brighton,56.28
+2026-02-25,Brighton,56.6
+2026-02-26,Brighton,56.96
+2026-02-27,Brighton,57.48
 2020-02-01,Bristol,100
 2020-02-02,Bristol,99.94
 2020-02-03,Bristol,99.96
@@ -28755,6 +28839,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Bristol,75.77
 2026-02-19,Bristol,75.82
 2026-02-20,Bristol,75.82
+2026-02-21,Bristol,75.76
+2026-02-22,Bristol,75.67
+2026-02-23,Bristol,75.53
+2026-02-24,Bristol,75.49
+2026-02-25,Bristol,75.45
+2026-02-26,Bristol,75.43
+2026-02-27,Bristol,75.48
 2020-02-01,Burnley,100
 2020-02-02,Burnley,100.13
 2020-02-03,Burnley,100.15
@@ -30965,8 +31056,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Burnley,88.06
 2026-02-17,Burnley,87.26
 2026-02-18,Burnley,87.25
-2026-02-19,Burnley,87.86
-2026-02-20,Burnley,88.98
+2026-02-19,Burnley,87.84
+2026-02-20,Burnley,88.93
+2026-02-21,Burnley,89.68
+2026-02-22,Burnley,90.45
+2026-02-23,Burnley,91.22
+2026-02-24,Burnley,92.16
+2026-02-25,Burnley,93
+2026-02-26,Burnley,93.56
+2026-02-27,Burnley,93.69
 2020-02-01,Cambridge,100
 2020-02-02,Cambridge,99.76
 2020-02-03,Cambridge,99.35
@@ -33179,6 +33277,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Cambridge,62.41
 2026-02-19,Cambridge,62.66
 2026-02-20,Cambridge,62.77
+2026-02-21,Cambridge,62.85
+2026-02-22,Cambridge,62.76
+2026-02-23,Cambridge,62.68
+2026-02-24,Cambridge,62.41
+2026-02-25,Cambridge,61.95
+2026-02-26,Cambridge,61.47
+2026-02-27,Cambridge,61.04
 2020-02-01,Cardiff,100
 2020-02-02,Cardiff,99.76
 2020-02-03,Cardiff,99.72
@@ -35391,6 +35496,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Cardiff,65.65
 2026-02-19,Cardiff,65.85
 2026-02-20,Cardiff,65.88
+2026-02-21,Cardiff,66
+2026-02-22,Cardiff,66.03
+2026-02-23,Cardiff,66.05
+2026-02-24,Cardiff,66.08
+2026-02-25,Cardiff,66.19
+2026-02-26,Cardiff,66.47
+2026-02-27,Cardiff,66.94
 2020-02-01,Chatham,100
 2020-02-02,Chatham,100.42
 2020-02-03,Chatham,100.74
@@ -37601,8 +37713,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Chatham,71.93
 2026-02-17,Chatham,72.14
 2026-02-18,Chatham,72.34
-2026-02-19,Chatham,72.53
-2026-02-20,Chatham,72.37
+2026-02-19,Chatham,72.51
+2026-02-20,Chatham,72.34
+2026-02-21,Chatham,71.9
+2026-02-22,Chatham,71.37
+2026-02-23,Chatham,71.14
+2026-02-24,Chatham,70.8
+2026-02-25,Chatham,70.59
+2026-02-26,Chatham,70.5
+2026-02-27,Chatham,70.91
 2020-02-01,Coventry,100
 2020-02-02,Coventry,101.65
 2020-02-03,Coventry,103.29
@@ -39813,8 +39932,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Coventry,65.72
 2026-02-17,Coventry,65.79
 2026-02-18,Coventry,65.76
-2026-02-19,Coventry,66.09
-2026-02-20,Coventry,66.21
+2026-02-19,Coventry,66.08
+2026-02-20,Coventry,66.19
+2026-02-21,Coventry,66.28
+2026-02-22,Coventry,66.26
+2026-02-23,Coventry,65.9
+2026-02-24,Coventry,65.63
+2026-02-25,Coventry,65.72
+2026-02-26,Coventry,65.57
+2026-02-27,Coventry,65.79
 2020-02-01,Crawley,100
 2020-02-02,Crawley,100.27
 2020-02-03,Crawley,100.55
@@ -42025,8 +42151,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Crawley,72.25
 2026-02-17,Crawley,72.09
 2026-02-18,Crawley,71.93
-2026-02-19,Crawley,72
-2026-02-20,Crawley,71.96
+2026-02-19,Crawley,71.99
+2026-02-20,Crawley,71.94
+2026-02-21,Crawley,71.93
+2026-02-22,Crawley,71.77
+2026-02-23,Crawley,71.66
+2026-02-24,Crawley,71.6
+2026-02-25,Crawley,71.49
+2026-02-26,Crawley,70.91
+2026-02-27,Crawley,70.53
 2020-02-01,Derby,100
 2020-02-02,Derby,100.21
 2020-02-03,Derby,100.54
@@ -44237,8 +44370,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Derby,85.68
 2026-02-17,Derby,85.5
 2026-02-18,Derby,85.28
-2026-02-19,Derby,85.48
-2026-02-20,Derby,85.51
+2026-02-19,Derby,85.47
+2026-02-20,Derby,85.49
+2026-02-21,Derby,85.49
+2026-02-22,Derby,85.4
+2026-02-23,Derby,85.24
+2026-02-24,Derby,84.93
+2026-02-25,Derby,84.92
+2026-02-26,Derby,84.42
+2026-02-27,Derby,84.33
 2020-02-01,Doncaster,100
 2020-02-02,Doncaster,99.96
 2020-02-03,Doncaster,99.9
@@ -46449,8 +46589,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Doncaster,85.75
 2026-02-17,Doncaster,86.39
 2026-02-18,Doncaster,86.9
-2026-02-19,Doncaster,87.07
-2026-02-20,Doncaster,87.04
+2026-02-19,Doncaster,87.06
+2026-02-20,Doncaster,87.02
+2026-02-21,Doncaster,86.71
+2026-02-22,Doncaster,86.16
+2026-02-23,Doncaster,85.49
+2026-02-24,Doncaster,84.9
+2026-02-25,Doncaster,84.54
+2026-02-26,Doncaster,84.51
+2026-02-27,Doncaster,84.71
 2020-02-01,Dundee,100
 2020-02-02,Dundee,100.51
 2020-02-03,Dundee,100.7
@@ -48661,8 +48808,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Dundee,90.98
 2026-02-17,Dundee,90.74
 2026-02-18,Dundee,90.38
-2026-02-19,Dundee,90.82
-2026-02-20,Dundee,90.66
+2026-02-19,Dundee,90.8
+2026-02-20,Dundee,90.62
+2026-02-21,Dundee,90.43
+2026-02-22,Dundee,90.2
+2026-02-23,Dundee,90.22
+2026-02-24,Dundee,90.52
+2026-02-25,Dundee,91.18
+2026-02-26,Dundee,91.39
+2026-02-27,Dundee,91.45
 2020-02-01,Edinburgh,100
 2020-02-02,Edinburgh,99.75
 2020-02-03,Edinburgh,99.62
@@ -50875,6 +51029,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Edinburgh,80.91
 2026-02-19,Edinburgh,81.54
 2026-02-20,Edinburgh,81.69
+2026-02-21,Edinburgh,81.77
+2026-02-22,Edinburgh,81.62
+2026-02-23,Edinburgh,81.53
+2026-02-24,Edinburgh,81.23
+2026-02-25,Edinburgh,80.78
+2026-02-26,Edinburgh,80.28
+2026-02-27,Edinburgh,80.05
 2020-02-01,Exeter,100
 2020-02-02,Exeter,100.22
 2020-02-03,Exeter,100.31
@@ -52887,25 +53048,25 @@ date,cities,indeed_job_postings_index
 2025-08-02,Exeter,81.17
 2025-08-03,Exeter,81.17
 2025-08-04,Exeter,81.08
-2025-08-05,Exeter,81.08
-2025-08-06,Exeter,80.72
-2025-08-07,Exeter,80.36
-2025-08-08,Exeter,80.41
-2025-08-09,Exeter,80.35
-2025-08-10,Exeter,80.33
-2025-08-11,Exeter,80.21
-2025-08-12,Exeter,80.1
-2025-08-13,Exeter,80.3
-2025-08-14,Exeter,80.43
-2025-08-15,Exeter,80.45
-2025-08-16,Exeter,80.51
-2025-08-17,Exeter,80.49
-2025-08-18,Exeter,80.69
-2025-08-19,Exeter,80.77
-2025-08-20,Exeter,80.78
-2025-08-21,Exeter,81
-2025-08-22,Exeter,81.19
-2025-08-23,Exeter,81.42
+2025-08-05,Exeter,81.07
+2025-08-06,Exeter,80.71
+2025-08-07,Exeter,80.33
+2025-08-08,Exeter,80.38
+2025-08-09,Exeter,80.31
+2025-08-10,Exeter,80.29
+2025-08-11,Exeter,80.16
+2025-08-12,Exeter,80.05
+2025-08-13,Exeter,80.25
+2025-08-14,Exeter,80.38
+2025-08-15,Exeter,80.39
+2025-08-16,Exeter,80.45
+2025-08-17,Exeter,80.44
+2025-08-18,Exeter,80.63
+2025-08-19,Exeter,80.73
+2025-08-20,Exeter,80.74
+2025-08-21,Exeter,80.97
+2025-08-22,Exeter,81.17
+2025-08-23,Exeter,81.41
 2025-08-24,Exeter,81.63
 2025-08-25,Exeter,81.84
 2025-08-26,Exeter,81.76
@@ -53087,6 +53248,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Exeter,83.02
 2026-02-19,Exeter,83.26
 2026-02-20,Exeter,83.57
+2026-02-21,Exeter,83.87
+2026-02-22,Exeter,84.1
+2026-02-23,Exeter,84.28
+2026-02-24,Exeter,84.36
+2026-02-25,Exeter,84.54
+2026-02-26,Exeter,84.82
+2026-02-27,Exeter,84.96
 2020-02-01,Glasgow,100
 2020-02-02,Glasgow,99.76
 2020-02-03,Glasgow,99.6
@@ -55297,8 +55465,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Glasgow,101.17
 2026-02-17,Glasgow,101.15
 2026-02-18,Glasgow,100.97
-2026-02-19,Glasgow,101.26
-2026-02-20,Glasgow,100.93
+2026-02-19,Glasgow,101.25
+2026-02-20,Glasgow,100.92
+2026-02-21,Glasgow,100.52
+2026-02-22,Glasgow,100.1
+2026-02-23,Glasgow,99.6
+2026-02-24,Glasgow,99.19
+2026-02-25,Glasgow,98.85
+2026-02-26,Glasgow,98.65
+2026-02-27,Glasgow,98.49
 2020-02-01,Gloucester,100
 2020-02-02,Gloucester,99.72
 2020-02-03,Gloucester,99.51
@@ -57509,8 +57684,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Gloucester,81.33
 2026-02-17,Gloucester,81.05
 2026-02-18,Gloucester,80.67
-2026-02-19,Gloucester,80.46
-2026-02-20,Gloucester,80.32
+2026-02-19,Gloucester,80.45
+2026-02-20,Gloucester,80.3
+2026-02-21,Gloucester,80.29
+2026-02-22,Gloucester,80.01
+2026-02-23,Gloucester,79.85
+2026-02-24,Gloucester,79.68
+2026-02-25,Gloucester,79.73
+2026-02-26,Gloucester,79.31
+2026-02-27,Gloucester,78.96
 2020-02-01,Huddersfield,100
 2020-02-02,Huddersfield,100.68
 2020-02-03,Huddersfield,100.64
@@ -59721,8 +59903,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Huddersfield,69.86
 2026-02-17,Huddersfield,70.37
 2026-02-18,Huddersfield,70.26
-2026-02-19,Huddersfield,70.12
-2026-02-20,Huddersfield,69.74
+2026-02-19,Huddersfield,70.1
+2026-02-20,Huddersfield,69.7
+2026-02-21,Huddersfield,69.26
+2026-02-22,Huddersfield,68.67
+2026-02-23,Huddersfield,67.94
+2026-02-24,Huddersfield,66.87
+2026-02-25,Huddersfield,65.96
+2026-02-26,Huddersfield,65.33
+2026-02-27,Huddersfield,64.82
 2020-02-01,Hull,100
 2020-02-02,Hull,100.44
 2020-02-03,Hull,100.65
@@ -61933,8 +62122,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Hull,93.65
 2026-02-17,Hull,93.96
 2026-02-18,Hull,93.88
-2026-02-19,Hull,93.92
-2026-02-20,Hull,93.47
+2026-02-19,Hull,93.91
+2026-02-20,Hull,93.44
+2026-02-21,Hull,92.98
+2026-02-22,Hull,92.39
+2026-02-23,Hull,91.82
+2026-02-24,Hull,90.97
+2026-02-25,Hull,90.63
+2026-02-26,Hull,90.39
+2026-02-27,Hull,90.3
 2020-02-01,Ipswich,100
 2020-02-02,Ipswich,99.76
 2020-02-03,Ipswich,99.47
@@ -64147,6 +64343,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Ipswich,76.87
 2026-02-19,Ipswich,76.52
 2026-02-20,Ipswich,76.07
+2026-02-21,Ipswich,75.56
+2026-02-22,Ipswich,74.98
+2026-02-23,Ipswich,74.34
+2026-02-24,Ipswich,73.85
+2026-02-25,Ipswich,73.83
+2026-02-26,Ipswich,73.79
+2026-02-27,Ipswich,73.87
 2020-02-01,Leeds,100
 2020-02-02,Leeds,100.32
 2020-02-03,Leeds,100.51
@@ -66357,8 +66560,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Leeds,74.66
 2026-02-17,Leeds,74.5
 2026-02-18,Leeds,74.46
-2026-02-19,Leeds,74.29
-2026-02-20,Leeds,73.98
+2026-02-19,Leeds,74.28
+2026-02-20,Leeds,73.96
+2026-02-21,Leeds,73.62
+2026-02-22,Leeds,73.32
+2026-02-23,Leeds,73.07
+2026-02-24,Leeds,72.85
+2026-02-25,Leeds,72.63
+2026-02-26,Leeds,72.58
+2026-02-27,Leeds,72.81
 2020-02-01,Leicester,100
 2020-02-02,Leicester,99.2
 2020-02-03,Leicester,98.51
@@ -68569,8 +68779,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Leicester,68.03
 2026-02-17,Leicester,68.43
 2026-02-18,Leicester,68.93
-2026-02-19,Leicester,69.69
-2026-02-20,Leicester,69.99
+2026-02-19,Leicester,69.68
+2026-02-20,Leicester,69.98
+2026-02-21,Leicester,69.88
+2026-02-22,Leicester,69.46
+2026-02-23,Leicester,68.8
+2026-02-24,Leicester,68.31
+2026-02-25,Leicester,68.09
+2026-02-26,Leicester,67.71
+2026-02-27,Leicester,67.62
 2020-02-01,Liverpool,100
 2020-02-02,Liverpool,100.19
 2020-02-03,Liverpool,100.66
@@ -70782,7 +70999,14 @@ date,cities,indeed_job_postings_index
 2026-02-17,Liverpool,91.87
 2026-02-18,Liverpool,92.27
 2026-02-19,Liverpool,92.64
-2026-02-20,Liverpool,92.72
+2026-02-20,Liverpool,92.71
+2026-02-21,Liverpool,92.46
+2026-02-22,Liverpool,92.11
+2026-02-23,Liverpool,91.83
+2026-02-24,Liverpool,91.56
+2026-02-25,Liverpool,91.23
+2026-02-26,Liverpool,90.99
+2026-02-27,Liverpool,90.8
 2020-02-01,London (Primary Urban Area),100
 2020-02-02,London (Primary Urban Area),99.88
 2020-02-03,London (Primary Urban Area),99.6
@@ -72626,12 +72850,12 @@ date,cities,indeed_job_postings_index
 2025-02-14,London (Primary Urban Area),72.43
 2025-02-15,London (Primary Urban Area),72.15
 2025-02-16,London (Primary Urban Area),72.13
-2025-02-17,London (Primary Urban Area),72.19
+2025-02-17,London (Primary Urban Area),72.18
 2025-02-18,London (Primary Urban Area),72.19
 2025-02-19,London (Primary Urban Area),72.11
 2025-02-20,London (Primary Urban Area),72
 2025-02-21,London (Primary Urban Area),71.97
-2025-02-22,London (Primary Urban Area),72.22
+2025-02-22,London (Primary Urban Area),72.21
 2025-02-23,London (Primary Urban Area),72.16
 2025-02-24,London (Primary Urban Area),72.11
 2025-02-25,London (Primary Urban Area),72.01
@@ -72639,7 +72863,7 @@ date,cities,indeed_job_postings_index
 2025-02-27,London (Primary Urban Area),72.07
 2025-02-28,London (Primary Urban Area),72.09
 2025-03-01,London (Primary Urban Area),72.05
-2025-03-02,London (Primary Urban Area),72.19
+2025-03-02,London (Primary Urban Area),72.18
 2025-03-03,London (Primary Urban Area),72.23
 2025-03-04,London (Primary Urban Area),72.29
 2025-03-05,London (Primary Urban Area),72.23
@@ -72656,13 +72880,13 @@ date,cities,indeed_job_postings_index
 2025-03-16,London (Primary Urban Area),73.22
 2025-03-17,London (Primary Urban Area),73.3
 2025-03-18,London (Primary Urban Area),73.41
-2025-03-19,London (Primary Urban Area),73.6
+2025-03-19,London (Primary Urban Area),73.59
 2025-03-20,London (Primary Urban Area),73.83
 2025-03-21,London (Primary Urban Area),74.01
 2025-03-22,London (Primary Urban Area),74.13
 2025-03-23,London (Primary Urban Area),74.22
 2025-03-24,London (Primary Urban Area),74.29
-2025-03-25,London (Primary Urban Area),74.35
+2025-03-25,London (Primary Urban Area),74.34
 2025-03-26,London (Primary Urban Area),74.3
 2025-03-27,London (Primary Urban Area),74.29
 2025-03-28,London (Primary Urban Area),74.34
@@ -72670,7 +72894,7 @@ date,cities,indeed_job_postings_index
 2025-03-30,London (Primary Urban Area),74.13
 2025-03-31,London (Primary Urban Area),74.04
 2025-04-01,London (Primary Urban Area),73.83
-2025-04-02,London (Primary Urban Area),73.71
+2025-04-02,London (Primary Urban Area),73.7
 2025-04-03,London (Primary Urban Area),73.58
 2025-04-04,London (Primary Urban Area),73.49
 2025-04-05,London (Primary Urban Area),73.66
@@ -72678,7 +72902,7 @@ date,cities,indeed_job_postings_index
 2025-04-07,London (Primary Urban Area),73.89
 2025-04-08,London (Primary Urban Area),73.97
 2025-04-09,London (Primary Urban Area),73.95
-2025-04-10,London (Primary Urban Area),73.85
+2025-04-10,London (Primary Urban Area),73.84
 2025-04-11,London (Primary Urban Area),73.63
 2025-04-12,London (Primary Urban Area),73.31
 2025-04-13,London (Primary Urban Area),73.07
@@ -72700,7 +72924,7 @@ date,cities,indeed_job_postings_index
 2025-04-29,London (Primary Urban Area),68.51
 2025-04-30,London (Primary Urban Area),68.34
 2025-05-01,London (Primary Urban Area),68.26
-2025-05-02,London (Primary Urban Area),68.31
+2025-05-02,London (Primary Urban Area),68.3
 2025-05-03,London (Primary Urban Area),68.39
 2025-05-04,London (Primary Urban Area),68.57
 2025-05-05,London (Primary Urban Area),68.78
@@ -72710,11 +72934,11 @@ date,cities,indeed_job_postings_index
 2025-05-09,London (Primary Urban Area),69.02
 2025-05-10,London (Primary Urban Area),69.06
 2025-05-11,London (Primary Urban Area),68.94
-2025-05-12,London (Primary Urban Area),68.75
+2025-05-12,London (Primary Urban Area),68.74
 2025-05-13,London (Primary Urban Area),68.66
 2025-05-14,London (Primary Urban Area),68.53
-2025-05-15,London (Primary Urban Area),68.34
-2025-05-16,London (Primary Urban Area),68.22
+2025-05-15,London (Primary Urban Area),68.33
+2025-05-16,London (Primary Urban Area),68.21
 2025-05-17,London (Primary Urban Area),67.93
 2025-05-18,London (Primary Urban Area),68.04
 2025-05-19,London (Primary Urban Area),68.26
@@ -72724,7 +72948,7 @@ date,cities,indeed_job_postings_index
 2025-05-23,London (Primary Urban Area),69.38
 2025-05-24,London (Primary Urban Area),69.69
 2025-05-25,London (Primary Urban Area),69.68
-2025-05-26,London (Primary Urban Area),69.59
+2025-05-26,London (Primary Urban Area),69.58
 2025-05-27,London (Primary Urban Area),69.26
 2025-05-28,London (Primary Urban Area),69.03
 2025-05-29,London (Primary Urban Area),68.84
@@ -72744,7 +72968,7 @@ date,cities,indeed_job_postings_index
 2025-06-12,London (Primary Urban Area),69.46
 2025-06-13,London (Primary Urban Area),69.38
 2025-06-14,London (Primary Urban Area),69.17
-2025-06-15,London (Primary Urban Area),69.16
+2025-06-15,London (Primary Urban Area),69.15
 2025-06-16,London (Primary Urban Area),69.03
 2025-06-17,London (Primary Urban Area),68.9
 2025-06-18,London (Primary Urban Area),68.78
@@ -72755,11 +72979,11 @@ date,cities,indeed_job_postings_index
 2025-06-23,London (Primary Urban Area),68.43
 2025-06-24,London (Primary Urban Area),68.41
 2025-06-25,London (Primary Urban Area),68.39
-2025-06-26,London (Primary Urban Area),68.4
-2025-06-27,London (Primary Urban Area),68.44
+2025-06-26,London (Primary Urban Area),68.39
+2025-06-27,London (Primary Urban Area),68.43
 2025-06-28,London (Primary Urban Area),68.4
 2025-06-29,London (Primary Urban Area),68.32
-2025-06-30,London (Primary Urban Area),68.34
+2025-06-30,London (Primary Urban Area),68.33
 2025-07-01,London (Primary Urban Area),68.28
 2025-07-02,London (Primary Urban Area),68.03
 2025-07-03,London (Primary Urban Area),67.97
@@ -72770,7 +72994,7 @@ date,cities,indeed_job_postings_index
 2025-07-08,London (Primary Urban Area),68.12
 2025-07-09,London (Primary Urban Area),68.37
 2025-07-10,London (Primary Urban Area),68.43
-2025-07-11,London (Primary Urban Area),68.46
+2025-07-11,London (Primary Urban Area),68.45
 2025-07-12,London (Primary Urban Area),68.51
 2025-07-13,London (Primary Urban Area),68.58
 2025-07-14,London (Primary Urban Area),68.57
@@ -72781,19 +73005,19 @@ date,cities,indeed_job_postings_index
 2025-07-19,London (Primary Urban Area),68.71
 2025-07-20,London (Primary Urban Area),68.79
 2025-07-21,London (Primary Urban Area),68.86
-2025-07-22,London (Primary Urban Area),68.94
+2025-07-22,London (Primary Urban Area),68.93
 2025-07-23,London (Primary Urban Area),68.91
 2025-07-24,London (Primary Urban Area),68.84
 2025-07-25,London (Primary Urban Area),68.79
 2025-07-26,London (Primary Urban Area),68.89
 2025-07-27,London (Primary Urban Area),68.77
 2025-07-28,London (Primary Urban Area),68.73
-2025-07-29,London (Primary Urban Area),68.6
+2025-07-29,London (Primary Urban Area),68.59
 2025-07-30,London (Primary Urban Area),68.51
 2025-07-31,London (Primary Urban Area),68.4
 2025-08-01,London (Primary Urban Area),68.29
 2025-08-02,London (Primary Urban Area),68.17
-2025-08-03,London (Primary Urban Area),67.99
+2025-08-03,London (Primary Urban Area),67.98
 2025-08-04,London (Primary Urban Area),67.8
 2025-08-05,London (Primary Urban Area),67.61
 2025-08-06,London (Primary Urban Area),67.49
@@ -72801,9 +73025,9 @@ date,cities,indeed_job_postings_index
 2025-08-08,London (Primary Urban Area),67.28
 2025-08-09,London (Primary Urban Area),67.15
 2025-08-10,London (Primary Urban Area),67.15
-2025-08-11,London (Primary Urban Area),67.15
+2025-08-11,London (Primary Urban Area),67.14
 2025-08-12,London (Primary Urban Area),67.19
-2025-08-13,London (Primary Urban Area),67.17
+2025-08-13,London (Primary Urban Area),67.16
 2025-08-14,London (Primary Urban Area),67.24
 2025-08-15,London (Primary Urban Area),67.18
 2025-08-16,London (Primary Urban Area),67.21
@@ -72814,29 +73038,29 @@ date,cities,indeed_job_postings_index
 2025-08-21,London (Primary Urban Area),66.68
 2025-08-22,London (Primary Urban Area),66.58
 2025-08-23,London (Primary Urban Area),66.41
-2025-08-24,London (Primary Urban Area),66.32
-2025-08-25,London (Primary Urban Area),66.28
-2025-08-26,London (Primary Urban Area),66.08
-2025-08-27,London (Primary Urban Area),65.97
-2025-08-28,London (Primary Urban Area),65.9
-2025-08-29,London (Primary Urban Area),65.76
-2025-08-30,London (Primary Urban Area),65.72
-2025-08-31,London (Primary Urban Area),65.61
-2025-09-01,London (Primary Urban Area),65.48
-2025-09-02,London (Primary Urban Area),65.61
-2025-09-03,London (Primary Urban Area),65.69
-2025-09-04,London (Primary Urban Area),65.79
-2025-09-05,London (Primary Urban Area),65.91
-2025-09-06,London (Primary Urban Area),65.98
-2025-09-07,London (Primary Urban Area),66.05
-2025-09-08,London (Primary Urban Area),66.06
-2025-09-09,London (Primary Urban Area),65.98
-2025-09-10,London (Primary Urban Area),65.88
-2025-09-11,London (Primary Urban Area),65.73
-2025-09-12,London (Primary Urban Area),65.64
-2025-09-13,London (Primary Urban Area),65.54
-2025-09-14,London (Primary Urban Area),65.46
-2025-09-15,London (Primary Urban Area),65.39
+2025-08-24,London (Primary Urban Area),66.3
+2025-08-25,London (Primary Urban Area),66.26
+2025-08-26,London (Primary Urban Area),66.06
+2025-08-27,London (Primary Urban Area),65.94
+2025-08-28,London (Primary Urban Area),65.86
+2025-08-29,London (Primary Urban Area),65.72
+2025-08-30,London (Primary Urban Area),65.67
+2025-08-31,London (Primary Urban Area),65.56
+2025-09-01,London (Primary Urban Area),65.42
+2025-09-02,London (Primary Urban Area),65.55
+2025-09-03,London (Primary Urban Area),65.64
+2025-09-04,London (Primary Urban Area),65.73
+2025-09-05,London (Primary Urban Area),65.85
+2025-09-06,London (Primary Urban Area),65.93
+2025-09-07,London (Primary Urban Area),65.99
+2025-09-08,London (Primary Urban Area),66
+2025-09-09,London (Primary Urban Area),65.92
+2025-09-10,London (Primary Urban Area),65.82
+2025-09-11,London (Primary Urban Area),65.69
+2025-09-12,London (Primary Urban Area),65.6
+2025-09-13,London (Primary Urban Area),65.51
+2025-09-14,London (Primary Urban Area),65.44
+2025-09-15,London (Primary Urban Area),65.37
 2025-09-16,London (Primary Urban Area),65.39
 2025-09-17,London (Primary Urban Area),65.41
 2025-09-18,London (Primary Urban Area),65.49
@@ -72993,8 +73217,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,London (Primary Urban Area),66.17
 2026-02-17,London (Primary Urban Area),66.23
 2026-02-18,London (Primary Urban Area),66.29
-2026-02-19,London (Primary Urban Area),66.43
-2026-02-20,London (Primary Urban Area),66.44
+2026-02-19,London (Primary Urban Area),66.39
+2026-02-20,London (Primary Urban Area),66.36
+2026-02-21,London (Primary Urban Area),66.32
+2026-02-22,London (Primary Urban Area),66.21
+2026-02-23,London (Primary Urban Area),66.17
+2026-02-24,London (Primary Urban Area),66.08
+2026-02-25,London (Primary Urban Area),66.05
+2026-02-26,London (Primary Urban Area),66.02
+2026-02-27,London (Primary Urban Area),66.1
 2020-02-01,Luton,100
 2020-02-02,Luton,99.9
 2020-02-03,Luton,99.62
@@ -75205,8 +75436,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Luton,66.77
 2026-02-17,Luton,67
 2026-02-18,Luton,67.02
-2026-02-19,Luton,67.26
-2026-02-20,Luton,67.63
+2026-02-19,Luton,67.25
+2026-02-20,Luton,67.61
+2026-02-21,Luton,67.76
+2026-02-22,Luton,67.67
+2026-02-23,Luton,67.5
+2026-02-24,Luton,67.59
+2026-02-25,Luton,67.94
+2026-02-26,Luton,68.19
+2026-02-27,Luton,68.47
 2020-02-01,Manchester,100
 2020-02-02,Manchester,100.02
 2020-02-03,Manchester,100.01
@@ -77417,8 +77655,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Manchester,73.51
 2026-02-17,Manchester,73.63
 2026-02-18,Manchester,73.59
-2026-02-19,Manchester,73.53
-2026-02-20,Manchester,73.25
+2026-02-19,Manchester,73.52
+2026-02-20,Manchester,73.24
+2026-02-21,Manchester,72.89
+2026-02-22,Manchester,72.5
+2026-02-23,Manchester,72.15
+2026-02-24,Manchester,71.69
+2026-02-25,Manchester,71.37
+2026-02-26,Manchester,71.13
+2026-02-27,Manchester,71.24
 2020-02-01,Mansfield,100
 2020-02-02,Mansfield,99.92
 2020-02-03,Mansfield,99.77
@@ -79629,8 +79874,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Mansfield,101.44
 2026-02-17,Mansfield,102.13
 2026-02-18,Mansfield,102.64
-2026-02-19,Mansfield,103.21
-2026-02-20,Mansfield,103.19
+2026-02-19,Mansfield,103.19
+2026-02-20,Mansfield,103.15
+2026-02-21,Mansfield,103.25
+2026-02-22,Mansfield,102.88
+2026-02-23,Mansfield,102.13
+2026-02-24,Mansfield,100.8
+2026-02-25,Mansfield,99.51
+2026-02-26,Mansfield,98.25
+2026-02-27,Mansfield,97.89
 2020-02-01,Middlesbrough,100
 2020-02-02,Middlesbrough,99.29
 2020-02-03,Middlesbrough,98.43
@@ -81604,65 +81856,65 @@ date,cities,indeed_job_postings_index
 2025-06-24,Middlesbrough,118.46
 2025-06-25,Middlesbrough,118.64
 2025-06-26,Middlesbrough,118.4
-2025-06-27,Middlesbrough,118.28
-2025-06-28,Middlesbrough,118.47
-2025-06-29,Middlesbrough,118.65
-2025-06-30,Middlesbrough,118.7
-2025-07-01,Middlesbrough,119.06
-2025-07-02,Middlesbrough,119.05
-2025-07-03,Middlesbrough,118.99
-2025-07-04,Middlesbrough,119.04
-2025-07-05,Middlesbrough,118.81
-2025-07-06,Middlesbrough,118.44
-2025-07-07,Middlesbrough,118
-2025-07-08,Middlesbrough,117.66
-2025-07-09,Middlesbrough,117.41
-2025-07-10,Middlesbrough,117.33
-2025-07-11,Middlesbrough,117.13
-2025-07-12,Middlesbrough,117.45
-2025-07-13,Middlesbrough,117.86
-2025-07-14,Middlesbrough,118.28
-2025-07-15,Middlesbrough,118.61
-2025-07-16,Middlesbrough,119.2
-2025-07-17,Middlesbrough,120
-2025-07-18,Middlesbrough,120.74
-2025-07-19,Middlesbrough,120.99
-2025-07-20,Middlesbrough,121.27
-2025-07-21,Middlesbrough,121.56
-2025-07-22,Middlesbrough,121.61
-2025-07-23,Middlesbrough,121.32
-2025-07-24,Middlesbrough,121.14
-2025-07-25,Middlesbrough,120.8
-2025-07-26,Middlesbrough,120.55
-2025-07-27,Middlesbrough,120.33
-2025-07-28,Middlesbrough,120.1
-2025-07-29,Middlesbrough,119.79
-2025-07-30,Middlesbrough,119.73
-2025-07-31,Middlesbrough,119.43
-2025-08-01,Middlesbrough,119.39
-2025-08-02,Middlesbrough,119.34
-2025-08-03,Middlesbrough,119.38
-2025-08-04,Middlesbrough,119.64
-2025-08-05,Middlesbrough,120.11
-2025-08-06,Middlesbrough,120.56
-2025-08-07,Middlesbrough,121.15
-2025-08-08,Middlesbrough,121.55
-2025-08-09,Middlesbrough,122.1
-2025-08-10,Middlesbrough,122.68
-2025-08-11,Middlesbrough,123.27
-2025-08-12,Middlesbrough,123.64
-2025-08-13,Middlesbrough,123.8
-2025-08-14,Middlesbrough,123.61
-2025-08-15,Middlesbrough,123.33
-2025-08-16,Middlesbrough,122.84
-2025-08-17,Middlesbrough,121.97
-2025-08-18,Middlesbrough,120.94
-2025-08-19,Middlesbrough,119.82
-2025-08-20,Middlesbrough,119.01
-2025-08-21,Middlesbrough,118.28
-2025-08-22,Middlesbrough,117.33
-2025-08-23,Middlesbrough,116.17
-2025-08-24,Middlesbrough,115.32
+2025-06-27,Middlesbrough,118.27
+2025-06-28,Middlesbrough,118.45
+2025-06-29,Middlesbrough,118.62
+2025-06-30,Middlesbrough,118.65
+2025-07-01,Middlesbrough,119.01
+2025-07-02,Middlesbrough,118.99
+2025-07-03,Middlesbrough,118.92
+2025-07-04,Middlesbrough,118.97
+2025-07-05,Middlesbrough,118.73
+2025-07-06,Middlesbrough,118.36
+2025-07-07,Middlesbrough,117.92
+2025-07-08,Middlesbrough,117.59
+2025-07-09,Middlesbrough,117.33
+2025-07-10,Middlesbrough,117.26
+2025-07-11,Middlesbrough,117.06
+2025-07-12,Middlesbrough,117.38
+2025-07-13,Middlesbrough,117.79
+2025-07-14,Middlesbrough,118.21
+2025-07-15,Middlesbrough,118.54
+2025-07-16,Middlesbrough,119.12
+2025-07-17,Middlesbrough,119.93
+2025-07-18,Middlesbrough,120.67
+2025-07-19,Middlesbrough,120.91
+2025-07-20,Middlesbrough,121.19
+2025-07-21,Middlesbrough,121.49
+2025-07-22,Middlesbrough,121.53
+2025-07-23,Middlesbrough,121.25
+2025-07-24,Middlesbrough,121.07
+2025-07-25,Middlesbrough,120.73
+2025-07-26,Middlesbrough,120.47
+2025-07-27,Middlesbrough,120.26
+2025-07-28,Middlesbrough,120.03
+2025-07-29,Middlesbrough,119.71
+2025-07-30,Middlesbrough,119.66
+2025-07-31,Middlesbrough,119.36
+2025-08-01,Middlesbrough,119.32
+2025-08-02,Middlesbrough,119.27
+2025-08-03,Middlesbrough,119.3
+2025-08-04,Middlesbrough,119.57
+2025-08-05,Middlesbrough,120.04
+2025-08-06,Middlesbrough,120.49
+2025-08-07,Middlesbrough,121.07
+2025-08-08,Middlesbrough,121.48
+2025-08-09,Middlesbrough,122.03
+2025-08-10,Middlesbrough,122.6
+2025-08-11,Middlesbrough,123.19
+2025-08-12,Middlesbrough,123.57
+2025-08-13,Middlesbrough,123.73
+2025-08-14,Middlesbrough,123.54
+2025-08-15,Middlesbrough,123.26
+2025-08-16,Middlesbrough,122.77
+2025-08-17,Middlesbrough,121.9
+2025-08-18,Middlesbrough,120.86
+2025-08-19,Middlesbrough,119.76
+2025-08-20,Middlesbrough,118.96
+2025-08-21,Middlesbrough,118.24
+2025-08-22,Middlesbrough,117.3
+2025-08-23,Middlesbrough,116.15
+2025-08-24,Middlesbrough,115.31
 2025-08-25,Middlesbrough,114.66
 2025-08-26,Middlesbrough,113.65
 2025-08-27,Middlesbrough,112.73
@@ -81841,8 +82093,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Middlesbrough,116.73
 2026-02-17,Middlesbrough,117.07
 2026-02-18,Middlesbrough,116.93
-2026-02-19,Middlesbrough,117.22
-2026-02-20,Middlesbrough,116.91
+2026-02-19,Middlesbrough,117.2
+2026-02-20,Middlesbrough,116.89
+2026-02-21,Middlesbrough,116.92
+2026-02-22,Middlesbrough,116.57
+2026-02-23,Middlesbrough,115.71
+2026-02-24,Middlesbrough,114.67
+2026-02-25,Middlesbrough,114.25
+2026-02-26,Middlesbrough,114.01
+2026-02-27,Middlesbrough,114.09
 2020-02-01,Milton Keynes,100
 2020-02-02,Milton Keynes,100.15
 2020-02-03,Milton Keynes,100.53
@@ -84053,8 +84312,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Milton Keynes,62.88
 2026-02-17,Milton Keynes,62.8
 2026-02-18,Milton Keynes,62.71
-2026-02-19,Milton Keynes,62.58
-2026-02-20,Milton Keynes,62.33
+2026-02-19,Milton Keynes,62.57
+2026-02-20,Milton Keynes,62.32
+2026-02-21,Milton Keynes,61.94
+2026-02-22,Milton Keynes,61.45
+2026-02-23,Milton Keynes,61.07
+2026-02-24,Milton Keynes,60.84
+2026-02-25,Milton Keynes,60.62
+2026-02-26,Milton Keynes,60.58
+2026-02-27,Milton Keynes,60.68
 2020-02-01,Newcastle,100
 2020-02-02,Newcastle,99.93
 2020-02-03,Newcastle,99.71
@@ -86265,8 +86531,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Newcastle,99.52
 2026-02-17,Newcastle,99.43
 2026-02-18,Newcastle,99.34
-2026-02-19,Newcastle,99.14
-2026-02-20,Newcastle,98.86
+2026-02-19,Newcastle,99.13
+2026-02-20,Newcastle,98.84
+2026-02-21,Newcastle,98.41
+2026-02-22,Newcastle,97.89
+2026-02-23,Newcastle,97.44
+2026-02-24,Newcastle,96.98
+2026-02-25,Newcastle,96.57
+2026-02-26,Newcastle,96.3
+2026-02-27,Newcastle,96.37
 2020-02-01,Newport,100
 2020-02-02,Newport,99.69
 2020-02-03,Newport,99.12
@@ -88477,8 +88750,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Newport,75.49
 2026-02-17,Newport,75.48
 2026-02-18,Newport,75.04
-2026-02-19,Newport,74.73
-2026-02-20,Newport,74.09
+2026-02-19,Newport,74.71
+2026-02-20,Newport,74.07
+2026-02-21,Newport,73.44
+2026-02-22,Newport,72.86
+2026-02-23,Newport,72.46
+2026-02-24,Newport,71.86
+2026-02-25,Newport,71.45
+2026-02-26,Newport,70.84
+2026-02-27,Newport,70.65
 2020-02-01,Northampton,100
 2020-02-02,Northampton,99.85
 2020-02-03,Northampton,99.74
@@ -90689,8 +90969,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Northampton,63.35
 2026-02-17,Northampton,63.74
 2026-02-18,Northampton,64.01
-2026-02-19,Northampton,64.03
-2026-02-20,Northampton,64
+2026-02-19,Northampton,64.02
+2026-02-20,Northampton,63.99
+2026-02-21,Northampton,63.51
+2026-02-22,Northampton,62.68
+2026-02-23,Northampton,62.01
+2026-02-24,Northampton,61.58
+2026-02-25,Northampton,61.26
+2026-02-26,Northampton,61.18
+2026-02-27,Northampton,61.18
 2020-02-01,Norwich,100
 2020-02-02,Norwich,100.47
 2020-02-03,Norwich,100.7
@@ -92903,6 +93190,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Norwich,75.12
 2026-02-19,Norwich,75.2
 2026-02-20,Norwich,74.87
+2026-02-21,Norwich,74.62
+2026-02-22,Norwich,74.32
+2026-02-23,Norwich,74.15
+2026-02-24,Norwich,74
+2026-02-25,Norwich,73.75
+2026-02-26,Norwich,73.37
+2026-02-27,Norwich,73.33
 2020-02-01,Nottingham,100
 2020-02-02,Nottingham,100.21
 2020-02-03,Nottingham,100.42
@@ -95114,7 +95408,14 @@ date,cities,indeed_job_postings_index
 2026-02-17,Nottingham,69.37
 2026-02-18,Nottingham,69.5
 2026-02-19,Nottingham,69.79
-2026-02-20,Nottingham,69.88
+2026-02-20,Nottingham,69.86
+2026-02-21,Nottingham,69.96
+2026-02-22,Nottingham,70.12
+2026-02-23,Nottingham,70.2
+2026-02-24,Nottingham,70.12
+2026-02-25,Nottingham,70.22
+2026-02-26,Nottingham,70.03
+2026-02-27,Nottingham,69.9
 2020-02-01,Oxford,100
 2020-02-02,Oxford,100
 2020-02-03,Oxford,100.04
@@ -97088,65 +97389,65 @@ date,cities,indeed_job_postings_index
 2025-06-24,Oxford,66.72
 2025-06-25,Oxford,66.91
 2025-06-26,Oxford,67.14
-2025-06-27,Oxford,67.28
-2025-06-28,Oxford,67.29
-2025-06-29,Oxford,67.11
-2025-06-30,Oxford,67.18
-2025-07-01,Oxford,67.39
-2025-07-02,Oxford,67.33
-2025-07-03,Oxford,67.42
-2025-07-04,Oxford,67.53
-2025-07-05,Oxford,67.71
-2025-07-06,Oxford,68.02
-2025-07-07,Oxford,67.99
-2025-07-08,Oxford,67.57
-2025-07-09,Oxford,67.35
-2025-07-10,Oxford,67.16
-2025-07-11,Oxford,66.89
-2025-07-12,Oxford,66.79
-2025-07-13,Oxford,66.67
-2025-07-14,Oxford,66.73
-2025-07-15,Oxford,66.98
-2025-07-16,Oxford,67.17
-2025-07-17,Oxford,67.26
-2025-07-18,Oxford,67.52
-2025-07-19,Oxford,67.76
-2025-07-20,Oxford,68.18
-2025-07-21,Oxford,68.45
-2025-07-22,Oxford,68.75
-2025-07-23,Oxford,69.13
-2025-07-24,Oxford,69.34
-2025-07-25,Oxford,69.5
-2025-07-26,Oxford,69.59
-2025-07-27,Oxford,69.57
-2025-07-28,Oxford,69.53
-2025-07-29,Oxford,69.46
-2025-07-30,Oxford,69.4
-2025-07-31,Oxford,69.22
-2025-08-01,Oxford,69.22
-2025-08-02,Oxford,69.36
-2025-08-03,Oxford,69.53
-2025-08-04,Oxford,69.67
-2025-08-05,Oxford,69.91
-2025-08-06,Oxford,70.08
-2025-08-07,Oxford,70.16
-2025-08-08,Oxford,70.36
-2025-08-09,Oxford,70.18
-2025-08-10,Oxford,69.91
-2025-08-11,Oxford,69.65
-2025-08-12,Oxford,69.38
-2025-08-13,Oxford,69.3
-2025-08-14,Oxford,69.44
-2025-08-15,Oxford,69.26
-2025-08-16,Oxford,69.21
-2025-08-17,Oxford,69.09
-2025-08-18,Oxford,69.04
-2025-08-19,Oxford,68.99
-2025-08-20,Oxford,68.58
-2025-08-21,Oxford,68.27
-2025-08-22,Oxford,67.94
-2025-08-23,Oxford,67.66
-2025-08-24,Oxford,67.51
+2025-06-27,Oxford,67.27
+2025-06-28,Oxford,67.28
+2025-06-29,Oxford,67.09
+2025-06-30,Oxford,67.17
+2025-07-01,Oxford,67.37
+2025-07-02,Oxford,67.3
+2025-07-03,Oxford,67.39
+2025-07-04,Oxford,67.5
+2025-07-05,Oxford,67.68
+2025-07-06,Oxford,67.99
+2025-07-07,Oxford,67.96
+2025-07-08,Oxford,67.54
+2025-07-09,Oxford,67.32
+2025-07-10,Oxford,67.13
+2025-07-11,Oxford,66.86
+2025-07-12,Oxford,66.76
+2025-07-13,Oxford,66.64
+2025-07-14,Oxford,66.7
+2025-07-15,Oxford,66.95
+2025-07-16,Oxford,67.14
+2025-07-17,Oxford,67.23
+2025-07-18,Oxford,67.49
+2025-07-19,Oxford,67.73
+2025-07-20,Oxford,68.15
+2025-07-21,Oxford,68.42
+2025-07-22,Oxford,68.72
+2025-07-23,Oxford,69.1
+2025-07-24,Oxford,69.31
+2025-07-25,Oxford,69.47
+2025-07-26,Oxford,69.56
+2025-07-27,Oxford,69.53
+2025-07-28,Oxford,69.5
+2025-07-29,Oxford,69.43
+2025-07-30,Oxford,69.37
+2025-07-31,Oxford,69.19
+2025-08-01,Oxford,69.19
+2025-08-02,Oxford,69.32
+2025-08-03,Oxford,69.5
+2025-08-04,Oxford,69.64
+2025-08-05,Oxford,69.88
+2025-08-06,Oxford,70.05
+2025-08-07,Oxford,70.13
+2025-08-08,Oxford,70.33
+2025-08-09,Oxford,70.15
+2025-08-10,Oxford,69.88
+2025-08-11,Oxford,69.62
+2025-08-12,Oxford,69.35
+2025-08-13,Oxford,69.27
+2025-08-14,Oxford,69.41
+2025-08-15,Oxford,69.23
+2025-08-16,Oxford,69.18
+2025-08-17,Oxford,69.06
+2025-08-18,Oxford,69.01
+2025-08-19,Oxford,68.97
+2025-08-20,Oxford,68.56
+2025-08-21,Oxford,68.25
+2025-08-22,Oxford,67.92
+2025-08-23,Oxford,67.65
+2025-08-24,Oxford,67.5
 2025-08-25,Oxford,67.41
 2025-08-26,Oxford,67.16
 2025-08-27,Oxford,67.06
@@ -97327,6 +97628,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Oxford,68.85
 2026-02-19,Oxford,68.95
 2026-02-20,Oxford,68.96
+2026-02-21,Oxford,68.95
+2026-02-22,Oxford,68.79
+2026-02-23,Oxford,68.7
+2026-02-24,Oxford,68.73
+2026-02-25,Oxford,69.05
+2026-02-26,Oxford,69.32
+2026-02-27,Oxford,69.67
 2020-02-01,Peterborough,100
 2020-02-02,Peterborough,99.4
 2020-02-03,Peterborough,98.79
@@ -99537,8 +99845,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Peterborough,85.3
 2026-02-17,Peterborough,85.43
 2026-02-18,Peterborough,85.56
-2026-02-19,Peterborough,85.81
-2026-02-20,Peterborough,85.85
+2026-02-19,Peterborough,85.8
+2026-02-20,Peterborough,85.83
+2026-02-21,Peterborough,85.75
+2026-02-22,Peterborough,85.44
+2026-02-23,Peterborough,85.28
+2026-02-24,Peterborough,84.89
+2026-02-25,Peterborough,84.53
+2026-02-26,Peterborough,84.01
+2026-02-27,Peterborough,83.97
 2020-02-01,Plymouth,100
 2020-02-02,Plymouth,99.91
 2020-02-03,Plymouth,100.06
@@ -101551,27 +101866,27 @@ date,cities,indeed_job_postings_index
 2025-08-02,Plymouth,82.35
 2025-08-03,Plymouth,81.25
 2025-08-04,Plymouth,80.59
-2025-08-05,Plymouth,80.2
-2025-08-06,Plymouth,79.99
-2025-08-07,Plymouth,79.68
-2025-08-08,Plymouth,79.48
-2025-08-09,Plymouth,79.48
-2025-08-10,Plymouth,79.64
-2025-08-11,Plymouth,79.47
-2025-08-12,Plymouth,79.38
-2025-08-13,Plymouth,79.54
-2025-08-14,Plymouth,80.01
-2025-08-15,Plymouth,80.36
-2025-08-16,Plymouth,80.81
-2025-08-17,Plymouth,81.17
-2025-08-18,Plymouth,81.61
-2025-08-19,Plymouth,82.05
-2025-08-20,Plymouth,82.05
-2025-08-21,Plymouth,81.89
-2025-08-22,Plymouth,81.51
-2025-08-23,Plymouth,81.23
-2025-08-24,Plymouth,80.84
-2025-08-25,Plymouth,80.55
+2025-08-05,Plymouth,80.19
+2025-08-06,Plymouth,79.97
+2025-08-07,Plymouth,79.65
+2025-08-08,Plymouth,79.44
+2025-08-09,Plymouth,79.43
+2025-08-10,Plymouth,79.59
+2025-08-11,Plymouth,79.4
+2025-08-12,Plymouth,79.32
+2025-08-13,Plymouth,79.48
+2025-08-14,Plymouth,79.94
+2025-08-15,Plymouth,80.29
+2025-08-16,Plymouth,80.74
+2025-08-17,Plymouth,81.1
+2025-08-18,Plymouth,81.54
+2025-08-19,Plymouth,81.98
+2025-08-20,Plymouth,82
+2025-08-21,Plymouth,81.84
+2025-08-22,Plymouth,81.47
+2025-08-23,Plymouth,81.2
+2025-08-24,Plymouth,80.82
+2025-08-25,Plymouth,80.54
 2025-08-26,Plymouth,79.77
 2025-08-27,Plymouth,79.46
 2025-08-28,Plymouth,79.58
@@ -101751,6 +102066,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Plymouth,81.98
 2026-02-19,Plymouth,82.53
 2026-02-20,Plymouth,82.74
+2026-02-21,Plymouth,82.85
+2026-02-22,Plymouth,82.75
+2026-02-23,Plymouth,82.48
+2026-02-24,Plymouth,82.52
+2026-02-25,Plymouth,82.64
+2026-02-26,Plymouth,82.48
+2026-02-27,Plymouth,82.55
 2020-02-01,Portsmouth,100
 2020-02-02,Portsmouth,99.76
 2020-02-03,Portsmouth,99.6
@@ -103962,7 +104284,14 @@ date,cities,indeed_job_postings_index
 2026-02-17,Portsmouth,76.86
 2026-02-18,Portsmouth,76.96
 2026-02-19,Portsmouth,77.28
-2026-02-20,Portsmouth,77.42
+2026-02-20,Portsmouth,77.41
+2026-02-21,Portsmouth,77.28
+2026-02-22,Portsmouth,77.19
+2026-02-23,Portsmouth,77
+2026-02-24,Portsmouth,77.05
+2026-02-25,Portsmouth,77.17
+2026-02-26,Portsmouth,77.09
+2026-02-27,Portsmouth,77.15
 2020-02-01,Preston,100
 2020-02-02,Preston,99.65
 2020-02-03,Preston,99.11
@@ -106174,7 +106503,14 @@ date,cities,indeed_job_postings_index
 2026-02-17,Preston,75.93
 2026-02-18,Preston,76.03
 2026-02-19,Preston,76.14
-2026-02-20,Preston,76.16
+2026-02-20,Preston,76.15
+2026-02-21,Preston,75.97
+2026-02-22,Preston,75.77
+2026-02-23,Preston,75.4
+2026-02-24,Preston,74.8
+2026-02-25,Preston,74.33
+2026-02-26,Preston,74
+2026-02-27,Preston,73.95
 2020-02-01,Reading,100
 2020-02-02,Reading,99.94
 2020-02-03,Reading,99.9
@@ -108386,7 +108722,14 @@ date,cities,indeed_job_postings_index
 2026-02-17,Reading,59.73
 2026-02-18,Reading,60.03
 2026-02-19,Reading,60.41
-2026-02-20,Reading,60.6
+2026-02-20,Reading,60.59
+2026-02-21,Reading,60.65
+2026-02-22,Reading,60.64
+2026-02-23,Reading,60.66
+2026-02-24,Reading,60.58
+2026-02-25,Reading,60.51
+2026-02-26,Reading,60.21
+2026-02-27,Reading,60.05
 2020-02-01,Sheffield,100
 2020-02-02,Sheffield,99.88
 2020-02-03,Sheffield,99.68
@@ -110597,8 +110940,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Sheffield,77.54
 2026-02-17,Sheffield,77.83
 2026-02-18,Sheffield,78.16
-2026-02-19,Sheffield,78.23
-2026-02-20,Sheffield,78.05
+2026-02-19,Sheffield,78.22
+2026-02-20,Sheffield,78.04
+2026-02-21,Sheffield,77.66
+2026-02-22,Sheffield,77.41
+2026-02-23,Sheffield,77.11
+2026-02-24,Sheffield,76.52
+2026-02-25,Sheffield,75.96
+2026-02-26,Sheffield,75.68
+2026-02-27,Sheffield,75.62
 2020-02-01,Slough,100
 2020-02-02,Slough,100.11
 2020-02-03,Slough,100.23
@@ -112811,6 +113161,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Slough,54.5
 2026-02-19,Slough,54.72
 2026-02-20,Slough,54.99
+2026-02-21,Slough,55.37
+2026-02-22,Slough,55.73
+2026-02-23,Slough,56.18
+2026-02-24,Slough,56.5
+2026-02-25,Slough,56.84
+2026-02-26,Slough,57.12
+2026-02-27,Slough,57.11
 2020-02-01,Southampton,100
 2020-02-02,Southampton,100.07
 2020-02-03,Southampton,100.11
@@ -114650,198 +115007,198 @@ date,cities,indeed_job_postings_index
 2025-02-10,Southampton,77.78
 2025-02-11,Southampton,77.85
 2025-02-12,Southampton,77.42
-2025-02-13,Southampton,77.07
-2025-02-14,Southampton,76.65
-2025-02-15,Southampton,76.18
-2025-02-16,Southampton,75.94
-2025-02-17,Southampton,76.01
-2025-02-18,Southampton,76.36
-2025-02-19,Southampton,76.59
-2025-02-20,Southampton,76.78
-2025-02-21,Southampton,77.2
-2025-02-22,Southampton,77.62
-2025-02-23,Southampton,77.78
-2025-02-24,Southampton,77.89
-2025-02-25,Southampton,77.65
-2025-02-26,Southampton,77.57
-2025-02-27,Southampton,77.56
-2025-02-28,Southampton,77.28
-2025-03-01,Southampton,77.01
-2025-03-02,Southampton,76.79
-2025-03-03,Southampton,76.51
-2025-03-04,Southampton,76.27
-2025-03-05,Southampton,75.89
-2025-03-06,Southampton,75.65
-2025-03-07,Southampton,75.64
-2025-03-08,Southampton,75.68
-2025-03-09,Southampton,75.67
-2025-03-10,Southampton,75.46
-2025-03-11,Southampton,75.42
-2025-03-12,Southampton,75.57
-2025-03-13,Southampton,75.42
-2025-03-14,Southampton,75.23
-2025-03-15,Southampton,74.92
-2025-03-16,Southampton,74.74
-2025-03-17,Southampton,74.56
-2025-03-18,Southampton,74.27
-2025-03-19,Southampton,74.05
-2025-03-20,Southampton,73.89
-2025-03-21,Southampton,73.63
-2025-03-22,Southampton,73.39
-2025-03-23,Southampton,73.15
-2025-03-24,Southampton,73.06
-2025-03-25,Southampton,72.97
-2025-03-26,Southampton,72.85
-2025-03-27,Southampton,72.76
-2025-03-28,Southampton,72.69
-2025-03-29,Southampton,72.51
-2025-03-30,Southampton,72.21
-2025-03-31,Southampton,71.9
-2025-04-01,Southampton,71.43
-2025-04-02,Southampton,71.21
-2025-04-03,Southampton,71.07
-2025-04-04,Southampton,70.95
-2025-04-05,Southampton,70.99
-2025-04-06,Southampton,71.11
-2025-04-07,Southampton,71.38
-2025-04-08,Southampton,71.82
-2025-04-09,Southampton,71.92
-2025-04-10,Southampton,71.83
-2025-04-11,Southampton,71.86
-2025-04-12,Southampton,71.7
-2025-04-13,Southampton,71.5
-2025-04-14,Southampton,71.14
-2025-04-15,Southampton,70.81
-2025-04-16,Southampton,70.55
-2025-04-17,Southampton,70.27
-2025-04-18,Southampton,69.91
-2025-04-19,Southampton,69.5
-2025-04-20,Southampton,69.24
-2025-04-21,Southampton,69
-2025-04-22,Southampton,68.63
-2025-04-23,Southampton,68.11
-2025-04-24,Southampton,67.41
-2025-04-25,Southampton,66.69
-2025-04-26,Southampton,66.27
-2025-04-27,Southampton,65.65
-2025-04-28,Southampton,64.99
-2025-04-29,Southampton,64.61
-2025-04-30,Southampton,64.2
-2025-05-01,Southampton,63.95
-2025-05-02,Southampton,64.01
-2025-05-03,Southampton,64.36
-2025-05-04,Southampton,64.74
-2025-05-05,Southampton,65.34
-2025-05-06,Southampton,65.54
-2025-05-07,Southampton,65.85
-2025-05-08,Southampton,66.32
-2025-05-09,Southampton,66.49
-2025-05-10,Southampton,66.44
-2025-05-11,Southampton,66.28
-2025-05-12,Southampton,65.96
-2025-05-13,Southampton,65.96
-2025-05-14,Southampton,65.98
-2025-05-15,Southampton,65.9
-2025-05-16,Southampton,65.8
-2025-05-17,Southampton,65.33
-2025-05-18,Southampton,65.26
-2025-05-19,Southampton,65.3
-2025-05-20,Southampton,65.34
-2025-05-21,Southampton,65.46
-2025-05-22,Southampton,65.48
-2025-05-23,Southampton,65.68
-2025-05-24,Southampton,66.21
-2025-05-25,Southampton,66.5
-2025-05-26,Southampton,66.64
-2025-05-27,Southampton,66.39
-2025-05-28,Southampton,66.32
-2025-05-29,Southampton,66.54
-2025-05-30,Southampton,66.75
-2025-05-31,Southampton,66.77
-2025-06-01,Southampton,66.81
-2025-06-02,Southampton,66.84
-2025-06-03,Southampton,67.45
-2025-06-04,Southampton,67.93
-2025-06-05,Southampton,68.35
-2025-06-06,Southampton,68.67
-2025-06-07,Southampton,68.92
-2025-06-08,Southampton,69.11
-2025-06-09,Southampton,69.27
-2025-06-10,Southampton,69.14
-2025-06-11,Southampton,68.91
-2025-06-12,Southampton,68.67
-2025-06-13,Southampton,68.53
-2025-06-14,Southampton,68.45
-2025-06-15,Southampton,68.47
-2025-06-16,Southampton,68.42
-2025-06-17,Southampton,68.45
-2025-06-18,Southampton,68.33
-2025-06-19,Southampton,68.18
-2025-06-20,Southampton,67.79
-2025-06-21,Southampton,67.6
-2025-06-22,Southampton,67.32
-2025-06-23,Southampton,67.15
-2025-06-24,Southampton,66.83
-2025-06-25,Southampton,66.83
-2025-06-26,Southampton,66.81
-2025-06-27,Southampton,67.11
-2025-06-28,Southampton,67.29
-2025-06-29,Southampton,67.37
-2025-06-30,Southampton,67.51
-2025-07-01,Southampton,67.85
-2025-07-02,Southampton,67.99
-2025-07-03,Southampton,68.09
-2025-07-04,Southampton,67.96
-2025-07-05,Southampton,67.99
-2025-07-06,Southampton,68.09
-2025-07-07,Southampton,68.16
-2025-07-08,Southampton,68.09
-2025-07-09,Southampton,68.06
-2025-07-10,Southampton,68.05
-2025-07-11,Southampton,68.12
-2025-07-12,Southampton,68.05
-2025-07-13,Southampton,68.09
-2025-07-14,Southampton,67.94
-2025-07-15,Southampton,67.98
-2025-07-16,Southampton,68.15
-2025-07-17,Southampton,68.23
-2025-07-18,Southampton,68.41
-2025-07-19,Southampton,68.61
-2025-07-20,Southampton,68.84
-2025-07-21,Southampton,69.18
-2025-07-22,Southampton,69.35
-2025-07-23,Southampton,69.53
-2025-07-24,Southampton,69.73
-2025-07-25,Southampton,69.79
-2025-07-26,Southampton,69.88
-2025-07-27,Southampton,69.9
-2025-07-28,Southampton,69.97
-2025-07-29,Southampton,70.12
-2025-07-30,Southampton,70.22
-2025-07-31,Southampton,70.31
-2025-08-01,Southampton,70.35
-2025-08-02,Southampton,70.36
-2025-08-03,Southampton,70.35
-2025-08-04,Southampton,70.28
-2025-08-05,Southampton,70.12
-2025-08-06,Southampton,70.05
-2025-08-07,Southampton,69.84
-2025-08-08,Southampton,69.73
-2025-08-09,Southampton,69.56
-2025-08-10,Southampton,69.46
-2025-08-11,Southampton,69.36
-2025-08-12,Southampton,69.33
-2025-08-13,Southampton,69.17
-2025-08-14,Southampton,69.18
-2025-08-15,Southampton,69.15
-2025-08-16,Southampton,69.12
-2025-08-17,Southampton,68.92
-2025-08-18,Southampton,68.74
-2025-08-19,Southampton,68.54
-2025-08-20,Southampton,68.34
-2025-08-21,Southampton,68.11
-2025-08-22,Southampton,67.89
-2025-08-23,Southampton,67.76
+2025-02-13,Southampton,77.06
+2025-02-14,Southampton,76.64
+2025-02-15,Southampton,76.17
+2025-02-16,Southampton,75.92
+2025-02-17,Southampton,76
+2025-02-18,Southampton,76.34
+2025-02-19,Southampton,76.57
+2025-02-20,Southampton,76.76
+2025-02-21,Southampton,77.17
+2025-02-22,Southampton,77.59
+2025-02-23,Southampton,77.75
+2025-02-24,Southampton,77.87
+2025-02-25,Southampton,77.62
+2025-02-26,Southampton,77.55
+2025-02-27,Southampton,77.53
+2025-02-28,Southampton,77.25
+2025-03-01,Southampton,76.98
+2025-03-02,Southampton,76.76
+2025-03-03,Southampton,76.49
+2025-03-04,Southampton,76.24
+2025-03-05,Southampton,75.86
+2025-03-06,Southampton,75.63
+2025-03-07,Southampton,75.61
+2025-03-08,Southampton,75.66
+2025-03-09,Southampton,75.64
+2025-03-10,Southampton,75.43
+2025-03-11,Southampton,75.39
+2025-03-12,Southampton,75.55
+2025-03-13,Southampton,75.39
+2025-03-14,Southampton,75.2
+2025-03-15,Southampton,74.9
+2025-03-16,Southampton,74.72
+2025-03-17,Southampton,74.54
+2025-03-18,Southampton,74.24
+2025-03-19,Southampton,74.02
+2025-03-20,Southampton,73.87
+2025-03-21,Southampton,73.6
+2025-03-22,Southampton,73.37
+2025-03-23,Southampton,73.12
+2025-03-24,Southampton,73.03
+2025-03-25,Southampton,72.94
+2025-03-26,Southampton,72.83
+2025-03-27,Southampton,72.74
+2025-03-28,Southampton,72.67
+2025-03-29,Southampton,72.48
+2025-03-30,Southampton,72.19
+2025-03-31,Southampton,71.88
+2025-04-01,Southampton,71.4
+2025-04-02,Southampton,71.19
+2025-04-03,Southampton,71.05
+2025-04-04,Southampton,70.93
+2025-04-05,Southampton,70.96
+2025-04-06,Southampton,71.09
+2025-04-07,Southampton,71.36
+2025-04-08,Southampton,71.79
+2025-04-09,Southampton,71.89
+2025-04-10,Southampton,71.8
+2025-04-11,Southampton,71.83
+2025-04-12,Southampton,71.68
+2025-04-13,Southampton,71.48
+2025-04-14,Southampton,71.12
+2025-04-15,Southampton,70.78
+2025-04-16,Southampton,70.53
+2025-04-17,Southampton,70.24
+2025-04-18,Southampton,69.88
+2025-04-19,Southampton,69.47
+2025-04-20,Southampton,69.21
+2025-04-21,Southampton,68.98
+2025-04-22,Southampton,68.6
+2025-04-23,Southampton,68.09
+2025-04-24,Southampton,67.39
+2025-04-25,Southampton,66.67
+2025-04-26,Southampton,66.24
+2025-04-27,Southampton,65.63
+2025-04-28,Southampton,64.96
+2025-04-29,Southampton,64.59
+2025-04-30,Southampton,64.17
+2025-05-01,Southampton,63.93
+2025-05-02,Southampton,63.99
+2025-05-03,Southampton,64.33
+2025-05-04,Southampton,64.71
+2025-05-05,Southampton,65.32
+2025-05-06,Southampton,65.52
+2025-05-07,Southampton,65.82
+2025-05-08,Southampton,66.29
+2025-05-09,Southampton,66.47
+2025-05-10,Southampton,66.42
+2025-05-11,Southampton,66.26
+2025-05-12,Southampton,65.93
+2025-05-13,Southampton,65.94
+2025-05-14,Southampton,65.96
+2025-05-15,Southampton,65.87
+2025-05-16,Southampton,65.77
+2025-05-17,Southampton,65.3
+2025-05-18,Southampton,65.23
+2025-05-19,Southampton,65.27
+2025-05-20,Southampton,65.32
+2025-05-21,Southampton,65.43
+2025-05-22,Southampton,65.46
+2025-05-23,Southampton,65.66
+2025-05-24,Southampton,66.19
+2025-05-25,Southampton,66.48
+2025-05-26,Southampton,66.61
+2025-05-27,Southampton,66.36
+2025-05-28,Southampton,66.3
+2025-05-29,Southampton,66.52
+2025-05-30,Southampton,66.72
+2025-05-31,Southampton,66.75
+2025-06-01,Southampton,66.78
+2025-06-02,Southampton,66.82
+2025-06-03,Southampton,67.42
+2025-06-04,Southampton,67.9
+2025-06-05,Southampton,68.32
+2025-06-06,Southampton,68.64
+2025-06-07,Southampton,68.9
+2025-06-08,Southampton,69.09
+2025-06-09,Southampton,69.24
+2025-06-10,Southampton,69.12
+2025-06-11,Southampton,68.88
+2025-06-12,Southampton,68.64
+2025-06-13,Southampton,68.51
+2025-06-14,Southampton,68.43
+2025-06-15,Southampton,68.45
+2025-06-16,Southampton,68.4
+2025-06-17,Southampton,68.43
+2025-06-18,Southampton,68.3
+2025-06-19,Southampton,68.15
+2025-06-20,Southampton,67.76
+2025-06-21,Southampton,67.58
+2025-06-22,Southampton,67.3
+2025-06-23,Southampton,67.12
+2025-06-24,Southampton,66.8
+2025-06-25,Southampton,66.81
+2025-06-26,Southampton,66.79
+2025-06-27,Southampton,67.09
+2025-06-28,Southampton,67.26
+2025-06-29,Southampton,67.34
+2025-06-30,Southampton,67.49
+2025-07-01,Southampton,67.83
+2025-07-02,Southampton,67.96
+2025-07-03,Southampton,68.06
+2025-07-04,Southampton,67.93
+2025-07-05,Southampton,67.96
+2025-07-06,Southampton,68.07
+2025-07-07,Southampton,68.14
+2025-07-08,Southampton,68.07
+2025-07-09,Southampton,68.04
+2025-07-10,Southampton,68.02
+2025-07-11,Southampton,68.09
+2025-07-12,Southampton,68.02
+2025-07-13,Southampton,68.06
+2025-07-14,Southampton,67.91
+2025-07-15,Southampton,67.95
+2025-07-16,Southampton,68.12
+2025-07-17,Southampton,68.2
+2025-07-18,Southampton,68.38
+2025-07-19,Southampton,68.58
+2025-07-20,Southampton,68.81
+2025-07-21,Southampton,69.16
+2025-07-22,Southampton,69.32
+2025-07-23,Southampton,69.51
+2025-07-24,Southampton,69.7
+2025-07-25,Southampton,69.77
+2025-07-26,Southampton,69.85
+2025-07-27,Southampton,69.87
+2025-07-28,Southampton,69.94
+2025-07-29,Southampton,70.09
+2025-07-30,Southampton,70.19
+2025-07-31,Southampton,70.28
+2025-08-01,Southampton,70.32
+2025-08-02,Southampton,70.33
+2025-08-03,Southampton,70.33
+2025-08-04,Southampton,70.25
+2025-08-05,Southampton,70.09
+2025-08-06,Southampton,70.03
+2025-08-07,Southampton,69.81
+2025-08-08,Southampton,69.71
+2025-08-09,Southampton,69.53
+2025-08-10,Southampton,69.43
+2025-08-11,Southampton,69.34
+2025-08-12,Southampton,69.3
+2025-08-13,Southampton,69.14
+2025-08-14,Southampton,69.15
+2025-08-15,Southampton,69.13
+2025-08-16,Southampton,69.1
+2025-08-17,Southampton,68.9
+2025-08-18,Southampton,68.72
+2025-08-19,Southampton,68.52
+2025-08-20,Southampton,68.32
+2025-08-21,Southampton,68.1
+2025-08-22,Southampton,67.88
+2025-08-23,Southampton,67.75
 2025-08-24,Southampton,67.68
 2025-08-25,Southampton,67.71
 2025-08-26,Southampton,67.42
@@ -115023,6 +115380,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Southampton,62.28
 2026-02-19,Southampton,62.74
 2026-02-20,Southampton,63.1
+2026-02-21,Southampton,63.25
+2026-02-22,Southampton,63.39
+2026-02-23,Southampton,63.42
+2026-02-24,Southampton,63.31
+2026-02-25,Southampton,63.17
+2026-02-26,Southampton,63.19
+2026-02-27,Southampton,63.05
 2020-02-01,Southend,100
 2020-02-02,Southend,99.6
 2020-02-03,Southend,99.12
@@ -117233,8 +117597,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Southend,58.96
 2026-02-17,Southend,59.32
 2026-02-18,Southend,59.38
-2026-02-19,Southend,59.38
-2026-02-20,Southend,59.25
+2026-02-19,Southend,59.36
+2026-02-20,Southend,59.2
+2026-02-21,Southend,58.85
+2026-02-22,Southend,58.34
+2026-02-23,Southend,57.65
+2026-02-24,Southend,57.42
+2026-02-25,Southend,57.38
+2026-02-26,Southend,57.31
+2026-02-27,Southend,57.38
 2020-02-01,Stoke,100
 2020-02-02,Stoke,99.92
 2020-02-03,Stoke,99.77
@@ -119445,8 +119816,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Stoke,71.79
 2026-02-17,Stoke,71.59
 2026-02-18,Stoke,71.06
-2026-02-19,Stoke,70.94
-2026-02-20,Stoke,70.49
+2026-02-19,Stoke,70.93
+2026-02-20,Stoke,70.47
+2026-02-21,Stoke,70.14
+2026-02-22,Stoke,69.68
+2026-02-23,Stoke,69.29
+2026-02-24,Stoke,68.71
+2026-02-25,Stoke,68.29
+2026-02-26,Stoke,67.64
+2026-02-27,Stoke,67.44
 2020-02-01,Sunderland,100
 2020-02-02,Sunderland,99.82
 2020-02-03,Sunderland,99.52
@@ -121657,8 +122035,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Sunderland,107.55
 2026-02-17,Sunderland,107.43
 2026-02-18,Sunderland,107.07
-2026-02-19,Sunderland,106.71
-2026-02-20,Sunderland,106.22
+2026-02-19,Sunderland,106.69
+2026-02-20,Sunderland,106.18
+2026-02-21,Sunderland,105.66
+2026-02-22,Sunderland,104.87
+2026-02-23,Sunderland,103.85
+2026-02-24,Sunderland,102.93
+2026-02-25,Sunderland,102.24
+2026-02-26,Sunderland,102.58
+2026-02-27,Sunderland,103.26
 2020-02-01,Swansea,100
 2020-02-02,Swansea,100.35
 2020-02-03,Swansea,100.44
@@ -123869,8 +124254,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Swansea,77.7
 2026-02-17,Swansea,78.33
 2026-02-18,Swansea,78.81
-2026-02-19,Swansea,78.91
-2026-02-20,Swansea,78.89
+2026-02-19,Swansea,78.9
+2026-02-20,Swansea,78.86
+2026-02-21,Swansea,78.6
+2026-02-22,Swansea,78
+2026-02-23,Swansea,77.29
+2026-02-24,Swansea,76.72
+2026-02-25,Swansea,76.18
+2026-02-26,Swansea,75.8
+2026-02-27,Swansea,75.54
 2020-02-01,Swindon,100
 2020-02-02,Swindon,100.09
 2020-02-03,Swindon,100.15
@@ -126081,8 +126473,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Swindon,71.61
 2026-02-17,Swindon,72.01
 2026-02-18,Swindon,72.33
-2026-02-19,Swindon,72.49
-2026-02-20,Swindon,72.15
+2026-02-19,Swindon,72.48
+2026-02-20,Swindon,72.14
+2026-02-21,Swindon,71.63
+2026-02-22,Swindon,71.01
+2026-02-23,Swindon,70.39
+2026-02-24,Swindon,69.79
+2026-02-25,Swindon,69.11
+2026-02-26,Swindon,68.52
+2026-02-27,Swindon,68.3
 2020-02-01,Telford,100
 2020-02-02,Telford,100.44
 2020-02-03,Telford,100.75
@@ -128295,6 +128694,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Telford,87.44
 2026-02-19,Telford,87.36
 2026-02-20,Telford,86.78
+2026-02-21,Telford,86.14
+2026-02-22,Telford,85.12
+2026-02-23,Telford,83.78
+2026-02-24,Telford,82.38
+2026-02-25,Telford,81.07
+2026-02-26,Telford,79.93
+2026-02-27,Telford,79.58
 2020-02-01,Wakefield,100
 2020-02-02,Wakefield,100.95
 2020-02-03,Wakefield,101.45
@@ -130505,8 +130911,15 @@ date,cities,indeed_job_postings_index
 2026-02-16,Wakefield,79.91
 2026-02-17,Wakefield,80.14
 2026-02-18,Wakefield,80.3
-2026-02-19,Wakefield,80.36
-2026-02-20,Wakefield,80.14
+2026-02-19,Wakefield,80.35
+2026-02-20,Wakefield,80.13
+2026-02-21,Wakefield,79.82
+2026-02-22,Wakefield,79.31
+2026-02-23,Wakefield,78.92
+2026-02-24,Wakefield,78.43
+2026-02-25,Wakefield,78.15
+2026-02-26,Wakefield,78.24
+2026-02-27,Wakefield,78.58
 2020-02-01,Warrington,100
 2020-02-02,Warrington,100.1
 2020-02-03,Warrington,100.22
@@ -132718,7 +133131,14 @@ date,cities,indeed_job_postings_index
 2026-02-17,Warrington,95.01
 2026-02-18,Warrington,94.77
 2026-02-19,Warrington,94.66
-2026-02-20,Warrington,94.43
+2026-02-20,Warrington,94.41
+2026-02-21,Warrington,94.25
+2026-02-22,Warrington,94.21
+2026-02-23,Warrington,94.02
+2026-02-24,Warrington,93.81
+2026-02-25,Warrington,93.84
+2026-02-26,Warrington,93.93
+2026-02-27,Warrington,94.24
 2020-02-01,Wigan,100
 2020-02-02,Wigan,100.51
 2020-02-03,Wigan,101.27
@@ -134931,6 +135351,13 @@ date,cities,indeed_job_postings_index
 2026-02-18,Wigan,77.26
 2026-02-19,Wigan,77.19
 2026-02-20,Wigan,77.52
+2026-02-21,Wigan,77.74
+2026-02-22,Wigan,78.09
+2026-02-23,Wigan,78.13
+2026-02-24,Wigan,78.03
+2026-02-25,Wigan,78.01
+2026-02-26,Wigan,77.75
+2026-02-27,Wigan,77.27
 2020-02-01,York,100
 2020-02-02,York,99.95
 2020-02-03,York,100.12
@@ -137142,4 +137569,11 @@ date,cities,indeed_job_postings_index
 2026-02-17,York,68.73
 2026-02-18,York,68.93
 2026-02-19,York,69.31
-2026-02-20,York,69.53
+2026-02-20,York,69.52
+2026-02-21,York,69.46
+2026-02-22,York,69.15
+2026-02-23,York,69.01
+2026-02-24,York,68.67
+2026-02-25,York,68.25
+2026-02-26,York,67.73
+2026-02-27,York,67.41
