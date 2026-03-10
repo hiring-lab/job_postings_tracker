@@ -1924,7 +1924,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2025-05-07,GB,77.24,77.57,total postings
 2025-05-08,GB,77.52,77.84,total postings
 2025-05-09,GB,77.7,78.08,total postings
-2025-05-10,GB,77.81,78.29,total postings
+2025-05-10,GB,77.81,78.28,total postings
 2025-05-11,GB,77.97,78.47,total postings
 2025-05-12,GB,78.03,78.48,total postings
 2025-05-13,GB,78.24,78.75,total postings
@@ -2218,6 +2218,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2026-02-25,GB,72.84,73.81,total postings
 2026-02-26,GB,72.76,73.66,total postings
 2026-02-27,GB,72.75,73.6,total postings
+2026-02-28,GB,72.61,73.45,total postings
+2026-03-01,GB,72.62,73.26,total postings
+2026-03-02,GB,72.68,73.02,total postings
+2026-03-03,GB,72.72,72.86,total postings
+2026-03-04,GB,72.84,72.76,total postings
+2026-03-05,GB,73.07,72.81,total postings
+2026-03-06,GB,73.16,72.8,total postings
 2020-02-01,GB,100,100,new postings
 2020-02-02,GB,99.98,99.85,new postings
 2020-02-03,GB,99.87,99.85,new postings
@@ -4437,3 +4444,10 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2026-02-25,GB,79.18,76.04,new postings
 2026-02-26,GB,78.34,75.35,new postings
 2026-02-27,GB,77.92,75.05,new postings
+2026-02-28,GB,78.12,75.47,new postings
+2026-03-01,GB,78.25,75.88,new postings
+2026-03-02,GB,78.59,76.29,new postings
+2026-03-03,GB,79.26,77.08,new postings
+2026-03-04,GB,80.25,78.34,new postings
+2026-03-05,GB,81.68,79.94,new postings
+2026-03-06,GB,82.99,81.6,new postings
