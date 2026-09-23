@@ -55,8 +55,12 @@ For certain markets, we also share sub-national job postings trends:
 | United States | US metropolitan areas with a population of at least 500,000 people | `metro_job_postings_us.csv` |
 | United States | US states and the District of Columbia | `state_job_postings_us.csv` |
 | Canada | Canadian provinces | `provincial_postings_ca.csv` |
-| United Kingdom | UK region | `regional_postings_gb.csv` |
+| United Kingdom | UK region | `regional_gb.csv` |
 | United Kingdom | UK city | `city_postings_gb.csv` |
+| Australia | Australian states and territories | `regional_au.csv` |
+| Germany | German states | `regional_de.csv` |
+| France | French regions | `regional_fr.csv` |
+| Ireland | Irish counties | `regional_ie.csv` |
 
 #### US metro areas
 
@@ -98,6 +102,14 @@ For certain markets, we also share sub-national job postings trends:
 | date                      | Date of observation                                             |
 | cities                    | City label                                                      |
 | indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020 |
+
+#### Australia, Germany, France & Ireland regions
+
+| variable                  | definition                                                                           |
+|---------------------------|--------------------------------------------------------------------------------------|
+| date                      | Date of observation                                                                  |
+| region                    | Sub-national (admin1) region code: AU state/territory, DE state, FR region, IE county |
+| indeed_job_postings_index | % change in seasonally-adjusted postings since February 1, 2020                      |
 
 ## Licence
 
