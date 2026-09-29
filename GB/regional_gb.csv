@@ -2421,6 +2421,13 @@ date,region,indeed_job_postings_index
 2026-09-16,East Midlands,70.61
 2026-09-17,East Midlands,70.67
 2026-09-18,East Midlands,70.66
+2026-09-19,East Midlands,70.69
+2026-09-20,East Midlands,70.77
+2026-09-21,East Midlands,70.9
+2026-09-22,East Midlands,70.93
+2026-09-23,East Midlands,70.87
+2026-09-24,East Midlands,70.86
+2026-09-25,East Midlands,70.8
 2020-02-01,East of England,100
 2020-02-02,East of England,99.79
 2020-02-03,East of England,99.54
@@ -4843,6 +4850,13 @@ date,region,indeed_job_postings_index
 2026-09-16,East of England,69.99
 2026-09-17,East of England,69.92
 2026-09-18,East of England,69.79
+2026-09-19,East of England,69.78
+2026-09-20,East of England,69.83
+2026-09-21,East of England,69.86
+2026-09-22,East of England,69.91
+2026-09-23,East of England,69.89
+2026-09-24,East of England,69.94
+2026-09-25,East of England,70.07
 2020-02-01,London,100
 2020-02-02,London,99.81
 2020-02-03,London,99.53
@@ -7265,6 +7279,13 @@ date,region,indeed_job_postings_index
 2026-09-16,London,64.8
 2026-09-17,London,64.69
 2026-09-18,London,64.59
+2026-09-19,London,64.58
+2026-09-20,London,64.59
+2026-09-21,London,64.58
+2026-09-22,London,64.55
+2026-09-23,London,64.49
+2026-09-24,London,64.51
+2026-09-25,London,64.55
 2020-02-01,North East,100
 2020-02-02,North East,99.93
 2020-02-03,North East,99.77
@@ -9687,6 +9708,13 @@ date,region,indeed_job_postings_index
 2026-09-16,North East,99.56
 2026-09-17,North East,99.17
 2026-09-18,North East,98.66
+2026-09-19,North East,98.21
+2026-09-20,North East,97.95
+2026-09-21,North East,97.91
+2026-09-22,North East,97.99
+2026-09-23,North East,97.93
+2026-09-24,North East,98.01
+2026-09-25,North East,98.21
 2020-02-01,North West,100
 2020-02-02,North West,99.93
 2020-02-03,North West,99.86
@@ -12109,6 +12137,13 @@ date,region,indeed_job_postings_index
 2026-09-16,North West,71.37
 2026-09-17,North West,71.49
 2026-09-18,North West,71.62
+2026-09-19,North West,71.77
+2026-09-20,North West,71.95
+2026-09-21,North West,72.08
+2026-09-22,North West,72.14
+2026-09-23,North West,72.11
+2026-09-24,North West,72.11
+2026-09-25,North West,72.03
 2020-02-01,Northern Ireland,100
 2020-02-02,Northern Ireland,99.84
 2020-02-03,Northern Ireland,99.8
@@ -14531,6 +14566,13 @@ date,region,indeed_job_postings_index
 2026-09-16,Northern Ireland,110.96
 2026-09-17,Northern Ireland,110.55
 2026-09-18,Northern Ireland,109.9
+2026-09-19,Northern Ireland,109.56
+2026-09-20,Northern Ireland,109.49
+2026-09-21,Northern Ireland,109.33
+2026-09-22,Northern Ireland,109.04
+2026-09-23,Northern Ireland,108.83
+2026-09-24,Northern Ireland,108.68
+2026-09-25,Northern Ireland,108.68
 2020-02-01,Scotland,100
 2020-02-02,Scotland,99.98
 2020-02-03,Scotland,100.05
@@ -16953,6 +16995,13 @@ date,region,indeed_job_postings_index
 2026-09-16,Scotland,96.52
 2026-09-17,Scotland,96.5
 2026-09-18,Scotland,96.35
+2026-09-19,Scotland,96.36
+2026-09-20,Scotland,96.39
+2026-09-21,Scotland,96.42
+2026-09-22,Scotland,96.51
+2026-09-23,Scotland,96.47
+2026-09-24,Scotland,96.71
+2026-09-25,Scotland,96.91
 2020-02-01,South East,100
 2020-02-02,South East,99.94
 2020-02-03,South East,99.88
@@ -19375,6 +19424,13 @@ date,region,indeed_job_postings_index
 2026-09-16,South East,56.95
 2026-09-17,South East,56.89
 2026-09-18,South East,56.8
+2026-09-19,South East,56.82
+2026-09-20,South East,56.85
+2026-09-21,South East,56.86
+2026-09-22,South East,56.86
+2026-09-23,South East,56.82
+2026-09-24,South East,56.86
+2026-09-25,South East,56.9
 2020-02-01,South West,100
 2020-02-02,South West,100.15
 2020-02-03,South West,100.32
@@ -21797,6 +21853,13 @@ date,region,indeed_job_postings_index
 2026-09-16,South West,69.82
 2026-09-17,South West,69.93
 2026-09-18,South West,69.98
+2026-09-19,South West,70.17
+2026-09-20,South West,70.48
+2026-09-21,South West,70.74
+2026-09-22,South West,70.89
+2026-09-23,South West,70.87
+2026-09-24,South West,71
+2026-09-25,South West,71.13
 2020-02-01,Wales,100
 2020-02-02,Wales,99.85
 2020-02-03,Wales,99.62
@@ -24219,6 +24282,13 @@ date,region,indeed_job_postings_index
 2026-09-16,Wales,75.05
 2026-09-17,Wales,74.84
 2026-09-18,Wales,74.53
+2026-09-19,Wales,74.39
+2026-09-20,Wales,74.33
+2026-09-21,Wales,74.26
+2026-09-22,Wales,74.11
+2026-09-23,Wales,73.88
+2026-09-24,Wales,73.97
+2026-09-25,Wales,74.06
 2020-02-01,West Midlands,100
 2020-02-02,West Midlands,100.11
 2020-02-03,West Midlands,100.23
@@ -26641,6 +26711,13 @@ date,region,indeed_job_postings_index
 2026-09-16,West Midlands,73.41
 2026-09-17,West Midlands,73.37
 2026-09-18,West Midlands,73.33
+2026-09-19,West Midlands,73.33
+2026-09-20,West Midlands,73.39
+2026-09-21,West Midlands,73.43
+2026-09-22,West Midlands,73.53
+2026-09-23,West Midlands,73.59
+2026-09-24,West Midlands,73.72
+2026-09-25,West Midlands,73.76
 2020-02-01,Yorkshire & the Humber,100
 2020-02-02,Yorkshire & the Humber,100.11
 2020-02-03,Yorkshire & the Humber,100.11
@@ -29063,3 +29140,10 @@ date,region,indeed_job_postings_index
 2026-09-16,Yorkshire & the Humber,71.58
 2026-09-17,Yorkshire & the Humber,71.55
 2026-09-18,Yorkshire & the Humber,71.43
+2026-09-19,Yorkshire & the Humber,71.43
+2026-09-20,Yorkshire & the Humber,71.44
+2026-09-21,Yorkshire & the Humber,71.45
+2026-09-22,Yorkshire & the Humber,71.48
+2026-09-23,Yorkshire & the Humber,71.45
+2026-09-24,Yorkshire & the Humber,71.48
+2026-09-25,Yorkshire & the Humber,71.44
