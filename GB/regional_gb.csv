@@ -2470,6 +2470,13 @@ date,region,indeed_job_postings_index
 2026-11-04,East Midlands,69.58
 2026-11-05,East Midlands,69.83
 2026-11-06,East Midlands,70.33
+2026-11-07,East Midlands,71.02
+2026-11-08,East Midlands,71.55
+2026-11-09,East Midlands,72.11
+2026-11-10,East Midlands,72.45
+2026-11-11,East Midlands,72.73
+2026-11-12,East Midlands,72.97
+2026-11-13,East Midlands,73.14
 2020-02-01,East of England,100
 2020-02-02,East of England,99.79
 2020-02-03,East of England,99.54
@@ -4941,6 +4948,13 @@ date,region,indeed_job_postings_index
 2026-11-04,East of England,70.42
 2026-11-05,East of England,70.59
 2026-11-06,East of England,70.96
+2026-11-07,East of England,71.71
+2026-11-08,East of England,72.16
+2026-11-09,East of England,72.49
+2026-11-10,East of England,72.74
+2026-11-11,East of England,72.89
+2026-11-12,East of England,72.95
+2026-11-13,East of England,72.95
 2020-02-01,London,100
 2020-02-02,London,99.81
 2020-02-03,London,99.53
@@ -7412,6 +7426,13 @@ date,region,indeed_job_postings_index
 2026-11-04,London,66.31
 2026-11-05,London,66.36
 2026-11-06,London,66.53
+2026-11-07,London,67.01
+2026-11-08,London,67.15
+2026-11-09,London,67.28
+2026-11-10,London,67.29
+2026-11-11,London,67.22
+2026-11-12,London,67.13
+2026-11-13,London,66.98
 2020-02-01,North East,100
 2020-02-02,North East,99.93
 2020-02-03,North East,99.77
@@ -9883,6 +9904,13 @@ date,region,indeed_job_postings_index
 2026-11-04,North East,101.18
 2026-11-05,North East,101.58
 2026-11-06,North East,102.1
+2026-11-07,North East,102.87
+2026-11-08,North East,103.46
+2026-11-09,North East,104.01
+2026-11-10,North East,104.01
+2026-11-11,North East,104.01
+2026-11-12,North East,104.13
+2026-11-13,North East,103.99
 2020-02-01,North West,100
 2020-02-02,North West,99.93
 2020-02-03,North West,99.86
@@ -11569,212 +11597,212 @@ date,region,indeed_job_postings_index
 2024-09-10,North West,97.94
 2024-09-11,North West,97.94
 2024-09-12,North West,97.95
-2024-09-13,North West,97.8
+2024-09-13,North West,97.79
 2024-09-14,North West,97.64
-2024-09-15,North West,97.67
-2024-09-16,North West,97.65
-2024-09-17,North West,97.73
-2024-09-18,North West,97.9
-2024-09-19,North West,98.09
-2024-09-20,North West,98.48
-2024-09-21,North West,98.83
-2024-09-22,North West,99.05
-2024-09-23,North West,99.26
-2024-09-24,North West,99.35
-2024-09-25,North West,99.35
-2024-09-26,North West,99.32
-2024-09-27,North West,99.11
-2024-09-28,North West,98.85
-2024-09-29,North West,98.7
-2024-09-30,North West,98.53
-2024-10-01,North West,98.38
-2024-10-02,North West,98.25
-2024-10-03,North West,98.07
-2024-10-04,North West,97.85
-2024-10-05,North West,97.64
-2024-10-06,North West,97.37
-2024-10-07,North West,97.16
-2024-10-08,North West,96.97
-2024-10-09,North West,96.82
-2024-10-10,North West,96.77
-2024-10-11,North West,96.67
-2024-10-12,North West,96.54
-2024-10-13,North West,96.46
-2024-10-14,North West,96.35
-2024-10-15,North West,96.29
-2024-10-16,North West,96.1
-2024-10-17,North West,95.83
-2024-10-18,North West,95.67
-2024-10-19,North West,95.51
-2024-10-20,North West,95.4
-2024-10-21,North West,95.18
-2024-10-22,North West,94.94
-2024-10-23,North West,94.8
-2024-10-24,North West,94.64
-2024-10-25,North West,94.54
-2024-10-26,North West,94.44
-2024-10-27,North West,94.33
-2024-10-28,North West,94.44
-2024-10-29,North West,94.51
-2024-10-30,North West,94.45
-2024-10-31,North West,94.58
-2024-11-01,North West,94.69
-2024-11-02,North West,94.74
-2024-11-03,North West,94.79
-2024-11-04,North West,94.75
-2024-11-05,North West,94.75
-2024-11-06,North West,94.83
-2024-11-07,North West,94.75
-2024-11-08,North West,94.64
-2024-11-09,North West,94.66
-2024-11-10,North West,94.45
-2024-11-11,North West,94.29
-2024-11-12,North West,94.15
-2024-11-13,North West,94.04
-2024-11-14,North West,93.95
-2024-11-15,North West,93.89
-2024-11-16,North West,93.85
-2024-11-17,North West,93.89
-2024-11-18,North West,93.99
-2024-11-19,North West,94.06
-2024-11-20,North West,94.03
-2024-11-21,North West,94.05
-2024-11-22,North West,94.24
-2024-11-23,North West,94.36
-2024-11-24,North West,94.49
-2024-11-25,North West,94.6
-2024-11-26,North West,94.75
-2024-11-27,North West,95.02
-2024-11-28,North West,95.27
-2024-11-29,North West,95.44
-2024-11-30,North West,95.61
-2024-12-01,North West,95.8
-2024-12-02,North West,96.02
-2024-12-03,North West,96.26
-2024-12-04,North West,96.45
-2024-12-05,North West,96.65
-2024-12-06,North West,96.84
-2024-12-07,North West,97.09
-2024-12-08,North West,97.25
-2024-12-09,North West,97.43
-2024-12-10,North West,97.42
-2024-12-11,North West,97.4
-2024-12-12,North West,97.47
-2024-12-13,North West,97.52
-2024-12-14,North West,97.46
-2024-12-15,North West,97.56
-2024-12-16,North West,97.69
-2024-12-17,North West,97.89
-2024-12-18,North West,98.08
-2024-12-19,North West,98.18
-2024-12-20,North West,98.38
-2024-12-21,North West,98.62
-2024-12-22,North West,98.76
-2024-12-23,North West,98.94
-2024-12-24,North West,99.26
-2024-12-25,North West,99.62
-2024-12-26,North West,99.83
-2024-12-27,North West,99.86
-2024-12-28,North West,99.9
+2024-09-15,North West,97.66
+2024-09-16,North West,97.64
+2024-09-17,North West,97.72
+2024-09-18,North West,97.89
+2024-09-19,North West,98.07
+2024-09-20,North West,98.47
+2024-09-21,North West,98.82
+2024-09-22,North West,99.04
+2024-09-23,North West,99.25
+2024-09-24,North West,99.34
+2024-09-25,North West,99.34
+2024-09-26,North West,99.31
+2024-09-27,North West,99.1
+2024-09-28,North West,98.83
+2024-09-29,North West,98.68
+2024-09-30,North West,98.52
+2024-10-01,North West,98.36
+2024-10-02,North West,98.24
+2024-10-03,North West,98.06
+2024-10-04,North West,97.83
+2024-10-05,North West,97.62
+2024-10-06,North West,97.35
+2024-10-07,North West,97.13
+2024-10-08,North West,96.94
+2024-10-09,North West,96.8
+2024-10-10,North West,96.74
+2024-10-11,North West,96.64
+2024-10-12,North West,96.51
+2024-10-13,North West,96.43
+2024-10-14,North West,96.32
+2024-10-15,North West,96.26
+2024-10-16,North West,96.07
+2024-10-17,North West,95.8
+2024-10-18,North West,95.64
+2024-10-19,North West,95.48
+2024-10-20,North West,95.37
+2024-10-21,North West,95.15
+2024-10-22,North West,94.91
+2024-10-23,North West,94.77
+2024-10-24,North West,94.61
+2024-10-25,North West,94.51
+2024-10-26,North West,94.42
+2024-10-27,North West,94.31
+2024-10-28,North West,94.42
+2024-10-29,North West,94.48
+2024-10-30,North West,94.43
+2024-10-31,North West,94.56
+2024-11-01,North West,94.66
+2024-11-02,North West,94.71
+2024-11-03,North West,94.77
+2024-11-04,North West,94.72
+2024-11-05,North West,94.73
+2024-11-06,North West,94.81
+2024-11-07,North West,94.72
+2024-11-08,North West,94.61
+2024-11-09,North West,94.63
+2024-11-10,North West,94.42
+2024-11-11,North West,94.26
+2024-11-12,North West,94.12
+2024-11-13,North West,94.01
+2024-11-14,North West,93.93
+2024-11-15,North West,93.86
+2024-11-16,North West,93.82
+2024-11-17,North West,93.86
+2024-11-18,North West,93.96
+2024-11-19,North West,94.03
+2024-11-20,North West,94
+2024-11-21,North West,94.02
+2024-11-22,North West,94.21
+2024-11-23,North West,94.34
+2024-11-24,North West,94.46
+2024-11-25,North West,94.57
+2024-11-26,North West,94.73
+2024-11-27,North West,95
+2024-11-28,North West,95.25
+2024-11-29,North West,95.41
+2024-11-30,North West,95.58
+2024-12-01,North West,95.78
+2024-12-02,North West,96
+2024-12-03,North West,96.24
+2024-12-04,North West,96.43
+2024-12-05,North West,96.64
+2024-12-06,North West,96.83
+2024-12-07,North West,97.08
+2024-12-08,North West,97.24
+2024-12-09,North West,97.42
+2024-12-10,North West,97.41
+2024-12-11,North West,97.39
+2024-12-12,North West,97.46
+2024-12-13,North West,97.51
+2024-12-14,North West,97.45
+2024-12-15,North West,97.55
+2024-12-16,North West,97.68
+2024-12-17,North West,97.88
+2024-12-18,North West,98.07
+2024-12-19,North West,98.16
+2024-12-20,North West,98.37
+2024-12-21,North West,98.61
+2024-12-22,North West,98.75
+2024-12-23,North West,98.93
+2024-12-24,North West,99.25
+2024-12-25,North West,99.61
+2024-12-26,North West,99.82
+2024-12-27,North West,99.85
+2024-12-28,North West,99.89
 2024-12-29,North West,100.04
 2024-12-30,North West,100.25
-2024-12-31,North West,100.37
-2025-01-01,North West,100.54
-2025-01-02,North West,100.59
-2025-01-03,North West,100.66
-2025-01-04,North West,100.84
-2025-01-05,North West,100.86
-2025-01-06,North West,100.49
-2025-01-07,North West,100.12
-2025-01-08,North West,99.75
-2025-01-09,North West,99.57
-2025-01-10,North West,99.42
-2025-01-11,North West,99.13
-2025-01-12,North West,98.81
-2025-01-13,North West,98.52
-2025-01-14,North West,98.29
-2025-01-15,North West,97.91
-2025-01-16,North West,97.67
-2025-01-17,North West,97.3
-2025-01-18,North West,96.98
-2025-01-19,North West,96.83
-2025-01-20,North West,96.77
-2025-01-21,North West,96.57
-2025-01-22,North West,96.48
-2025-01-23,North West,96.26
-2025-01-24,North West,96.08
-2025-01-25,North West,95.9
-2025-01-26,North West,95.7
-2025-01-27,North West,95.54
-2025-01-28,North West,95.46
-2025-01-29,North West,95.24
-2025-01-30,North West,95.07
-2025-01-31,North West,94.97
-2025-02-01,North West,94.97
-2025-02-02,North West,94.86
-2025-02-03,North West,94.7
-2025-02-04,North West,94.57
+2024-12-31,North West,100.36
+2025-01-01,North West,100.53
+2025-01-02,North West,100.58
+2025-01-03,North West,100.65
+2025-01-04,North West,100.83
+2025-01-05,North West,100.85
+2025-01-06,North West,100.48
+2025-01-07,North West,100.11
+2025-01-08,North West,99.74
+2025-01-09,North West,99.56
+2025-01-10,North West,99.41
+2025-01-11,North West,99.12
+2025-01-12,North West,98.8
+2025-01-13,North West,98.51
+2025-01-14,North West,98.28
+2025-01-15,North West,97.89
+2025-01-16,North West,97.66
+2025-01-17,North West,97.29
+2025-01-18,North West,96.96
+2025-01-19,North West,96.82
+2025-01-20,North West,96.75
+2025-01-21,North West,96.56
+2025-01-22,North West,96.47
+2025-01-23,North West,96.25
+2025-01-24,North West,96.07
+2025-01-25,North West,95.89
+2025-01-26,North West,95.69
+2025-01-27,North West,95.53
+2025-01-28,North West,95.45
+2025-01-29,North West,95.23
+2025-01-30,North West,95.06
+2025-01-31,North West,94.96
+2025-02-01,North West,94.96
+2025-02-02,North West,94.85
+2025-02-03,North West,94.69
+2025-02-04,North West,94.56
 2025-02-05,North West,94.67
 2025-02-06,North West,94.8
-2025-02-07,North West,94.88
+2025-02-07,North West,94.87
 2025-02-08,North West,94.8
-2025-02-09,North West,94.82
-2025-02-10,North West,94.84
-2025-02-11,North West,94.86
-2025-02-12,North West,94.82
-2025-02-13,North West,94.67
-2025-02-14,North West,94.51
-2025-02-15,North West,94.35
-2025-02-16,North West,94.22
-2025-02-17,North West,94.18
-2025-02-18,North West,94.05
-2025-02-19,North West,93.76
-2025-02-20,North West,93.45
-2025-02-21,North West,93.15
-2025-02-22,North West,92.94
-2025-02-23,North West,92.59
-2025-02-24,North West,92.2
-2025-02-25,North West,91.82
-2025-02-26,North West,91.53
-2025-02-27,North West,91.4
-2025-02-28,North West,91.2
-2025-03-01,North West,90.98
-2025-03-02,North West,90.91
-2025-03-03,North West,90.84
-2025-03-04,North West,90.79
-2025-03-05,North West,90.34
-2025-03-06,North West,90.15
-2025-03-07,North West,90.17
-2025-03-08,North West,90.08
-2025-03-09,North West,89.89
-2025-03-10,North West,89.66
-2025-03-11,North West,89.51
-2025-03-12,North West,89.84
-2025-03-13,North West,89.82
-2025-03-14,North West,89.7
-2025-03-15,North West,89.72
-2025-03-16,North West,89.75
-2025-03-17,North West,89.88
-2025-03-18,North West,89.89
-2025-03-19,North West,89.78
-2025-03-20,North West,89.74
-2025-03-21,North West,89.74
-2025-03-22,North West,89.67
-2025-03-23,North West,89.61
-2025-03-24,North West,89.55
-2025-03-25,North West,89.49
-2025-03-26,North West,89.52
-2025-03-27,North West,89.48
-2025-03-28,North West,89.41
-2025-03-29,North West,89.35
-2025-03-30,North West,89.34
-2025-03-31,North West,89.27
-2025-04-01,North West,89.01
-2025-04-02,North West,88.81
-2025-04-03,North West,88.65
-2025-04-04,North West,88.52
+2025-02-09,North West,94.81
+2025-02-10,North West,94.83
+2025-02-11,North West,94.85
+2025-02-12,North West,94.81
+2025-02-13,North West,94.66
+2025-02-14,North West,94.5
+2025-02-15,North West,94.34
+2025-02-16,North West,94.21
+2025-02-17,North West,94.17
+2025-02-18,North West,94.04
+2025-02-19,North West,93.75
+2025-02-20,North West,93.44
+2025-02-21,North West,93.14
+2025-02-22,North West,92.93
+2025-02-23,North West,92.58
+2025-02-24,North West,92.18
+2025-02-25,North West,91.8
+2025-02-26,North West,91.51
+2025-02-27,North West,91.38
+2025-02-28,North West,91.19
+2025-03-01,North West,90.96
+2025-03-02,North West,90.9
+2025-03-03,North West,90.83
+2025-03-04,North West,90.78
+2025-03-05,North West,90.33
+2025-03-06,North West,90.14
+2025-03-07,North West,90.16
+2025-03-08,North West,90.07
+2025-03-09,North West,89.88
+2025-03-10,North West,89.64
+2025-03-11,North West,89.49
+2025-03-12,North West,89.83
+2025-03-13,North West,89.81
+2025-03-14,North West,89.69
+2025-03-15,North West,89.71
+2025-03-16,North West,89.73
+2025-03-17,North West,89.86
+2025-03-18,North West,89.88
+2025-03-19,North West,89.77
+2025-03-20,North West,89.73
+2025-03-21,North West,89.73
+2025-03-22,North West,89.65
+2025-03-23,North West,89.6
+2025-03-24,North West,89.54
+2025-03-25,North West,89.48
+2025-03-26,North West,89.51
+2025-03-27,North West,89.47
+2025-03-28,North West,89.4
+2025-03-29,North West,89.34
+2025-03-30,North West,89.33
+2025-03-31,North West,89.26
+2025-04-01,North West,89
+2025-04-02,North West,88.8
+2025-04-03,North West,88.64
+2025-04-04,North West,88.51
 2025-04-05,North West,88.52
-2025-04-06,North West,88.46
+2025-04-06,North West,88.45
 2025-04-07,North West,88.45
 2025-04-08,North West,88.72
 2025-04-09,North West,88.88
@@ -12354,6 +12382,13 @@ date,region,indeed_job_postings_index
 2026-11-04,North West,73.03
 2026-11-05,North West,73.25
 2026-11-06,North West,73.65
+2026-11-07,North West,74.33
+2026-11-08,North West,74.83
+2026-11-09,North West,75.24
+2026-11-10,North West,75.45
+2026-11-11,North West,75.67
+2026-11-12,North West,75.74
+2026-11-13,North West,75.71
 2020-02-01,Northern Ireland,100
 2020-02-02,Northern Ireland,99.84
 2020-02-03,Northern Ireland,99.8
@@ -14825,6 +14860,13 @@ date,region,indeed_job_postings_index
 2026-11-04,Northern Ireland,113.17
 2026-11-05,Northern Ireland,113.93
 2026-11-06,Northern Ireland,115.35
+2026-11-07,Northern Ireland,117
+2026-11-08,Northern Ireland,118.35
+2026-11-09,Northern Ireland,119.6
+2026-11-10,Northern Ireland,120.37
+2026-11-11,Northern Ireland,120.99
+2026-11-12,Northern Ireland,121.41
+2026-11-13,Northern Ireland,121.65
 2020-02-01,Scotland,100
 2020-02-02,Scotland,99.98
 2020-02-03,Scotland,100.05
@@ -17296,6 +17338,13 @@ date,region,indeed_job_postings_index
 2026-11-04,Scotland,96.41
 2026-11-05,Scotland,96.67
 2026-11-06,Scotland,97.24
+2026-11-07,Scotland,98.09
+2026-11-08,Scotland,98.71
+2026-11-09,Scotland,99.44
+2026-11-10,Scotland,99.81
+2026-11-11,Scotland,100.14
+2026-11-12,Scotland,100.27
+2026-11-13,Scotland,100.19
 2020-02-01,South East,100
 2020-02-02,South East,99.94
 2020-02-03,South East,99.88
@@ -19767,6 +19816,13 @@ date,region,indeed_job_postings_index
 2026-11-04,South East,57.62
 2026-11-05,South East,57.73
 2026-11-06,South East,57.99
+2026-11-07,South East,58.59
+2026-11-08,South East,59
+2026-11-09,South East,59.31
+2026-11-10,South East,59.38
+2026-11-11,South East,59.44
+2026-11-12,South East,59.47
+2026-11-13,South East,59.45
 2020-02-01,South West,100
 2020-02-02,South West,100.15
 2020-02-03,South West,100.32
@@ -22238,6 +22294,13 @@ date,region,indeed_job_postings_index
 2026-11-04,South West,72.69
 2026-11-05,South West,72.71
 2026-11-06,South West,72.94
+2026-11-07,South West,73.59
+2026-11-08,South West,74
+2026-11-09,South West,74.27
+2026-11-10,South West,74.28
+2026-11-11,South West,74.35
+2026-11-12,South West,74.41
+2026-11-13,South West,74.43
 2020-02-01,Wales,100
 2020-02-02,Wales,99.85
 2020-02-03,Wales,99.62
@@ -24709,6 +24772,13 @@ date,region,indeed_job_postings_index
 2026-11-04,Wales,74.64
 2026-11-05,Wales,75
 2026-11-06,Wales,75.45
+2026-11-07,Wales,76.26
+2026-11-08,Wales,76.9
+2026-11-09,Wales,77.4
+2026-11-10,Wales,77.61
+2026-11-11,Wales,77.69
+2026-11-12,Wales,77.83
+2026-11-13,Wales,77.92
 2020-02-01,West Midlands,100
 2020-02-02,West Midlands,100.11
 2020-02-03,West Midlands,100.23
@@ -27180,6 +27250,13 @@ date,region,indeed_job_postings_index
 2026-11-04,West Midlands,72.11
 2026-11-05,West Midlands,72.48
 2026-11-06,West Midlands,73
+2026-11-07,West Midlands,73.87
+2026-11-08,West Midlands,74.47
+2026-11-09,West Midlands,75.05
+2026-11-10,West Midlands,75.32
+2026-11-11,West Midlands,75.56
+2026-11-12,West Midlands,75.84
+2026-11-13,West Midlands,76.05
 2020-02-01,Yorkshire & the Humber,100
 2020-02-02,Yorkshire & the Humber,100.11
 2020-02-03,Yorkshire & the Humber,100.11
@@ -29651,3 +29728,10 @@ date,region,indeed_job_postings_index
 2026-11-04,Yorkshire & the Humber,71.73
 2026-11-05,Yorkshire & the Humber,71.97
 2026-11-06,Yorkshire & the Humber,72.44
+2026-11-07,Yorkshire & the Humber,73.28
+2026-11-08,Yorkshire & the Humber,73.86
+2026-11-09,Yorkshire & the Humber,74.55
+2026-11-10,Yorkshire & the Humber,74.82
+2026-11-11,Yorkshire & the Humber,75.01
+2026-11-12,Yorkshire & the Humber,75.2
+2026-11-13,Yorkshire & the Humber,75.16

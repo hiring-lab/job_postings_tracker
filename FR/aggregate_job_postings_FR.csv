@@ -194,7 +194,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2020-08-11,FR,70.76,78.02,total postings
 2020-08-12,FR,70.96,77.9,total postings
 2020-08-13,FR,71.26,77.83,total postings
-2020-08-14,FR,71.57,77.81,total postings
+2020-08-14,FR,71.56,77.81,total postings
 2020-08-15,FR,71.81,77.77,total postings
 2020-08-16,FR,72.21,77.8,total postings
 2020-08-17,FR,72.72,77.84,total postings
@@ -229,7 +229,7 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2020-09-15,FR,76.74,81.94,total postings
 2020-09-16,FR,76.76,82.12,total postings
 2020-09-17,FR,76.76,82.31,total postings
-2020-09-18,FR,76.76,82.46,total postings
+2020-09-18,FR,76.76,82.45,total postings
 2020-09-19,FR,76.84,82.69,total postings
 2020-09-20,FR,77.09,82.93,total postings
 2020-09-21,FR,77.28,83.11,total postings
@@ -2470,6 +2470,13 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2026-11-04,FR,88.2,91.16,total postings
 2026-11-05,FR,88.38,91.13,total postings
 2026-11-06,FR,88.63,91.19,total postings
+2026-11-07,FR,89.07,91.51,total postings
+2026-11-08,FR,89.52,91.85,total postings
+2026-11-09,FR,89.92,92.17,total postings
+2026-11-10,FR,90.15,92.45,total postings
+2026-11-11,FR,90.59,92.91,total postings
+2026-11-12,FR,90.75,93.08,total postings
+2026-11-13,FR,90.89,93.22,total postings
 2020-02-01,FR,100,100,new postings
 2020-02-02,FR,99.71,99.45,new postings
 2020-02-03,FR,99.4,99.02,new postings
@@ -2608,10 +2615,10 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2020-06-15,FR,74.73,77.23,new postings
 2020-06-16,FR,75.91,77.95,new postings
 2020-06-17,FR,75.81,78.46,new postings
-2020-06-18,FR,75.05,78.95,new postings
-2020-06-19,FR,73.59,79.08,new postings
+2020-06-18,FR,75.05,78.94,new postings
+2020-06-19,FR,73.59,79.07,new postings
 2020-06-20,FR,72.34,79.23,new postings
-2020-06-21,FR,71.52,79.43,new postings
+2020-06-21,FR,71.52,79.42,new postings
 2020-06-22,FR,70.44,79.6,new postings
 2020-06-23,FR,69.05,79.46,new postings
 2020-06-24,FR,68.16,79.14,new postings
@@ -4941,3 +4948,10 @@ date,jobcountry,indeed_job_postings_index_SA,indeed_job_postings_index_NSA,varia
 2026-11-04,FR,85.44,74.86,new postings
 2026-11-05,FR,87.92,75.61,new postings
 2026-11-06,FR,90.75,77.1,new postings
+2026-11-07,FR,94.44,79.63,new postings
+2026-11-08,FR,97.31,82.26,new postings
+2026-11-09,FR,98.95,84.71,new postings
+2026-11-10,FR,99.13,86.39,new postings
+2026-11-11,FR,99.37,87.77,new postings
+2026-11-12,FR,97.3,86.67,new postings
+2026-11-13,FR,94.74,84.92,new postings
